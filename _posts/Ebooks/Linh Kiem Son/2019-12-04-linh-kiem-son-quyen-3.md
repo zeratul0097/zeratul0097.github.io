@@ -1,53 +1,55 @@
 ---
 layout: post
 title: Linh Kiếm Sơn - Quyển 3
-date: 2019-12-04 12:26:58.425037+07:00
+date: 2019-12-04 14:39:09.300928+07:00
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 # Mục lục
-- [Chương 1](#chuong-1)
-- [Chương 2](#chuong-2)
-- [Chương 3](#chuong-3)
-- [Chương 4](#chuong-4)
-- [Chương 5](#chuong-5)
-- [Chương 6](#chuong-6)
-- [Chương 7](#chuong-7)
-- [Chương 8](#chuong-8)
-- [Chương 9](#chuong-9)
-- [Chương 10](#chuong-10)
-- [Chương 11](#chuong-11)
-- [Chương 12](#chuong-12)
-- [Chương 13](#chuong-13)
-- [Chương 14](#chuong-14)
-- [Chương 15](#chuong-15)
-- [Chương 16](#chuong-16)
-- [Chương 17](#chuong-17)
-- [Chương 18](#chuong-18)
-- [Chương 19](#chuong-19)
-- [Chương 20](#chuong-20)
-- [Chương 21](#chuong-21)
-- [Chương 22](#chuong-22)
-- [Chương 23](#chuong-23)
-- [Chương 24](#chuong-24)
-- [Chương 25](#chuong-25)
-- [Chương 26](#chuong-26)
-- [Chương 27](#chuong-27)
-- [Chương 28](#chuong-28)
-- [Chương 29](#chuong-29)
-- [Chương 30](#chuong-30)
-- [Chương 31](#chuong-31)
-- [Chương 32](#chuong-32)
-- [Chương 33](#chuong-33)
-- [Chương 34](#chuong-34)
-- [Chương 35](#chuong-35)
-- [Chương 36](#chuong-36)
-- [Chương 37](#chuong-37)
-- [Chương 38](#chuong-38)
-- [Chương 39](#chuong-39)
-- [Chương 40](#chuong-40)
+- [Chương 1: Nhà ta tên Béo không thể như vậy sẽ nhổ nước bọt](#chuong-1)
+- [Chương 2: Như ý đằng thập bát mô dưa](#chuong-2)
+- [Chương 3: Vương Lục vừa vào Vũ Hầu huyện Văn Bảo sơ thí mây mưa tình](#chuong-3)
+- [Chương 4: Nhà ta Tiểu Linh nhi mới không có đáng yêu như thế](#chuong-4)
+- [Chương 5: Ngươi nhất định phải chết! Thiên Thượng Thiên Hạ không có ai cứu được ngươi](#chuong-5)
+- [Chương 6: Các ngươi những này biến thái toàn bộ đều phải chết!](#chuong-6)
+- [Chương 7: Các ngươi những này gay tất cả đều phải chết!](#chuong-7)
+- [Chương 8: Vương Lục làm ra một cái chật vật quyết định](#chuong-8)
+- [Chương 9: Đây là một đáng giá kỷ niệm lịch sử thời khắc!](#chuong-9)
+- [Chương 10: Trí cục thuế đoàn văn công đồng chí an ủi diễn xuất](#chuong-10)
+- [Chương 11: Lại thăng thiên á! ! !](#chuong-11)
+- [Chương 12: Học phách thế giới ngươi lý giải không được](#chuong-12)
+- [Chương 13: Nhiệt liệt hoan nghênh trí cục thuế phá dỡ làm lãnh đạo đến](#chuong-13)
+- [Chương 14: Pháp đàn không phải một ngày xây thành](#chuong-14)
+- [Chương 15: Trăm vạn Hỗn Độn đàn](#chuong-15)
+- [Chương 16: Trăm vạn người mở đường](#chuong-16)
+- [Chương 17: Muốn phát huy đầy đủ sức lao động thành phẩm rẻ tiền ưu thế](#chuong-17)
+- [Chương 18: Một cái tiểu Trúc cơ nha đi tới Vương gia thôn nha](#chuong-18)
+- [Chương 19: Hắc thủ Thánh Nữ](#chuong-19)
+- [Chương 20: Chuyên nghiệp cấp tiền kỳ phản quấy rầy](#chuong-20)
+- [Chương 21: Biết ta tội ta duy xuân thu](#chuong-21)
+- [Chương 22: Ta không phải ngươi nghĩ loại người như vậy](#chuong-22)
+- [Chương 23: Đường đường chính chính cùng ngươi một mình đấu](#chuong-23)
+- [Chương 24: Chúc mừng ngươi bò đến trước mặt của ta](#chuong-24)
+- [Chương 25: Chiêu số giống vậy đối với ta là không có](#chuong-25)
+- [Chương 26: Cho thần hào quỳ ba](#chuong-26)
+- [Chương 27: Cho ngươi một ngày từ từ suy nghĩ](#chuong-27)
+- [Chương 28: Ngoại giao hình Văn Bảo](#chuong-28)
+- [Chương 29: Trời giết X hai đời!](#chuong-29)
+- [Chương 30: Hôm nay ta liền tới hoành đao đoạt ái!](#chuong-30)
+- [Chương 31: Quả nhiên Giác Tỉnh hình nhất định là sống không lâu](#chuong-31)
+- [Chương 32: Tránh ra để chuyên nghiệp đến!](#chuong-32)
+- [Chương 33: Nếu như âm mưu bị người nhìn thấu nên làm gì](#chuong-33)
+- [Chương 34: Nghe nói ngươi muốn đâm thọc?](#chuong-34)
+- [Chương 35: Nói chuyện có thể còn giữ lời?](#chuong-35)
+- [Chương 36: Tên béo đáng chết vui quá hóa buồn](#chuong-36)
+- [Chương 37: Đệ tử cả gan xin mời sư bá ban kiếm](#chuong-37)
+- [Chương 38: Vấn tâm chi kiếm](#chuong-38)
+- [Chương 39: Không thẹn với lương tâm](#chuong-39)
+- [Chương 40: Đường đường chính chính](#chuong-40)
+- [Chương 41: Vạn Tiên Minh thành viên là như thế nào luyện thành](#chuong-41)
 
-# Chương 1 : Nhà ta tên Béo không thể như vậy sẽ nhổ nước bọt {#chuong-1}
+---
+# Chương 1: Nhà ta tên Béo không thể như vậy sẽ nhổ nước bọt {#chuong-1}
 Chương 1:: Nhà ta tên Béo không thể như vậy sẽ nhổ nước bọt
 
 
@@ -224,7 +226,7 @@ Vì lẽ đó hắn phi thường may mắn không nghe thấy trong khách s�
 "Ngươi... Được rồi được rồi, ta đáp ứng là được rồi! Được rồi, đừng thắp hương cho ta rồi!"
 
 
-# Chương 2 : Như ý đằng thập bát mô dưa {#chuong-2}
+# Chương 2: Như ý đằng thập bát mô dưa {#chuong-2}
 Chương 2:: Như ý đằng thập bát mô dưa
 
 Chương trước phản trở về mục lục chương sau trở về trang sách
@@ -438,7 +440,7 @@ Bị bà chủ lạnh lẽo như sắt thép giống như ánh mắt trừng m�
 Vì lẽ đó, hiện nay trước tiên cứ đi được tới đâu hay tới đó đi, như hắn thật sự làm ra thái quá chuyện đến, chẳng qua một quyền đánh ngất hắn, trực tiếp đóng gói khiêng về Linh Kiếm Sơn.
 
 
-# Chương 3 : Vương Lục vừa vào Vũ Hầu huyện Văn Bảo sơ thí mây mưa tình {#chuong-3}
+# Chương 3: Vương Lục vừa vào Vũ Hầu huyện Văn Bảo sơ thí mây mưa tình {#chuong-3}
 Chương 3:: Vương Lục vừa vào Vũ Hầu huyện, Văn Bảo sơ thí mây mưa tình
 
 
@@ -611,7 +613,7 @@ Vương Lục cau mày: "Ngươi người này tư tưởng thực sự là xấ
 Nói còn chưa dứt lời, đã bị một đòn tình bạn tươi tỉnh trở lại quyền đánh bay ra ngoài.
 
 
-# Chương 4 : Nhà ta Tiểu Linh nhi mới không có đáng yêu như thế {#chuong-4}
+# Chương 4: Nhà ta Tiểu Linh nhi mới không có đáng yêu như thế {#chuong-4}
 Chương 4:: Nhà ta Tiểu Linh nhi mới không có đáng yêu như thế
 
 
@@ -788,7 +790,7 @@ Vương Lục tinh thần chấn động, liền vội vàng nói: "Kế hoạch
 "Hừm, kỳ thực ta cũng cảm thấy như vậy..."
 
 
-# Chương 5 : Ngươi nhất định phải chết! Thiên Thượng Thiên Hạ không có ai cứu được ngươi {#chuong-5}
+# Chương 5: Ngươi nhất định phải chết! Thiên Thượng Thiên Hạ không có ai cứu được ngươi {#chuong-5}
 Chương 5:: Ngươi nhất định phải chết! Thiên Thượng Thiên Hạ không có ai cứu được ngươi
 
 
@@ -993,7 +995,7 @@ Tiểu Linh nhi chỉ cảm thấy Thiên Lôi đánh tung, mắt tối sầm l�
 Sau đó thì cái gì cũng không biết.
 
 
-# Chương 6 : Các ngươi những này biến thái toàn bộ đều phải chết! {#chuong-6}
+# Chương 6: Các ngươi những này biến thái toàn bộ đều phải chết! {#chuong-6}
 Chương 6:: Các ngươi những này biến thái toàn bộ đều phải chết!
 
 Khi (làm) Tiểu Linh nhi khôi phục khi tỉnh táo, phát hiện mình đã đứng ở biệt viện bên ngoài tường viện rồi, trên người nhưng ăn mặc bộ kia tinh xảo quần dài, tắm rửa xong hơi nước đều chưa hề hoàn toàn tản đi, chỉ là. . . Dựa lưng vào tà dương, trước mắt bỏ ra dài nhỏ bóng người, có vẻ là như vậy cô quạnh bi thương.
@@ -1219,7 +1221,7 @@ Cũng trong lúc đó, ở phụ cận một cái nào đó u ám góc, toàn b�
 "Các ngươi những này biến thái. . . Tất cả đều phải chết!"
 
 
-# Chương 7 : Các ngươi những này gay tất cả đều phải chết! {#chuong-7}
+# Chương 7: Các ngươi những này gay tất cả đều phải chết! {#chuong-7}
 Chương 7:: Các ngươi những này gay tất cả đều phải chết!
 
 
@@ -1328,7 +1330,7 @@ Sau não nơi, một cái mạnh mẽ đòn nghiêm trọng, không trở ngạ
 Trước mắt đen kịt một màu, ngất đi.
 
 
-# Chương 8 : Vương Lục làm ra một cái chật vật quyết định {#chuong-8}
+# Chương 8: Vương Lục làm ra một cái chật vật quyết định {#chuong-8}
 Chương 8:: Vương Lục làm ra một cái chật vật quyết định
 
 
@@ -1537,7 +1539,7 @@ Vương Lục đưa tay chỉ chính mình: "Chuyên nghiệp người mạo hi�
 "Giời ạ... Không thể nào! ?"
 
 
-# Chương 9 : Đây là một đáng giá kỷ niệm lịch sử thời khắc! {#chuong-9}
+# Chương 9: Đây là một đáng giá kỷ niệm lịch sử thời khắc! {#chuong-9}
 Chương 9:: Đây là một đáng giá kỷ niệm lịch sử thời khắc!
 
 
@@ -1714,7 +1716,7 @@ Bất quá vậy thì như thế nào? Sương mù tơ bông đối với tiền
 Như vậy như vậy, Cửu Châu thông minh thuế vụ cục quản lý kết cấu liền cơ bản thành hình.
 
 
-# Chương 10 : Trí cục thuế đoàn văn công đồng chí an ủi diễn xuất {#chuong-10}
+# Chương 10: Trí cục thuế đoàn văn công đồng chí an ủi diễn xuất {#chuong-10}
 Chương 10:: Trí cục thuế đoàn văn công đồng chí an ủi diễn xuất
 
 Cửu Châu thông minh thuế vụ quản lý tổng cục thành lập không lâu sau, lần thứ nhất ban lãnh đạo tổng cộng năm người liền suốt đêm rời khỏi Vũ Hầu huyện.
@@ -1986,7 +1988,7 @@ Lão dâm côn cùng sương mù tơ bông đại nạn không chết, mang theo
 "Tham kiến Thánh Nữ đại nhân!"
 
 
-# Chương 11 : Lại thăng thiên á! ! ! {#chuong-11}
+# Chương 11: Lại thăng thiên á! ! ! {#chuong-11}
 Chương 11:: Lại thăng thiên á! ! !
 
 
@@ -2155,7 +2157,7 @@ Lão dâm côn nhất thời ngạc nhiên: Thánh Nữ đại nhân ngươi là
 Bất quá, lão dâm côn không hổ là trước chuyên nghiệp lừa dối đội cao tầng, trường thi phản ứng cực nhanh: "Có Thánh Nữ đại nhân cho phép, nói vậy có thể làm ít mà hiệu quả nhiều... Ta cùng tơ bông liền đi trước chuẩn bị vật liệu, quá hai ngày liền tới nơi này thiết lập pháp đàn!"
 
 
-# Chương 12 : Học phách thế giới ngươi lý giải không được {#chuong-12}
+# Chương 12: Học phách thế giới ngươi lý giải không được {#chuong-12}
 Chương 12:: Học phách thế giới ngươi lý giải không được
 
 
@@ -2322,7 +2324,7 @@ Thánh Nữ đại nhân cũng kinh ngạc vạn phần —— Vô Tương Phon
 "Này năm trăm linh thạch ngươi cầm cẩn thận, trong vòng hai ngày đem vật liệu chuẩn bị đầy đủ, sau đó chúng ta ngay khi Vương gia thôn thiết lập pháp đàn, hắc, dầu gì cũng là trí cục thuế tổng bộ, chúng ta kinh doanh đẹp đẽ một điểm."
 
 
-# Chương 13 : Nhiệt liệt hoan nghênh trí cục thuế phá dỡ làm lãnh đạo đến {#chuong-13}
+# Chương 13: Nhiệt liệt hoan nghênh trí cục thuế phá dỡ làm lãnh đạo đến {#chuong-13}
 Chương 13:: Nhiệt liệt hoan nghênh trí cục thuế phá dỡ làm lãnh đạo đến
 
 Hai ngày sau, lão dâm côn Hà Quân cùng Vụ Phi Hoa vội vã chạy về Cẩu Nhĩ núi, sắc mặt đều cực không dễ nhìn.
@@ -2448,7 +2450,7 @@ Vương Lục bây giờ Nguyên Thần căn bản là hư đến rối tinh r�
 Bên trong trong phủ, Hoàng cốt rung động, 206 rễ : cái ngọc trụ cùng nhau hít một hơi.
 
 
-# Chương 14 : Pháp đàn không phải một ngày xây thành {#chuong-14}
+# Chương 14: Pháp đàn không phải một ngày xây thành {#chuong-14}
 Chương 14:: Pháp đàn không phải một ngày xây thành
 
 
@@ -2587,7 +2589,7 @@ Vương Lục mím chặt môi, giữ vững được chốc lát, trong lòng l
 Cút mẹ mày đi, Lão Tử mặc kệ!
 
 
-# Chương 15 : Trăm vạn Hỗn Độn đàn {#chuong-15}
+# Chương 15: Trăm vạn Hỗn Độn đàn {#chuong-15}
 Chương 15:: Trăm vạn Hỗn Độn đàn
 
 
@@ -2704,7 +2706,7 @@ Xa xa mắt thấy cảnh nầy vô tri thôn dân, nhất thời dồn dập qu
 Ẩn hình bên trong Vương Lục cười lạnh một tiếng: Bái đi, bái mười một liền sáu chấn động đại thần, các ngươi đã lạy không lỗ! Các ngươi thông minh có hạn, cố gắng hấp hấp nhân phẩm, hay là còn có được cứu trợ!
 
 
-# Chương 16 : Trăm vạn người mở đường {#chuong-16}
+# Chương 16: Trăm vạn người mở đường {#chuong-16}
 Chương 16:: Trăm vạn người mở đường
 
 
@@ -2869,7 +2871,7 @@ Vương Lục cười nói: "Vì sao các ngươi không chịu đi làm ngườ
 "Không nỗ lực không tu đi, liền vĩnh viễn không được, bất luận cái nào thế giới thăng hoa con đường, đều là ngàn tỉ phàm nhân từng bước từng bước đi ra. Người quý báu nhất đồ vật là sinh mệnh, sinh mệnh đối với người mà nói chỉ có một lần, bởi vậy, người cả đời phải làm như vậy vượt qua: Khi (làm) một người nhìn lại chuyện cũ lúc, không bởi vì sống uổng niên hoa mà hối hận, cũng không bởi vì tầm thường vô vi mà xấu hổ; như vậy, ở hắn lúc sắp chết, có thể nói, ta đem toàn bộ sinh mệnh cùng toàn bộ tinh lực đều hiến tặng cho nhân sinh quý báu nhất sự nghiệp —— vì là thế giới thăng hoa mà phấn đấu."
 
 
-# Chương 17 : Muốn phát huy đầy đủ sức lao động thành phẩm rẻ tiền ưu thế {#chuong-17}
+# Chương 17: Muốn phát huy đầy đủ sức lao động thành phẩm rẻ tiền ưu thế {#chuong-17}
 Chương 17:: Muốn phát huy đầy đủ sức lao động thành phẩm rẻ tiền ưu thế
 
 Tiếng nói kết thúc, dưới đài một mảnh nghiêm nghị, trầm mặc kéo dài cực kỳ lâu.
@@ -3005,7 +3007,7 @@ Lão dâm côn trong lòng tự nhủ ta nếu là có ngài hào vận, làm sa
 Giáo chủ Vương Lục nụ cười chuyển sang lạnh lẽo, "Đại khái một ít người cũng nên đã tìm tới cửa."
 
 
-# Chương 18 : Một cái tiểu Trúc cơ nha đi tới Vương gia thôn nha {#chuong-18}
+# Chương 18: Một cái tiểu Trúc cơ nha đi tới Vương gia thôn nha {#chuong-18}
 Chương 18:: Một cái tiểu Trúc cơ nha, đi tới Vương gia thôn nha. . .
 
 Thương Khê châu Đại Minh Quốc chủ nhà phủ, một chỗ núi hoang trên đỉnh ngọn núi, Thất Tinh môn hội nghị cấp cao lặng yên tiến hành.
@@ -3135,7 +3137,7 @@ Ngay khi Tạ Trì khởi động suy nghĩ, nỗ lực tìm kiếm đầu mối
 "Xin chào, ta là Cửu Châu trí cục thuế cục trưởng, trí dạy dỗ chủ, hoan nghênh ngươi đi vào chúng ta cái này mới thành lập không lâu đại gia đình, tiếp đó, liền để cho chúng ta đồng thời vì là gom góp thật quản lý tốt Cửu Châu trí thuế mà nỗ lực công tác đi!"
 
 
-# Chương 19 : Hắc thủ Thánh Nữ {#chuong-19}
+# Chương 19: Hắc thủ Thánh Nữ {#chuong-19}
 Quyển thứ nhất Thăng Tiên đại hội Chương 19:: Hắc thủ Thánh Nữ
 
 
@@ -3250,7 +3252,7 @@ Cũng còn tốt, đáp án rất nhanh sẽ bị công bố, khi (làm) các tr
 "Vạn Tiên Minh... Trần duyên đường người, đã tìm tới cửa."
 
 
-# Chương 20 : Chuyên nghiệp cấp tiền kỳ phản quấy rầy {#chuong-20}
+# Chương 20: Chuyên nghiệp cấp tiền kỳ phản quấy rầy {#chuong-20}
 Chương 20:: Chuyên nghiệp cấp tiền kỳ phản quấy rầy
 
 "Trần Duyên Đường?"
@@ -3346,7 +3348,7 @@ Trong đó bí quyết nói đến kỳ thực cũng đơn giản.
 Kiền Nguyên Nhiên Huyết Công.
 
 
-# Chương 21 : Biết ta tội ta duy xuân thu {#chuong-21}
+# Chương 21: Biết ta tội ta duy xuân thu {#chuong-21}
 Chương 21:: Biết ta tội ta, duy xuân thu
 
 
@@ -3439,7 +3441,7 @@ Hai ngày sau, Thất Tinh môn chưởng môn định ngày hẹn Tạ Trì, đ
 Nhưng mà gặp mặt sau, Tạ Trì chỉ là cười khổ: "Chưởng môn... Ta thành tâm khuyên ngươi một câu, trở về đi thôi, đây không phải ngươi có thể ứng phó có được đối thủ."
 
 
-# Chương 22 : Ta không phải ngươi nghĩ loại người như vậy {#chuong-22}
+# Chương 22: Ta không phải ngươi nghĩ loại người như vậy {#chuong-22}
 Chương 22:: Ta không phải ngươi nghĩ loại người như vậy
 
 
@@ -3554,7 +3556,7 @@ Sau đó sao... Chưởng môn khóe miệng hơi nhất câu, nhưng còn khôn
 "Sách, phiền phức chết rồi, các ngươi thật đúng là nét mực ah."
 
 
-# Chương 23 : Đường đường chính chính cùng ngươi một mình đấu {#chuong-23}
+# Chương 23: Đường đường chính chính cùng ngươi một mình đấu {#chuong-23}
 Chương 23:: Đường đường chính chính cùng ngươi một mình đấu
 
 "Các ngươi thật đúng là nét mực ah."
@@ -3700,7 +3702,7 @@ Nhưng mà chưởng môn phép khích tướng, hời hợt đã bị người 
 Bà mẹ nó, ngươi muốn mặt không muốn?
 
 
-# Chương 24 : Chúc mừng ngươi bò đến trước mặt của ta {#chuong-24}
+# Chương 24: Chúc mừng ngươi bò đến trước mặt của ta {#chuong-24}
 Chương 24:: Chúc mừng ngươi bò đến trước mặt của ta
 
 "Chỉ cần ngươi có thể bò đến trước mặt của ta, liền cho ngươi một lần cơ hội khiêu chiến ta."
@@ -3828,7 +3830,7 @@ Nguyên Thần đảo qua, bốn phía tất cả đều là một mảnh kêu r
 "Chúc mừng ngươi, rốt cục bò đến trước mặt của ta rồi."
 
 
-# Chương 25 : Chiêu số giống vậy đối với ta là không có {#chuong-25}
+# Chương 25: Chiêu số giống vậy đối với ta là không có {#chuong-25}
 Chương 25:: Chiêu số giống vậy đối với ta là không có. . .
 
 "Chúc mừng ngươi rốt cục bò đến trước mặt của ta, bất quá, hiện tại ngươi còn có lòng thanh thản cùng ta một mình đấu sao?"
@@ -3936,7 +3938,7 @@ Mà nhưng vào lúc này, thanh âm quen thuộc ở sau gáy truyền đến.
 Theo một cái đòn nghiêm trọng, Thất Tinh chưởng môn mắt tối sầm lại, cái gì cũng không biết.
 
 
-# Chương 26 : Cho thần hào quỳ ba {#chuong-26}
+# Chương 26: Cho thần hào quỳ ba {#chuong-26}
 Chương 26:: Cho thần hào quỳ ba
 
 "Há, tỉnh chưa? Quả nhiên là nhóm người này bên trong tố chất tốt nhất."
@@ -4052,7 +4054,7 @@ Vương Lục cũng không phủ nhận, một bên dẫn hướng về trong th
 Đang khi nói chuyện, Vương Lục xoay người lại, trên mặt mang nụ cười giễu cợt: "Không nhìn lầm, ngươi nên cũng luyện qua Nhiên Huyết Công, hiệu quả làm sao, chính ngươi không rõ ràng sao?"
 
 
-# Chương 27 : Cho ngươi một ngày từ từ suy nghĩ {#chuong-27}
+# Chương 27: Cho ngươi một ngày từ từ suy nghĩ {#chuong-27}
 Chương 27:: Cho ngươi một ngày, từ từ suy nghĩ
 
 Thất Tinh chưởng môn xác thực luyện qua Kiền Nguyên Nhiên Huyết Công.
@@ -4166,7 +4168,7 @@ Thất Tinh chưởng môn đã trầm mặc rất lâu.
 "Được a, ngày hôm qua cho ngươi, hiện tại có thể cho ta trả lời chắc chắn sao."
 
 
-# Chương 28 : Ngoại giao hình Văn Bảo {#chuong-28}
+# Chương 28: Ngoại giao hình Văn Bảo {#chuong-28}
 Chương 28:: Ngoại giao hình Văn Bảo
 
 Vương Lục cũng chưa cho đối phương suy tính thời gian cùng cơ hội lựa chọn.
@@ -4286,7 +4288,7 @@ Sau đó (ván) cục toà đại nhân liền một cước đem đời mới n
 Bước lên từ từ hành trình Văn Bảo, chỉ cảm giác lại bị Khang Đa rồi.
 
 
-# Chương 29 : Trời giết X hai đời! {#chuong-29}
+# Chương 29: Trời giết X hai đời! {#chuong-29}
 Chương 29:: Trời giết X hai đời!
 
 Từ khi hơn tám tháng trước, Văn Bảo bị Vương Lục từ linh suối trấn đã lừa gạt đến, chính là một cái hố cha tiếp theo một cái hố cha, tỷ như mới bắt đầu giáo phái mới vừa thành lập thời điểm, liền lão dâm côn cấp độ kia vô dụng đều bị phân ra một cái trí cục thuế cục phó danh hiệu, một mực hắn cũng chỉ có thể làm một gã quang vinh trí cục thuế công nhân, tục xưng lực sĩ, sau đó từ sáng đến tối phụ trách ở các nơi đào hầm cất phòng. Sau đó Trí Giáo quy mô mở rộng, hắn lại lắc mình biến hóa đã trở thành xây dựng cơ bản xử xử trưởng, nhưng phụ trách công việc vẫn là như thế, đào hầm cất phòng, xây dựng rầm rộ.
@@ -4402,7 +4404,7 @@ Mà lúc này hai người kia cũng đến gần lại đây, tiếng nói chu
 "Hừm, đa tạ Chu Tần sư huynh vì ta liên hệ nơi này, không phải vậy ta thật không biết phải làm gì cho đúng."
 
 
-# Chương 30 : Hôm nay ta liền tới hoành đao đoạt ái! {#chuong-30}
+# Chương 30: Hôm nay ta liền tới hoành đao đoạt ái! {#chuong-30}
 Chương 30:: Hôm nay ta liền tới hoành đao đoạt ái!
 
 
@@ -4571,7 +4573,7 @@ Nghĩ đến đây, Chu Tần nụ cười liền dần dần chuyển sang lạ
 Văn Bảo cũng là cười gằn: Ngu ngốc, chưa từng thấy Giác Tỉnh hình Văn Bảo ba
 
 
-# Chương 31 : Quả nhiên Giác Tỉnh hình nhất định là sống không lâu {#chuong-31}
+# Chương 31: Quả nhiên Giác Tỉnh hình nhất định là sống không lâu {#chuong-31}
 Chương 31:: Quả nhiên Giác Tỉnh hình nhất định là sống không lâu...
 
 
@@ -4702,7 +4704,7 @@ Tên Béo dùng hết khí lực toàn thân, ở khóe miệng cố nặn ra v�
 Sư huynh, cứu ta
 
 
-# Chương 32 : Tránh ra để chuyên nghiệp đến! {#chuong-32}
+# Chương 32: Tránh ra để chuyên nghiệp đến! {#chuong-32}
 Chương 32:: Tránh ra để chuyên nghiệp đến!
 
 Chương trước phản trở về mục lục chương sau trở về trang sách
@@ -4870,7 +4872,7 @@ Ai biết Nhạc Hinh Dao nhưng khinh khẽ cười nói: "Ta cảm thấy sư 
 Nhạc Hinh Dao nghiêm túc lắc lắc đầu, dùng chính mình trong suốt ôn hòa ánh mắt nhìn đối diện: "Sẽ không, hắn đã nói, hắn yêu thích ta."
 
 
-# Chương 33 : Nếu như âm mưu bị người nhìn thấu nên làm gì {#chuong-33}
+# Chương 33: Nếu như âm mưu bị người nhìn thấu nên làm gì {#chuong-33}
 Chương 33:: Nếu như âm mưu bị người nhìn thấu nên làm gì
 
 
@@ -5021,7 +5023,7 @@ Văn Bảo hỏi: "Nếu như nàng đã hỏi tới ta không hiểu vấn đ�
 "Được rồi, đứa ngốc giáo trình chấm dứt ở đây, ngươi đi quyết định Na Thiên hộ, ta cùng nhạc sư muội cùng đi quyết định Chu Tần, thời gian cấp bách, này tựu xuất phát ba "
 
 
-# Chương 34 : Nghe nói ngươi muốn đâm thọc? {#chuong-34}
+# Chương 34: Nghe nói ngươi muốn đâm thọc? {#chuong-34}
 Chương 34:: Nghe nói ngươi muốn đâm thọc?
 
 
@@ -5182,7 +5184,7 @@ Sau đó quay đầu đối với Nhạc Hinh Dao nói rằng: "Kết thúc côn
 ... Nhìn Vương Lục cùng Nhạc Hinh Dao đi xa bóng lưng, đứng ở Hoàng cửa thành, Chu Tần chỉ cảm thấy sau lưng thổi tới phong cách ở ngoài thê lương.
 
 
-# Chương 35 : Nói chuyện có thể còn giữ lời? {#chuong-35}
+# Chương 35: Nói chuyện có thể còn giữ lời? {#chuong-35}
 Chương 35:: Nói chuyện có thể còn giữ lời?
 
 
@@ -5327,7 +5329,7 @@ Nói xong, nữ tử đứng thẳng người lên: "Tiễn khách đi."
 Liền tự có mấy tên hạ nhân vào được nội đường, đem Văn Bảo cùng hai tên trợ thủ mời đi ra ngoài. Trước khi ra cửa, Văn Bảo quay đầu lại nhìn nữ tử yểu điệu bóng lưng, trong lòng thất vọng mất mác.
 
 
-# Chương 36 : Tên béo đáng chết vui quá hóa buồn {#chuong-36}
+# Chương 36: Tên béo đáng chết vui quá hóa buồn {#chuong-36}
 Chương 36:: Tên béo đáng chết vui quá hóa buồn
 
 
@@ -5410,7 +5412,7 @@ Sau một khắc, một cái âm thanh uy nghiêm ở hắn Nguyên Thần bên 
 Cái thanh âm này thực sự quá quen thuộc, bao nhiêu lần trong ác mộng, thanh âm này đều là làm chủ giác lên sàn, Văn Bảo lúc này cảm giác ngực khó chịu: "Tam sư thúc... ?"
 
 
-# Chương 37 : Đệ tử cả gan xin mời sư bá ban kiếm {#chuong-37}
+# Chương 37: Đệ tử cả gan xin mời sư bá ban kiếm {#chuong-37}
 Chương 37:: Đệ tử cả gan xin mời sư bá ban kiếm
 
 Văn Bảo ở Linh Kiếm Phái thuộc về đệ tử nội môn, ở Phiêu Miểu phong Nhị trưởng lão Lưu Hiển môn hạ, hắn Tam sư thúc, tự nhiên là môn phái Tam trưởng lão, Chưởng hình trưởng lão Phương Hạc. Mà dùng Vương Lục lại nói, chính là bí thư Kỷ ủy.
@@ -5548,7 +5550,7 @@ Vương Lục cười một tiếng: "Có phải là mất lý trí nói bốc n
 Một lời ra, cả phòng phải sợ hãi
 
 
-# Chương 38 : Vấn tâm chi kiếm {#chuong-38}
+# Chương 38: Vấn tâm chi kiếm {#chuong-38}
 Chương 38:: Vấn tâm chi kiếm
 
 "Ngươi muốn ta ban thưởng ngươi gì kiếm?" Lưu Hiển sắc mặt nghiêm nghị, trầm giọng mà hỏi.
@@ -5708,7 +5710,7 @@ Mà ở tiếng nói phun ra trước đây, quần sơn rít gào, phong vân b
 Vương Lục dĩ nhiên tiên hạ thủ vi cường
 
 
-# Chương 39 : Không thẹn với lương tâm {#chuong-39}
+# Chương 39: Không thẹn với lương tâm {#chuong-39}
 Chương 39:: Không thẹn với lương tâm
 
 "Thật là can đảm "
@@ -5918,7 +5920,7 @@ Mà đột nhiên mất đi áp bức, Vương Lục cũng là cả kinh, lập 
 "Sư bá, đệ tử. . . Không thẹn với lương tâm "
 
 
-# Chương 40 : Đường đường chính chính {#chuong-40}
+# Chương 40: Đường đường chính chính {#chuong-40}
 Chương 40:: Đường đường chính chính
 
 Lại một lần nữa cùng Lưu Hiển, Phương Hạc nói chuyện, đã là đại nửa ngày trời sau rồi.
@@ -6044,7 +6046,7 @@ Trí Giáo
 Vạn Tiên Minh gia nhập liên minh thành viên
 
 
-# Chương 42 : Vạn Tiên Minh thành viên là như thế nào luyện thành {#chuong-41}
+# Chương 41: Vạn Tiên Minh thành viên là như thế nào luyện thành {#chuong-41}
 Chương 42:: Vạn Tiên Minh thành viên là như thế nào luyện thành
 
 Màu vàng Phù Ấn , khiến cho hai vị Nguyên Anh trưởng lão lâm vào cực lớn khiếp sợ.

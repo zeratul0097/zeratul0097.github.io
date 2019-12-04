@@ -1,41 +1,43 @@
 ---
 layout: post
 title: Linh Kiếm Sơn - Quyển 1
-date: 2019-12-04 12:26:58.425037+07:00
+date: 2019-12-04 14:39:09.300928+07:00
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 # Mục lục
-- [Chương 1](#chuong-1)
-- [Chương 2](#chuong-2)
-- [Chương 3](#chuong-3)
-- [Chương 4](#chuong-4)
-- [Chương 5](#chuong-5)
-- [Chương 6](#chuong-6)
-- [Chương 7](#chuong-7)
-- [Chương 8](#chuong-8)
-- [Chương 9](#chuong-9)
-- [Chương 10](#chuong-10)
-- [Chương 11](#chuong-11)
-- [Chương 12](#chuong-12)
-- [Chương 13](#chuong-13)
-- [Chương 14](#chuong-14)
-- [Chương 15](#chuong-15)
-- [Chương 16](#chuong-16)
-- [Chương 17](#chuong-17)
-- [Chương 18](#chuong-18)
-- [Chương 19](#chuong-19)
-- [Chương 20](#chuong-20)
-- [Chương 21](#chuong-21)
-- [Chương 22](#chuong-22)
-- [Chương 23](#chuong-23)
-- [Chương 24](#chuong-24)
-- [Chương 25](#chuong-25)
-- [Chương 26](#chuong-26)
-- [Chương 27](#chuong-27)
-- [Chương 28](#chuong-28)
+- [Chương 1: Khách sạn phòng chứa củi ấm áp như xuân](#chuong-1)
+- [Chương 2: Thổ đặc sản Đến từ quê hương](#chuong-2)
+- [Chương 3: Linh căn của ta lớn như cây củ cải](#chuong-3)
+- [Chương 4: Bà chủ củ cải](#chuong-4)
+- [Chương 5: Sư đệ nghịch tập](#chuong-5)
+- [Chương 6: Tiểu Hải ngược lại](#chuong-6)
+- [Chương 7: Đệ tử như vậy mới không nên](#chuong-7)
+- [Chương 8: Sư đệ ngươi là hiểu rõ ta](#chuong-8)
+- [Chương 9: Đệ tử ưu tú Đức Trí Thể phát triển toàn diện](#chuong-9)
+- [Chương 10: Có tin hay không lão tử báo cáo ngươi?](#chuong-10)
+- [Chương 11: Chơi hỏng rồi cũng không đau lòng a](#chuong-11)
+- [Chương 12: Kiền nãi nãi cùng Kiền nãi nãi số hai ở giữa chốn Tu La](#chuong-12)
+- [Chương 13: Gia đình tranh cãi giải quyết tốt đẹp pháp](#chuong-13)
+- [Chương 14: Có chí thiếu niên nhẫn nhũ phụ trọng](#chuong-14)
+- [Chương 15: Con gái cùng người bỏ trốn ngốc · bức cha](#chuong-15)
+- [Chương 16: Kim bài Đại Luyện hỏa tiễn một làn sóng lưu](#chuong-16)
+- [Chương 17: Luận giáo dục bắt buộc tầm quan trọng](#chuong-17)
+- [Chương 18: Sóc đảng thắng lợi!](#chuong-18)
+- [Chương 19: Dũng cảm Tiểu Hải ah nhanh đi sáng tạo kỳ tích](#chuong-19)
+- [Chương 20: Nhiều người sức mạnh lớn](#chuong-20)
+- [Chương 21: Ai nha cmn](#chuong-21)
+- [Chương 22: Cái gì ta tương lai hai mươi năm tiền lương cũng bị mất](#chuong-22)
+- [Chương 23: Thu nhiều ba năm đấu](#chuong-23)
+- [Chương 24: Cho ngươi mở mang cái gì gọi là Tiên Đạo Vô Thường](#chuong-24)
+- [Chương 25: Không nên nhìn không nổi vật sưu tập ah!](#chuong-25)
+- [Chương 26: Ngươi là cố ý a! Ta muốn vạch tội ngươi!](#chuong-26)
+- [Chương 27: Hả hê lòng người!](#chuong-27)
+- [Chương 28: Sư phụ của ta không thể không phải ngu ngốc](#chuong-28)
+- [Chương 29: Càng kiên càng cao càng cứng hơn!](#chuong-29)
 
-# Chương 1 : Khách sạn phòng chứa củi ấm áp như xuân {#chuong-1}
+---
+# Chương 1: Khách sạn phòng chứa củi ấm áp như xuân {#chuong-1}
 Thương Khê Châu địa thế cao vót, sơn mạch liên miên, nhưng mà nếu có người hỏi nơi đây vị trí ngọn núi cao nhất, mọi người đều sẽ không hẹn mà cùng chỉ về một chỗ.
 
 Một toà núi cao đứng vững như kiếm, xuyên phá tầng mây sừng sững ở trên cao nguyên, trong núi có một môn phái tên là Linh Kiếm Phái, là danh môn đại phái ở Tu Tiên giới được kể đến hàng đầu, độc chiếm tài nguyên một châu, ngọn núi này cũng bởi vậy được gọi tên Linh Kiếm Sơn.
@@ -353,7 +355,7 @@ Trong đại sảnh con ông cháu cha ánh mắt hơn người khối người 
 ...
 
 
-# Chương 2 : Thổ đặc sản Đến từ quê hương {#chuong-2}
+# Chương 2: Thổ đặc sản Đến từ quê hương {#chuong-2}
 Biểu diễn của Vương Lục thành công khiến cho hắn thành là tiêu điểm của mọi người, trong lúc nhất thời nghị luận sôi nổi, chưa kết luận được, nhưng đều không ngoại lệ đối với hắn biểu hiện ra kiêng kỵ cực sâu.
 
 Biểu diễn của Vương Lục nếu là đặt ở địa phương, hơn nửa bị người mắng làm bệnh thần kinh, nhưng ở Linh Khê Trấn dưới chân ngọn tiên sơn này, tấm vé cư trú kia liền có vẻ đặc biệt vi diệu.
@@ -531,7 +533,7 @@ Thư đồng liền vội vàng gật đầu: "Thiếu gia ngài nói."
 "Phàm nhân tu tiên, xác thực chỉ có một con đường, nhưng ta lúc nào đã nói ta là phàm nhân ?"
 
 
-# Chương 3 : Linh căn của ta lớn như cây củ cải {#chuong-3}
+# Chương 3: Linh căn của ta lớn như cây củ cải {#chuong-3}
 Tiên phàm thù đồ<con đường tu tiên đặc thù>, đây là Cửu Châu thịnh truyền ngạn ngữ lên tới hàng ngàn, hàng vạn năm, phàm nhân không có Tiên duyên, đối mặt Tiên đạo chỉ có ngước nhìn. Mà phàm nhân tu tiên, đây là sự tình gần ngàn năm đến mới có. Có thể đánh xuyên qua tiên phàm hai đạo ngăn cách, là một ngàn năm trước kỳ tích do người trong Tiên đạo một tay sáng lập.
 
 Cũng chính là lục hòa linh căn đại danh đỉnh đỉnh.
@@ -649,7 +651,7 @@ Mãnh quay đầu lại, phía sau lão Hán nghe được cũng một mặt ki
 "Hắn cho rằng đó là rõ ràng cây cải củ a!"
 
 
-# Chương 4 : Bà chủ củ cải {#chuong-4}
+# Chương 4: Bà chủ củ cải {#chuong-4}
 "Càng là củ cải trắng! ?"
 
 Vương Lục mở to hai mắt, khó mà tin nổi vật trong chén của mình.
@@ -861,7 +863,7 @@ Bà chủ chợt nhớ tới cái gì: "Ồ đúng rồi, cẩn thận tính ra,
 Chỉ chốc lát sau, bà chủ cáo từ rời đi, mà nhìn trên bàn lưu lại một viên miếng đồng cũ nát, Vương Lục không khỏi lâm vào trầm tư.
 
 
-# Chương 5 : Sư đệ nghịch tập {#chuong-5}
+# Chương 5: Sư đệ nghịch tập {#chuong-5}
 Sáu ngày thoáng một cái đã qua, Thăng Tiên Đại Hội gần ngay trước mắt.
 
 Sáu ngày, Linh Khê Trấn phát sinh sự tình quá nhiều to lớn, một cái nào đó sơn dã thiếu niên kỳ ngộ ở khách sạn truyền khắp trấn nhỏ, bà chủ Hoàng Kim cây củ cải cũng danh chấn nhất thời, thiếu niên tuấn kiệt chúng ta đến từ trời nam biển bắc không hẹn mà cùng bắt đầu ở trong trấn tìm kiếm Tiên duyên, mà sáu ngày đã qua, đến tột cùng có bao nhiêu cơ duyên bị khai quật ra, vậy thì như người nước uống ấm lạnh tự biết.
@@ -1001,7 +1003,7 @@ Lúc này, hắn nhưng hoàn toàn không nghĩ tới, bước lên Kim Kiều,
 Con đường tu tiên, bắt nguồn từ dưới chân.
 
 
-# Chương 6 : Tiểu Hải ngược lại {#chuong-6}
+# Chương 6: Tiểu Hải ngược lại {#chuong-6}
 Kim Kiều rộng rãi, đội ngũ hơn ngàn người (loại bỏ đi tùy tùng sau đó) cất bước ở trên Kim Kiều có vẻ thưa thớt, Vương Lục mang theo thư đồng hững hờ đi ở phía sau chuyện trò vui vẻ, toàn căng thẳng tâm tình như người nào khác.
 
 Này ngàn người đội ngũ bình quân tố chất cực cao, hơn nửa đều là Thế tử thân thế hiển hách, nhưng ở Linh Kiếm Sơn dưới chân nhưng hoàn toàn câm như hến, con đường thăng tiên đi được nơm nớp lo sợ, có thể duy trì trấn định liền không dễ dàng, có thể làm được thản nhiên tự đắc liền hiếm như lá mùa thu. Thêm vào một tuần trước Vương Lục mới đến thì biểu hiện kinh diễm, lúc này liền hấp dẫn không ít người chú ý.
@@ -1183,7 +1185,7 @@ Vương Lục há to mồm, nhìn bốn phía đột nhiên biến hóa.
 "... Này, đây là xuyên qua rồi sao?"
 
 
-# Chương 7 : Đệ tử như vậy mới không nên {#chuong-7}
+# Chương 7: Đệ tử như vậy mới không nên {#chuong-7}
 "Chúc mừng hai vị..."
 
 "Ngọa! ? Yêu nghiệt phương nào! ?"
@@ -1407,7 +1409,7 @@ Trắng đen tu sĩ gật gật đầu chính muốn rời khỏi...
 "... Sư phụ?"
 
 
-# Chương 8 : Sư đệ ngươi là hiểu rõ ta {#chuong-8}
+# Chương 8: Sư đệ ngươi là hiểu rõ ta {#chuong-8}
 "Con đường này... Thật là mẹ nó dài a."
 
 Bên trong sơn cốc hẹp dài, chủ tớ hai người đều có chút thở hổn hển.
@@ -1579,7 +1581,7 @@ Phương Hạc liếc mắt nhìn bàn mạc chược bên cạnh ngược lại
 "Ngũ sư muội, ngươi rốt cuộc muốn nháo loại nào a?"
 
 
-# Chương 9 : Đệ tử ưu tú Đức Trí Thể phát triển toàn diện {#chuong-9}
+# Chương 9: Đệ tử ưu tú Đức Trí Thể phát triển toàn diện {#chuong-9}
 "Thiếu gia, phía trước có cái làng!"
 
 Mây mù sau đó, xuất hiện ở trước mắt chủ tớ hai người chính là cái làng không lớn không nhỏ, tiểu thư đồng sửng sốt một chút, nhưng không khỏi lùi lại mấy bước.
@@ -1747,7 +1749,7 @@ Hải Vân Phàm gật gù: "Vậy thì xin nhờ ngươi , thôn này, ta thự
 "Ha ha, chúng ta cả đời chính là bằng hữu ."
 
 
-# Chương 10 : Có tin hay không lão tử báo cáo ngươi? {#chuong-10}
+# Chương 10: Có tin hay không lão tử báo cáo ngươi? {#chuong-10}
 Hải Vân Phàm tiến vào Đào Nguyên Thôn sau đó không lâu, liền xuất hiện nhóm khách thứ ba tới.
 
 Cũng không ngoài dự đoán mọi người, Hải Vân Phàm tuy rằng tư chất xuất chúng, nhưng Thăng Tiên Đại Hội tụ tập chính là thiên hạ anh tài, ngoại trừ Vương Lục ở ngoài, cùng Hải Vân Phàm tư chất người ở gần rất có mấy cái.
@@ -1927,7 +1929,7 @@ Sau đó, Hải Vân Phàm rõ ràng mà nghe được âm thanh Vương Lục x
 "Mấy cái rác rưởi đạo cụ lưu, cũng dám khiêu chiến ta này Tông Sư báo cáo lưu? Điếc không sợ súng!"
 
 
-# Chương 11 : Chơi hỏng rồi cũng không đau lòng a {#chuong-11}
+# Chương 11: Chơi hỏng rồi cũng không đau lòng a {#chuong-11}
 Hậu viện nhà thôn trưởng bên trong biệt thự, máu mũi chảy thành sông nhỏ.
 
 Màu sắc đỏ sẫm khiến Hải Vân Phàm đầu óc có chút tê tê, miệng khô lưỡi khô mà hỏi.
@@ -2081,7 +2083,7 @@ Như vậy... Lẽ nào trước mắt cái này Văn Bảo, tương lai có cơ
 "Bởi vì chơi hỏng rồi không đau lòng a, ha ha ha."
 
 
-# Chương 12 : Kiền nãi nãi cùng Kiền nãi nãi số hai ở giữa chốn Tu La {#chuong-12}
+# Chương 12: Kiền nãi nãi cùng Kiền nãi nãi số hai ở giữa chốn Tu La {#chuong-12}
 Từ trước có tòa linh kiếm núi quyển thứ nhất Thăng Tiên đại hội Chương 12:: Kiền nãi nãi cùng Kiền nãi nãi số hai ở giữa chốn Tu La
 
 Đem Văn Bảo lĩnh về đến nhà cũng không tốn Vương Lục khí lực gì.
@@ -2271,7 +2273,7 @@ Quơ quơ đầu, đem ảo giác loại bỏ não hải, Vương Lục lại n�
 Nói xong, Vương Lục lại một lần nữa giơ lên chân.
 
 
-# Chương 13 : Gia đình tranh cãi giải quyết tốt đẹp pháp {#chuong-13}
+# Chương 13: Gia đình tranh cãi giải quyết tốt đẹp pháp {#chuong-13}
 Chương 13:: Gia đình tranh cãi giải quyết tốt đẹp pháp
 
 Lại một lần nữa đuổi rồi Văn Bảo sau, Vương Lục sắc mặt cũng chìm xuống.
@@ -2409,7 +2411,7 @@ Mà Vương Lục cũng không có giấu giếm ý tứ: "Rất đơn giản ah
 "Ngươi này trĩ sang phát tác vẻ mặt là có ý gì à? Phương án của ta có gì vấn đề? Ba người từng cái đều thiếu một cái kẻ thù, nhiều hơn một cái pháo hữu, càng thả xuống mấy chục năm thù cũ, thừa dịp tinh lực vẫn còn, đủ có thể hưởng cuối cùng mấy năm tịch dương hồng, giải quyết tốt đẹp tất cả mâu thuẫn nha."
 
 
-# Chương 14 : Có chí thiếu niên nhẫn nhũ phụ trọng {#chuong-14}
+# Chương 14: Có chí thiếu niên nhẫn nhũ phụ trọng {#chuong-14}
 Chương 14:: Có chí thiếu niên nhẫn nhũ phụ trọng
 
 Hải Vân Phàm sau khi rời đi viện lúc hồn bay phách lạc, rơi vào rồi rất nhiều người trong mắt, gợi ra vô số suy đoán.
@@ -2525,7 +2527,7 @@ Tỷ như. . .
 "Ngươi cái đàn ông phụ lòng cút ngay cho tao!"
 
 
-# Chương 15 : Con gái cùng người bỏ trốn ngốc · bức cha {#chuong-15}
+# Chương 15: Con gái cùng người bỏ trốn ngốc · bức cha {#chuong-15}
 Chương 15:: Con gái cùng người bỏ trốn ngốc · bức cha
 
 Đào Nguyên thôn bạo phát tài nguyên nguy cơ.
@@ -2683,7 +2685,7 @@ Trên tường dán vào đầy đủ hàng trăm tấm tốt nhất tờ giấy
 Một tháng không ra khỏi cửa không giả, nhưng một tháng này cũng không hề sống uổng, làm lấy siêu phẩm thành tích đi ra Vân Ba đồ người thí luyện, Vương Lục lấy được chỗ tốt hơn xa tiểu thư đồng nhìn đến cái kia một điểm, hắn cùng với trưởng thôn quan hệ, hơn xa khách trọ cùng chủ nhà trọ đơn giản như vậy.
 
 
-# Chương 16 : Kim bài Đại Luyện hỏa tiễn một làn sóng lưu {#chuong-16}
+# Chương 16: Kim bài Đại Luyện hỏa tiễn một làn sóng lưu {#chuong-16}
 Quyển thứ nhất Thăng Tiên đại hội Chương 16:: Kim bài Đại Luyện hỏa tiễn một làn sóng lưu
 
 Chương trước phản trở về mục lục chương sau trở về trang sách
@@ -2873,7 +2875,7 @@ Mà đang ở các thiếu gia nắm đấm vung ra sau sau một khắc, một 
 "Ah đánh đánh đánh đánh một chút!"
 
 
-# Chương 17 : Luận giáo dục bắt buộc tầm quan trọng {#chuong-17}
+# Chương 17: Luận giáo dục bắt buộc tầm quan trọng {#chuong-17}
 Chương 17:: Luận giáo dục bắt buộc tầm quan trọng
 
 Ah đánh một chút không hổ là ah đánh một chút, quỷ mị giống như xuất hiện, lại quỷ mị giống như biến mất, trong tầm mắt của mọi người chỉ dừng lại nháy mắt, sau một khắc, các thiếu gia liền ngã trái ngã phải nằm trên đất, ai cũng không đứng lên nổi.
@@ -3027,7 +3029,7 @@ Bóng đen kia sửng sốt một chút, phát sinh ý nghĩa không rõ lẩm b
 "Chết đi thê tử cái đầu ah!"
 
 
-# Chương 18 : Sóc đảng thắng lợi! {#chuong-18}
+# Chương 18: Sóc đảng thắng lợi! {#chuong-18}
 Chương 18:: Sóc đảng thắng lợi!
 
 Cổ Ngữ đạo một đồng tiền làm khó anh hùng hán, Vương Lục tự giễu, tự xưng là chuyên nghiệp người mạo hiểm chính mình, cũng thật là bị một đồng tiền cho làm khó rồi.
@@ -3243,7 +3245,7 @@ Bóng đen kia hỏi: "Ồ? Ngươi đã trước đó cũng không phát hiện
 "Bởi vì từng cái hợp lệ chuyên nghiệp người mạo hiểm đều là sóc đảng."
 
 
-# Chương 19 : Dũng cảm Tiểu Hải ah nhanh đi sáng tạo kỳ tích {#chuong-19}
+# Chương 19: Dũng cảm Tiểu Hải ah nhanh đi sáng tạo kỳ tích {#chuong-19}
 Chương 19:: Dũng cảm Tiểu Hải ah nhanh đi sáng tạo kỳ tích
 
 Chương trước phản trở về mục lục chương sau trở về trang sách
@@ -3421,7 +3423,7 @@ Thăng tiên lộ trên sinh tử chớ luận, cùng loại này tên to xác l
 Thế nhưng Hải Vân Phàm vẫn là rút ra gia truyền bảo kiếm, dũng cảm chỉ hướng đối thủ.
 
 
-# Chương 20 : Nhiều người sức mạnh lớn {#chuong-20}
+# Chương 20: Nhiều người sức mạnh lớn {#chuong-20}
 Chương 20:: Nhiều người sức mạnh lớn
 
 Linh Kiếm Phái Phiêu Miểu phong có một cái tốt đẹp truyền thống: Xem trò vui không chê sự tình đại.
@@ -3613,7 +3615,7 @@ Kết quả cô gái kia không chút nào cho là nhục, trái lại dương d
 Lưu Hiển quả thực cho quỳ: "Ngươi rất sao. . . Người thí luyện nhiều người, vì lẽ đó tinh quái sức mạnh lớn! ?"
 
 
-# Chương 21 : Ai nha cmn {#chuong-21}
+# Chương 21: Ai nha cmn {#chuong-21}
 Chương 21:: Ai nha cmn
 
 Cô gái mặc áo trắng nhiều người sức mạnh lớn, suýt nữa để Lưu Hiển thổ huyết.
@@ -3737,7 +3739,7 @@ Cũng không biết trải qua bao lâu, chờ bão táp dẹp loạn, đầu ki
 Kiếm Phong Sở Chỉ, càng là một mảnh non xanh nước biếc, mây mù mù mịt, mặc dù không biết là phương nào vị trí, nhưng nói chung không phải là Băng Phong cốc.
 
 
-# Chương 22 : Cái gì ta tương lai hai mươi năm tiền lương cũng bị mất {#chuong-22}
+# Chương 22: Cái gì ta tương lai hai mươi năm tiền lương cũng bị mất {#chuong-22}
 Chương 22:: Cái gì ta tương lai hai mươi năm tiền lương cũng bị mất
 
 Trên thực tế, Vương Lục trước mắt nước biếc Thanh Sơn xác thực không phải Băng Phong cốc cảnh sắc, Băng Phong cốc là Linh Kiếm Phái cao nhân dùng đại thần thông luyện vào Phiêu Miểu phong một chỗ động phủ, nhìn như mênh mông không có giới hạn, kỳ thực nhưng có giới hạn của chính mình, nơi đây dùng làm Phiêu Miểu phong thí luyện những kia không tu hành đệ tử sử dụng, trong động phủ mạnh nhất cũng đơn giản là cấp ba tinh quái, này giới hạn cũng là không chế tạo quá rắn chắc, lấy tiết kiệm thành phẩm. Ai từng muốn sẽ có người cầm trong tay tam phẩm Linh Bảo, ở chỗ này toàn lực phát động?
@@ -3893,7 +3895,7 @@ Sau đó chưởng môn chân nhân liền thở dài, một bên đem ấn vàn
 "Cmn sư huynh ngươi tiết tháo cũng vứt đi! ?"
 
 
-# Chương 23 : Thu nhiều ba năm đấu {#chuong-23}
+# Chương 23: Thu nhiều ba năm đấu {#chuong-23}
 Chương 23:: Thu nhiều ba, năm đấu
 
 Linh Kiếm Phái hơn trăm năm chưa mở Thăng Tiên đại hội, bây giờ một khi khai mạc, càng là làm người nghe kinh hãi được mùa lớn.
@@ -4019,7 +4021,7 @@ Nửa nén hương công phu, nữ đệ tử lại bay trở về: "Báo cáo s
 "Phải!"
 
 
-# Chương 24 : Cho ngươi mở mang cái gì gọi là Tiên Đạo Vô Thường {#chuong-24}
+# Chương 24: Cho ngươi mở mang cái gì gọi là Tiên Đạo Vô Thường {#chuong-24}
 Chương 24:: Cho ngươi mở mang cái gì gọi là Tiên Đạo Vô Thường
 
 Cũng trong lúc đó, ở ngôi sao Phong, chưởng môn chân nhân sắc mặt nghiêm nghị gõ trước người sáng trắng trường kiếm, trầm ngâm nói: "Quả nhiên là tại đây một nhóm người bên trong. . . Ngũ sư muội, ý của ngươi thế nào?"
@@ -4179,7 +4181,7 @@ Sau đó.
 "Vương. . . Trung!"
 
 
-# Chương 25 : Không nên nhìn không nổi vật sưu tập ah! {#chuong-25}
+# Chương 25: Không nên nhìn không nổi vật sưu tập ah! {#chuong-25}
 Chương 25:: Không nên nhìn không nổi vật sưu tập ah!
 
 Thiếu nữ thanh khải môi anh đào, đem trong danh sách người tên niệm xong, thu hồi tờ giấy, vẫn là tấm kia nụ cười xán lạn mặt.
@@ -4347,7 +4349,7 @@ Thiếu nữ còn nói: "Nhưng điều này cũng giới hạn với số ít v
 Dừng một chút sau, thiếu nữ vẫn là tỉnh táo nói ra tàn khốc chân tướng: "Vì lẽ đó không chỉ là Linh Kiếm Phái, bây giờ Tu Tiên giới không có bất kỳ tông phái có thể nuôi dưỡng một cái Không linh căn tu sĩ, đừng nói cái gì Nguyên Anh hóa thần, liền ngay cả Dẫn Khí nhập vào cơ thể cũng không làm được, cái gọi là Không linh căn, ở thời đại mạt pháp sau đó chỉ là cái hi hữu trang sức phẩm, chỉ có thu gom giá trị. . ."
 
 
-# Chương 26 : Ngươi là cố ý a! Ta muốn vạch tội ngươi! {#chuong-26}
+# Chương 26: Ngươi là cố ý a! Ta muốn vạch tội ngươi! {#chuong-26}
 Chương 26:: Ngươi là cố ý a! Ta muốn vạch tội ngươi!
 
 "Trở lên, chính là liên quan với Không linh căn nói rõ, lại cặn kẽ tư liệu xin lỗi chúng ta này không có, tin tưởng cũng không có chỗ khác sẽ có, dù sao cũng là mấy ngàn năm không ai đã gặp truyền thuyết rồi."
@@ -4495,7 +4497,7 @@ Lần này, chưởng môn trái lại tĩnh táo lại, vội vã một lần n
 ". . ."
 
 
-# Chương 27 : Hả hê lòng người! {#chuong-27}
+# Chương 27: Hả hê lòng người! {#chuong-27}
 Chương 27:: Hả hê lòng người!
 
 Chưởng môn đương nhiên không phải cố ý, ở những người khác bận bịu Thăng Tiên đại hội thời điểm, hắn cũng chính vì là chuyện gì bận tối mày tối mặt, cho tới bây giờ bản thể đều không trở lại linh kiếm núi, vốn tưởng rằng có các sư đệ sư muội tọa trấn, hóa thân đã đầy đủ ứng phó tình cảnh, nhưng không nghĩ nhất thời sơ sẩy, suýt nữa gây thành đại họa!
@@ -4635,7 +4637,7 @@ Hai người thương nghị thỏa đáng, thực tế chỉ dùng thời gian 
 Mọi người liếc mắt, hả hê lòng người.
 
 
-# Chương 28 : Sư phụ của ta không thể không phải ngu ngốc {#chuong-28}
+# Chương 28: Sư phụ của ta không thể không phải ngu ngốc {#chuong-28}
 Chương 28:: Sư phụ của ta không thể không phải ngu ngốc
 
 Vạn chúng chúc mục Linh Kiếm Phái Thăng Tiên đại hội, ở vô số người kinh ngạc cùng thất vọng bên trong hạ màn.
@@ -4799,7 +4801,7 @@ Chưởng môn hữu hóa thần tu vi, cùng thế hệ trưởng lão coi như
 Một mình ngươi tu sĩ Kim Đan nói lời này thật không ngại! ?
 
 
-# Chương 29 : Càng kiên càng cao càng cứng hơn! {#chuong-29}
+# Chương 29: Càng kiên càng cao càng cứng hơn! {#chuong-29}
 Chưa chương: Càng kiên càng cao càng cứng hơn!
 
 Bất quá Vương Lục ngược lại cũng nhìn thoáng được, dầu gì cũng là cái Kim Đan mà, nếu là phóng tới Tiểu Hải nhà bọn họ phụ cận Từ Vân Sơn ah, Bạch Long quan ah nơi như thế này, Kim Đan chân nhân hoàn toàn có thể hỗn [lăn lộn] cái thực Quyền trưởng lão. Mà cùng mình cùng một nhóm vào núi những kia, tiến vào Tiêu Dao Phong chính là do tư lịch khá sâu đệ tử thay truyền công, vào Phiêu Miểu phong nội môn Vương Trung Chu Tần các loại, trên danh nghĩa sư phụ là Nhị trưởng lão Lưu Hiển, nhưng một cái Lưu Hiển muốn dẫn thứ 37 đệ tử nội môn, hiệu suất có thể tưởng tượng được, trong ngày thường chủ yếu giảng bài truyền công vẫn là vài tên thâm niên trắng đen, còn không bằng trước mắt mình vị này kim Đan trưởng lão.

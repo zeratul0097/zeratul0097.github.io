@@ -1,42 +1,44 @@
 ---
 layout: post
 title: Linh Kiếm Sơn - Quyển 5
-date: 2019-12-04 12:26:58.425037+07:00
+date: 2019-12-04 14:39:09.300928+07:00
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 # Mục lục
-- [Chương 1](#chuong-1)
-- [Chương 2](#chuong-2)
-- [Chương 3](#chuong-3)
-- [Chương 4](#chuong-4)
-- [Chương 5](#chuong-5)
-- [Chương 6](#chuong-6)
-- [Chương 7](#chuong-7)
-- [Chương 8](#chuong-8)
-- [Chương 9](#chuong-9)
-- [Chương 10](#chuong-10)
-- [Chương 11](#chuong-11)
-- [Chương 12](#chuong-12)
-- [Chương 13](#chuong-13)
-- [Chương 14](#chuong-14)
-- [Chương 15](#chuong-15)
-- [Chương 16](#chuong-16)
-- [Chương 17](#chuong-17)
-- [Chương 18](#chuong-18)
-- [Chương 19](#chuong-19)
-- [Chương 20](#chuong-20)
-- [Chương 21](#chuong-21)
-- [Chương 22](#chuong-22)
-- [Chương 23](#chuong-23)
-- [Chương 24](#chuong-24)
-- [Chương 25](#chuong-25)
-- [Chương 26](#chuong-26)
-- [Chương 27](#chuong-27)
-- [Chương 28](#chuong-28)
-- [Chương 29](#chuong-29)
+- [Chương 1: Của ta hai cái bằng hữu tốt nhất](#chuong-1)
+- [Chương 2: Cho nên nói cái gì Hồng Trần khó khăn đều là gạt người](#chuong-2)
+- [Chương 3: Lưu Ly Tiên ở Vân Châu người thân!](#chuong-3)
+- [Chương 4: Thức ăn chay chi đô](#chuong-4)
+- [Chương 5: Đạo hữu xin dừng bước vật ấy cùng ta Ngự Thú tông hữu duyên](#chuong-5)
+- [Chương 6: Lưu Ly Tiên đối người mình lạnh lùng hạ sát thủ! ?](#chuong-6)
+- [Chương 7: Sưu cẩu ký](#chuong-7)
+- [Chương 8: Lưu Ly Tiên trẻ nhỏ dễ dạy](#chuong-8)
+- [Chương 9: Hầu Tử mời tới trêu chọc so với](#chuong-9)
+- [Chương 10: Hắn chăn lớn người đã cắt đứt](#chuong-10)
+- [Chương 11: Hiếu tâm đáng khen](#chuong-11)
+- [Chương 12: Cùng Lưu Ly Tiên ở chung muốn giỏi về quy nạp tổng kết](#chuong-12)
+- [Chương 13: Nàng lấy ra thật lớn một cái!](#chuong-13)
+- [Chương 14: Moonpie](#chuong-14)
+- [Chương 15: Ngày mùa hè đại tác chiến](#chuong-15)
+- [Chương 16: Các ngươi thế hệ này thực sự là hạnh phúc](#chuong-16)
+- [Chương 17: Trong mắt của ta chỉ có ngươi](#chuong-17)
+- [Chương 18: Mèo chưa bao giờ là trung thần](#chuong-18)
+- [Chương 19: Và ôn hòa phát triển chưa bao giờ là của ta giọng chính](#chuong-19)
+- [Chương 20: Thân thể máu thịt](#chuong-20)
+- [Chương 21: Lưu Ly Tiên không chiếu lái xe](#chuong-21)
+- [Chương 22: Cường hào dạy ngươi mở tàu cao tốc](#chuong-22)
+- [Chương 23: Nuôi mèo hữu ích cả người khỏe mạnh](#chuong-23)
+- [Chương 24: Hành hạ mèo cuồng nhân](#chuong-24)
+- [Chương 25: Ta có thể vì ngươi làm bất cứ chuyện gì!](#chuong-25)
+- [Chương 26: Lưu Ly Tiên dùng nàng cứng rắn      Xuyên qua miêu nữ](#chuong-26)
+- [Chương 27: Người thành thật không nên đạt được khen thưởng ư! ?](#chuong-27)
+- [Chương 28: Trong núi không giáp hàn tận không biết năm](#chuong-28)
+- [Chương 29: Tại sao?](#chuong-29)
+- [Chương 30: Chúng ta cần ngoại ngữ vượt qua thử thách nhân tài](#chuong-30)
 
-# Chương 1 : Của ta hai cái bằng hữu tốt nhất {#chuong-1}
+---
+# Chương 1: Của ta hai cái bằng hữu tốt nhất {#chuong-1}
 Chương 1:: Của ta hai cái bằng hữu tốt nhất
 
 
@@ -145,7 +147,7 @@ Khi (làm) Vương Lục đem việc này hướng về Chu Minh xin chỉ thị
 Từ Thông Minh phong rời đi, Vương Lục về Vô Tương Phong kêu lên Lưu Ly Tiên, khiên lên lông tạp cẩu, liền bước lên đi tới Vân Châu lữ trình.
 
 
-# Chương 2 : Cho nên nói cái gì Hồng Trần khó khăn đều là gạt người {#chuong-2}
+# Chương 2: Cho nên nói cái gì Hồng Trần khó khăn đều là gạt người {#chuong-2}
 Chương 2:: Cho nên nói cái gì Hồng Trần khó khăn đều là gạt người
 
 
@@ -282,7 +284,7 @@ Vương Lục vung tay lên liền cho nàng đã cắt đứt: "Chuyện cư
 Nói, Vương Lục tiêu sái mà một nằm: "Tiểu Lưu Ly, cố gắng học hỏi đi, cái này kêu là lãnh đạo đãi ngộ "
 
 
-# Chương 3 : Lưu Ly Tiên ở Vân Châu người thân! {#chuong-3}
+# Chương 3: Lưu Ly Tiên ở Vân Châu người thân! {#chuong-3}
 Chương 3:: Lưu Ly Tiên ở Vân Châu người thân!
 
 
@@ -361,7 +363,7 @@ Nói tới chỗ này, Vương Lục quay đầu, nhìn một chút trên đất
 "Tiên sư nó, các ngươi đúng là gặp phải thân nhân..."
 
 
-# Chương 4 : Thức ăn chay chi đô {#chuong-4}
+# Chương 4: Thức ăn chay chi đô {#chuong-4}
 Chương 4:: Thức ăn chay chi đô
 
 Vân Đài núi Ngự Thú tông xảy ra sự kiện cũng không khiến người bất ngờ, Vạn Tiên Minh môn phái lên tới hàng ngàn, hàng vạn, tuyệt đại đa số đều tránh không được muốn cùng phàm nhân giao thiệp với, như Côn Luân tiên sơn như vậy tác phẩm nghệ thuật xuất sắc, không dính khói bụi trần gian không có mấy nhà, mà chỉ cần giao thiệp với, liền tránh không được sản sinh mâu thuẫn, cũng không ngạc nhiên. Ngoài ra, Vạn Tiên Minh trung môn phái văn hóa tương đối kỳ hoa cũng không phải số ít, yêu thích cùng Linh Thú làm bạn Ngự Thú tông so sánh lẫn nhau mà nói vẫn tính khá là ôn hòa, dù sao toàn bộ mâu thuẫn cũng không quá hạn chế với đả thương mấy người, tổn hại Vân Thái đế quốc Hoàng thất cùng Bạch Long quan bộ mặt.
@@ -469,7 +471,7 @@ Ngự Thú tông ở khải đức thành ảnh hưởng vẫn có giới hạn,
 Trên lý thuyết. . .
 
 
-# Chương 5 : Đạo hữu xin dừng bước vật ấy cùng ta Ngự Thú tông hữu duyên {#chuong-5}
+# Chương 5: Đạo hữu xin dừng bước vật ấy cùng ta Ngự Thú tông hữu duyên {#chuong-5}
 Chương 5:: Đạo hữu xin dừng bước, vật ấy cùng ta Ngự Thú tông hữu duyên
 
 
@@ -610,7 +612,7 @@ Sau đó hắn phi thường quả đoán đưa tay vừa kéo Lưu Ly Tiên vai
 "Thật không tiện, ta đã có người mình thích."
 
 
-# Chương 6 : Lưu Ly Tiên đối người mình lạnh lùng hạ sát thủ! ? {#chuong-6}
+# Chương 6: Lưu Ly Tiên đối người mình lạnh lùng hạ sát thủ! ? {#chuong-6}
 Chương 6:: Lưu Ly Tiên đối người mình lạnh lùng hạ sát thủ! ?
 
 Đối mặt Vương Lục đột nhiên xuất hiện phản ứng, Ngự Thú tông nữ tu sĩ nhất thời sợ ngây người.
@@ -752,7 +754,7 @@ Vương Lục chỉ cảm thấy trong đầu ông một tiếng.
 Ngươi, ngươi này đồ ngu, lại ở vào thời điểm này đối người mình thả đại sát khí?
 
 
-# Chương 7 : Sưu cẩu ký {#chuong-7}
+# Chương 7: Sưu cẩu ký {#chuong-7}
 Chương 7:: Sưu cẩu ký
 
 Khi (làm) ngu xuẩn Lưu Ly Tiên đối người mình thả ra đại chiêu sau khi, Vương Lục quả nhiên không thể chống đối, sững sờ chỉ chốc lát, mà như vậy thời gian ngắn ngủi, cái kia hai cái Ngự Thú tông nữ tu sĩ ánh mắt ngưng lại.
@@ -884,7 +886,7 @@ Hai tên nữ tu nơm nớp lo sợ đích chào hỏi.
 "Hừm, ta vừa nãy nghe sư huynh nói rồi, các ngươi vậy thì dẫn đường đi, ta đi bắt cái kia hai cái hàng tiểu bối, còn có cái kia linh khuyển."
 
 
-# Chương 8 : Lưu Ly Tiên trẻ nhỏ dễ dạy {#chuong-8}
+# Chương 8: Lưu Ly Tiên trẻ nhỏ dễ dạy {#chuong-8}
 Chương 8:: Lưu Ly Tiên trẻ nhỏ dễ dạy
 
 Ngự Thú tông lấy giá ngự linh thú nghe tên Cửu Châu, tông phái tu sĩ hầu như nhân thủ một con thậm chí mấy con linh thú, nhưng điều động phương pháp liền tùy theo từng người. Như Thẩm Đông đến như vậy, đem linh khuyển coi như công cụ đến dùng, còn thuộc về tương đối thấp cấp độ. Đến đó cái kia cường tráng trưởng lão cấp bậc, tu vi có cảnh giới Kim đan, Ngự Thú phương thức cũng sẽ phát sinh tương ứng biến hóa.
@@ -986,7 +988,7 @@ Ngân Bối ở trong tiếng kêu gào thê thảm ngã nhào xuống đất, �
 "Trang, tiếp tục giả vờ, rõ ràng muốn tới chặn đường cướp xe súc sinh, còn trang yếu thế quần thể? Ngươi đã không muốn mặt mũi này, ta liền thay ngươi chôn đi."
 
 
-# Chương 9 : Hầu Tử mời tới trêu chọc so với {#chuong-9}
+# Chương 9: Hầu Tử mời tới trêu chọc so với {#chuong-9}
 Chương 9:: Hầu Tử mời tới trêu chọc so với
 
 
@@ -1099,7 +1101,7 @@ Vì lẽ đó bây giờ ta trước tiên đoạn ngươi một tay, đón lấ
 Ngươi liền cô độc chơi đùa chim đi thôi ngu ngốc
 
 
-# Chương 10 : Hắn chăn lớn người đã cắt đứt {#chuong-10}
+# Chương 10: Hắn chăn lớn người đã cắt đứt {#chuong-10}
 Chương 10:: Hắn chăn lớn người đã cắt đứt
 
 
@@ -1224,7 +1226,7 @@ Tức giận mới vừa lên, xích hầu đã một ngụm máu phun ra ngoài
 Răng trắng, đã tử trận.
 
 
-# Chương 11 : Hiếu tâm đáng khen {#chuong-11}
+# Chương 11: Hiếu tâm đáng khen {#chuong-11}
 Chương 11:: Hiếu tâm đáng khen
 
 
@@ -1357,7 +1359,7 @@ Vương Lục trầm mặc một hồi nói rằng: "Tương lai ngươi đi Lin
 "Ha ha, thật không hổ là hai thầy trò." Tiểu Thất khá là khen ngợi mà nhìn về phía Vương Lục, "Nói đến, ta chỗ này vừa vặn có chuyện muốn nhờ ngươi."
 
 
-# Chương 12 : Cùng Lưu Ly Tiên ở chung muốn giỏi về quy nạp tổng kết {#chuong-12}
+# Chương 12: Cùng Lưu Ly Tiên ở chung muốn giỏi về quy nạp tổng kết {#chuong-12}
 Chương 12:: Cùng Lưu Ly Tiên ở chung muốn giỏi về quy nạp tổng kết
 
 
@@ -1476,7 +1478,7 @@ Nhưng vào đúng lúc này, đột nhiên xảy ra dị biến. Bình hòa thi
 "Chờ các ngươi đã lâu, các ngươi quả nhiên là đến rồi "
 
 
-# Chương 13 : Nàng lấy ra thật lớn một cái! {#chuong-13}
+# Chương 13: Nàng lấy ra thật lớn một cái! {#chuong-13}
 Chương 13:: Nàng lấy ra thật lớn một cái!
 
 Tiểu Thất ra tay nỗ lực phá trận cướp đoạt linh khuyển, nhưng mà nàng phép thuật mới vừa vặn ngưng tụ mô hình, mãnh liệt thiên địa linh khí biến hóa liền đem phép thuật miễn cưỡng đánh gãy. Tiểu Thất cau mày thu hồi tay phải, tiện đà liền đã nghe được giữa sơn cốc vang vọng thanh âm cô gái.
@@ -1580,7 +1582,7 @@ Vương Lục nói rằng: "Giáo là đã dạy, chỉ là thực sự không c
 ". . ."
 
 
-# Chương 14 : Moonpie {#chuong-14}
+# Chương 14: Moonpie {#chuong-14}
 Chương 14:: Moonpie
 
 Nguyên Anh thăng cấp Hóa Thần có vài loại phương pháp, tiểu Thất sử dụng hóa thân rèn luyện phương pháp liền là một cái trong số đó, đương nhiên, xem như là thiên môn. Vương Lục tuy rằng hiểu rõ qua, nhưng nhất thời cũng không nghĩ ra nơi nào đây.
@@ -1700,7 +1702,7 @@ Kỳ Kỳ cũng sửng sốt, lập tức cắn một cái trụ bánh Trung th
 Một lát sau, lông tạp cẩu một phi, đem bánh Trung thu nhổ ra: "Bánh nhân thịt bánh Trung thu "
 
 
-# Chương 15 : Ngày mùa hè đại tác chiến {#chuong-15}
+# Chương 15: Ngày mùa hè đại tác chiến {#chuong-15}
 Chương 15:: Ngày mùa hè đại tác chiến
 
 Ở Vương Lục quyết định muốn đích thân đạp khắp trong vòng ngàn dặm Vân Đài núi, sớm một bước tìm tới trong truyền thuyết tiên thú ấu thể thời gian, Vân Đài núi Tọa Vong phong trên, Ngự Thú tông phân đà một đám trưởng lão nhóm chính đang trải qua một hồi khó quên lôi kiếp.
@@ -1824,7 +1826,7 @@ A Hạ cười cợt, tấm kia tông hắc sắc trên mặt, mang theo một t
 "Có chuyện muốn ngươi hỗ trợ, vừa vặn Đại trưởng lão mới vừa rồi không có cho ngươi bố trí nhiệm vụ , ta nghĩ thừa dịp ngươi rãnh rỗi thời điểm. . . Không ngại đi Thiên Thủy Hồ đi một chuyến."
 
 
-# Chương 16 : Các ngươi thế hệ này thực sự là hạnh phúc {#chuong-16}
+# Chương 16: Các ngươi thế hệ này thực sự là hạnh phúc {#chuong-16}
 Chương 16:: Các ngươi thế hệ này thực sự là hạnh phúc
 
 
@@ -1929,7 +1931,7 @@ Bị Ngự Thú tông người tìm tới cửa, Vương Lục nhíu nhíu mày,
 Nhưng mà vị kia nâu đậm tu sĩ nhưng trước một bước mở miệng nói rằng: "Chúng ta cũng không ác ý."
 
 
-# Chương 17 : Trong mắt của ta chỉ có ngươi {#chuong-17}
+# Chương 17: Trong mắt của ta chỉ có ngươi {#chuong-17}
 Chương 17:: Trong mắt của ta chỉ có ngươi
 
 
@@ -2080,7 +2082,7 @@ Cơ hồ là cùng đối phó xích hầu lúc giống nhau như đúc chiến 
 Nhìn vẻ mặt co rúm lại tâm ý Linh Yên, bất kể là ai cũng rất khó đưa nàng cùng mấy ngày trước khí thế kia khinh người trưởng lão liên hệ cùng nhau.
 
 
-# Chương 18 : Mèo chưa bao giờ là trung thần {#chuong-18}
+# Chương 18: Mèo chưa bao giờ là trung thần {#chuong-18}
 Chương 18:: Mèo chưa bao giờ là trung thần
 
 
@@ -2203,7 +2205,7 @@ Ngũ Nhạc đoạn mạch thuật, lần thứ hai gặp mặt.
 Vương Lục thậm chí chẳng muốn đi xem đứng ở trên đỉnh núi A Hạ, chỉ là nói với tiểu Thất: "Hiện tại, có thể ⊥ cái kia ba tính mèo nhà tử ở mặt trước rồi."
 
 
-# Chương 19 : Và ôn hòa phát triển chưa bao giờ là của ta giọng chính {#chuong-19}
+# Chương 19: Và ôn hòa phát triển chưa bao giờ là của ta giọng chính {#chuong-19}
 Chương 19:: Và ôn hòa phát triển chưa bao giờ là của ta giọng chính
 
 
@@ -2328,7 +2330,7 @@ Vương Lục trả lời quả nhiên không có ra ngoài sở liệu, bất q
 "Mà ta, chưa bao giờ tiếp thu rác rưởi đề án."
 
 
-# Chương 20 : Thân thể máu thịt {#chuong-20}
+# Chương 20: Thân thể máu thịt {#chuong-20}
 Chương 20:: Thân thể máu thịt
 
 "Cái kia thuần Thú Sư là tên rác rưởi."
@@ -2498,7 +2500,7 @@ Lần này phá diệt phi thường triệt để, A Hạ chỉ cảm thấy ch
 Vương Lục cười lành lạnh: "Thân thể máu thịt có thể nào chống đối chiến xa? A Hạ, với ngươi âu yếm các sủng vật nói gặp lại ba "
 
 
-# Chương 21 : Lưu Ly Tiên không chiếu lái xe {#chuong-21}
+# Chương 21: Lưu Ly Tiên không chiếu lái xe {#chuong-21}
 Chương 21:: Lưu Ly Tiên không chiếu lái xe
 
 Thân thể máu thịt có thể nào chống đối chiến xa?
@@ -2652,7 +2654,7 @@ Trong tiếng kêu gào thê thảm, ma lang nửa bên mặt đều bị đốt
 "Chúng ta cho kẻ địch mạnh mẽ một đòn "
 
 
-# Chương 22 : Cường hào dạy ngươi mở tàu cao tốc {#chuong-22}
+# Chương 22: Cường hào dạy ngươi mở tàu cao tốc {#chuong-22}
 Chương 22:: Cường hào dạy ngươi mở tàu cao tốc
 
 
@@ -2783,7 +2785,7 @@ Màu bạc tàu cao tốc cả người bốc lên nhiệt khí, từ đó truy�
 "Sướng hay không sướng?"
 
 
-# Chương 23 : Nuôi mèo hữu ích cả người khỏe mạnh {#chuong-23}
+# Chương 23: Nuôi mèo hữu ích cả người khỏe mạnh {#chuong-23}
 Chương 23:: Nuôi mèo hữu ích cả người khỏe mạnh
 
 
@@ -2900,7 +2902,7 @@ Miêu nữ bóng người âm thầm xuất hiện tại bên cạnh hắn, thi�
 A Hạ hất tay chính là một cái bạt tai, kim đan cấp sức mạnh không giữ lại chút nào thả ra ngoài, miêu nữ một tiếng hét thảm, bị miễn cưỡng đã đánh vào trong vách đá, nửa bên mặt máu thịt be bét
 
 
-# Chương 24 : Hành hạ mèo cuồng nhân {#chuong-24}
+# Chương 24: Hành hạ mèo cuồng nhân {#chuong-24}
 Chương 24:: Hành hạ mèo cuồng nhân
 
 
@@ -3027,7 +3029,7 @@ Linh Yên run rẩy nắm chặt bình sứ, không dám chút nào để A H�
 Này là lần đầu tiên, nàng ở A Hạ bên người, phát ra từ thật lòng nụ cười.
 
 
-# Chương 25 : Ta có thể vì ngươi làm bất cứ chuyện gì! {#chuong-25}
+# Chương 25: Ta có thể vì ngươi làm bất cứ chuyện gì! {#chuong-25}
 Chương 25:: Ta có thể vì ngươi làm bất cứ chuyện gì!
 
 
@@ -3164,7 +3166,7 @@ Nói, miêu nữ thậm chí ngã quỵ ở mặt đất, tựa đầu sâu sắ
 "... Ngươi đây là muốn cho ta sinh con sao?"
 
 
-# Chương 26 : Lưu Ly Tiên dùng nàng cứng rắn      Xuyên qua miêu nữ {#chuong-26}
+# Chương 26: Lưu Ly Tiên dùng nàng cứng rắn      Xuyên qua miêu nữ {#chuong-26}
 Chương 26:: Lưu Ly Tiên dùng nàng cứng rắn. . . Xuyên qua miêu nữ
 
 Miêu nữ bày ra việc này, hiển nhiên không phải một sớm một chiều, cho đến ngày nay, rốt cục nghênh đón bạo phát cơ hội.
@@ -3306,7 +3308,7 @@ Tầm mắt dần dần bị một luồng ấm áp tâm ý mơ hồ, nhưng mà
 . . . Đối với ngươi muội ah
 
 
-# Chương 27 : Người thành thật không nên đạt được khen thưởng ư! ? {#chuong-27}
+# Chương 27: Người thành thật không nên đạt được khen thưởng ư! ? {#chuong-27}
 Chương 27:: Người thành thật không nên đạt được khen thưởng ư! ?
 
 
@@ -3455,7 +3457,7 @@ Nói, Vương Lục dừng một chút, quan sát phản ứng của đối phư
 "Xét thấy ta vừa nãy trả lời thành thật, xin hỏi hiện tại có thể đem ngươi bên chân linh khuyển tặng cho ta sao?"
 
 
-# Chương 28 : Trong núi không giáp hàn tận không biết năm {#chuong-28}
+# Chương 28: Trong núi không giáp hàn tận không biết năm {#chuong-28}
 Chương 28:: Trong núi không giáp hàn tận không biết năm
 
 
@@ -3586,7 +3588,7 @@ Thì ra là như vậy, đây chính là nàng có thể trong khoảng thời 
 Thực sự là giống như thần thủ đoạn
 
 
-# Chương 29 : Tại sao? {#chuong-29}
+# Chương 29: Tại sao? {#chuong-29}
 Chương 29:: Tại sao?
 
 Trước đó, Vương Lục còn chưa từng nghe nói có loại này thời gian vặn vẹo, sống một ngày bằng một năm diệu thuật.
@@ -3784,7 +3786,7 @@ Vân Đài tiên tử bóng người nhưng vào lúc này hoàn toàn biến m�
 "Thơ tuyền nàng liền nhờ ngươi rồi."
 
 
-# Chương 30 : Chúng ta cần ngoại ngữ vượt qua thử thách nhân tài {#chuong-30}
+# Chương 30: Chúng ta cần ngoại ngữ vượt qua thử thách nhân tài {#chuong-30}
 Chương 30:: Chúng ta cần ngoại ngữ vượt qua thử thách nhân tài
 
 

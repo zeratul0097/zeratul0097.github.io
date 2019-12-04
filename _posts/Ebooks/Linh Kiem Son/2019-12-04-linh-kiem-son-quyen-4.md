@@ -1,58 +1,60 @@
 ---
 layout: post
 title: Linh Kiếm Sơn - Quyển 4
-date: 2019-12-04 12:26:58.425037+07:00
+date: 2019-12-04 14:39:09.300928+07:00
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 # Mục lục
-- [Chương 1](#chuong-1)
-- [Chương 2](#chuong-2)
-- [Chương 3](#chuong-3)
-- [Chương 4](#chuong-4)
-- [Chương 5](#chuong-5)
-- [Chương 6](#chuong-6)
-- [Chương 7](#chuong-7)
-- [Chương 8](#chuong-8)
-- [Chương 9](#chuong-9)
-- [Chương 10](#chuong-10)
-- [Chương 11](#chuong-11)
-- [Chương 12](#chuong-12)
-- [Chương 13](#chuong-13)
-- [Chương 14](#chuong-14)
-- [Chương 15](#chuong-15)
-- [Chương 16](#chuong-16)
-- [Chương 17](#chuong-17)
-- [Chương 18](#chuong-18)
-- [Chương 19](#chuong-19)
-- [Chương 20](#chuong-20)
-- [Chương 21](#chuong-21)
-- [Chương 22](#chuong-22)
-- [Chương 23](#chuong-23)
-- [Chương 24](#chuong-24)
-- [Chương 25](#chuong-25)
-- [Chương 26](#chuong-26)
-- [Chương 27](#chuong-27)
-- [Chương 28](#chuong-28)
-- [Chương 29](#chuong-29)
-- [Chương 30](#chuong-30)
-- [Chương 31](#chuong-31)
-- [Chương 32](#chuong-32)
-- [Chương 33](#chuong-33)
-- [Chương 34](#chuong-34)
-- [Chương 35](#chuong-35)
-- [Chương 36](#chuong-36)
-- [Chương 37](#chuong-37)
-- [Chương 38](#chuong-38)
-- [Chương 39](#chuong-39)
-- [Chương 40](#chuong-40)
-- [Chương 41](#chuong-41)
-- [Chương 42](#chuong-42)
-- [Chương 43](#chuong-43)
-- [Chương 44](#chuong-44)
-- [Chương 45](#chuong-45)
+- [Chương 1: Trí Giáo môn đồ](#chuong-1)
+- [Chương 2: Quy phạm đo lường](#chuong-2)
+- [Chương 3: Một tờ huyết thư](#chuong-3)
+- [Chương 4: Luận chính xác xử lý Tiên phàm quan hệ](#chuong-4)
+- [Chương 5: Tại sao phải vì nhân dân phục vụ](#chuong-5)
+- [Chương 6: Ta muốn luyện Kiếm Tâm Thông Minh](#chuong-6)
+- [Chương 7: Ta muốn luyện Vô Tướng kiếm khí](#chuong-7)
+- [Chương 8: Thân ái sắp tới ta trong bát đến](#chuong-8)
+- [Chương 9: Trong thiên hạ đệ nhất mỹ vị](#chuong-9)
+- [Chương 10: Phía trước năng lượng cao phản ứng cường mà mạnh mẽ](#chuong-10)
+- [Chương 11: Tiên Thiên Vô Tướng kiếm khí](#chuong-11)
+- [Chương 12: Thầy trò tình thâm](#chuong-12)
+- [Chương 13: Thư nhà chống đỡ Vạn Kim](#chuong-13)
+- [Chương 14: Karla là con chó](#chuong-14)
+- [Chương 15: Đần cẩu tranh đoạt chiến](#chuong-15)
+- [Chương 16: Ngươi là ngày đó một bên đẹp nhất đám mây](#chuong-16)
+- [Chương 17: Bạn gái của ta là Khô Lâu](#chuong-17)
+- [Chương 18: Ta yêu thích tiểu loli phát ra từ chân tâm!](#chuong-18)
+- [Chương 19: Phiêu Miểu phong tiểu đương gia](#chuong-19)
+- [Chương 20: Dựa vào mặt ăn cơm nam nhân](#chuong-20)
+- [Chương 21: Thâm tàng thân dữ danh](#chuong-21)
+- [Chương 22: Bà mẹ nó môn phái Tiên bảo muốn xong!](#chuong-22)
+- [Chương 23: Ta liền biết hắn tuyệt đối sẽ không đàng hoàng](#chuong-23)
+- [Chương 24: Quốc vương bệ hạ cái chết](#chuong-24)
+- [Chương 25: Đại minh toả sáng đại biện luận](#chuong-25)
+- [Chương 26: Mẹ nó trở lại bắt ta cây đuốc!](#chuong-26)
+- [Chương 27: Môn phái Thủ Tịch](#chuong-27)
+- [Chương 28: Mập mạp chính xác phương pháp sử dụng](#chuong-28)
+- [Chương 29: Nàng cần chính là não bạch kim](#chuong-29)
+- [Chương 30: Thật một hồi quang minh chánh đại quyết đấu!](#chuong-30)
+- [Chương 31: Vĩnh viễn không nên tin nữ nhân](#chuong-31)
+- [Chương 32: Đáng yêu chính là sức mạnh!](#chuong-32)
+- [Chương 33: Ta tên buồn bã mộc nước mắt](#chuong-33)
+- [Chương 34: Vĩnh viễn nguyên vị chiến sĩ](#chuong-34)
+- [Chương 35: Đã không có gì hay sợ hãi](#chuong-35)
+- [Chương 36: Nó là ta bằng hữu tốt nhất!](#chuong-36)
+- [Chương 37: Nha ngươi nghĩ cùng ta làm bằng hữu?](#chuong-37)
+- [Chương 38: Đáng tiếc đây là không đòn bẩy](#chuong-38)
+- [Chương 39: Cho nên nói toán học không thể cút khỏi Linh Kiếm Sơn](#chuong-39)
+- [Chương 40: Quân tử ái tài cưới chi có đạo](#chuong-40)
+- [Chương 41: Ngươi có nguyện ý hay không      Bất luận phú quý vẫn là bần cùng](#chuong-41)
+- [Chương 42: Trò giỏi hơn thầy](#chuong-42)
+- [Chương 43: Một ngày bốn lần](#chuong-43)
+- [Chương 44: Tuy rằng xin lỗi thế nhưng ta muốn nói](#chuong-44)
+- [Chương 45: Vương Lục đã siêu thần](#chuong-45)
+- [Chương 46: Đợi ngươi tiết tháo đến eo](#chuong-46)
 
-# Chương 1 : Trí Giáo môn đồ {#chuong-1}
+---
+# Chương 1: Trí Giáo môn đồ {#chuong-1}
 Chương 1:: Trí Giáo môn đồ
 
 Xuân hàn se lạnh lúc, Linh Kiếm Phái sơn môn rèn luyện rốt cục đi tới kết thúc, đến đây, từ Thương Khê châu trời nam biển bắc, linh kiếm các đệ tử lục tục trở về núi.
@@ -156,7 +158,7 @@ Vương Lục hơi hơi kinh ngạc nhìn Văn Bảo một chút, trầm mặc m
 "À?"
 
 
-# Chương 2 : Quy phạm đo lường {#chuong-2}
+# Chương 2: Quy phạm đo lường {#chuong-2}
 Chương 2:: Quy phạm đo lường
 
 Sau khi hơn nửa tháng, Vương Lục cùng Văn Bảo ngay khi như khách sạn (mặt dày) để ở, an tâm làm văn tự công tác.
@@ -288,7 +290,7 @@ Vương Lục cử bút, ở tiểu Minh tư liệu lan trên Trúc Cơ cửu ph
 Viết xong, Vương Lục để bút xuống, cười cợt: "Nguyên lý chính là cái này nguyên lý, còn lại không cần ta nhiều lời chứ?"
 
 
-# Chương 3 : Một tờ huyết thư {#chuong-3}
+# Chương 3: Một tờ huyết thư {#chuong-3}
 Chương 3:: Một tờ huyết thư
 
 Nghiêm ngặt trên ý nghĩa giảng, Vương Lục nói lên phương pháp tính toán cũng không phải đặc biệt chuẩn xác, nhưng ở khuyết thiếu càng đáng tin phương án trước đó, cái này fl pháp chí ít đơn giản rõ ràng nói tóm tắt, dễ dàng phổ cập mở rộng.
@@ -480,7 +482,7 @@ Sau đó, dụng thanh âm cực thấp nói rằng: "Nhìn thấy không , tư�
 Con lừa phẫn nộ mà buồn khổ hí lên, ở yên tĩnh trong tiểu trấn đặc biệt chói tai.
 
 
-# Chương 4 : Luận chính xác xử lý Tiên phàm quan hệ {#chuong-4}
+# Chương 4: Luận chính xác xử lý Tiên phàm quan hệ {#chuong-4}
 Chương 4:: Luận chính xác xử lý Tiên phàm quan hệ
 
 Xuân về hoa nở thời tiết, Linh Kiếm Sơn trên lần thứ hai khôi phục ngày xưa độ hot —— cứ việc người này đinh héo tàn môn phái trong ngày thường cũng không có người nào khí.
@@ -600,7 +602,7 @@ Phong Ngâm một tiếng cảm thán, lật ra trong tay cái kia phần bị l
 ( vì nhân dân phục vụ )
 
 
-# Chương 5 : Tại sao phải vì nhân dân phục vụ {#chuong-5}
+# Chương 5: Tại sao phải vì nhân dân phục vụ {#chuong-5}
 Chương 5:: Tại sao phải vì nhân dân phục vụ
 
 Tinh Thần Phong đỉnh, trúc trong phòng trầm mặc cũng không biết duy trì bao lâu, chưởng môn Phong Ngâm mới khẽ cười hỏi: "Sư muội, xem xong rồi sao?"
@@ -692,7 +694,7 @@ Thiên thời địa lợi nhân hoà đều ở, bản này báo cáo muốn kh
 "Bản văn chương này không thể lấy Vương Lục danh nghĩa của mình phát, ảnh hưởng của hắn không đủ, hơn nữa văn tự cũng cần sửa chữa. Hai ngày nay ta sẽ chăm chú sửa chữa một lần, thêm vào của ta kí tên gửi cho Vạn Tiên Minh học thuật nghiên cứu ủy viên hội, như vậy báo cáo đủ để cung cấp hơn một nghìn cái học thuật điểm và mấy vạn học thuật điểm, chẳng những có thể hoàn thành ủy viên hội theo lệ số lượng, đem Linh Kiếm Phái học thuật cấp bậc tăng đến cấp chín cũng nên được rồi."
 
 
-# Chương 6 : Ta muốn luyện Kiếm Tâm Thông Minh {#chuong-6}
+# Chương 6: Ta muốn luyện Kiếm Tâm Thông Minh {#chuong-6}
 Chương 6:: Ta muốn luyện Kiếm Tâm Thông Minh
 
 Gừng chung quy vẫn là cay, Phong Ngâm ở bắt được báo cáo, đọc một lượt lần thứ nhất sau, trong lòng liền có dự định, lúc này nói đến, liền ngay cả mong muốn học thuật điểm cùng học thuật điểm (đốt) đều tính toán tám chín phần mười, thật sự là chuẩn bị vẹn toàn. Nhưng mà đối mặt như vậy thành thạo điêu luyện chưởng môn sư huynh, Linh Kiếm Phái Ngũ trưởng lão chỉ là cười lạnh một tiếng.
@@ -788,7 +790,7 @@ Kết quả sư phụ trầm mặc nhìn chăm chú hắn đã lâu, chỉ nói 
 "Vật kia luyện có thêm chụp thông minh."
 
 
-# Chương 7 : Ta muốn luyện Vô Tướng kiếm khí {#chuong-7}
+# Chương 7: Ta muốn luyện Vô Tướng kiếm khí {#chuong-7}
 Chương 7:: Ta muốn luyện Vô Tướng kiếm khí
 
 "Kiếm Tâm Thông Minh luyện có thêm còn giảm thông minh?"
@@ -914,7 +916,7 @@ Sau một khắc, Vương Lục chỉ cảm thấy thấy hoa mắt, phảng ph�
 "Chúc ngươi hoang man lữ trình vui vẻ nha"
 
 
-# Chương 8 : Thân ái sắp tới ta trong bát đến {#chuong-8}
+# Chương 8: Thân ái sắp tới ta trong bát đến {#chuong-8}
 Chương 8:: Thân ái sắp tới ta trong bát đến
 
 Không ánh sáng, không có gió, vô biên vô tận đen kịt, từ xa tới gần, nhuộm dần thiên địa vạn vật, phảng phất đem thế giới xuyên vào ở một cái vô biên vô tận mực nước trong bình, nổi lên vĩnh hằng tĩnh mịch.
@@ -1032,7 +1034,7 @@ Bất quá này cũng khó trách, Minh Ngọc hỏa thiêu đốt lúc, Tử Li
 Việc có khác thường vì cái gì, Vương Lục không chậm trễ chút nào, lập tức thả xuống trường kiếm, từ nhẫn giới tử bên trong lấy ra một cái nhỏ nồi sắt, một con bát sứ, cái muôi chiếc đũa, đồ gia vị như với. . . Đem nồi gác ở Minh Ngọc trên lửa, sau đó nâng lên bát sứ cười như điên nói: "Tiểu tử sắp tới ta trong bát đến "
 
 
-# Chương 9 : Trong thiên hạ đệ nhất mỹ vị {#chuong-9}
+# Chương 9: Trong thiên hạ đệ nhất mỹ vị {#chuong-9}
 Chương 9:: Trong thiên hạ đệ nhất mỹ vị
 
 Ở hoang man nơi sinh tồn hơn ba trăm ngày, Vương Lục đã dần dần thuận buồm xuôi gió thành thạo điêu luyện, thậm chí còn kế hoạch ở lần này hắc triều sau khi, hướng về càng Tây Phương, cũng chính là hắc triều càng nồng nặc khu vực xuất phát, tiến một bước đổi mới (respawn) của mình hạn cuối. . . Cực hạn.
@@ -1172,7 +1174,7 @@ Phốc, Vương Lục đã sắp muốn cười bạo.
 Chó này đầu óc, quá chơi vui rồi.
 
 
-# Chương 10 : Phía trước năng lượng cao phản ứng cường mà mạnh mẽ {#chuong-10}
+# Chương 10: Phía trước năng lượng cao phản ứng cường mà mạnh mẽ {#chuong-10}
 Chương 10:: Phía trước năng lượng cao phản ứng, cường mà mạnh mẽ
 
 Vương Lục đến cùng cũng không ăn cái kia đần cẩu.
@@ -1346,7 +1348,7 @@ Cường mà mạnh mẽ? Không kỳ quái. . .
 Ngay phía trước, vượt quá mười con núi nhỏ như thế cự thú, chính đang đen kịt bên trong trừng mắt nhìn ánh mắt dữ tợn.
 
 
-# Chương 11 : Tiên Thiên Vô Tướng kiếm khí {#chuong-11}
+# Chương 11: Tiên Thiên Vô Tướng kiếm khí {#chuong-11}
 Chương 11:: Tiên Thiên Vô Tướng kiếm khí
 
 Hắc triều bên trong không ánh sáng không âm thanh, thế nhưng mười con to lớn Tử Linh tồn tại cảm giác mãnh liệt như thế, phảng phất một trận cơn lốc dường như phả vào mặt, mà nắm giữ Hắc Ám nhận biết Vương Lục, trong đầu đã rõ ràng ấn ra đối phương ánh mắt dữ tợn.
@@ -1452,7 +1454,7 @@ Một lát sau, cốt tiên mặt ngoài phóng ra tỉ mỉ vết rạn nứt, 
 Rõ ràng ở mấy mét có hơn, nhưng có thể một chiêu kiếm bức lui Thi tướng cấp đòn nghiêm trọng, lần đầu sử dụng, liền một lần kiến công, này Tiên Thiên Vô Tướng kiếm khí, quả nhiên là lợi hại ah. . .
 
 
-# Chương 12 : Thầy trò tình thâm {#chuong-12}
+# Chương 12: Thầy trò tình thâm {#chuong-12}
 Chương 12:: Thầy trò tình thâm
 
 
@@ -1577,7 +1579,7 @@ Bất luận người sử dụng thân ở nơi nào, cho dù là Ma giới tro
 Một lát sau, thanh âm của sư phụ vang lên: "Hiện tại không rảnh ah, bọn ngươi hai ngày đi."
 
 
-# Chương 13 : Thư nhà chống đỡ Vạn Kim {#chuong-13}
+# Chương 13: Thư nhà chống đỡ Vạn Kim {#chuong-13}
 Chương 13:: Thư nhà chống đỡ Vạn Kim
 
 Hoang man nơi, Tây Sơn hắc triều, ở Minh Ngọc hỏa từ từ lờ mờ ánh sáng xuống, một vị thiếu niên tu sĩ sắc mặt cũng là âm tình bất định.
@@ -1727,7 +1729,7 @@ Vương Lục tò mò kết quả lá thư đó.
 Kí tín người: Hải Vân Phàm.
 
 
-# Chương 14 : Karla là con chó {#chuong-14}
+# Chương 14: Karla là con chó {#chuong-14}
 Chương 14:: Karla là con chó
 
 "Vương huynh, tự Linh Kiếm Sơn trên phân biệt đến nay đã có 5 năm, có khoẻ hay không? Vương huynh xưa nay không thích vô vị hàn huyên, vì lẽ đó cũng thứ cho ta đi thẳng vào vấn đề, hai tháng sau, ta đem theo sư môn một đám sư huynh đệ đi tới Linh Kiếm Sơn bái sơn, chuyến này không phải thiện, cũng không cá nhân ta mong muốn, nhưng mà chiều hướng phát triển, không thể không từ, kính xin Vương huynh thứ lỗi.
@@ -1899,7 +1901,7 @@ Lang cùng cẩu, này theo Vương Vũ có thể khác nhau ở chỗ nào? Nh�
 ". . . Cmn."
 
 
-# Chương 15 : Đần cẩu tranh đoạt chiến {#chuong-15}
+# Chương 15: Đần cẩu tranh đoạt chiến {#chuong-15}
 Chương 15:: Đần cẩu tranh đoạt chiến
 
 Thẳng thắn giảng, Vương Vũ cũng không biết cái gọi là khủng bố ma lang Fenrir, đến tột cùng là cái thứ gì.
@@ -2045,7 +2047,7 @@ Hoạt động chủ bày ra là Thiên Kiếm Đường Ngũ trưởng lão, nh
 Vạn Pháp Tiên Môn đạo hữu nhóm, hoan nghênh các ngươi
 
 
-# Chương 16 : Ngươi là ngày đó một bên đẹp nhất đám mây {#chuong-16}
+# Chương 16: Ngươi là ngày đó một bên đẹp nhất đám mây {#chuong-16}
 Chương 16:: Ngươi là ngày đó một bên đẹp nhất đám mây
 
 Linh Kiếm Sơn, Vô Tương Phong, nhà gỗ nhỏ, đón đỏ thắm đêm hà, một hồi âm mưu chính nằm trong quá trình chuẩn bị.
@@ -2151,7 +2153,7 @@ Sáng sớm ngày hôm đó, một đóa màu vàng đám mây tự đông mà �
 Vạn Pháp Tiên Môn, Vân Ba Chu.
 
 
-# Chương 17 : Bạn gái của ta là Khô Lâu {#chuong-17}
+# Chương 17: Bạn gái của ta là Khô Lâu {#chuong-17}
 Chương 17:: Bạn gái của ta là Khô Lâu
 
 Màu vàng vân vô thanh vô tức tiếp cận Linh Kiếm Sơn, chỉ chốc lát sau, hộ núi mây mù đại trận ầm ầm tản ra, lộ ra một cái rộng rãi thông lộ, cùng với trong núi hình dáng. Thông lộ bến bờ là Linh Kiếm Sơn Tứ Tượng Phong, chỗ đỉnh núi, Linh Kiếm Phái cao tầng hầu như tất cả trình diện.
@@ -2417,7 +2419,7 @@ Vương Lục liếc mắt nhìn, bị nào đó Vạn Pháp Tiên Môn đệ t�
 Vương Lục nhàn nhạt nói: "Mê hoặc tử chỗ ở mà, đương nhiên muốn tìm Tiểu la lỵ rồi."
 
 
-# Chương 18 : Ta yêu thích tiểu loli phát ra từ chân tâm! {#chuong-18}
+# Chương 18: Ta yêu thích tiểu loli phát ra từ chân tâm! {#chuong-18}
 Chương 18:: Ta yêu thích tiểu loli phát ra từ chân tâm!
 
 Tứ Tượng Phong rối loạn, chung quy vẫn là dẹp loạn xuống. Vạn Pháp Tiên Môn chỉ là lúc đầu đột nhiên không kịp chuẩn bị, rất nhanh vẫn là ở Tiên môn trưởng lão trong tiếng rống giận dữ, khôi phục bình tĩnh.
@@ -2503,7 +2505,7 @@ Vương Lục liếc nhìn người nọ, cười lắc lắc đầu: "Tiểu H�
 Cùng Tiểu Hải nhiều năm không gặp, nếu hắn mở miệng, tựu bán hắn cái mặt mũi được rồi, ngược lại loại này lẫn nhau thả miệng pháo hành vi chỉ là trước món ăn, món chính còn ở phía sau chờ đây.
 
 
-# Chương 19 : Phiêu Miểu phong tiểu đương gia {#chuong-19}
+# Chương 19: Phiêu Miểu phong tiểu đương gia {#chuong-19}
 Chương 19:: Phiêu Miểu phong tiểu đương gia
 
 Có Tiểu Hải đứng ra điều đình, hai bên cũng sẽ không tiếp tục tranh chấp, bắt đầu từng người thưởng thức thức ăn trên bàn.
@@ -2639,7 +2641,7 @@ Nhưng mà sau một khắc, Triệu Khương Nguyên sắc mặt đột nhiên 
 Ngu ngốc, cuộc tranh tài này thức ăn, là Aya làm.
 
 
-# Chương 20 : Dựa vào mặt ăn cơm nam nhân {#chuong-20}
+# Chương 20: Dựa vào mặt ăn cơm nam nhân {#chuong-20}
 Chương 20:: Dựa vào mặt ăn cơm nam nhân
 
 Trên đời đâu có chân chánh công bình quyết đấu?
@@ -2775,7 +2777,7 @@ Sau đó quay đầu, nhìn những tuy rằng đó sắc mặt không nhanh (kh
 Bọn này man tử. . . Đúng là kiên rất mạnh
 
 
-# Chương 21 : Thâm tàng thân dữ danh {#chuong-21}
+# Chương 21: Thâm tàng thân dữ danh {#chuong-21}
 Chương 21:: Thâm tàng thân dữ danh
 
 Vương Lục mười một liền nhận thưởng kinh bạo trường đua sau khi, thi đấu tình thế liền xảy ra toàn diện nghịch chuyển
@@ -2885,7 +2887,7 @@ Sau một khắc, bàn ăn đối diện, một trận máu mũi , liên đới 
 Thắng bại đã phân
 
 
-# Chương 22 : Bà mẹ nó môn phái Tiên bảo muốn xong! {#chuong-22}
+# Chương 22: Bà mẹ nó môn phái Tiên bảo muốn xong! {#chuong-22}
 Chương 22:: Bà mẹ nó, môn phái Tiên bảo muốn xong!
 
 
@@ -2990,7 +2992,7 @@ Viên Triêu Niên sắc mặt âm trầm, lên cơn giận dữ, cũng không p
 Đối mặt Vương Lục cái kia nóng lòng muốn thử nụ cười, đối với chúng sinh cánh cửa vốn là tràn ngập tự tin Viên Triêu Niên, dĩ nhiên cảm thấy trong lòng run lên, linh cảm không lành như mây đen giăng kín trong lòng.
 
 
-# Chương 23 : Ta liền biết hắn tuyệt đối sẽ không đàng hoàng {#chuong-23}
+# Chương 23: Ta liền biết hắn tuyệt đối sẽ không đàng hoàng {#chuong-23}
 Chương 23:: Ta liền biết hắn tuyệt đối sẽ không đàng hoàng
 
 "Được, phía dưới liền để Trảm Tử Dạ vì mọi người biểu thị này chúng sinh cánh cửa công hiệu , còn ảo thuật cố sự bối cảnh sao. . . Nơi này có chút sẵn có kịch bản, có thể tùy cho các ngươi chọn."
@@ -3102,7 +3104,7 @@ Viên Triêu Niên lắc lắc đầu, nghĩ thầm: "Tiếp đó, hắn chỉ c
 Nhưng vào đúng lúc này, trong ảo cảnh, Vương Lục bắt đầu thần triển khai.
 
 
-# Chương 24 : Quốc vương bệ hạ cái chết {#chuong-24}
+# Chương 24: Quốc vương bệ hạ cái chết {#chuong-24}
 Chương 24:: Quốc vương bệ hạ cái chết
 
 Vương Lục đi rồi.
@@ -3290,7 +3292,7 @@ Trung thực cùng chất phác thân binh bị hỏi sững sờ rồi, suy ngh
 Vương Lục nở nụ cười: "Không sao, sẽ biết."
 
 
-# Chương 25 : Đại minh toả sáng đại biện luận {#chuong-25}
+# Chương 25: Đại minh toả sáng đại biện luận {#chuong-25}
 Chương 25:: Đại minh toả sáng đại biện luận
 
 
@@ -3425,7 +3427,7 @@ Nói xong, Lưu Hiển quay đầu lại liếc mắt nhìn đang cùng Nhạc V
 Trong ánh mắt có khen ngợi cũng có bất đắc dĩ, nhưng chung quy vẫn là khen ngợi tình càng nhiều mấy phần.
 
 
-# Chương 26 : Mẹ nó trở lại bắt ta cây đuốc! {#chuong-26}
+# Chương 26: Mẹ nó trở lại bắt ta cây đuốc! {#chuong-26}
 Chương 26:: Mẹ nó, trở lại bắt ta cây đuốc!
 
 Chúng Sinh Môn sự kiện sau trong ngày hôm ấy, Vạn Pháp Tiên Môn trưởng lão cùng các đệ tử cũng chưa từng từ Vân Ba Chu trên đi xuống.
@@ -3567,7 +3569,7 @@ Ngoài phòng, Hải Vân Phàm hắng giọng, nỗ lực làm cuối cùng gi�
 Nhưng mà ba vị sư huynh đã hoàn toàn không nghe được hắn nói cái gì rồi.
 
 
-# Chương 27 : Môn phái Thủ Tịch {#chuong-27}
+# Chương 27: Môn phái Thủ Tịch {#chuong-27}
 Chương 27:: Môn phái Thủ Tịch
 
 Ở nhà gỗ trước, nghe trong phòng không chút kiêng kỵ chơi đùa thanh âm, Vạn Pháp Tiên Môn tiểu hỏa bạn nhóm đã sợ ngây người.
@@ -3705,7 +3707,7 @@ Vương Vũ nói rằng: "Sáng tạo tuy tốt, từ trong miệng ngươi nói
 Vương Vũ trầm ngâm nói: "Như thế thao tác lời nói, đúng là có mấy phần làm đầu. . . Được, mấy ngày nay ngươi ta gia tăng tu hành, ta sẽ cùng chưởng môn xin việc này, một khi thông qua, ngươi liền toàn lực tranh thủ ở môn phái thi đấu lúc bắt được ưu tú chiến tích "
 
 
-# Chương 28 : Mập mạp chính xác phương pháp sử dụng {#chuong-28}
+# Chương 28: Mập mạp chính xác phương pháp sử dụng {#chuong-28}
 Chương 28:: Mập mạp chính xác phương pháp sử dụng
 
 "Môn phái Thủ Tịch việc, đã cùng chưởng môn bàn xong xuôi rồi."
@@ -3835,7 +3837,7 @@ Ván cửa bình thường cự kiếm, múa ra trước nay chưa có cuồng m
 Mọi người trố mắt ngoác mồm giữa, Vương Lục quay đầu nở nụ cười: "Xem, nhục dục. . . Không đúng, sức mạnh của ái tình."
 
 
-# Chương 29 : Nàng cần chính là não bạch kim {#chuong-29}
+# Chương 29: Nàng cần chính là não bạch kim {#chuong-29}
 Chương 29:: Nàng cần chính là não bạch kim
 
 Chu Tần bị thua , khiến cho vô số người giật nảy cả mình, vị kia một tay dẫn đến chiến cuộc nghịch chuyển nữ tử thân phận, càng lộ vẻ thần bí khó lường , nhưng đáng tiếc không chờ bọn hắn tới kịp làm rõ tất cả những thứ này, cô gái kia liền nhanh chóng rời khỏi.
@@ -3945,7 +3947,7 @@ Nửa ngày trước, Nhạc Hinh Dao ứng với sư phụ yêu cầu, đi Vô 
 "Thiên Kiếm Đường đám kia dong nhân chiến thuật có nhục thanh nghe ah."
 
 
-# Chương 30 : Thật một hồi quang minh chánh đại quyết đấu! {#chuong-30}
+# Chương 30: Thật một hồi quang minh chánh đại quyết đấu! {#chuong-30}
 Chương 30:: Thật một hồi quang minh chánh đại quyết đấu!
 
 Ở song phương khua chuông gõ mõ chuẩn bị chiến đấu bên trong, ba ngày thời gian lóe lên liền qua.
@@ -4087,7 +4089,7 @@ Trên đài dưới đài lại là một trận tĩnh mịch, một lát sau, c
 "Lưu Ly Tiên cái kia ngu ngốc, phá hỏng đại sự của ta "
 
 
-# Chương 31 : Vĩnh viễn không nên tin nữ nhân {#chuong-31}
+# Chương 31: Vĩnh viễn không nên tin nữ nhân {#chuong-31}
 Chương 31:: Vĩnh viễn không nên tin nữ nhân
 
 "Được rồi, ta chịu thua."
@@ -4209,7 +4211,7 @@ Thân là Vạn Pháp Tiên Môn đệ tử bác học, để hắn nhận ra đ
 Mẹ nó, tại sao không ai đã nói, này Lưu Ly Tiên là dùng song kiếm. . . ?
 
 
-# Chương 32 : Đáng yêu chính là sức mạnh! {#chuong-32}
+# Chương 32: Đáng yêu chính là sức mạnh! {#chuong-32}
 Chương 32:: Đáng yêu chính là sức mạnh!
 
 Linh Kiếm Phái cùng Vạn Pháp Tiên Môn đệ tử ở giữa trận thứ hai giao đấu, chỉ dùng trong nháy mắt liền phân ra được thắng bại —— cứ việc này nháy mắt bên trong, cũng hơi có chút biến hóa.
@@ -4359,7 +4361,7 @@ Mà ở chân hắn một bên, có một con màu lông hỗn tạp, lại có 
 "Tiên sư nó, đó là vật gì?"
 
 
-# Chương 33 : Ta tên buồn bã mộc nước mắt {#chuong-33}
+# Chương 33: Ta tên buồn bã mộc nước mắt {#chuong-33}
 Chương 33:: Ta tên buồn bã mộc nước mắt
 
 "Vương Lục, đây là vật gì?"
@@ -4487,7 +4489,7 @@ Nhưng vào lúc này, trên đài Triệu Khương Nguyên sắc mặt phát kh
 Vương Lục cũng là khá là gian nan cười cười: "Nhận Giáp."
 
 
-# Chương 34 : Vĩnh viễn nguyên vị chiến sĩ {#chuong-34}
+# Chương 34: Vĩnh viễn nguyên vị chiến sĩ {#chuong-34}
 Chương 34:: Vĩnh viễn nguyên vị chiến sĩ
 
 "Nghe cho kỹ, chúng ta sở tu Vô Tương công, là thiên hạ cao cấp nhất tu thân dưỡng tính phương pháp, coi trọng nhất một cái không tranh với đời. . ."
@@ -4661,7 +4663,7 @@ Vương Lục cũng sửng sốt rất lâu.
 "Này vô dụng xử nam. . ."
 
 
-# Chương 35 : Đã không có gì hay sợ hãi {#chuong-35}
+# Chương 35: Đã không có gì hay sợ hãi {#chuong-35}
 Chương 35:: Đã không có gì hay sợ hãi
 
 Văn Bảo bị thua , khiến cho người thổn thức cảm khái.
@@ -4789,7 +4791,7 @@ Triệu Khương Nguyên gật đầu nói: "Không sai, tuy rằng không dám 
 . . . Ở mọi người tích cực tiếng thảo luận trong, chuẩn bị chiến tranh nhịp điệu, càng ngày càng căng thẳng.
 
 
-# Chương 36 : Nó là ta bằng hữu tốt nhất! {#chuong-36}
+# Chương 36: Nó là ta bằng hữu tốt nhất! {#chuong-36}
 Chương 36:: Nó là ta bằng hữu tốt nhất!
 
 
@@ -4940,7 +4942,7 @@ Khôn Sơn kiếm, không nhanh không chậm, nhưng vừa đúng điểm vào 
 Mà Vương Lục nhận Giáp, cũng lặng lẽ mở ra.
 
 
-# Chương 37 : Nha ngươi nghĩ cùng ta làm bằng hữu? {#chuong-37}
+# Chương 37: Nha ngươi nghĩ cùng ta làm bằng hữu? {#chuong-37}
 Chương 37:: Nha, ngươi nghĩ cùng ta làm bằng hữu?
 
 "Sư tỷ, ngươi không sao chứ?"
@@ -5116,7 +5118,7 @@ Mà nhưng vào lúc này, một người mặc đỏ trắng trường bào đ�
 "Ta áp Lưu Ly Tiên, 50 triệu linh thạch."
 
 
-# Chương 38 : Đáng tiếc đây là không đòn bẩy {#chuong-38}
+# Chương 38: Đáng tiếc đây là không đòn bẩy {#chuong-38}
 Chương 38:: Đáng tiếc đây là không đòn bẩy
 
 Khi (làm) 50 triệu linh thạch chữ xuất hiện lúc, đăng ký đài phụ cận hoàn toàn tĩnh mịch, phảng phất thời gian sông dài liền như vậy đình trệ.
@@ -5250,7 +5252,7 @@ Liền, Lôi Đình chiến thể tầng thứ tám Chưởng Tâm lôi ngay m�
 Lưu Ly Tiên nhẹ nhàng thân pháp không lại, chỉ được giơ kiếm đón lấy, đánh ra một đoàn Lôi Hỏa ánh sáng, thân hình hơi rung nhẹ giữa, đã bị nội thương
 
 
-# Chương 39 : Cho nên nói toán học không thể cút khỏi Linh Kiếm Sơn {#chuong-39}
+# Chương 39: Cho nên nói toán học không thể cút khỏi Linh Kiếm Sơn {#chuong-39}
 Chương 39:: Cho nên nói toán học không thể cút khỏi Linh Kiếm Sơn
 
 Vân Lộc trên Thiên đài chiến đấu , khiến cho rất nhiều người vây xem cảm thấy hô hấp gian nan.
@@ -5374,7 +5376,7 @@ Nói xong, Vương Lục đứng thẳng người lên, trực tiếp rời kh�
 Sắc mặt, ngưng trọng dị thường.
 
 
-# Chương 40 : Quân tử ái tài cưới chi có đạo {#chuong-40}
+# Chương 40: Quân tử ái tài cưới chi có đạo {#chuong-40}
 Chương 40:: Quân tử ái tài cưới chi có đạo
 
 "Ồ, làm sao một mặt táo bón vẻ mặt? Ngươi quan âm thổ ăn nhiều?"
@@ -5532,7 +5534,7 @@ Cuối cùng trận chung kết, chỉ có bằng bản lãnh thật sự thủ 
 Vô Tương Phong trên, một tên cô gái mặc áo trắng mặt lộ vẻ cười gằn, ở bên cạnh nàng, thân hình cao lớn Thất trưởng lão Ngạo Quan Hải Trùng Vương lục gật đầu ra hiệu.
 
 
-# Chương 41 : Ngươi có nguyện ý hay không      Bất luận phú quý vẫn là bần cùng {#chuong-41}
+# Chương 41: Ngươi có nguyện ý hay không      Bất luận phú quý vẫn là bần cùng {#chuong-41}
 Chương 41:: Ngươi có nguyện ý hay không. . . Bất luận phú quý vẫn là bần cùng
 
 
@@ -5639,7 +5641,7 @@ Không lâu lắm, Vương Lục đã bị Bích Hải Triều Sinh kiếm rung 
 "Tiên sư nó, cùng một cái hắc thúc thúc chơi được ra huyết, thực sự là quá không may mắn bén."
 
 
-# Chương 42 : Trò giỏi hơn thầy {#chuong-42}
+# Chương 42: Trò giỏi hơn thầy {#chuong-42}
 Chương 42:: Trò giỏi hơn thầy
 
 
@@ -5820,7 +5822,7 @@ Vương Lục gật gù: "Phần mềm hack tục phí xong xuôi... Bất cứ 
 Vừa dứt lời, Vương Lục dưới chân hơi động, thân hình Như Phong, trong tay Khôn Sơn kiếm ra, nhắm thẳng vào Lưu Ly Tiên, càng là tiên phát chế nhân
 
 
-# Chương 43 : Một ngày bốn lần {#chuong-43}
+# Chương 43: Một ngày bốn lần {#chuong-43}
 Chương 43:: Một ngày bốn lần
 
 Vạn Pháp Tiên Môn cùng Linh Kiếm Phái môn phái thi đấu, cuối cùng bị trở thành Linh Kiếm Phái một phương diện biểu diễn, nhưng mà trận này trận chung kết cũng không làm người thất vọng, vừa mở tràng liền đã dẫn phát nhiều tiếng hô kinh ngạc.
@@ -5942,7 +5944,7 @@ Một lát sau, kết quả rõ ràng, Vương Lục ho khan mấy tiếng, khó
 Vương Lục lau miệng ba, ở vô số người trố mắt ngoác mồm bên trong cười nói: "Còn có ba lần, trở lại."
 
 
-# Chương 44 : Tuy rằng xin lỗi thế nhưng ta muốn nói {#chuong-44}
+# Chương 44: Tuy rằng xin lỗi thế nhưng ta muốn nói {#chuong-44}
 Chương 44:: Tuy rằng xin lỗi, thế nhưng ta muốn nói
 
 
@@ -6125,7 +6127,7 @@ Vương Lục ở trên đài đứng một hồi, ho mấy búng máu —— th
 "Tuy rằng xin lỗi, thế nhưng ta muốn nói, ta đã thắng."
 
 
-# Chương 45 : Vương Lục đã siêu thần {#chuong-45}
+# Chương 45: Vương Lục đã siêu thần {#chuong-45}
 Chương 45:: Vương Lục đã siêu thần
 
 Phát sinh ở Cửu Châu lịch 48 năm, Linh Kiếm Sơn Vân Lộc trên Thiên đài một trận chiến đấu, nhất định đem ghi vào sử sách.
@@ -6289,7 +6291,7 @@ Quỳnh Hoa tiên tử, Trảm Tử Dạ, Lưu Ly Tiên, Vương Lục. . . Nh�
 Trong lúc nhất thời, không biết bao nhiêu tu tiên tiền bối nhớ tới câu châm ngôn này.
 
 
-# Chương 46 : Đợi ngươi tiết tháo đến eo {#chuong-46}
+# Chương 46: Đợi ngươi tiết tháo đến eo {#chuong-46}
 Chương 46:: Đợi ngươi tiết tháo đến eo...
 
 
