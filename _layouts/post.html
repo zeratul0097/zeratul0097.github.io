@@ -1,0 +1,55 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+<div class="container-fluid">
+    <div class="row justify-content-center">
+        <div class="form-group">
+            <select class="form-control" id="change-size" onchange="changeFontSize(this)">
+                <option value="16px">16</option>
+                <option value="20px">20</option>
+                <option value="24px">24</option>
+                <option value="28px">28</option>
+                <option value="32px">32</option>
+                <option value="36px">36</option>
+                <option value="40px">40</option>
+            </select>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    function changeFontSize(obj) {
+        const value = obj.options[obj.selectedIndex].value;
+        console.log('changing', value);
+        setCookie('fontSize', value);
+
+        document.getElementsByClassName('page-content')[0].style.fontSize = value;
+    }
+
+    function getCookie(name) {
+        let cookies = document.cookie.split('; ');
+        for (let cookie of cookies) {
+            let x = cookie.split('=');
+            if (x[0] === name) {
+                return x[1];
+            }
+        }
+    }
+
+    function setCookie(name, value) {
+        document.cookie = name + '=' + value;
+    }
+
+    function checkCookie() {
+        let fontSize = getCookie('fontSize');
+        if (!fontSize) {
+            document.cookie = 'fontSize=16px;';
+        } else {
+            document.getElementById('change-size').value = fontSize;
+            document.getElementsByClassName('page-content')[0].style.fontSize = fontSize;
+        }
+    }
+
+    checkCookie();
+</script>
+{{ content }}
