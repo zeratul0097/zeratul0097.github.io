@@ -1,21 +1,17 @@
 ---
 layout: default
 ---
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-<div class="container-fluid">
-    <div class="row justify-content-center">
-        <div class="form-group">
-            <select class="form-control" id="change-size" onchange="changeFontSize(this)">
-                <option value="16px">16</option>
-                <option value="20px">20</option>
-                <option value="24px">24</option>
-                <option value="28px">28</option>
-                <option value="32px">32</option>
-                <option value="36px">36</option>
-                <option value="40px">40</option>
-            </select>
-        </div>
-    </div>
+<div style="text-align: center;">
+    <select id="change-size" onchange="changeFontSize(this)"
+        style="width: 50px; height: 30px; font-size: 24;">
+        <option value="16px">16</option>
+        <option value="20px">20</option>
+        <option value="24px">24</option>
+        <option value="28px">28</option>
+        <option value="32px">32</option>
+        <option value="36px">36</option>
+        <option value="40px">40</option>
+    </select>
 </div>
 <script type="text/javascript">
     function changeFontSize(obj) {
