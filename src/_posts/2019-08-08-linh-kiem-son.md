@@ -3,8 +3,8 @@ layout: post
 title: Linh Kiem Son
 permalink: /books/linh-kiem-son/
 ---
-{%for b in site.books%}
-<a href="{{ b.url }}">
-    {{b.title}}
+{% for book in site.books %}
+<a href="{{ book.url }}">
+    {{ book.title }}
 </a>
-{%endfor%}
+{% endfor %}
