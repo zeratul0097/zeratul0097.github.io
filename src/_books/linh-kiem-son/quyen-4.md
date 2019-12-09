@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Linh Kiếm Sơn - Quyển 4
-date: 2019-12-04 14:39:09.300928+07:00
-categories: [Ebook]
-tag: [Tien hiep, Linh Kiem Son]
 ---
 # Mục lục
 - [Chương 1: Trí Giáo môn đồ](#chuong-1)

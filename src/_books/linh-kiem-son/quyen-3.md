@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Linh Kiếm Sơn - Quyển 3
-date: 2019-12-04 14:39:09.300928+07:00
-categories: [Ebook]
-tag: [Tien hiep, Linh Kiem Son]
 ---
 # Mục lục
 - [Chương 1: Nhà ta tên Béo không thể như vậy sẽ nhổ nước bọt](#chuong-1)

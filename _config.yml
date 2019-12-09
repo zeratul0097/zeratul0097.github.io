@@ -28,10 +28,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+collections_dir: src
 collections:
   books:
     output: true
-    permalink: /books/:path/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
