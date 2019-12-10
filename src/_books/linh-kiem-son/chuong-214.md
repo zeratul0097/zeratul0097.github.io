@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 214: 
+title: Chương 214 - Tuy Rằng Bị Nàng Đoạt Quái, Nhưng Ta Yêu Nàng
 book_name: linh-kiem-son
+chapter: 214
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 214: 
+# Chương 214: Tuy Rằng Bị Nàng Đoạt Quái, Nhưng Ta Yêu Nàng
 
 "Chưởng hình trưởng lão?"
 

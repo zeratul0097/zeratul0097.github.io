@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 135: 
+title: Chương 135 - Phía Trước Năng Lượng Cao Phản Ứng, Cường Mà Mạnh Mẽ
 book_name: linh-kiem-son
+chapter: 135
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 135: 
-
-Chương 10:: Phía trước năng lượng cao phản ứng, cường mà mạnh mẽ
+# Chương 135: Phía Trước Năng Lượng Cao Phản Ứng, Cường Mà Mạnh Mẽ
 
 Vương Lục đến cùng cũng không ăn cái kia đần cẩu.
 

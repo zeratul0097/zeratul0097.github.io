@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 347: 
+title: Chương 347 - Lưu Ly Tiên Chính Xác Cách Dùng?
 book_name: linh-kiem-son
+chapter: 347
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 347: 
+# Chương 347: Lưu Ly Tiên Chính Xác Cách Dùng?
 
 "Vương Lục, bình tĩnh, bình tĩnh đến đâu, có thể làm cũng đã làm, cục đã bố trí xong, tiếp đó, thắng bại thì ở lần hành động này."
 

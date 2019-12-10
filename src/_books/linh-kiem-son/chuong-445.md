@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 445: 
+title: Chương 445 - Trên Người Ngươi Động Động Lại Nhiều !
 book_name: linh-kiem-son
+chapter: 445
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 445: 
+# Chương 445: Trên Người Ngươi Động Động Lại Nhiều !
 
 "... Ai, quả nhiên là không nên gọi trên hàng này đến a."
 

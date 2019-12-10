@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 573: 
+title: Chương 573 - Một Bước Thiên Đường, Một Bước Địa Ngục
 book_name: linh-kiem-son
+chapter: 573
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 573: 
+# Chương 573: Một Bước Thiên Đường, Một Bước Địa Ngục
 
 Việc này không nên chậm trễ, hỏi trời xanh nghi thức ngay đầu tiên liền bắt đầu bắt tay chuẩn bị.
 

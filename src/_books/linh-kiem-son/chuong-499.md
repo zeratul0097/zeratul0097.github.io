@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 499: 
+title: Chương 499 - Làm Người Hô To Không Thể Chiến Thắng Dân Tộc
 book_name: linh-kiem-son
+chapter: 499
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 499: 
+# Chương 499: Làm Người Hô To Không Thể Chiến Thắng Dân Tộc
 
 Tiến vào sa mạc ốc đảo sau, Vương Lục phát hiện thành phố này đã hoàn toàn đánh tới cái kia vô hình ác ma dấu ấn. Làm bao phủ Ma tộc 2000 năm ác mộng, nó hầu như là ở khắp mọi nơi.
 

@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 186: 
+title: Chương 186 - Ngày Mùa Hè Đại Tác Chiến
 book_name: linh-kiem-son
+chapter: 186
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 186: 
-
-Chương 15:: Ngày mùa hè đại tác chiến
+# Chương 186: Ngày Mùa Hè Đại Tác Chiến
 
 Ở Vương Lục quyết định muốn đích thân đạp khắp trong vòng ngàn dặm Vân Đài núi, sớm một bước tìm tới trong truyền thuyết tiên thú ấu thể thời gian, Vân Đài núi Tọa Vong phong trên, Ngự Thú tông phân đà một đám trưởng lão nhóm chính đang trải qua một hồi khó quên lôi kiếp.
 

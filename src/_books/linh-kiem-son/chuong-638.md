@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 638: 
+title: Chương 638 - Không Tiễn Không Vui!
 book_name: linh-kiem-son
+chapter: 638
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 638: 
+# Chương 638: Không Tiễn Không Vui!
 
 "Khe nằm, hai người này là ai vậy?"
 

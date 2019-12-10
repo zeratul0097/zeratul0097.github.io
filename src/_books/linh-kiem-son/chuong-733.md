@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 733: 
+title: Chương 733 - Mù Mắt Chó Của Ta Mắt Mắt Mắt Mắt...
 book_name: linh-kiem-son
+chapter: 733
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 733: 
+# Chương 733: Mù Mắt Chó Của Ta Mắt Mắt Mắt Mắt...
 
 "... Trở lên, chính là ta cho ngài mang đến cố sự."
 

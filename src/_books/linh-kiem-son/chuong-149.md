@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 149: 
+title: Chương 149 - Quốc Vương Bệ Hạ Cái Chết
 book_name: linh-kiem-son
+chapter: 149
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 149: 
-
-Chương 24:: Quốc vương bệ hạ cái chết
+# Chương 149: Quốc Vương Bệ Hạ Cái Chết
 
 Vương Lục đi rồi.
 

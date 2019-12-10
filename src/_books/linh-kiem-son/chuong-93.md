@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 93: 
+title: Chương 93 - Đây là một kỉ niệm đáng giá thời khắc lịch sử
 book_name: linh-kiem-son
+chapter: 93
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 93: 
+# Chương 93: Đây là một kỉ niệm đáng giá thời khắc lịch sử
 
 "Nói chung chính là như vậy, dưới cái nhìn của ta, thế giới này vốn là tràn ngập bóc lột, hồ ly bóc lột thỏ, thỏ bóc lột hoa cỏ, hoa cỏ bóc lột đại địa... Trừ phi có thể đứng ở Thiên Đạo đỉnh, bằng không liền muốn cống hiến ra một vài thứ, như thu thuế giống như vậy, không thể tránh khỏi, mà đối với thiên hạ ngu xuẩn người mà nói, bọn hắn cống hiến liền có thể xưng là thông minh thuế. Khoản này thuế cùng với giao cho Thất Tinh môn loại này thấp hèn tên lừa đảo đội, còn không bằng để ta làm thu." 
 

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 43: Mới hoan
+title: Chương 43 - Mới hoan
 book_name: linh-kiem-son
+chapter: 43
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

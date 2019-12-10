@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 719: 
+title: Chương 719 - Vào Thứ Sáu Viết Xuống Chúc Mừng Cuối Tuần Văn Chương
 book_name: linh-kiem-son
+chapter: 719
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 719: 
+# Chương 719: Vào Thứ Sáu Viết Xuống Chúc Mừng Cuối Tuần Văn Chương
 
 "... Các ngươi nói, Ngự Thú Tông người có khóc hay không a?"
 

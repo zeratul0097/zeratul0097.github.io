@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 809: 
+title: Chương 809 - Đáp Ứng Không Xuể
 book_name: linh-kiem-son
+chapter: 809
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 809: 
+# Chương 809: Đáp Ứng Không Xuể
 
 Cửu Châu Đại Lục, Trung Châu thịnh kinh thông Thiên Thánh Đường ở ngoài, một hồi suýt nữa? Thành hai thế lực lớn cắt đứt nguy cơ rốt cục bị máu tanh tàn sát tiêu trừ.
 

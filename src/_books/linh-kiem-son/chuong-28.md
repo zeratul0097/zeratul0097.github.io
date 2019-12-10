@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 28: Sư phụ của ta không thể không phải ngu ngốc
+title: Chương 28 - Sư phụ của ta không thể không phải ngu ngốc
 book_name: linh-kiem-son
+chapter: 28
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

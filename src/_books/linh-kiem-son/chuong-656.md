@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 656: 
+title: Chương 656 - Ta Có Thượng Tướng Aya, Có Thể Chém Ngươi Nhũ Đầu
 book_name: linh-kiem-son
+chapter: 656
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 656: 
+# Chương 656: Ta Có Thượng Tướng Aya, Có Thể Chém Ngươi Nhũ Đầu
 
 Đây là một hồi khốc liệt trình độ trước nay chưa từng có đại chiến.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 216: 
+title: Chương 216 - Song Tu! ?
 book_name: linh-kiem-son
+chapter: 216
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 216: 
+# Chương 216: Song Tu! ?
 
 Gừng càng già càng cay a.
 

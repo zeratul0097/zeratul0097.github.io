@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 270: 
+title: Chương 270 - Làm Như Cố Nhân Đến
 book_name: linh-kiem-son
+chapter: 270
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 270: 
+# Chương 270: Làm Như Cố Nhân Đến
 
 Phân lúc: khi khác?
 

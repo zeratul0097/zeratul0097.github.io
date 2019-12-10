@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 118: 
+title: Chương 118 - Nghe Nói Ngươi Muốn Đâm Thọc?
 book_name: linh-kiem-son
+chapter: 118
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 118: 
-
-Chương 34:: Nghe nói ngươi muốn đâm thọc?
+# Chương 118: Nghe Nói Ngươi Muốn Đâm Thọc?
 
 Ở Văn Bảo vẻ mặt đưa đám, mang tới hai tên trợ thủ đi tìm Na Thiên hộ cầu hành hạ thời điểm, Vương Lục cùng Nhạc Hinh Dao cũng theo khách sạn xuất phát, đi tìm Chu Tần phiền phức.
 

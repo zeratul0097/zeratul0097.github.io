@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 511: 
+title: Chương 511 - Chân Tướng Liền Như Thế Lại Một Lần Nữa Bị Vạch Trần
 book_name: linh-kiem-son
+chapter: 511
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 511: 
+# Chương 511: Chân Tướng Liền Như Thế Lại Một Lần Nữa Bị Vạch Trần
 
 Ma linh chi mộng thế giới dưới lòng đất bên trong, tàn khốc truy kích chiến nhưng đang kéo dài.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 205: 
+title: Chương 205 - Thực Lực Tuyệt Đối
 book_name: linh-kiem-son
+chapter: 205
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 205: 
+# Chương 205: Thực Lực Tuyệt Đối
 
 Khuyển đánh cờ đương nhiên không phải cẩu.
 

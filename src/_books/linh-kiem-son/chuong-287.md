@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 287: 
+title: Chương 287 - Tín Ngưỡng Thánh Quang Ba
 book_name: linh-kiem-son
+chapter: 287
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 287: 
+# Chương 287: Tín Ngưỡng Thánh Quang Ba
 
 Tàn sát bình dân?
 

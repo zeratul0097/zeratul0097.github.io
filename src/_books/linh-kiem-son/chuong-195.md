@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 195: 
+title: Chương 195 - Hành Hạ Mèo Cuồng Nhân
 book_name: linh-kiem-son
+chapter: 195
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 195: 
-
-Chương 24:: Hành hạ mèo cuồng nhân
+# Chương 195: Hành Hạ Mèo Cuồng Nhân
 
 Đã nhớ không rõ đây là lần thứ mấy bị hắn đánh.
 

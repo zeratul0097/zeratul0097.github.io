@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 446: 
+title: Chương 446 - Tâm Tình Không Tốt Vì Lẽ Đó Muốn Làm Chết
 book_name: linh-kiem-son
+chapter: 446
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 446: 
+# Chương 446: Tâm Tình Không Tốt Vì Lẽ Đó Muốn Làm Chết
 
 "Các ngươi a..."
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 298: 
+title: Chương 298 - Huyết Thống Cao Quý Vương Lộ Lộ
 book_name: linh-kiem-son
+chapter: 298
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 298: 
+# Chương 298: Huyết Thống Cao Quý Vương Lộ Lộ
 
 Thánh Quang Giáo mục sư kích phát rồi dị bảo Long Tiên Hương, mùi thơm kỳ dị cấp tốc khuếch tán đến Thiểm Kim Trấn mỗi một góc, mê hoặc đặc biệt huyết mạch.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 660: 
+title: Chương 660 - Không Nghĩ Ra Được
 book_name: linh-kiem-son
+chapter: 660
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 660: 
+# Chương 660: Không Nghĩ Ra Được
 
 Vương Lục xuất hiện, đồng thời gây nên đối lập song phương chú ý.
 

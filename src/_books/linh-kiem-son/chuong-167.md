@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 167: 
+title: Chương 167 - Trò Giỏi Hơn Thầy
 book_name: linh-kiem-son
+chapter: 167
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 167: 
-
-Chương 42:: Trò giỏi hơn thầy
+# Chương 167: Trò Giỏi Hơn Thầy
 
 "Đại sư huynh, uống chén nước đi."
 

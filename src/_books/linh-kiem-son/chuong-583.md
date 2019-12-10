@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 583: 
+title: Chương 583 - Chết Hoãn
 book_name: linh-kiem-son
+chapter: 583
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 583: 
+# Chương 583: Chết Hoãn
 
 Một đám thiếu nữ lã chã rơi lệ tình cảnh, khiến cho Vương Lục cũng không khỏi cảm thấy cả người da dẻ căng thẳng.
 

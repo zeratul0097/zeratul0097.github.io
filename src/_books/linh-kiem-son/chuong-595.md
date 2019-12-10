@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 595: 
+title: Chương 595 - Đứng Đem Tiền Tránh
 book_name: linh-kiem-son
+chapter: 595
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 595: 
+# Chương 595: Đứng Đem Tiền Tránh
 
 Ở đề hải tiểu tổ vì chính mình tiên trường cùng ngực phấn đấu đồng thời, Vạn Tiên Minh cai quản bên dưới, còn có hàng trăm hàng ngàn cái tương tự tiểu tổ ở làm đồng dạng nỗ lực.
 

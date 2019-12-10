@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 237: 
+title: Chương 237 - Đây Là Tận Hiếu Vẫn Là Khang Đa?
 book_name: linh-kiem-son
+chapter: 237
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 237: 
+# Chương 237: Đây Là Tận Hiếu Vẫn Là Khang Đa?
 
 Khe nằm?
 

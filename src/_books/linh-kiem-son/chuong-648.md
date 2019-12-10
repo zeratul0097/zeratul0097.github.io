@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 648: 
+title: Chương 648 - Đừng Cầm Vương Lục Không Làm Lãnh Đạo
 book_name: linh-kiem-son
+chapter: 648
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 648: 
+# Chương 648: Đừng Cầm Vương Lục Không Làm Lãnh Đạo
 
 "Ha ha ha ha, Aya ngươi thực sự là quá manh a"
 

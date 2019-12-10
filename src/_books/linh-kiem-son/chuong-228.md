@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 228: 
+title: Chương 228 - Này Không Phải Không Phải Thành Chớ Quấy Rầy
 book_name: linh-kiem-son
+chapter: 228
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 228: 
+# Chương 228: Này Không Phải Không Phải Thành Chớ Quấy Rầy
 
 Thương Khê Châu, Linh Kiếm Sơn, Tinh Thần Phong trên, linh kiếm chưởng môn Phong Ngâm Chân Nhân cùng đệ tử Chu Thi Dao ở trúc bên trong ngồi đối diện nhau, hai chén trà thủy đặt ở giữa hai người, trong chén hơi nước chậm rãi bốc lên, càng sấn ra trúc bên trong một mảnh điềm đạm an nhàn bầu không khí —— nếu như không cân nhắc đứng ở trúc trong phòng, cảm giác nôn nóng một loạt Thiên Kiếm Đường trưởng lão.
 

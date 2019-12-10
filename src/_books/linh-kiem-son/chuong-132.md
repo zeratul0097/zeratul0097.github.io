@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 132: 
+title: Chương 132 - Ta Muốn Luyện Vô Tướng Kiếm Khí
 book_name: linh-kiem-son
+chapter: 132
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 132: 
-
-Chương 7:: Ta muốn luyện Vô Tướng kiếm khí
+# Chương 132: Ta Muốn Luyện Vô Tướng Kiếm Khí
 
 "Kiếm Tâm Thông Minh luyện có thêm còn giảm thông minh?"
 

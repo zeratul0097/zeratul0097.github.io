@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 264: 
+title: Chương 264 - Hữu Dung Nãi Đại Ii
 book_name: linh-kiem-son
+chapter: 264
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 264: 
+# Chương 264: Hữu Dung Nãi Đại Ii
 
 Hiện tại tu sĩ nhấc lên thời đại thượng cổ, đại thể lòng mang ngóng trông, tuy nói người thời nay không bằng cổ lời giải thích nói đến đều là sỉ nhục, nhưng thời đại mạt pháp trước đây, thiên địa linh khí nồng nặc, đại năng xuất hiện lớp lớp cũng là sự thật không thể chối cãi. Bây giờ Cửu Châu tu vi cảnh giới số một, là Thịnh Kinh Tiên Môn Hà Đồ Chân Quân, cũng bất quá là hợp thể đỉnh phong, khoảng cách Đại thừa kỳ còn kém nửa bước, mà chính là này kém nửa bước, mấy ngàn năm qua chỉ có vẻn vẹn mấy người đã từng nhảy tới, hơn nữa đều là tiêu hao tiềm năng, thăng cấp đại thừa sau liền lại cũng vô vọng tồn tiến vào. Còn độ kiếp thăng tiên, liền thật sự chỉ là trong truyền thuyết cố sự.
 

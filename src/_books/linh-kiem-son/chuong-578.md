@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 578: 
+title: Chương 578 - Cái Này Thử Thách Độ Khó Tựa Hồ Quá Cao
 book_name: linh-kiem-son
+chapter: 578
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 578: 
+# Chương 578: Cái Này Thử Thách Độ Khó Tựa Hồ Quá Cao
 
 Trời xanh giáng lâm cũng không làm người bất ngờ, cứ việc quá khứ mấy ngàn năm qua nàng trước sau ẩn cư hậu trường, thậm chí để cho mình con dân đều lầm tưởng cái gọi là trời xanh bất quá thị phi nhân cách hoá pháp tắc, nhưng nàng chung quy không phải máu lạnh vô tình, không làm được thiên địa bất nhân lấy vạn vật vì trâu cẩu.
 

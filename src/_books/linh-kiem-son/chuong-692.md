@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 692: 
+title: Chương 692 - Tăng Ca Hiệp Hằng Ngày
 book_name: linh-kiem-son
+chapter: 692
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 692: 
+# Chương 692: Tăng Ca Hiệp Hằng Ngày
 
 "Gần nhất La Tiêu thằng ngốc kia điểu rất sống yên ổn a, hại người đều có chút tẻ nhạt."
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 830: 
+title: Chương 830 - Thỉnh Cầu Vé Tháng, Thứ Ba Thị Trường Chứng Khoán Lại Trướng!
 book_name: linh-kiem-son
+chapter: 830
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 830: 
+# Chương 830: Thỉnh Cầu Vé Tháng, Thứ Ba Thị Trường Chứng Khoán Lại Trướng!
 
 "Báo! Linh Khê Trấn kim kiều... Ồ, Lưu Hiển trưởng lão đây?"
 

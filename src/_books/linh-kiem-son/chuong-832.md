@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 832: 
+title: Chương 832 - Không Nói Nhiều , Thị Trường Chứng Khoán Tất Trướng!
 book_name: linh-kiem-son
+chapter: 832
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 832: 
+# Chương 832: Không Nói Nhiều , Thị Trường Chứng Khoán Tất Trướng!
 
 Thương Khê Châu, Linh Kiếm Sơn.
 

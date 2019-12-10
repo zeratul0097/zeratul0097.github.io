@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 22: Cái gì ta tương lai hai mươi năm tiền lương cũng bị mất
+title: Chương 22 - Cái gì ta tương lai hai mươi năm tiền lương cũng bị mất
 book_name: linh-kiem-son
+chapter: 22
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

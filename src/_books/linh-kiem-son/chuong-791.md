@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 791: 
+title: Chương 791 - Bắt Gian Ở Giường
 book_name: linh-kiem-son
+chapter: 791
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 791: 
+# Chương 791: Bắt Gian Ở Giường
 
 "Ta thực sự là ngày cẩu mới sẽ chọn loại này đau "bi" nhiệm vụ, một đám trâu bò rắn rết cũng là thôi, hiện tại liền bệnh tâm thần đều xông tới... Tiên giới đến cùng có còn hay không người tốt!?"
 

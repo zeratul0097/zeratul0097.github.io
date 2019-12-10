@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 363: 
+title: Chương 363 - Đã Từng Thương Hải Làm Khó Thủy
 book_name: linh-kiem-son
+chapter: 363
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 363: 
+# Chương 363: Đã Từng Thương Hải Làm Khó Thủy
 
 Đối với Aya thành tâm thành ý cầu vấn, Vương Lục hiếm thấy địa cởi nhất quán thong dong vẻ mặt, trái lại có chút bắt đầu ngại ngùng.
 

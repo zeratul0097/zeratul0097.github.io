@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 397: 
+title: Chương 397 - Không Có Tiền Không Ai Không Có Thông Minh
 book_name: linh-kiem-son
+chapter: 397
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 397: 
+# Chương 397: Không Có Tiền Không Ai Không Có Thông Minh
 
 "Ta hỏi ngươi, ngươi là ta người theo sao?"
 

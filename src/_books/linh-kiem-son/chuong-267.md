@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 267: 
+title: Chương 267 - Ăn Ta Đại Thiên Địa Mâu Thuẫn Rồi!
 book_name: linh-kiem-son
+chapter: 267
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 267: 
+# Chương 267: Ăn Ta Đại Thiên Địa Mâu Thuẫn Rồi!
 
 "Lương thu, làm tốt lắm."
 

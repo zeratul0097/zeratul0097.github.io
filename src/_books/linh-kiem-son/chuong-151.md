@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 151: 
+title: Chương 151 - Mẹ Nó, Trở Lại Bắt Ta Cây Đuốc!
 book_name: linh-kiem-son
+chapter: 151
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 151: 
-
-Chương 26:: Mẹ nó, trở lại bắt ta cây đuốc!
+# Chương 151: Mẹ Nó, Trở Lại Bắt Ta Cây Đuốc!
 
 Chúng Sinh Môn sự kiện sau trong ngày hôm ấy, Vạn Pháp Tiên Môn trưởng lão cùng các đệ tử cũng chưa từng từ Vân Ba Chu trên đi xuống.
 

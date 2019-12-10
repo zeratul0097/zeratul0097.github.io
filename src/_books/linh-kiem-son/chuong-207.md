@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 207: 
+title: Chương 207 - Ăn Miếng Trả Miếng, Gấp Bội Xin Trả
 book_name: linh-kiem-son
+chapter: 207
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 207: 
+# Chương 207: Ăn Miếng Trả Miếng, Gấp Bội Xin Trả
 
 Làm a hạ lấy hổ vương thân phận lại xuất hiện ở Quan Vân Phong trên thời điểm, thời gian kỳ thực mới quá khứ không tới nửa ngày.
 

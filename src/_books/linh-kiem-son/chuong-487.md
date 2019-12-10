@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 487: 
+title: Chương 487 - Nam Nữ Phối Hợp Đại Tràn Dịch Não
 book_name: linh-kiem-son
+chapter: 487
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 487: 
+# Chương 487: Nam Nữ Phối Hợp Đại Tràn Dịch Não
 
 Vương Vũ nhạc đệm cũng chưa cho luyện cấp kế hoạch mang đến ảnh hưởng quá lớn.
 

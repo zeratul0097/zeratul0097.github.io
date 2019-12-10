@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 695: 
+title: Chương 695 - Năm Đó
 book_name: linh-kiem-son
+chapter: 695
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 695: 
+# Chương 695: Năm Đó
 
 Huyền mặc là cái thực sự người.
 

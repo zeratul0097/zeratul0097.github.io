@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 710: 
+title: Chương 710 - Nàng Muốn Chơi Nhóm Ba Người?
 book_name: linh-kiem-son
+chapter: 710
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 710: 
+# Chương 710: Nàng Muốn Chơi Nhóm Ba Người?
 
 Hà Đồ đạo nhân trong tháp cao, dài lâu yên tĩnh để bầu không khí hiện ra mấy phần túc sát, to lớn bên trong gian phòng chỉ có Hà Đồ, Quỳnh Hoa, Vương Lục ba người, đều là mặt không hề cảm xúc uyển như hóa đá. Dòng sông thời gian đang chảy xuôi thời phảng phất vòng qua ba người này, khiến cho độc lập với thời không ở ngoài.
 

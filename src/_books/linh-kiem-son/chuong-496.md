@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 496: 
+title: Chương 496 - Ta Hoài Nghi Bọn Họ Đã Biến Thành Ma Tộc Thịt Nô Lệ
 book_name: linh-kiem-son
+chapter: 496
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 496: 
+# Chương 496: Ta Hoài Nghi Bọn Họ Đã Biến Thành Ma Tộc Thịt Nô Lệ
 
 Từ phúc tuyền vị trí đại Tung sơn một đường đi tới Phong Ngâm các loại (chờ) người bị nhốt sa mạc khu vực, đầy đủ dùng hai ngày.
 

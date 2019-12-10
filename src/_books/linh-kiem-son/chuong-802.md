@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 802: 
+title: Chương 802 - Ngàn Vạn Không Thể Đáp Ứng
 book_name: linh-kiem-son
+chapter: 802
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 802: 
+# Chương 802: Ngàn Vạn Không Thể Đáp Ứng
 
 Hai vị tiên nhân giao thủ như động tác mau lẹ, trong nháy mắt, Hiên Viên kiếm, phá Tiên vương, bực này Cửu Châu vạn năm đều khó gặp Đại Tiên thuật tiếp ngay cả ra tay, hai người đồng thời trúng chiêu, chịu chí tử trọng thương, xem ra kết cục đã định.
 

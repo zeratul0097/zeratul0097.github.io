@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 399: 
+title: Chương 399 - Ngươi Này Suy Người!
 book_name: linh-kiem-son
+chapter: 399
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 399: 
+# Chương 399: Ngươi Này Suy Người!
 
 "Thực sự là rách nát a."
 

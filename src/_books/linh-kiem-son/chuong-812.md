@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 812: 
+title: Chương 812 - Luôn Có Điêu Dân Muốn Ói Tiện Lợi
 book_name: linh-kiem-son
+chapter: 812
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 812: 
+# Chương 812: Luôn Có Điêu Dân Muốn Ói Tiện Lợi
 
 "Lưu ly tiên tên ngu ngốc này! Ngươi muốn hại chết ta a!"
 

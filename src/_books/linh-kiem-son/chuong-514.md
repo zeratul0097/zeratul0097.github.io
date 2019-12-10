@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 514: 
+title: Chương 514 - Thêm Một Chương Nữa Chính Năng Lượng Đi!
 book_name: linh-kiem-son
+chapter: 514
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 514: 
+# Chương 514: Thêm Một Chương Nữa Chính Năng Lượng Đi!
 
 Bên trong lều cỏ phát sinh dị biến đã bị người bên ngoài phát ra giác —— Vương Vũ bị đánh bay thời tha đổ non nửa một bên lều vải, tình hình bên trong nhìn một cái không sót gì.
 

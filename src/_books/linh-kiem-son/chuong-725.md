@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 725: 
+title: Chương 725 - Ở Ánh Rạng Đông Ngày Viết Xuống Chúc Mừng Văn Chương
 book_name: linh-kiem-son
+chapter: 725
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 725: 
+# Chương 725: Ở Ánh Rạng Đông Ngày Viết Xuống Chúc Mừng Văn Chương
 
 Rất nhiều chuyện, phát sinh trước, nghĩ như thế nào đều cảm thấy đoạn không thể có thể. Nhưng mà các loại (chờ) thực tế phát sinh, thay cái góc độ lại đi nghĩ, lại có cảm giác không có chuyện gì ngạc nhiên.
 

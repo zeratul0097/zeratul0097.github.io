@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 794: 
+title: Chương 794 - Biệt Ly
 book_name: linh-kiem-son
+chapter: 794
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 794: 
+# Chương 794: Biệt Ly
 
 Phá Hư Tiên Tôn cực kỳ vui mừng mình bây giờ là tâm ma vào thể trạng thái.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 662: 
+title: Chương 662 - Xa Lạ Ánh Rạng Đông
 book_name: linh-kiem-son
+chapter: 662
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 662: 
+# Chương 662: Xa Lạ Ánh Rạng Đông
 
 "Tin tức mới nhất, Thiên Luân Chân Quân ở ngang dọc chín mươi đạo trên bàn cờ lại suy tàn Tuyết tiên tử, hai trận chiến toàn thắng bắt ba mươi điểm tích phân"
 

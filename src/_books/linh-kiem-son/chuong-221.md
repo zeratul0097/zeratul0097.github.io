@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 221: 
+title: Chương 221 - Vương Lục Coi Hư Danh Như Đất Mặt
 book_name: linh-kiem-son
+chapter: 221
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 221: 
+# Chương 221: Vương Lục Coi Hư Danh Như Đất Mặt
 
 Một hồi thiếu niên Vương Lục chi buồn phiền, chung quy không có phát triển ra cái gì mối họa lớn, vung Đại Bảo kiếm chém buồn phiền tia linh kiếm thủ tịch, rất nhanh lại khôi phục chuyên nghiệp người mạo hiểm sắc bén.
 

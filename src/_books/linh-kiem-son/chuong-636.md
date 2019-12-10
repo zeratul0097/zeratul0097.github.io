@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 636: 
+title: Chương 636 - Không Nghĩ Tới Thật Sự Có Người Dám Thác Ta Giải Quyết Vấn Đề
 book_name: linh-kiem-son
+chapter: 636
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 636: 
+# Chương 636: Không Nghĩ Tới Thật Sự Có Người Dám Thác Ta Giải Quyết Vấn Đề
 
 Một cái thư pháp vẽ, một cái đàn khẩu tướng thanh... Vương Lục thành công dùng đê tiện vô liêm sỉ chiến thuật kéo dài đầy đủ thời gian ba tháng.
 

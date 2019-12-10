@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 793: 
+title: Chương 793 - Nội Bộ Mâu Thuẫn
 book_name: linh-kiem-son
+chapter: 793
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 793: 
+# Chương 793: Nội Bộ Mâu Thuẫn
 
 Trung Châu kỳ sơn tông, du hồ tiểu Trúc, Hạ Tiểu Hà lấy ánh mắt nghiêm nghị xem kỹ Phá Hư Tiên Tôn, để người sau rất bất đắc dĩ.
 

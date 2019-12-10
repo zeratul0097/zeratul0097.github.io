@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 76: Cường hào chúng ta làm bằng hữu rất mà!
+title: Chương 76 - Cường hào chúng ta làm bằng hữu rất mà!
 book_name: linh-kiem-son
+chapter: 76
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

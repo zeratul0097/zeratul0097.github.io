@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 620: 
+title: Chương 620 - Thời Gian Đi Chỗ Nào
 book_name: linh-kiem-son
+chapter: 620
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 620: 
+# Chương 620: Thời Gian Đi Chỗ Nào
 
 Cửu Châu đoàn người rời đi đàn tiên mộ, là ở hai ngày sau đó.
 

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 23: Thu nhiều ba, năm đấu
+title: Chương 23 - Thu nhiều ba, năm đấu
 book_name: linh-kiem-son
+chapter: 23
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

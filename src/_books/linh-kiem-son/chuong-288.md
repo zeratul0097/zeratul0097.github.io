@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 288: 
+title: Chương 288 - Ta Là Muốn Trở Thành Hoàng Kim Vương Nam Nhân
 book_name: linh-kiem-son
+chapter: 288
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 288: 
+# Chương 288: Ta Là Muốn Trở Thành Hoàng Kim Vương Nam Nhân
 
 Dựa theo Thâm Thổ Thành chủ Haddock hiệp sĩ lời giải thích, Thánh Quang Giáo đã trở thành Vương Lục các loại (chờ) người nhiễu không ra một cửa ải.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 108: 
+title: Chương 108 - Chúc mừng ngươi bò đến trước mặt của ta
 book_name: linh-kiem-son
+chapter: 108
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 108: 
+# Chương 108: Chúc mừng ngươi bò đến trước mặt của ta
 
 Chúc mừng ngươi bò đến trước mặt của ta
 

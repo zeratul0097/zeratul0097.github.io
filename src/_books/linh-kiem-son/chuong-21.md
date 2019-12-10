@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 21: Ai nha cmn
+title: Chương 21 - Ai nha cmn
 book_name: linh-kiem-son
+chapter: 21
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

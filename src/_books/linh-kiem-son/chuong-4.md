@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 4: Bà chủ củ cải
+title: Chương 4 - Bà chủ củ cải
 book_name: linh-kiem-son
+chapter: 4
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

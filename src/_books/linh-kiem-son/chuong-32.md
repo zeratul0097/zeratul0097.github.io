@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 32: Sư phụ, xin nhận đồ nhi cúi đầu!
+title: Chương 32 - Sư phụ, xin nhận đồ nhi cúi đầu!
 book_name: linh-kiem-son
+chapter: 32
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

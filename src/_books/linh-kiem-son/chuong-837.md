@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 837: 
+title: Chương 837 - Sau Đó Nàng Sẽ Chết ?
 book_name: linh-kiem-son
+chapter: 837
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 837: 
+# Chương 837: Sau Đó Nàng Sẽ Chết ?
 
 "Ha ha, mấy vạn năm trước, tây di chúng thần hay là xác thực là bị các ngươi đánh cho đau đến không muốn sống, nhưng chỉ cần bọn họ còn không có ngu đến mức gia, liền không khó phán đoán ra các ngươi đã sớm là miệng cọp gan thỏ. Đối với trả cho chúng ta này đàn hạ giới tiện chủng đều muốn trả giá khốc liệt đánh đổi, các ngươi dựa vào cái gì để chúng thần điện người kiêng kỵ? Hoàng Kim vương chỉ là một giới tây di bại khuyển, nhưng ở Cửu Châu Đại Lục đánh được các ngươi một đám tiên nhân lúc nào cũng lúng túng. Các ngươi có tư cách gì tự tin có thể đỡ được nuốt vào tây di đại lục chúng thần điện?"
 

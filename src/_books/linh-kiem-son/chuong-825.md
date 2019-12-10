@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 825: 
+title: Chương 825 - Sắp Trọn Bộ Rồi, Cầu Nguyệt Phiếu Ba
 book_name: linh-kiem-son
+chapter: 825
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 825: 
+# Chương 825: Sắp Trọn Bộ Rồi, Cầu Nguyệt Phiếu Ba
 
 "Đại quyết chiến? Bọn họ điên rồi?"
 

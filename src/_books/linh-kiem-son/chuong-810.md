@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 810: 
+title: Chương 810 - Tiện Lợi Đến
 book_name: linh-kiem-son
+chapter: 810
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 810: 
+# Chương 810: Tiện Lợi Đến
 
 Đạo thứ hai Thiên Chi Ngân mở ra tin tức quấy rầy tất cả bố trí. (Thiên Thánh Đường bên trong, Hà Đồ Chân Quân đưa ra đề tài thảo luận thứ ba im bặt đi.
 

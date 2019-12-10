@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 675: 
+title: Chương 675 - Kỳ Thực Suýt Chút Nữa Liền Một Thi Hai Mệnh
 book_name: linh-kiem-son
+chapter: 675
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 675: 
+# Chương 675: Kỳ Thực Suýt Chút Nữa Liền Một Thi Hai Mệnh
 
 Trên sàn thi đấu biến hóa động tác mau lẹ, trong nháy mắt, kết quả đã công bố, mà đại đa số người phản ứng, nhưng còn dừng lại ở mấy hiệp trước đây.
 

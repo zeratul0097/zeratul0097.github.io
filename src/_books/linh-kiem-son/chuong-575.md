@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 575: 
+title: Chương 575 - Phía Dưới
 book_name: linh-kiem-son
+chapter: 575
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 575: 
+# Chương 575: Phía Dưới
 
 "Hô, quả nhiên là mở mang tầm mắt, địa ngục bình thường quang cảnh a..."
 

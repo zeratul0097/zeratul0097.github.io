@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 735: 
+title: Chương 735 - Đại Nghĩa Diệt Thân
 book_name: linh-kiem-son
+chapter: 735
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 735: 
+# Chương 735: Đại Nghĩa Diệt Thân
 
 Vô Tướng Công ở Cửu Châu Đại Lục từ lâu xông ra uy danh hiển hách, vĩnh viễn không bao giờ lõm vào pháo đài, cứng rắn không thể phá vỡ tường sắt... Bất luận dùng cỡ nào hoa lệ ngôn ngữ để hình dung Vô Tướng Công năng lực phòng ngự đều không quá đáng.
 

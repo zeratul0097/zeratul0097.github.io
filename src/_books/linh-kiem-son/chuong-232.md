@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 232: 
+title: Chương 232 - Tiến Công Thủ Hộ Giả
 book_name: linh-kiem-son
+chapter: 232
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 232: 
+# Chương 232: Tiến Công Thủ Hộ Giả
 
 Thật là đáng sợ Tinh Thần Kiếm... Thật là đáng sợ linh kiếm người
 

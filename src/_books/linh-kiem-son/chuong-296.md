@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 296: 
+title: Chương 296 - Đã Từng Thật Cơ Hữu
 book_name: linh-kiem-son
+chapter: 296
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 296: 
+# Chương 296: Đã Từng Thật Cơ Hữu
 
 "Dừng lại, nói ra thân phận của các ngươi"
 

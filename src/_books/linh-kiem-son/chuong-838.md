@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 838: 
+title: Chương 838 - Soái Bất Quá Một Chương
 book_name: linh-kiem-son
+chapter: 838
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 838: 
+# Chương 838: Soái Bất Quá Một Chương
 
 Tiên vương thần uy như ngục như biển, xé rách không gian giáng lâm Cửu Châu thời? Toàn bộ đại lục cũng phải vì đó run rẩy. Mà hắn toàn lực một chưởng giáng lâm Linh Kiếm Sơn, đủ để đem toà này truyền thừa mấy ngàn năm tiên sơn nát tan hầu như không còn, liên quan trên núi tất cả mọi người một đạo.
 

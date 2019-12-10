@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 839: 
+title: Chương 839 - Ân, Lập Tức Liền Muốn Trọn Bộ Rồi
 book_name: linh-kiem-son
+chapter: 839
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 839: 
+# Chương 839: Ân, Lập Tức Liền Muốn Trọn Bộ Rồi
 
 Tiên vương cao cư cửu thiên bầu trời bên trên, quan sát chín?, mênh mông Đại Địa thu hết đáy mắt.
 

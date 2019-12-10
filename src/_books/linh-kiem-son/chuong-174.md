@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 174: 
+title: Chương 174 - Lưu Ly Tiên Ở Vân Châu Người Thân!
 book_name: linh-kiem-son
+chapter: 174
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 174: 
-
-Chương 3:: Lưu Ly Tiên ở Vân Châu người thân!
+# Chương 174: Lưu Ly Tiên Ở Vân Châu Người Thân!
 
 Lăng Vân thuyền một đường hướng tây bắc mà đi, hướng về Vân Châu bay đi. Này tàu cao tốc bay lượn trên không, có thể ngày đi mấy vạn dặm, cho dù lấy Cửu Châu đại lục sự rộng lớn, cũng chỉ cần một hai ngày công phu liền có thể bay khỏi Thương Khê châu địa giới, tiến vào tiếp giáp Vân Châu. Đối với cái này, Lưu Ly Tiên tràn đầy thán phục cùng làm khó dễ, bởi vì hạ sơn trước sư phụ từng chăm chú nhắc nhở nói, lần này đi tới Vân Châu rèn luyện, ven đường nhất định phải nhìn thêm nhiều nhớ, lần trước vào đời rèn luyện, hoàn toàn biến thành mỹ thực lữ hành, lần này cắt không thể lại như vậy hồ đồ. Lấy hai người bọn họ cước trình, đến Vân Châu đoạn đường này ít nhất cũng phải chừng mười ngày thời gian, dọc theo đường đi phải chăm chỉ quan sát, tỉ mỉ suy nghĩ...
 

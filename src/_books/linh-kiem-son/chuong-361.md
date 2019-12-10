@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 361: 
+title: Chương 361 - Ta Dược Tư Vị Làm Sao?
 book_name: linh-kiem-son
+chapter: 361
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 361: 
+# Chương 361: Ta Dược Tư Vị Làm Sao?
 
 "Còn nhớ ở vương chi trong bảo khố chúng ta từng có một vụ cá cược sao?"
 

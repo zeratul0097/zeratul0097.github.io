@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 406: 
+title: Chương 406 - Cao Bao Nhiêu Vẫn Còn Giác Ngộ
 book_name: linh-kiem-son
+chapter: 406
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 406: 
+# Chương 406: Cao Bao Nhiêu Vẫn Còn Giác Ngộ
 
 Rầm
 

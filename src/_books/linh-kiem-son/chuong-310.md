@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 310: 
+title: Chương 310 - Chuyển Phát Nhanh Tiểu Ca Cứu Vớt Thế Giới
 book_name: linh-kiem-son
+chapter: 310
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 310: 
+# Chương 310: Chuyển Phát Nhanh Tiểu Ca Cứu Vớt Thế Giới
 
 Vương chi trong bảo khố làm người nghe kinh hãi một màn, thời gian qua đi hồi lâu vẫn cứ kích thích Thánh Giả thần kinh.
 

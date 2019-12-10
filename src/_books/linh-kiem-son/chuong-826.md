@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 826: 
+title: Chương 826 - Biến Thái Là Thành Công Đường Tắt
 book_name: linh-kiem-son
+chapter: 826
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 826: 
+# Chương 826: Biến Thái Là Thành Công Đường Tắt
 
 Hai giới trong đường nối, Vương Lục bỗng nhiên biến hóa? Vương Vũ cũng có chút sốt sắng lên.
 

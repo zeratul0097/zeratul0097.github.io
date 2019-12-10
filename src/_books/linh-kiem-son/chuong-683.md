@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 683: 
+title: Chương 683 - Ngực Bên Trong Bỗng Nhiên Nhiều Hơn Một Cái Đạo Cụ! ?
 book_name: linh-kiem-son
+chapter: 683
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 683: 
+# Chương 683: Ngực Bên Trong Bỗng Nhiên Nhiều Hơn Một Cái Đạo Cụ! ?
 
 A vu luôn luôn thần thần bí bí, ở Vương Vũ mấy cái thật cơ hữu bên trong, lai lịch của nàng xem như là thần bí nhất một cái.
 

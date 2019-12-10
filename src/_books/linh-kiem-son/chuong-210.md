@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 210: 
+title: Chương 210 - Xích Hầu Trúng Số Độc Đắc!
 book_name: linh-kiem-son
+chapter: 210
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 210: 
+# Chương 210: Xích Hầu Trúng Số Độc Đắc!
 
 "Chuyện phiếm chấm dứt ở đây, là thời điểm tiễn ngươi lên đường."
 

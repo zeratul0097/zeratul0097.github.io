@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 342: 
+title: Chương 342 - Dũng Tiếp Bàn
 book_name: linh-kiem-son
+chapter: 342
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 342: 
+# Chương 342: Dũng Tiếp Bàn
 
 "Đây là món đồ quỷ quái gì vậy?"
 

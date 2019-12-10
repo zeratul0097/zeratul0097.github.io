@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 423: 
+title: Chương 423 - Tiếp Bàn Đại Hiệp
 book_name: linh-kiem-son
+chapter: 423
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 423: 
+# Chương 423: Tiếp Bàn Đại Hiệp
 
 "Nói đến... Mộc Mộc a, ta chợt nhớ tới Vương Lục đã từng nói một câu nói."
 

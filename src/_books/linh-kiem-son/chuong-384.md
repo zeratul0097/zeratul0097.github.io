@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 384: 
+title: Chương 384 - Ác Chiến Xúc Tu Quái
 book_name: linh-kiem-son
+chapter: 384
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 384: 
+# Chương 384: Ác Chiến Xúc Tu Quái
 
 Làm nhân sĩ chuyên nghiệp, Vương Lục ở hướng dẫn tiên mộng cảnh giới thời, khá là nghiêng về chủ động xuất kích.
 

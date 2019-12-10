@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 552: 
+title: Chương 552 - Thiên Hạ Không Có Cơm Trưa Miễn Phí
 book_name: linh-kiem-son
+chapter: 552
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 552: 
+# Chương 552: Thiên Hạ Không Có Cơm Trưa Miễn Phí
 
 Trong phòng ngủ, một cái nửa mặt là người, nửa mặt bộ xương nữ tử chính khoanh chân ngồi ở trên giường nhỏ.
 

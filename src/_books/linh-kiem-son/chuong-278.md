@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 278: 
+title: Chương 278 - Liền Âu Yếm Người Đều Bảo Vệ Không Được Tính Là Gì Đầu Bếp
 book_name: linh-kiem-son
+chapter: 278
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 278: 
+# Chương 278: Liền Âu Yếm Người Đều Bảo Vệ Không Được Tính Là Gì Đầu Bếp
 
 "Vị này bếp trưởng, ta xem đầu ngươi đại bột tử thô, chính là đi về phía tây thò ra bảo thượng giai ứng cử viên, ta tấm này quý khách món ăn khoán liền giao cho ngươi, hộ tống ta đi tới tây di đại lục tìm kiếm chìa khoá trọng trách liền tin tức đến trên người ngươi"
 

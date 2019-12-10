@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 781: 
+title: Chương 781 - Bỏ Trốn Hết Thảy Muốn Chết
 book_name: linh-kiem-son
+chapter: 781
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 781: 
+# Chương 781: Bỏ Trốn Hết Thảy Muốn Chết
 
 Trong bóng tối, một tiếng cực lực ngột ngạt rên rỉ lâu đời lâu dài, ở yên tĩnh trong hoàn cảnh đặc biệt bắt mắt.
 

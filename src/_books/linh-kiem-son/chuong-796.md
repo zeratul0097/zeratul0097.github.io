@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 796: 
+title: Chương 796 - Ta Không Muốn Làm Quỷ Phụ
 book_name: linh-kiem-son
+chapter: 796
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 796: 
+# Chương 796: Ta Không Muốn Làm Quỷ Phụ
 
 Bên trong hang núi, Phá Hư Tiên Tôn để Phong Linh trong nháy mắt liền yên tĩnh lại.
 

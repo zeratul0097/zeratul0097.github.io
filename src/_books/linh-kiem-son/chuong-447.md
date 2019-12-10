@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 447: 
+title: Chương 447 - Ta Đường Đường Chính Chính Không Gì Không Thể Gặp Người!
 book_name: linh-kiem-son
+chapter: 447
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 447: 
+# Chương 447: Ta Đường Đường Chính Chính Không Gì Không Thể Gặp Người!
 
 Côn Lôn Tiên Sơn nhiều kỳ nhân dị sĩ.
 

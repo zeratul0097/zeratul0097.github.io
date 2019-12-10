@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 262: 
+title: Chương 262 - Ta Không Phải Một Người Đang Chiến Đấu
 book_name: linh-kiem-son
+chapter: 262
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 262: 
+# Chương 262: Ta Không Phải Một Người Đang Chiến Đấu
 
 "Vô dụng."
 

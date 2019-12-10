@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 688: 
+title: Chương 688 - Không Chịu Cô Đơn Tiểu Đầu Trọc
 book_name: linh-kiem-son
+chapter: 688
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 688: 
+# Chương 688: Không Chịu Cô Đơn Tiểu Đầu Trọc
 
 "Không hổ là khí đại hoạt tốt kỳ tài, ngăn ngắn nửa tháng thời gian, liền lộ hết ra sự sắc bén, toả hào quang rực rỡ a."
 

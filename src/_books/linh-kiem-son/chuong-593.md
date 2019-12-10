@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 593: 
+title: Chương 593 - Hoan Nghênh Mọi Người Đóng Góp Linh Kiếm Tin Vắn ~
 book_name: linh-kiem-son
+chapter: 593
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 593: 
+# Chương 593: Hoan Nghênh Mọi Người Đóng Góp Linh Kiếm Tin Vắn ~
 
 Trong sân đấu tình hình trận chiến phi thường nặng nề.
 

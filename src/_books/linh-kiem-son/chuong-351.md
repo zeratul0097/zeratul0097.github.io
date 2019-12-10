@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 351: 
+title: Chương 351 - Cái Kia Đều Là Rất Tốt Rất Tốt Đẹp...
 book_name: linh-kiem-son
+chapter: 351
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 351: 
+# Chương 351: Cái Kia Đều Là Rất Tốt Rất Tốt Đẹp...
 
 Mờ tối, một điểm tia sáng, tia sáng phập phù, ý thức mông lung.
 

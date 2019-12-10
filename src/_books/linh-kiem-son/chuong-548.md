@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 548: 
+title: Chương 548 - Vui Sướng Chi Nguyên
 book_name: linh-kiem-son
+chapter: 548
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 548: 
+# Chương 548: Vui Sướng Chi Nguyên
 
 Chạng vạng thời điểm, Vương Lục ở trường khuynh thành bên trong khách sạn thu được một phong thư, một phong do hai cánh quanh quẩn Linh phong bảy màu linh cầm ngậm tới tin hàm.
 

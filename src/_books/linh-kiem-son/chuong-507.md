@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 507: 
+title: Chương 507 - Câu Đố Rốt Cục Mở Ra A!
 book_name: linh-kiem-son
+chapter: 507
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 507: 
+# Chương 507: Câu Đố Rốt Cục Mở Ra A!
 
 Ma linh chi mộng, Ma tộc vĩnh sinh.
 

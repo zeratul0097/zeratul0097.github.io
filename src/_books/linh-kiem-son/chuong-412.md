@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 412: 
+title: Chương 412 - Ai Có Thể Đem Này Hình Vẽ Điều Thành 3d ?
 book_name: linh-kiem-son
+chapter: 412
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 412: 
+# Chương 412: Ai Có Thể Đem Này Hình Vẽ Điều Thành 3d ?
 
 Hơi giơ tay nhấc chân, khiến cho mấy ngàn lực sĩ hồn phi phách tán, này đã không phải tầm thường thủ đoạn.
 

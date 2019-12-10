@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 180: 
+title: Chương 180 - Hầu Tử Mời Tới Trêu Chọc So Với
 book_name: linh-kiem-son
+chapter: 180
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 180: 
-
-Chương 9:: Hầu Tử mời tới trêu chọc so với
+# Chương 180: Hầu Tử Mời Tới Trêu Chọc So Với
 
 Đại tinh tinh chưa bao giờ là kiên cường có tính dai sinh vật, so với những trời sanh đó thợ săn như sài lang hổ báo, dù cho nó có có thể nói cường tráng thể phách, nhưng đối với đau đớn cùng tử vong mẫn cảm cùng sợ hãi, lại làm cho ở trong thực chiến thường thường không phát huy ra hết sức bản lĩnh.
 

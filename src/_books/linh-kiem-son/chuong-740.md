@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 740: 
+title: Chương 740 - Người Một Nhà Cùng Nhau Ròng Rã
 book_name: linh-kiem-son
+chapter: 740
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 740: 
+# Chương 740: Người Một Nhà Cùng Nhau Ròng Rã
 
 Ngân hà vòng xoáy bên trong, hai đạo nhanh quang song song qua lại, tốc độ nhanh cực, chỉ là so với mênh mông biển sao, lại có vẻ trì độn chầm chậm.
 

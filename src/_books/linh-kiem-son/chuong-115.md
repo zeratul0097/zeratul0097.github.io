@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 115: 
+title: Chương 115 - Quả nhiên Giác Tỉnh hình nhất định là sống không lâu...
 book_name: linh-kiem-son
+chapter: 115
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 115: 
+# Chương 115: Quả nhiên Giác Tỉnh hình nhất định là sống không lâu...
 
 Văn Bảo cùng Chu Tần giằng co cũng không kéo dài quá lâu, ở Chu Tần nén không được lửa giận, chuẩn bị mở miệng đem cục diện chuyển biến xấu trước đó, nhạc sư muội đúng lúc nói đánh gãy: "Có lời gì, nếu không..."
 

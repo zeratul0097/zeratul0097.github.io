@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 493: 
+title: Chương 493 - Thư Nhà Chống Đỡ Vạn Kim
 book_name: linh-kiem-son
+chapter: 493
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 493: 
+# Chương 493: Thư Nhà Chống Đỡ Vạn Kim
 
 Ngày hôm đó, Âu Dương Thương thu được một phong gởi thư, khiến cho hắn cảm thấy rất là tò mò.
 

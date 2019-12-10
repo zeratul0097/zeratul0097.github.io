@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 245: 
+title: Chương 245 - Đây Chính Là Ngươi Nói Chính Xác Chơi Pháp? !
 book_name: linh-kiem-son
+chapter: 245
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 245: 
+# Chương 245: Đây Chính Là Ngươi Nói Chính Xác Chơi Pháp? !
 
 Thịnh Kinh Tiên Môn bị Vương Lục liên tiếp chém xuống bốn người, mặc dù là nằm trong dự liệu, nhưng này bốn bánh bên trong thể hiện ra thử thách quy tắc, vẫn là làm người âm thầm hoảng sợ.
 

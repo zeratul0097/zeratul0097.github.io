@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 469: 
+title: Chương 469 - Sinh Mệnh Ở Cho Vận Động
 book_name: linh-kiem-son
+chapter: 469
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 469: 
+# Chương 469: Sinh Mệnh Ở Cho Vận Động
 
 Khi nhìn rõ này điểm màu xám trắng bộ mặt thật là Ma giới hắc triều sau khi, càng nhiều bí ẩn trái lại hiện ra đến.
 

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 50: Các sư đệ sư muội thực sự là còn trẻ...
+title: Chương 50 - Các sư đệ sư muội thực sự là còn trẻ...
 book_name: linh-kiem-son
+chapter: 50
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

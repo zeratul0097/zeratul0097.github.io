@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 525: 
+title: Chương 525 - Trung Hoa Tiểu Đương Gia
 book_name: linh-kiem-son
+chapter: 525
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 525: 
+# Chương 525: Trung Hoa Tiểu Đương Gia
 
 Tiên đạo tu hành phải tránh nóng lòng thỉnh cầu thành, căn cơ không tốn sức, thì lại tương lai thành tựu có hạn, đây đối với đại đa số chính thống tu hành tu sĩ tới nói, cơ bản đều là tu hành ban đầu liền bị sư trưởng nhiều lần giáo huấn thường thức.
 

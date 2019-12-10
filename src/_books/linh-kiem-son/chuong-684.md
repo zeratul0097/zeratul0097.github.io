@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 684: 
+title: Chương 684 - Ám Lưu Mãnh Liệt
 book_name: linh-kiem-son
+chapter: 684
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 684: 
+# Chương 684: Ám Lưu Mãnh Liệt
 
 Vương Lục thương thế ở sau ba ngày quả đoán khỏi hẳn.
 

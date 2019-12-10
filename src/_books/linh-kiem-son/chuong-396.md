@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 396: 
+title: Chương 396 - Ngũ Hành Ngọc Đĩa
 book_name: linh-kiem-son
+chapter: 396
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 396: 
+# Chương 396: Ngũ Hành Ngọc Đĩa
 
 "Hừm, xác thực đã lâu không gặp."
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 823: 
+title: Chương 823 - Thông Thiên Chi Tháp
 book_name: linh-kiem-son
+chapter: 823
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 823: 
+# Chương 823: Thông Thiên Chi Tháp
 
 "Thông Thiên tháp? Ngoại trừ ba chữ này, Vương Lục liền không có lưu lại? Manh mối?"
 

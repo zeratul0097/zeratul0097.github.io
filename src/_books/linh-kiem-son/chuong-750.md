@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 750: 
+title: Chương 750 - Tôn Bất Bình
 book_name: linh-kiem-son
+chapter: 750
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 750: 
+# Chương 750: Tôn Bất Bình
 
 Thư tự cẩn thận từng li từng tí một địa nâng bình sứ, vừa sợ sệt không cẩn thận đem bình sứ tổn hại, dẫn đến kế hoạch thất bại, càng sợ bình sứ bên trong độc tố tiết lộ ra ngoài —— tuy rằng hắn bây giờ trên lý thuyết đã sớm là đọa tiên chó săn, bên trong không trúng độc cũng không có khác nhau.
 

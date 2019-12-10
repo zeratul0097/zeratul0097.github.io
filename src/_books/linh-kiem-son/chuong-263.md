@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 263: 
+title: Chương 263 - Hữu Dung Nãi Đại
 book_name: linh-kiem-son
+chapter: 263
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 263: 
+# Chương 263: Hữu Dung Nãi Đại
 
 Đen kịt một màu.
 

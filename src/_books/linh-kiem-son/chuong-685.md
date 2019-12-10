@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 685: 
+title: Chương 685 - Chúc Mọi Người Ngày Lễ Vui Sướng
 book_name: linh-kiem-son
+chapter: 685
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 685: 
+# Chương 685: Chúc Mọi Người Ngày Lễ Vui Sướng
 
 "Đơn giản tới nói, không chịu cô đơn người đều là giết chết bất tận a."
 

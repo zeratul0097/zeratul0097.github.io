@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 182: 
+title: Chương 182 - Hiếu Tâm Đáng Khen
 book_name: linh-kiem-son
+chapter: 182
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 182: 
-
-Chương 11:: Hiếu tâm đáng khen
+# Chương 182: Hiếu Tâm Đáng Khen
 
 "Toàn lực phát ra"
 

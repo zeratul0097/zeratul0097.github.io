@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 18: Sóc đảng thắng lợi!
+title: Chương 18 - Sóc đảng thắng lợi!
 book_name: linh-kiem-son
+chapter: 18
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

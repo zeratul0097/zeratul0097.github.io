@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 707: 
+title: Chương 707 - Sự Tiến Triển Của Tình Hình Lại Một Lần Nữa Ngoài Ý Muốn
 book_name: linh-kiem-son
+chapter: 707
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 707: 
+# Chương 707: Sự Tiến Triển Của Tình Hình Lại Một Lần Nữa Ngoài Ý Muốn
 
 Tiên ngũ khu, trong đình viện, Vương Lục đầy nhiệt tình địa hoan nghênh đi xa trở về vô tướng chân nhân.
 

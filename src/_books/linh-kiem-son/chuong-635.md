@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 635: 
+title: Chương 635 - Hí Bên Trong Hí Ở Ngoài
 book_name: linh-kiem-son
+chapter: 635
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 635: 
+# Chương 635: Hí Bên Trong Hí Ở Ngoài
 
 Trịnh mười sáu là người đàn ông, một cái hai mươi bốn hai mươi lăm tuổi, dáng vẻ tuấn nhã nam nhân.
 

@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 160: 
+title: Chương 160 - Đã Không Có Gì Hay Sợ Hãi
 book_name: linh-kiem-son
+chapter: 160
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 160: 
-
-Chương 35:: Đã không có gì hay sợ hãi
+# Chương 160: Đã Không Có Gì Hay Sợ Hãi
 
 Văn Bảo bị thua, khiến cho người thổn thức cảm khái.
 

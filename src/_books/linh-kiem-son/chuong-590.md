@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 590: 
+title: Chương 590 - Phương Án
 book_name: linh-kiem-son
+chapter: 590
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 590: 
+# Chương 590: Phương Án
 
 "Yêu, Vương Lục, ngươi tại sao lại ở chỗ này a, không phải nên ở mở hội sao?"
 

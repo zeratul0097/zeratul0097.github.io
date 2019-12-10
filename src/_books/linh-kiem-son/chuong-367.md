@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 367: 
+title: Chương 367 - Biết Cách Làm Giàu
 book_name: linh-kiem-son
+chapter: 367
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 367: 
+# Chương 367: Biết Cách Làm Giàu
 
 "... Nói chung, ở giai đoạn mới, phát quản ủy đem ở Vạn Tiên Minh ủng hộ, kiên trì gian khổ phấn đấu, kiên trì khai thác đổi mới, vì Tiên đạo phát triển làm ra nên có cống hiến"
 

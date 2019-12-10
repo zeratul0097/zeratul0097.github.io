@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 411: 
+title: Chương 411 - Thịt Nhân Hình Bán Sỉ Thương
 book_name: linh-kiem-son
+chapter: 411
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 411: 
+# Chương 411: Thịt Nhân Hình Bán Sỉ Thương
 
 "Đây chính là Kim Ngọc Thành cùng Nộ Diễm Cốc chiến trường? Thực sự là khốc liệt a."
 

@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 152: 
+title: Chương 152 - Môn Phái Thủ Tịch
 book_name: linh-kiem-son
+chapter: 152
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 152: 
-
-Chương 27:: Môn phái Thủ Tịch
+# Chương 152: Môn Phái Thủ Tịch
 
 Ở nhà gỗ trước, nghe trong phòng không chút kiêng kỵ chơi đùa thanh âm, Vạn Pháp Tiên Môn tiểu hỏa bạn nhóm đã sợ ngây người.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 644: 
+title: Chương 644 - Đôi Thầy Trò Này Không Có Cứu
 book_name: linh-kiem-son
+chapter: 644
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 644: 
+# Chương 644: Đôi Thầy Trò Này Không Có Cứu
 
 "Chịu thua? Này, tại sao?"
 

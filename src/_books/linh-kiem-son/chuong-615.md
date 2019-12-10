@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 615: 
+title: Chương 615 - Ngày Hôm Nay Chương Mới Thật Sớm, Quả Thực Không Giống Như Là Thật Sự
 book_name: linh-kiem-son
+chapter: 615
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 615: 
+# Chương 615: Ngày Hôm Nay Chương Mới Thật Sớm, Quả Thực Không Giống Như Là Thật Sự
 
 Tứ Tướng Chân Quân, tứ tướng tông chưởng môn nhân, tu hành 1500 năm lâu dài, ở Vạn Tiên Minh bên trong có địa vị vô cùng quan trọng.
 

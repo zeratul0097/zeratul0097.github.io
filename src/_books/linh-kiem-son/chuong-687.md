@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 687: 
+title: Chương 687 - Xem Tiên Thức Người?
 book_name: linh-kiem-son
+chapter: 687
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 687: 
+# Chương 687: Xem Tiên Thức Người?
 
 Vương Lục luôn luôn cho rằng, làm người cũng được, tu hành cũng được, đều ứng chú ý một cái dũng cảm tiến tới —— cái này dũng cảm tiến tới, không phải chỉ đánh vỡ nam tường không quay đầu lại, mà là chỉ từng làm sự tình liền không phải hối hận, vĩnh viễn đưa ánh mắt phóng tới phía trước.
 

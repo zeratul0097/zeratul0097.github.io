@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 503: 
+title: Chương 503 - Lại Có Thể Có Người Nhận Ta?
 book_name: linh-kiem-son
+chapter: 503
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 503: 
+# Chương 503: Lại Có Thể Có Người Nhận Ta?
 
 Cuối cùng Vương Lục cũng không có thể nói phục ác ma đi chơi chân nhân nhân vật đóng vai, tuy rằng nói xong lời cuối cùng, hắn sáng tạo xác thực gây nên ác ma hứng thú, nhưng có cái kỹ thuật trên cửa ải khó không cách nào vượt tới.
 

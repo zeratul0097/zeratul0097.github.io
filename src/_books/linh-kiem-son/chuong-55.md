@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 55: Luận Bá Vương ngạnh thượng cung một trong
+title: Chương 55 - Luận Bá Vương ngạnh thượng cung một trong
 book_name: linh-kiem-son
+chapter: 55
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

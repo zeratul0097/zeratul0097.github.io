@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 803: 
+title: Chương 803 - Hồ Ly
 book_name: linh-kiem-son
+chapter: 803
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 803: 
+# Chương 803: Hồ Ly
 
 Trên cánh đồng hoang, Vương Lục cùng cửu vĩ thiên hồ một trước một sau bước chậm. Lấy giảo hoạt linh động xưng thiên hồ ngoan ngoãn cùng sau lưng Vương Lục hai cái thân vị nơi, mọi cử động lộ ra một mực cung kính.
 

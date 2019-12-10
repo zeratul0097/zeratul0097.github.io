@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 168: 
+title: Chương 168 - Một Ngày Bốn Lần
 book_name: linh-kiem-son
+chapter: 168
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 168: 
-
-Chương 43:: Một ngày bốn lần
+# Chương 168: Một Ngày Bốn Lần
 
 Vạn Pháp Tiên Môn cùng Linh Kiếm Phái môn phái thi đấu, cuối cùng bị trở thành Linh Kiếm Phái một phương diện biểu diễn, nhưng mà trận này trận chung kết cũng không làm người thất vọng, vừa mở tràng liền đã dẫn phát nhiều tiếng hô kinh ngạc.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 444: 
+title: Chương 444 - Côn Lôn Tiên Sơn Nhiệt Tình Hiếu Khách Thịnh Tình Không Thể Chối Từ
 book_name: linh-kiem-son
+chapter: 444
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 444: 
+# Chương 444: Côn Lôn Tiên Sơn Nhiệt Tình Hiếu Khách Thịnh Tình Không Thể Chối Từ
 
 Vương Lục cũng không nhớ chính mình đến đây Côn Lôn Tiên Sơn thư viện mục đích.
 

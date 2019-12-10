@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 96: 
+title: Chương 96 - Học phách thế giới ngươi lý giải không được
 book_name: linh-kiem-son
+chapter: 96
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 96: 
+# Chương 96: Học phách thế giới ngươi lý giải không được
 
 Trí giáo đoàn người rời đi Vương gia thôn sau, thôn bên trong lập tức loạn tung lên.
 

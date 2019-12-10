@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 348: 
+title: Chương 348 - Thần Kỳ Đoản Côn!
 book_name: linh-kiem-son
+chapter: 348
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 348: 
+# Chương 348: Thần Kỳ Đoản Côn!
 
 "Ngươi..."
 

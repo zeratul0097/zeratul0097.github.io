@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 828: 
+title: Chương 828 - Kẻ Phản Bội Ngay Ở Ba Hàng Đầu!
 book_name: linh-kiem-son
+chapter: 828
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 828: 
+# Chương 828: Kẻ Phản Bội Ngay Ở Ba Hàng Đầu!
 
 Hi vọng ánh rạng đông, chỉ rọi sáng trong nháy mắt, liền bị hắc ám nuốt chửng, Tiêu Dao Tiên tôn lấy mạnh mẽ không thể ngỗ nghịch sức mạnh một lần nữa đóng kín đường nối khe hở.
 

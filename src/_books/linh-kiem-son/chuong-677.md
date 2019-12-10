@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 677: 
+title: Chương 677 - Đừng Hoài Nghi Nàng Sức Ăn
 book_name: linh-kiem-son
+chapter: 677
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 677: 
+# Chương 677: Đừng Hoài Nghi Nàng Sức Ăn
 
 Càng là kẻ sợ chết, càng là muốn suy nghĩ làm sao mới có thể không chết. Huyết nhục đồ trên đất tiên bên trong đại khái là cao cấp nhất kẻ sợ chết, vì lẽ đó hắn bảo mệnh bản lĩnh cũng là cao cấp nhất mạnh mẽ.
 

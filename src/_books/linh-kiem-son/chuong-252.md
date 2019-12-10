@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 252: 
+title: Chương 252 - Liền Ba Ba Ta Đều Không Có Như Thế Mắng Qua Ta
 book_name: linh-kiem-son
+chapter: 252
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 252: 
+# Chương 252: Liền Ba Ba Ta Đều Không Có Như Thế Mắng Qua Ta
 
 Đối với mộ kiếm hậu trường hắc thủ, ở gặp gỡ trước Vương Lục liền làm qua vô số loại suy đoán.
 

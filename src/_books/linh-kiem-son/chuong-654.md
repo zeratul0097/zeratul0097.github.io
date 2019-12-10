@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 654: 
+title: Chương 654 - Ngươi Xứng Đáng Lưu Ly Tiên Một Khối Tình Si! ?
 book_name: linh-kiem-son
+chapter: 654
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 654: 
+# Chương 654: Ngươi Xứng Đáng Lưu Ly Tiên Một Khối Tình Si! ?
 
 "Sư huynh, ngươi không cần nhiều lời, trong lòng ta đều rõ ràng."
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 404: 
+title: Chương 404 - Gia Đình Hoà Thuận Thủ Trùng Phu Cương
 book_name: linh-kiem-son
+chapter: 404
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 404: 
+# Chương 404: Gia Đình Hoà Thuận Thủ Trùng Phu Cương
 
 Thiếu nữ xa xưa nhẹ nhàng âm thanh ở trong điện vang vọng, nhưng mà truyền bá đến cung điện biên giới, lại bị sức mạnh vô hình ngăn cách chặn hồi, nửa điểm cũng không thể tiết lộ ra ngoài.
 

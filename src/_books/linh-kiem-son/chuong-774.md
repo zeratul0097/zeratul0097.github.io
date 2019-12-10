@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 774: 
+title: Chương 774 - Lão Tài Xế
 book_name: linh-kiem-son
+chapter: 774
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 774: 
+# Chương 774: Lão Tài Xế
 
 Linh Kiếm Sơn dưới chân Linh Khê Trấn, ngày xưa đơn sơ như gia khách sạn bây giờ đã là tân khách mãn lều phồn hoa nơi, chất gỗ tiểu lâu bị dỡ bỏ, một toà hơn mười tầng cao lầu vụt lên từ mặt đất, mà thông thường mỗi một tầng đều là người đông như mắc cửi. Khách sạn bếp sau cũng không còn là bà chủ cô đơn một người. Đến từ Cửu Châu các nơi diệu trù môn ở đây bận bịu đến khí thế ngất trời, cung cấp ra làm người thèm ăn nhỏ dãi đủ loại mỹ thực.
 

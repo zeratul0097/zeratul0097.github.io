@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 239: 
+title: Chương 239 - Ta Xem Như Là Nuôi Sống Không Nổi Ngươi ...
 book_name: linh-kiem-son
+chapter: 239
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 239: 
+# Chương 239: Ta Xem Như Là Nuôi Sống Không Nổi Ngươi ...
 
 Vương Lục phương án đưa ra sau không lâu, phải đến mặt khác ba phái chống đỡ.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 257: 
+title: Chương 257 - Chân Chính Nhân Vật Chính Khuôn?
 book_name: linh-kiem-son
+chapter: 257
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 257: 
+# Chương 257: Chân Chính Nhân Vật Chính Khuôn?
 
 "Rất tốt, này một đường Cửu Dương phần thiên kiếm ngươi đã nắm giữ tám, chín phân hỏa hầu, kiếm linh căn quả nhiên danh bất hư truyền, ngươi ở kiếm đạo trên ngộ tính là ta cuộc đời ít thấy, dù cho ở ta thời điểm toàn thịnh cũng không bằng ngươi."
 

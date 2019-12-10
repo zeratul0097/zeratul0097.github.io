@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 833: 
+title: Chương 833 - Ta Không Có Mua Cổ Phiếu, Là Đang Vì Mọi Người Cầu Phúc
 book_name: linh-kiem-son
+chapter: 833
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 833: 
+# Chương 833: Ta Không Có Mua Cổ Phiếu, Là Đang Vì Mọi Người Cầu Phúc
 
 Cửu Châu Đại Lục từ xưa tương truyền: Tiên nhân hạ giới, tất có cảnh tượng kì dị.
 

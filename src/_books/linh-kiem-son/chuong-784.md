@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 784: 
+title: Chương 784 - Thống Thất Bạn Gay
 book_name: linh-kiem-son
+chapter: 784
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 784: 
+# Chương 784: Thống Thất Bạn Gay
 
 Thời gian thấm thoát, thời gian năm năm thoáng một cái đã qua.
 

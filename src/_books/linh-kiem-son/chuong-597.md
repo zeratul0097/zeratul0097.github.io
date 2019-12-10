@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 597: 
+title: Chương 597 - Ngươi Không Nên Tới Thêm Phiền Được Chứ!
 book_name: linh-kiem-son
+chapter: 597
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 597: 
+# Chương 597: Ngươi Không Nên Tới Thêm Phiền Được Chứ!
 
 Oanh
 

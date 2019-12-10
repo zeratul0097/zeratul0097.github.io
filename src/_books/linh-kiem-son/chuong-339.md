@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 339: 
+title: Chương 339 - Chiến Xa Đạo Cứu Vớt Thế Giới
 book_name: linh-kiem-son
+chapter: 339
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 339: 
+# Chương 339: Chiến Xa Đạo Cứu Vớt Thế Giới
 
 Lưu ly tiên chỉ hai bức họa, là Hoàng Kim vương di sản.
 

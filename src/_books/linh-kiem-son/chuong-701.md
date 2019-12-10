@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 701: 
+title: Chương 701 - Bán Nghệ Không Bán Thân
 book_name: linh-kiem-son
+chapter: 701
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 701: 
+# Chương 701: Bán Nghệ Không Bán Thân
 
 Liên quan với đế lưu tôn thức tỉnh, thượng cổ Địa tiên trận doanh bắt đầu chỉnh hợp sức mạnh tình huống, Vương Lục ngay lập tức liền tặng lại đến tổ ủy hội cao tầng. Hà Đồ đạo nhân tự mình chủ trì triệu mở cuộc họp khẩn cấp thương thảo đối sách, trải qua thời gian nửa ngày dài lâu nghiên thảo sau, thu được kết luận đại thể như sau:
 

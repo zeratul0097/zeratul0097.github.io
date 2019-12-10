@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 419: 
+title: Chương 419 - Ngươi Muội Hậu Viện Đi Lấy Nước A! ?
 book_name: linh-kiem-son
+chapter: 419
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 419: 
+# Chương 419: Ngươi Muội Hậu Viện Đi Lấy Nước A! ?
 
 Khoảng cách khê cốc phục kích chiến đã qua hai ngày.
 

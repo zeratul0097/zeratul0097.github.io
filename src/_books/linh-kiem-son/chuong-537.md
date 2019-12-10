@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 537: 
+title: Chương 537 - Khó Khó Khó
 book_name: linh-kiem-son
+chapter: 537
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 537: 
+# Chương 537: Khó Khó Khó
 
 "A, ngây thơ là thật lam thật lam a"
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 798: 
+title: Chương 798 - Thấy Việc Nghĩa Hăng Hái Làm
 book_name: linh-kiem-son
+chapter: 798
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 798: 
+# Chương 798: Thấy Việc Nghĩa Hăng Hái Làm
 
 "Muốn giết ta? Tại sao a?" Hạ Tiểu Hà ha ha cười, "Ta cảm thấy ta toán là phi thường dày rộng nhân từ, không chỉ cho các ngươi Cửu Châu người lưu lại một chút hi vọng sống. Liền ngay cả Bạch Trạch cùng huyền mặc cái kia hai tên phản đồ, ta đều cho bọn họ để lại cuối cùng một đoạn thời gian tốt đẹp, loại này người tốt ngươi muốn đi nơi nào tìm a? Giết ta, Tiên giới nhưng là chỉ còn một hồi một đám lãnh huyết không có ai tình điệu gia hỏa rồi."
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 394: 
+title: Chương 394 - Ta Hận Nhất Đào Hầm Không Điền
 book_name: linh-kiem-son
+chapter: 394
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 394: 
+# Chương 394: Ta Hận Nhất Đào Hầm Không Điền
 
 Từ tiên mộng cảnh giới bên trong đi ra thời, Vương Lục bỗng nhiên cảm thấy đặc biệt uể oải, rất giống là quá khứ một năm ở vô tướng phong thời bị sư phụ thao luyện cả một đêm.
 

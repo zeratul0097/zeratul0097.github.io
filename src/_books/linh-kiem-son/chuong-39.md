@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 39: Xem ta với ngươi đại chiến một trăm hiệp!
+title: Chương 39 - Xem ta với ngươi đại chiến một trăm hiệp!
 book_name: linh-kiem-son
+chapter: 39
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 549: 
+title: Chương 549 - Học Linh Tê Chỉ Nơi Nào Cường?
 book_name: linh-kiem-son
+chapter: 549
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 549: 
+# Chương 549: Học Linh Tê Chỉ Nơi Nào Cường?
 
 Căn cứ lý yên lời giải thích, mấy vị kia mấy ngày trước đến Thương Thiên Thần Miếu bái phỏng tu sĩ từng ở nàng nơi đó nhận mấy cái nhiệm vụ —— Thương Thiên Thần Miếu thường sẽ hướng về tán tu môn ban bố các loại treo thưởng nhiệm vụ —— lúc này phải làm ngay ở trường khuynh thành bên trong.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 676: 
+title: Chương 676 - Liều Mạng
 book_name: linh-kiem-son
+chapter: 676
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 676: 
+# Chương 676: Liều Mạng
 
 Theo đen ra lệnh một tiếng, Kim Đan tổ một mình đấu chiến trận thứ ba chiến đấu chính thức bắt đầu.
 

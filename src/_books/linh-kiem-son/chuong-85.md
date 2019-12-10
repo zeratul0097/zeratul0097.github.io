@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 85: Nhà ta tên Béo không thể như vậy sẽ nhổ nước bọt
+title: Chương 85 - Nhà ta tên Béo không thể như vậy sẽ nhổ nước bọt
 book_name: linh-kiem-son
+chapter: 85
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 31: Hoa lão sư chúng ta yêu ngươi!
+title: Chương 31 - Hoa lão sư chúng ta yêu ngươi!
 book_name: linh-kiem-son
+chapter: 31
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

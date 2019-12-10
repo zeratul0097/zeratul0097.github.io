@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 464: 
+title: Chương 464 - Hi Vọng Lại Một Thôn
 book_name: linh-kiem-son
+chapter: 464
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 464: 
+# Chương 464: Hi Vọng Lại Một Thôn
 
 Ma giới biên giới nơi đã gần ngay trước mắt.
 

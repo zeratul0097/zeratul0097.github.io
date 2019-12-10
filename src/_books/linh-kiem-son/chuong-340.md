@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 340: 
+title: Chương 340 - Vĩnh Cửu Hào Cường Lực Chiến Xa
 book_name: linh-kiem-son
+chapter: 340
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 340: 
+# Chương 340: Vĩnh Cửu Hào Cường Lực Chiến Xa
 
 "Nói tóm lại, chúng ta hiện tại cần phải làm là chế tạo một chiếc chiến xa."
 

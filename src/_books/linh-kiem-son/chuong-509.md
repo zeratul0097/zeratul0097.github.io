@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 509: 
+title: Chương 509 - Nội Hàm Phong Phú Phục Bút Đông Đảo Một Chương
 book_name: linh-kiem-son
+chapter: 509
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 509: 
+# Chương 509: Nội Hàm Phong Phú Phục Bút Đông Đảo Một Chương
 
 Không phải người thường hành phi thường pháp, Vương Lục Trúc Mộng Thuật tuy rằng nhìn như hoang đường, nhưng trực kích chỗ yếu. Một cái đối với chết rồi thế giới vẻ đẹp xây dựng, nhất thời làm Ma tộc các chiến sĩ trở nên thấy chết không sờn. Ngược lại mỗi lần chết rồi đều sẽ phục sinh, tất cả trạng thái đầy tràn, liền ngay cả tử vong thời thống khổ cũng sẽ bị hoàn toàn tróc ra, như vậy... Tất cả những thứ này còn có cái gì đáng sợ đây?
 

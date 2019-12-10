@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 711: 
+title: Chương 711 - Nữ Nhân Trong Lúc Đó Không Có Hữu Nghị
 book_name: linh-kiem-son
+chapter: 711
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 711: 
+# Chương 711: Nữ Nhân Trong Lúc Đó Không Có Hữu Nghị
 
 "Há, nơi này chính là Thương Khê Châu?"
 

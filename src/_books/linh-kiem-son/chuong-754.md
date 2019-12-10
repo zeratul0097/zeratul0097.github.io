@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 754: 
+title: Chương 754 - Bởi Vì Ngươi Quá Ngu
 book_name: linh-kiem-son
+chapter: 754
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 754: 
+# Chương 754: Bởi Vì Ngươi Quá Ngu
 
 Vỡ tan tinh thần Đoạt Mục ánh kiếm, vào đúng lúc này tỏa ra ở Quần Tiên Thành bên trong, to lớn một cái nội thành trong khoảnh khắc liền bị ánh kiếm lấp kín, làm biên giới tường cao cùng khung đỉnh ong ong run rẩy, phảng phất lúc nào cũng có thể trán nứt ra đến.
 

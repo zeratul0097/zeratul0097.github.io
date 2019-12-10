@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 448: 
+title: Chương 448 - Phích Lịch Thiếu Nữ Xinh Đẹp
 book_name: linh-kiem-son
+chapter: 448
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 448: 
+# Chương 448: Phích Lịch Thiếu Nữ Xinh Đẹp
 
 "... Xin lỗi, ta nghĩ ta vẫn là đi trước một bước."
 

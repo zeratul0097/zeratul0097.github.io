@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 283: 
+title: Chương 283 - Ăn Cơm Trước Vẫn Là...
 book_name: linh-kiem-son
+chapter: 283
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 283: 
+# Chương 283: Ăn Cơm Trước Vẫn Là...
 
 Cải tạo linh kiếm thiên phù, thực hiện nghịch truyền tống hiệu quả, là Vương Lục đi về phía tây vài tờ lợi hại nhất lá bài tẩy một trong. Linh kiếm thiên phù trói chặt không phải là mình, mà là kính yêu sư phụ, một khi gặp phải nguy hiểm, lợi dụng trước đó lưu giữ sư phụ pháp lực kích hoạt thiên phù, đưa nàng truyền đưa tới.
 

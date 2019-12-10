@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 764: 
+title: Chương 764 - Thịt Hay Là Muốn Ăn
 book_name: linh-kiem-son
+chapter: 764
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 764: 
+# Chương 764: Thịt Hay Là Muốn Ăn
 
 "Ta cảnh cáo các ngươi, nếu là giết ta, các ngươi nhất định sẽ hối hận."
 

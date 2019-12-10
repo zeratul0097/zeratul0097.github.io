@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 645: 
+title: Chương 645 - Các Ngươi Tổng Muốn Làm Cái Đại Tin Tức Đem Ta Phê Phán Một Phen
 book_name: linh-kiem-son
+chapter: 645
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 645: 
+# Chương 645: Các Ngươi Tổng Muốn Làm Cái Đại Tin Tức Đem Ta Phê Phán Một Phen
 
 "Làm tiên tri cảm giác thực sự là thống khổ a."
 

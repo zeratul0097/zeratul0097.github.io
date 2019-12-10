@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 579: 
+title: Chương 579 - Ta Chính Là Dám Phiên!
 book_name: linh-kiem-son
+chapter: 579
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 579: 
+# Chương 579: Ta Chính Là Dám Phiên!
 
 Vương Lục đã cực kỳ lâu không có cảm thấy mãnh liệt như thế cảm giác sợ hãi.
 

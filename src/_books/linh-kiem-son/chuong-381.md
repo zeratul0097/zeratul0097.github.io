@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 381: 
+title: Chương 381 - Nỗi Niềm Khó Nói
 book_name: linh-kiem-son
+chapter: 381
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 381: 
+# Chương 381: Nỗi Niềm Khó Nói
 
 Hô
 

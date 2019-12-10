@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 145: 
+title: Chương 145 - Dựa Vào Mặt Ăn Cơm Nam Nhân
 book_name: linh-kiem-son
+chapter: 145
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 145: 
-
-Chương 20:: Dựa vào mặt ăn cơm nam nhân
+# Chương 145: Dựa Vào Mặt Ăn Cơm Nam Nhân
 
 Trên đời đâu có chân chánh công bình quyết đấu?
 

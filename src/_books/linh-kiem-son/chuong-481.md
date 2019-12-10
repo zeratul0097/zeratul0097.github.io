@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 481: 
+title: Chương 481 - Này Tình Cảm Của Hai Người Tốc Độ Phát Triển Có Chút Nhanh
 book_name: linh-kiem-son
+chapter: 481
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 481: 
+# Chương 481: Này Tình Cảm Của Hai Người Tốc Độ Phát Triển Có Chút Nhanh
 
 Liên quan với thời không các loại suy đoán ở Cửu Châu Đại Lục cũng không ngạc nhiên, lên tới tu vi tiếp cận Phi Thăng cảnh giới chân quân tu sĩ, xuống tới thế gian những kia yêu quý tưởng tượng quán trà người kể chuyện, đều đối với thời không có chính mình suy đoán.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 230: 
+title: Chương 230 - Ta Muốn Lên Xuân Muộn
 book_name: linh-kiem-son
+chapter: 230
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 230: 
+# Chương 230: Ta Muốn Lên Xuân Muộn
 
 Vương Lục luôn luôn tự xưng là là chuyên nghiệp người mạo hiểm, mà chuyên nghiệp người mạo hiểm chủ yếu nghiệp vụ một trong chính là phá giải mỗi cái đường cơ quan câu đố, Thái Cổ kiếm trủng thí luyện, tự nhiên cũng ở hắn nghiệp vụ phạm vi trong vòng.
 

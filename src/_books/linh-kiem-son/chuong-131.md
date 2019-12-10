@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 131: 
+title: Chương 131 - Ta Muốn Luyện Kiếm Tâm Thông Minh
 book_name: linh-kiem-son
+chapter: 131
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 131: 
-
-Chương 6:: Ta muốn luyện Kiếm Tâm Thông Minh
+# Chương 131: Ta Muốn Luyện Kiếm Tâm Thông Minh
 
 Gừng chung quy vẫn là cay, Phong Ngâm ở bắt được báo cáo, đọc một lượt lần thứ nhất sau, trong lòng liền có dự định, lúc này nói đến, liền ngay cả mong muốn học thuật điểm cùng học thuật điểm (đốt) đều tính toán tám chín phần mười, thật sự là chuẩn bị vẹn toàn. Nhưng mà đối mặt như vậy thành thạo điêu luyện chưởng môn sư huynh, Linh Kiếm Phái Ngũ trưởng lão chỉ là cười lạnh một tiếng.
 

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 69: Vẫn là Kim Đan chiến Nguyên Anh
+title: Chương 69 - Vẫn là Kim Đan chiến Nguyên Anh
 book_name: linh-kiem-son
+chapter: 69
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

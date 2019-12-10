@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 101: 
+title: Chương 101 - Muốn phát huy đầy đủ sức lao động thành phẩm rẻ tiền ưu thế
 book_name: linh-kiem-son
+chapter: 101
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 101: 
+# Chương 101: Muốn phát huy đầy đủ sức lao động thành phẩm rẻ tiền ưu thế
 
 Tiếng nói kết thúc, dưới đài một mảnh nghiêm nghị, trầm mặc kéo dài cực kỳ lâu.
 

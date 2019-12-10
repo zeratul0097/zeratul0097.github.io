@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 53: Làm sao mới có thể nói phục hắn người làm...
+title: Chương 53 - Làm sao mới có thể nói phục hắn người làm...
 book_name: linh-kiem-son
+chapter: 53
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

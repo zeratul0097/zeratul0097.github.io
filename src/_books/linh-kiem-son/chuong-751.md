@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 751: 
+title: Chương 751 - Vương Lục Lập Tức Liền Muốn Sừng Sững Ở Trên Mặt Đất
 book_name: linh-kiem-son
+chapter: 751
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 751: 
+# Chương 751: Vương Lục Lập Tức Liền Muốn Sừng Sững Ở Trên Mặt Đất
 
 Tôn Bất Bình, để Vương Lục hơi nhấc lên một tia cảnh giác.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 546: 
+title: Chương 546 - Thích Nghe Ngóng Thế Giới
 book_name: linh-kiem-son
+chapter: 546
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 546: 
+# Chương 546: Thích Nghe Ngóng Thế Giới
 
 Trước mắt vòng xoáy biến mất thời điểm, Vương Lục phát hiện mình đang nằm ở một cái trong suốt dòng suối nhỏ bên, bên người cách đó không xa, lưu ly tiên chính đang vui vẻ bắt cá, thấy mình tỉnh lại, liền khoe khoang tựa như dùng cành cây cao cao xuyên lên một con cá, hô: "Sư huynh sư huynh ngươi mau nhìn, ta bộ đến một cái quả đông ngư"
 

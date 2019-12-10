@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 436: 
+title: Chương 436 - Đến Hoài Một Cái Đi!
 book_name: linh-kiem-son
+chapter: 436
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 436: 
+# Chương 436: Đến Hoài Một Cái Đi!
 
 Vô tướng phong trúc trong phòng, Vương Lục ở phòng khách trên bàn ăn tìm tới bị Vương Vũ một lần nữa phong ấn thành cầu vô diện giả.
 

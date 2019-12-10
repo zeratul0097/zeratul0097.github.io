@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 82: Không muốn chết sẽ không phải chết
+title: Chương 82 - Không muốn chết sẽ không phải chết
 book_name: linh-kiem-son
+chapter: 82
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

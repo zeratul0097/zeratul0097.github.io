@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 78: Nông thôn biến đổi lớn
+title: Chương 78 - Nông thôn biến đổi lớn
 book_name: linh-kiem-son
+chapter: 78
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

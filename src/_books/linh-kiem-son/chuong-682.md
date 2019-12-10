@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 682: 
+title: Chương 682 - Lão Tướng Xuất Ngũ
 book_name: linh-kiem-son
+chapter: 682
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 682: 
+# Chương 682: Lão Tướng Xuất Ngũ
 
 Một hồi muôn người chú ý kim đan cấp một mình đấu đại chiến, ngay ở vô số người tiếng cười cười nói nói bên trong kéo xuống màn che.
 

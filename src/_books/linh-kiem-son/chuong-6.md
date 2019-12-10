@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 6: Tiểu Hải ngược lại
+title: Chương 6 - Tiểu Hải ngược lại
 book_name: linh-kiem-son
+chapter: 6
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

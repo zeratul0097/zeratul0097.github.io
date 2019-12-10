@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 234: 
+title: Chương 234 - Có Tri Thức Hiểu Lễ Nghĩa Lưu Ly Tiên
 book_name: linh-kiem-son
+chapter: 234
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 234: 
+# Chương 234: Có Tri Thức Hiểu Lễ Nghĩa Lưu Ly Tiên
 
 Đây là một hồi nhất định không cách nào biến thành thủ tục quen thuộc chiến đấu.
 

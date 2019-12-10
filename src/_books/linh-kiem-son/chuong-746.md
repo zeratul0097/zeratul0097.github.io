@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 746: 
+title: Chương 746 - Thỉnh Cầu Pv Giải Thi Đấu Bỏ Phiếu Rồi ~
 book_name: linh-kiem-son
+chapter: 746
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 746: 
+# Chương 746: Thỉnh Cầu Pv Giải Thi Đấu Bỏ Phiếu Rồi ~
 
 "Sư phụ, đa tạ."
 

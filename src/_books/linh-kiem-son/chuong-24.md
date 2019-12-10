@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 24: Cho ngươi mở mang cái gì gọi là Tiên Đạo Vô Thường
+title: Chương 24 - Cho ngươi mở mang cái gì gọi là Tiên Đạo Vô Thường
 book_name: linh-kiem-son
+chapter: 24
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

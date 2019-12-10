@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 521: 
+title: Chương 521 - Loạn Trong Giặc Ngoài
 book_name: linh-kiem-son
+chapter: 521
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 521: 
+# Chương 521: Loạn Trong Giặc Ngoài
 
 Mấy ngày trước, Vương Lục cùng Âu Dương Thương phái ra hai vị sư đệ trở về núi cầu viện thời, kỳ thực cũng không có ôm quá to lớn hi
 

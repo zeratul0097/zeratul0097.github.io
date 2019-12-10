@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 349: 
+title: Chương 349 - Ta Yêu, Khóa Lại Ngươi, Trốn Không Thoát
 book_name: linh-kiem-son
+chapter: 349
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 349: 
+# Chương 349: Ta Yêu, Khóa Lại Ngươi, Trốn Không Thoát
 
 Người xưa nói, thiên thời địa lợi nhân hoà, đây là chiến tranh thủ thắng tam đại pháp bảo.
 

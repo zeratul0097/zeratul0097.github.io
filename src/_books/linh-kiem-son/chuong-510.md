@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 510: 
+title: Chương 510 - Cháu Trai Này Nghiêm Chỉnh Là Hạng Nhất Tù Chiến Tranh!
 book_name: linh-kiem-son
+chapter: 510
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 510: 
+# Chương 510: Cháu Trai Này Nghiêm Chỉnh Là Hạng Nhất Tù Chiến Tranh!
 
 Luận cùng đối với Trúc Mộng Thuật năng lực lĩnh ngộ, kỳ thực Âu Dương Thương càng hơn một bậc, nhưng lúc này tình thế nhưng không cho phép Âu Dương Thương đi phân tâm nghiên cứu Trúc Mộng Thuật, bởi vì có thể ở ma linh chi trong mộng kéo dài thời gian chỉ có hắn Thổ Độn Thuật, hơn nữa nhất định phải là toàn lực triển khai Thổ Độn Thuật. Hơn nữa Vương Lục dù sao tiếp xúc Trúc Mộng Thuật càng sớm hơn, từ lâu càng sâu, trong tay còn nắm giữ Ma tộc chí bảo ngũ linh huyết quan chi ngọc, lấy Trúc Mộng Thuật đối kháng Ma vương trọng trách trừ hắn ra không còn có thể là ai khác.
 

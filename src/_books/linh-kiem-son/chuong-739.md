@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 739: 
+title: Chương 739 - Quý Phái Thực Sự Là Nhiều Kỳ Nhân Dị Sĩ
 book_name: linh-kiem-son
+chapter: 739
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 739: 
+# Chương 739: Quý Phái Thực Sự Là Nhiều Kỳ Nhân Dị Sĩ
 
 "Trúng độc?"
 

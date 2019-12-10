@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 555: 
+title: Chương 555 - Có Người Nói Người Bắc Kinh Dân Lại Muốn Hỉ Nghênh Tiểu Nghỉ Dài Hạn
 book_name: linh-kiem-son
+chapter: 555
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 555: 
+# Chương 555: Có Người Nói Người Bắc Kinh Dân Lại Muốn Hỉ Nghênh Tiểu Nghỉ Dài Hạn
 
 "Sư huynh, ngươi thật muốn làm đại hội luận võ sao?"
 

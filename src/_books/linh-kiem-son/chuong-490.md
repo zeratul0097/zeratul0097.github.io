@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 490: 
+title: Chương 490 - Thiếu Nữ Xinh Đẹp Mộng Nhà Xưởng
 book_name: linh-kiem-son
+chapter: 490
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 490: 
+# Chương 490: Thiếu Nữ Xinh Đẹp Mộng Nhà Xưởng
 
 Rất nhiều người đều từng hiếu kỳ, Cửu Châu Đại Lục trên nhiều như vậy sinh vật có trí khôn, trong đó không thiếu tư chất tu hành kinh người, càng có trời sinh liền thần thông uy năng vô hạn tiên thú loại hình... Vì sao cuối cùng là nhân loại thống trị thiên hạ?
 

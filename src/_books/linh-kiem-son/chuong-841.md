@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 841: 
+title: Chương 841 - Thật Không Tiện, Ta Đầu Tệ
 book_name: linh-kiem-son
+chapter: 841
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 841: 
+# Chương 841: Thật Không Tiện, Ta Đầu Tệ
 
 Xem trong tay theo gió rồi biến mất một nắm cát mịn,? Vương hạ vũ bỗng nhiên dâng lên mấy phần phiền muộn.
 

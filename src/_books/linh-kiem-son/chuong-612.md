@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 612: 
+title: Chương 612 - Khán Giả Dồn Dập Cảm Thấy Không Khỏe
 book_name: linh-kiem-son
+chapter: 612
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 612: 
+# Chương 612: Khán Giả Dồn Dập Cảm Thấy Không Khỏe
 
 Trên diễn võ trường, một cái dâng trào dũng cảm âm thanh xuyên thấu hắc ám, sau đó, trầm trọng bước tiến chấn động Đại Địa, mỗi một lần chấn động, đều có một đạo sóng trùng kích từ giữa trường hướng về bốn phía khuếch tán ra, quét ngang đen kịt, đem mực nước nhuộm dần thế giới xé rách ra vô số đạo khe hở.
 

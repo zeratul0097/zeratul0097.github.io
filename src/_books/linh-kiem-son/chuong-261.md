@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 261: 
+title: Chương 261 - Kiếm Ma Tiền Bối Ta Muốn Cùng Ngươi Đàm Luận Lý Tưởng
 book_name: linh-kiem-son
+chapter: 261
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 261: 
+# Chương 261: Kiếm Ma Tiền Bối Ta Muốn Cùng Ngươi Đàm Luận Lý Tưởng
 
 Kiếm thần cũng được, Kiếm Ma cũng được, bây giờ trên bản chất đều là Chung Thắng Minh một tia tàn hồn, chỉ là này bách lê Kiếm thần thực lực quá mạnh, dù cho chỉ là tàn hồn, nhìn như cũng cùng những tu sĩ khác hoàn chỉnh nguyên thần giống nhau như đúc.
 

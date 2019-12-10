@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 495: 
+title: Chương 495 - Bá Vương Cứng Trên Cung
 book_name: linh-kiem-son
+chapter: 495
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 495: 
+# Chương 495: Bá Vương Cứng Trên Cung
 
 Mọi người thường nói trên đời không bằng ý tám chín phần mười, là ý nói trên thế giới sự thường thường sẽ không dựa theo mọi người dự đoán như vậy phát triển.
 

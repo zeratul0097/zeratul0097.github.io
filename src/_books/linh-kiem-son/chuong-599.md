@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 599: 
+title: Chương 599 - Ta Dạng Mỹ Học
 book_name: linh-kiem-son
+chapter: 599
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 599: 
+# Chương 599: Ta Dạng Mỹ Học
 
 Vương Lục bước lên con đường tu tiên hơn hai mươi năm, đối mặt hiểm cảnh cảnh khốn khó nhiều vô số kể, nhưng tuyệt cảnh hai chữ nhưng có thể đếm được trên đầu ngón tay.
 

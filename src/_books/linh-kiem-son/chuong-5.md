@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 5: Đột kích ngược sư đệ
+title: Chương 5 - Đột kích ngược sư đệ
 book_name: linh-kiem-son
+chapter: 5
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 554: 
+title: Chương 554 - Nguyệt Đều Hậu Cung Cải Cách Mở Ra
 book_name: linh-kiem-son
+chapter: 554
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 554: 
+# Chương 554: Nguyệt Đều Hậu Cung Cải Cách Mở Ra
 
 Nguyệt đều hậu cung bạo phát rối loạn tin tức chấn kinh rồi rất nhiều người.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 569: 
+title: Chương 569 - Trăm Năm Chi Luyến
 book_name: linh-kiem-son
+chapter: 569
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 569: 
+# Chương 569: Trăm Năm Chi Luyến
 
 Ánh mặt trời chiếu khắp sau khi, trời xanh uy thế liền dần dần tản đi, khí thế hùng hổ trời xanh giáng lâm liền như thế im bặt đi.
 

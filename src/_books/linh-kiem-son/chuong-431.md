@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 431: 
+title: Chương 431 - Tháo Trang Sức Sau Đó
 book_name: linh-kiem-son
+chapter: 431
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 431: 
+# Chương 431: Tháo Trang Sức Sau Đó
 
 "Kim Đan?"
 

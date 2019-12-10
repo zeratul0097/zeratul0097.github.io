@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 661: 
+title: Chương 661 - Vẫn Là Không Nghĩ Ra Chương Tiết Tên
 book_name: linh-kiem-son
+chapter: 661
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 661: 
+# Chương 661: Vẫn Là Không Nghĩ Ra Chương Tiết Tên
 
 Thiên Luân Chân Quân đánh với toán tiên một hồi đại thắng, rốt cục toàn diện xoay chuyển Vạn Tiên Minh ở đàn tiên thi đấu bên trong xu hướng suy tàn.
 

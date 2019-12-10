@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 457: 
+title: Chương 457 - Ta Cùng Với Nàng Là Thuần Khiết!
 book_name: linh-kiem-son
+chapter: 457
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 457: 
+# Chương 457: Ta Cùng Với Nàng Là Thuần Khiết!
 
 Đột nhiên xuất hiện âm thanh, coi là thật lệnh năm người giật nảy cả mình.
 

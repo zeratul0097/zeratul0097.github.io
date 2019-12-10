@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 155: 
+title: Chương 155 - Thật Một Hồi Quang Minh Chánh Đại Quyết Đấu!
 book_name: linh-kiem-son
+chapter: 155
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 155: 
-
-Chương 30:: Thật một hồi quang minh chánh đại quyết đấu!
+# Chương 155: Thật Một Hồi Quang Minh Chánh Đại Quyết Đấu!
 
 Ở song phương khua chuông gõ mõ chuẩn bị chiến đấu bên trong, ba ngày thời gian lóe lên liền qua.
 

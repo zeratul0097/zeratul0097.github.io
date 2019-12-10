@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 16: Kim bài Đại Luyện hỏa tiễn một làn sóng lưu
+title: Chương 16 - Kim bài Đại Luyện hỏa tiễn một làn sóng lưu
 book_name: linh-kiem-son
+chapter: 16
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 201: 
+title: Chương 201 - Chúng Ta Cần Ngoại Ngữ Vượt Qua Thử Thách Nhân Tài
 book_name: linh-kiem-son
+chapter: 201
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 201: 
-
-Chương 30:: Chúng ta cần ngoại ngữ vượt qua thử thách nhân tài
+# Chương 201: Chúng Ta Cần Ngoại Ngữ Vượt Qua Thử Thách Nhân Tài
 
 Từ trong hồ nước thăng lúc thức dậy, sắc trời đã Đại Minh.
 

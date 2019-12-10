@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 146: 
+title: Chương 146 - Thâm Tàng Thân Dữ Danh
 book_name: linh-kiem-son
+chapter: 146
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 146: 
-
-Chương 21:: Thâm tàng thân dữ danh
+# Chương 146: Thâm Tàng Thân Dữ Danh
 
 Vương Lục mười một liền nhận thưởng kinh bạo trường đua sau khi, thi đấu tình thế liền xảy ra toàn diện nghịch chuyển
 

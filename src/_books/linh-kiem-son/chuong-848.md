@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 848: 
+title: Chương 848 - Sau Khi, Những Người Kia
 book_name: linh-kiem-son
+chapter: 848
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 848: 
+# Chương 848: Sau Khi, Những Người Kia
 
 "Toàn quân xuất kích!"
 

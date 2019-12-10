@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 708: 
+title: Chương 708 - Xin Hà Đồ Hiến Thân
 book_name: linh-kiem-son
+chapter: 708
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 708: 
+# Chương 708: Xin Hà Đồ Hiến Thân
 
 Đế lưu tôn thực sự là cái am hiểu quấy rầy người khác tiết tấu cao thủ.
 

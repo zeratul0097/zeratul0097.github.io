@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 54: Hoàng cốt
+title: Chương 54 - Hoàng cốt
 book_name: linh-kiem-son
+chapter: 54
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

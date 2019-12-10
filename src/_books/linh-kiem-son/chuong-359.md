@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 359: 
+title: Chương 359 - Lao Vụ Hợp Đồng Đến Kỳ, Có Hay Không Tục Thiêm?
 book_name: linh-kiem-son
+chapter: 359
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 359: 
+# Chương 359: Lao Vụ Hợp Đồng Đến Kỳ, Có Hay Không Tục Thiêm?
 
 Thông thường mà nói, Phong Ngâm Chân Nhân là cái phẩm tính giản dị, đạo đức thuần khiết người hiền lành, ở Vạn Tiên Minh đảm nhiệm thường ủy thời điểm luôn luôn biết điều khiêm tốn, vì lẽ đó coi như mong đợi nhất hắn thủ thắng Cửu Châu tu sĩ, cũng liêu không nghĩ tới hắn càng sẽ dùng ra giương đông kích tây loại này không có phẩm chiêu số.
 

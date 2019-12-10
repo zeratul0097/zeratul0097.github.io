@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 369: 
+title: Chương 369 - Ngươi Nghĩ Ta Cùng Lưu Ly Như Thế Ngu?
 book_name: linh-kiem-son
+chapter: 369
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 369: 
+# Chương 369: Ngươi Nghĩ Ta Cùng Lưu Ly Như Thế Ngu?
 
 Một số thời khắc, dưới con mắt mọi người đặc lập độc hành, thường thường sẽ bởi vì khán giả độ cao khiếp sợ dưới không đạt được gì mà trở nên thông thuận cực kỳ. Tỷ như vào giờ phút này, làm Vương Lục nhanh chân đi theo Thiên Luân Chân Quân mặt sau, chuẩn bị cất bước tiến vào đàn tiên mộ thời, chu vi một đám nguyên anh hóa thần trợn mắt lên, trợn mắt ngoác mồm, nhưng không người ngăn cản, bởi vì tất cả mọi người đều cho rằng đây là đặc biệt gì tiết mục, tất nhiên ẩn chứa thâm ý, chỉ là chính mình biết không nhiều...
 

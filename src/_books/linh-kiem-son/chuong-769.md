@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 769: 
+title: Chương 769 - Là Ngươi Nói Không Ngại Lấy Nhiều Đánh Thiếu
 book_name: linh-kiem-son
+chapter: 769
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 769: 
+# Chương 769: Là Ngươi Nói Không Ngại Lấy Nhiều Đánh Thiếu
 
 "Quả nhiên là đồ vô liêm sỉ."
 

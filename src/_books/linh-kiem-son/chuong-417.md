@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 417: 
+title: Chương 417 - Câu Cá Chấp Pháp
 book_name: linh-kiem-son
+chapter: 417
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 417: 
+# Chương 417: Câu Cá Chấp Pháp
 
 Diệp Thủy Hà chi vương đột nhiên tập kích làm người không ứng phó kịp, Hạng Lương đột nhiên không kịp chuẩn bị, nỗ lực né qua chỗ yếu hại, nhưng bị trường thương màu đỏ ngòm đâm trúng bả vai, cả người bị không thể chống cự tràn trề cự lực thúc đẩy, như như con thoi nhanh chóng xoay tròn lên. Cùng lúc đó, một đạo máu đen vụ từ con quay xoay tròn bên trong hướng về bên phun trào ra.
 

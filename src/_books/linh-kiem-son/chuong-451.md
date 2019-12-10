@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 451: 
+title: Chương 451 - Ta Vạn Pháp Đệ Tử Chí Khí Cao Bản Lĩnh Cường
 book_name: linh-kiem-son
+chapter: 451
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 451: 
+# Chương 451: Ta Vạn Pháp Đệ Tử Chí Khí Cao Bản Lĩnh Cường
 
 Đặt chân Tiên đạo tu sĩ thông thường đều có một bộ thật tính nhẫn nại.
 

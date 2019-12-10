@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 811: 
+title: Chương 811 - Tiện Lợi Bán Sỉ
 book_name: linh-kiem-son
+chapter: 811
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 811: 
+# Chương 811: Tiện Lợi Bán Sỉ
 
 "Xích Vệ Quân đã tập kết xong xuôi, xin hạ lệnh!"
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 372: 
+title: Chương 372 - Vì Kim Đan, Ta Dứt Khoát Kiên Quyết
 book_name: linh-kiem-son
+chapter: 372
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 372: 
+# Chương 372: Vì Kim Đan, Ta Dứt Khoát Kiên Quyết
 
 Một năm khổ tu, hiệu quả văn hoa.
 

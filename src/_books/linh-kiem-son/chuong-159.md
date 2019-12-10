@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 159: 
+title: Chương 159 - Vĩnh Viễn Nguyên Vị Chiến Sĩ
 book_name: linh-kiem-son
+chapter: 159
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 159: 
-
-Chương 34:: Vĩnh viễn nguyên vị chiến sĩ
+# Chương 159: Vĩnh Viễn Nguyên Vị Chiến Sĩ
 
 "Nghe cho kỹ, chúng ta sở tu Vô Tương công, là thiên hạ cao cấp nhất tu thân dưỡng tính phương pháp, coi trọng nhất một cái không tranh với đời..."
 

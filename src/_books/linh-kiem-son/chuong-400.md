@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 400: 
+title: Chương 400 - Ngươi Xem Ta Có Phải Là Rất Tuấn Tú?
 book_name: linh-kiem-son
+chapter: 400
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 400: 
+# Chương 400: Ngươi Xem Ta Có Phải Là Rất Tuấn Tú?
 
 "Kim Ngọc Thành?"
 

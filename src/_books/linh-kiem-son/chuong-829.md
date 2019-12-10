@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 829: 
+title: Chương 829 - Thỉnh Cầu Vé Tháng! Thứ Hai Đại Bàn Tất Trướng!
 book_name: linh-kiem-son
+chapter: 829
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 829: 
+# Chương 829: Thỉnh Cầu Vé Tháng! Thứ Hai Đại Bàn Tất Trướng!
 
 Thương Khê Châu, một tầng dày nặng mây đen? Tế ngày không, đem rộng lớn thổ địa bao phủ ở trong bóng ma. Dày đặc hắc ám nhuộm dần Đại Địa, đem thổ địa biến thành một đoàn thối nát nhuyễn bùn, lầy lội lăn lộn, trên mặt đất hết thảy đều bị thôn phệ vào, thay vào đó chính là càng ô uế nước bùn từ dưới đáy phiên xông tới.
 

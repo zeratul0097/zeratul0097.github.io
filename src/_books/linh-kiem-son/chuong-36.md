@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 36: Ba ngàn linh thạch!?
+title: Chương 36 - Ba ngàn linh thạch!?
 book_name: linh-kiem-son
+chapter: 36
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

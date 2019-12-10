@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 427: 
+title: Chương 427 - Ta Đã Không Muốn Mặt
 book_name: linh-kiem-son
+chapter: 427
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 427: 
+# Chương 427: Ta Đã Không Muốn Mặt
 
 Hầu như ở hôi yên bốc lên trong nháy mắt, Quỳnh Hoa liền di chuyển, trong tay nàng màu xanh thăm thẳm tiên kiếm (tiên lộ) như khai thiên tích địa bình thường toàn lực vung hạ xuống, vừa ra tay liền không chút lưu tình.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 254: 
+title: Chương 254 - Luyện Là Không Luyện?
 book_name: linh-kiem-son
+chapter: 254
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 254: 
+# Chương 254: Luyện Là Không Luyện?
 
 Nhìn thấy Đại sư tỷ thời, Vương Lục chút nào không có cảm thấy kinh ngạc.
 

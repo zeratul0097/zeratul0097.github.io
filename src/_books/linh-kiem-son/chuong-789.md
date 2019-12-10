@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 789: 
+title: Chương 789 - Si Nữ Thông Báo
 book_name: linh-kiem-son
+chapter: 789
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 789: 
+# Chương 789: Si Nữ Thông Báo
 
 Thế giới dưới lòng đất.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 513: 
+title: Chương 513 - Chia Rẽ Một Đôi Toán Một Đôi
 book_name: linh-kiem-son
+chapter: 513
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 513: 
+# Chương 513: Chia Rẽ Một Đôi Toán Một Đôi
 
 Tiêu độc y sư dị biến chỉ duy trì ngăn ngắn trong nháy mắt, trong con ngươi màu đen lóe lên liền qua, thoáng cứng ngắc động tác cũng rất nhanh khôi phục như thường.
 

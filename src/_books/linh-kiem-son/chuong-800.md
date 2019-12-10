@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 800: 
+title: Chương 800 - Ta Thực Sự Là Trả Giá Đau Đớn Thê Thảm Đánh Đổi
 book_name: linh-kiem-son
+chapter: 800
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 800: 
+# Chương 800: Ta Thực Sự Là Trả Giá Đau Đớn Thê Thảm Đánh Đổi
 
 Cửu Châu Đại Lục nào đó địa.
 

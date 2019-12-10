@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 556: 
+title: Chương 556 - Thông Minh Nghiền Ép
 book_name: linh-kiem-son
+chapter: 556
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 556: 
+# Chương 556: Thông Minh Nghiền Ép
 
 Đại hội luận võ ngày thứ nhất cộng tiến hành rồi sáu luân giao đấu, quyết ra sáu tên người thắng đồng thời, cũng lưu lại sáu bộ thi thể.
 

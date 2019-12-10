@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 786: 
+title: Chương 786 - Không Hộ Khẩu Chịu Khổ Vạch Trần
 book_name: linh-kiem-son
+chapter: 786
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 786: 
+# Chương 786: Không Hộ Khẩu Chịu Khổ Vạch Trần
 
 "Mấy vị này, các ngài xác định phải ngủ lại ở chỗ này sao? Chúng ta lữ hành đoàn đã an bài xong nơi ở..."
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 398: 
+title: Chương 398 - Bình Quân Thông Minh Bị Trọng Thương
 book_name: linh-kiem-son
+chapter: 398
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 398: 
+# Chương 398: Bình Quân Thông Minh Bị Trọng Thương
 
 Lam quyết tâm quả thật đáng khen.
 

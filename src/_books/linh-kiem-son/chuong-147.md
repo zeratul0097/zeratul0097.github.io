@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 147: 
+title: Chương 147 - Bà Mẹ Nó, Môn Phái Tiên Bảo Muốn Xong!
 book_name: linh-kiem-son
+chapter: 147
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 147: 
-
-Chương 22:: Bà mẹ nó, môn phái Tiên bảo muốn xong!
+# Chương 147: Bà Mẹ Nó, Môn Phái Tiên Bảo Muốn Xong!
 
 "... Sư đệ, một đêm không ngủ?"
 

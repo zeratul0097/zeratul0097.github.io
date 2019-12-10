@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 700: 
+title: Chương 700 - Lại Có Thể Có Người Từ Chối Ta Linh Tê Một Chỉ
 book_name: linh-kiem-son
+chapter: 700
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 700: 
+# Chương 700: Lại Có Thể Có Người Từ Chối Ta Linh Tê Một Chỉ
 
 Cái kia tràng vô cùng gay go đoàn chiến, sau lưng ẩn giấu đi quá nhiều chuyện.
 

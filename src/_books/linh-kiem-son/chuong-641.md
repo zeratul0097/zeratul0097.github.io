@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 641: 
+title: Chương 641 - Ái Tình Nhất Định Phải Năm Rộng Tháng Dài
 book_name: linh-kiem-son
+chapter: 641
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 641: 
+# Chương 641: Ái Tình Nhất Định Phải Năm Rộng Tháng Dài
 
 ... Thật nắm đấm
 

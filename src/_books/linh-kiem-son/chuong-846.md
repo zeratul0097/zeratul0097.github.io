@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 846: 
+title: Chương 846 - Chung Cuộc
 book_name: linh-kiem-son
+chapter: 846
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 846: 
+# Chương 846: Chung Cuộc
 
 "Cùng Linh Kiếm Sơn nói gặp lại... Thật không hổ là ngươi a, loại này tuyệt hậu kế cũng nghĩ ra được."
 

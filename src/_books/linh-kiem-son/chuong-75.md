@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 75: Cô nương ngươi quý tính?
+title: Chương 75 - Cô nương ngươi quý tính?
 book_name: linh-kiem-son
+chapter: 75
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

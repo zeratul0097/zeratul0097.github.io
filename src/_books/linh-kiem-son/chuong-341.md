@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 341: 
+title: Chương 341 - Ta Có Đặc Biệt Lái Kỹ Xảo
 book_name: linh-kiem-son
+chapter: 341
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 341: 
+# Chương 341: Ta Có Đặc Biệt Lái Kỹ Xảo
 
 "... Đây chính là ngươi số hai chiến xa, chim bồ câu hào?"
 

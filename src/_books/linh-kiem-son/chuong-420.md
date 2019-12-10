@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 420: 
+title: Chương 420 - Nhưng Thỉnh Cầu Ý Nghĩ Hiểu Rõ
 book_name: linh-kiem-son
+chapter: 420
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 420: 
+# Chương 420: Nhưng Thỉnh Cầu Ý Nghĩ Hiểu Rõ
 
 "Chu sư tỷ, đại cục trước mặt, ngươi đừng cố tình gây sự có được hay không?"
 

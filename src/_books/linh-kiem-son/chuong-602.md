@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 602: 
+title: Chương 602 - Ngươi Là Tốt Nhất
 book_name: linh-kiem-son
+chapter: 602
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 602: 
+# Chương 602: Ngươi Là Tốt Nhất
 
 Đây là Vương Lục từ cái kia tràng từ ta thức tỉnh xuyên qua ảo mộng sau khi, lần thứ nhất nhìn thấy Phong Ngâm Chân Nhân.
 

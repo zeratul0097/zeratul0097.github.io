@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 680: 
+title: Chương 680 - Tạp Kỹ
 book_name: linh-kiem-son
+chapter: 680
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 680: 
+# Chương 680: Tạp Kỹ
 
 Nhìn thấy Bạch Trạch thời điểm, tràng ở ngoài khán giả dồn dập cảm thấy thở phào nhẹ nhõm, tuy rằng chiến đấu còn chưa bắt đầu, nhưng mọi người lại tựa hồ như đã báo trước đến rồi kết quả.
 

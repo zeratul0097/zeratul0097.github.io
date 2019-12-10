@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 468: 
+title: Chương 468 - Xuyên Mắt
 book_name: linh-kiem-son
+chapter: 468
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 468: 
+# Chương 468: Xuyên Mắt
 
 Rất nhiều người nói, thiên tài cùng người điên chỉ có cách một tia.
 

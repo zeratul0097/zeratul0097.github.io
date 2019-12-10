@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 567: 
+title: Chương 567 - Thế Là Liền Như Vậy Hợp Thể
 book_name: linh-kiem-son
+chapter: 567
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 567: 
+# Chương 567: Thế Là Liền Như Vậy Hợp Thể
 
 Trước đó, Vương Lục từ không nghĩ tới ở này một cái tiên mộng cảnh giới bên trong, sẽ có cơ hội trực diện trời xanh.
 

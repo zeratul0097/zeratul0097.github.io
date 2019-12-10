@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 358: 
+title: Chương 358 - Ta Cảm Thấy Mất Đi Trọng Yếu Đồ Vật
 book_name: linh-kiem-son
+chapter: 358
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 358: 
+# Chương 358: Ta Cảm Thấy Mất Đi Trọng Yếu Đồ Vật
 
 Không trung, thánh quang chi hải cùng Giáo Hoàng một đạo biến mất, phảng phất từ đến chưa từng xuất hiện, mà truỵ xuống trăng tròn cũng ầm ầm vỡ tan, vô số mảnh vỡ như giọt mưa bình thường hạ xuống, mà trăng tròn nơi trọng yếu, một mặt trắng xám Thiên Nguyệt chân quân nhẹ nhàng lau đi khóe miệng tơ máu, sau đó chậm rãi về phía sau bay đi, không nói một lời.
 

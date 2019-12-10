@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 467: 
+title: Chương 467 - Không Tìm Đường Chết Sẽ Không Phải Chết Ta Chính Là Không Hiểu
 book_name: linh-kiem-son
+chapter: 467
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 467: 
+# Chương 467: Không Tìm Đường Chết Sẽ Không Phải Chết Ta Chính Là Không Hiểu
 
 Trong nháy mắt, Vương Lục một nhóm đi tới mới Ma giới đã có hai năm.
 

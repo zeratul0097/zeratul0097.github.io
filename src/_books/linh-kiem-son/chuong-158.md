@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 158: 
+title: Chương 158 - Ta Tên Buồn Bã Mộc Nước Mắt
 book_name: linh-kiem-son
+chapter: 158
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 158: 
-
-Chương 33:: Ta tên buồn bã mộc nước mắt
+# Chương 158: Ta Tên Buồn Bã Mộc Nước Mắt
 
 "Vương Lục, đây là vật gì?"
 

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 13: Gia đình tranh cãi giải quyết tốt đẹp pháp
+title: Chương 13 - Gia đình tranh cãi giải quyết tốt đẹp pháp
 book_name: linh-kiem-son
+chapter: 13
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

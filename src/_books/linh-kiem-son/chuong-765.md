@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 765: 
+title: Chương 765 - Một Mình Đấu Đại Ma Vương
 book_name: linh-kiem-son
+chapter: 765
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 765: 
+# Chương 765: Một Mình Đấu Đại Ma Vương
 
 "Hô... Mùi vị xác thực là khác với tất cả mọi người."
 

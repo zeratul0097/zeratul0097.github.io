@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 173: 
+title: Chương 173 - Cho Nên Nói Cái Gì Hồng Trần Khó Khăn Đều Là Gạt Người
 book_name: linh-kiem-son
+chapter: 173
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 173: 
-
-Chương 2:: Cho nên nói cái gì Hồng Trần khó khăn đều là gạt người
+# Chương 173: Cho Nên Nói Cái Gì Hồng Trần Khó Khăn Đều Là Gạt Người
 
 "Lưu Ly Tiên, ta hỏi ngươi, lần này chúng ta hạ sơn là tới với gì gì đó?"
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 782: 
+title: Chương 782 - Kiểm Tra Phòng
 book_name: linh-kiem-son
+chapter: 782
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 782: 
+# Chương 782: Kiểm Tra Phòng
 
 "Bỏ trốn?" Đế lưu tôn sửng sốt một chút, "Ngươi đùa gì thế?"
 

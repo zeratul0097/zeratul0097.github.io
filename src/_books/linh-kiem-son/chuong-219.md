@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 219: 
+title: Chương 219 - Không Phụ Nhờ Vả
 book_name: linh-kiem-son
+chapter: 219
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 219: 
+# Chương 219: Không Phụ Nhờ Vả
 
 Làm sư phụ, liền muốn tại mọi thời khắc làm đồ đệ giải quyết khó khăn, làm Vương Lục gặp phải làm khó dễ sự thời, có thể ngay lập tức dũng cảm đứng ra, Vương Vũ phục vụ ý thức cố nhiên đáng giá xưng đạo, thế nhưng đồng thời biểu hiện ra không tự lượng sức thậm chí không biết xấu hổ, cũng làm người ta tán không mở miệng.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 106: 
+title: Chương 106 - Ta không phải ngươi nghĩ loại người như vậy
 book_name: linh-kiem-son
+chapter: 106
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 106: 
+# Chương 106: Ta không phải ngươi nghĩ loại người như vậy
 
 "Chưởng môn, đây không phải ngươi có thể ứng phó đối thủ." 
 

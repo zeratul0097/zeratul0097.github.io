@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 690: 
+title: Chương 690 - Thang
 book_name: linh-kiem-son
+chapter: 690
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 690: 
+# Chương 690: Thang
 
 "Cảm giác làm sao?"
 

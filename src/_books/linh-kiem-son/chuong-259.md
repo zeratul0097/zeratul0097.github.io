@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 259: 
+title: Chương 259 - Ngươi Cho Rằng Chỉ Có Ngươi Có Quải?
 book_name: linh-kiem-son
+chapter: 259
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 259: 
+# Chương 259: Ngươi Cho Rằng Chỉ Có Ngươi Có Quải?
 
 Theo bốn Chu Không đột nhiên biến, Kiếm thần lập tức ý thức được đây là đối thủ kích phát rồi bản mệnh thần thông.
 

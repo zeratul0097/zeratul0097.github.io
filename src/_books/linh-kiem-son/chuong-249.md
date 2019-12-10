@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 249: 
+title: Chương 249 - Là Ai Ở Bên Tai, Nói ~
 book_name: linh-kiem-son
+chapter: 249
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 249: 
+# Chương 249: Là Ai Ở Bên Tai, Nói ~
 
 Cái kia thanh âm lạnh như băng là ai?
 

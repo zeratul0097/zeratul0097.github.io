@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 737: 
+title: Chương 737 - Thắng Mà Không Vẻ Vang Gì
 book_name: linh-kiem-son
+chapter: 737
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 737: 
+# Chương 737: Thắng Mà Không Vẻ Vang Gì
 
 Vương Lục lại một lần nữa bị chấn kinh rồi.
 

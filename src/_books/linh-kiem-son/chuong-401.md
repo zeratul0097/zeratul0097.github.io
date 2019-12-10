@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 401: 
+title: Chương 401 - Này Vách Cheo Leo Là Mua!
 book_name: linh-kiem-son
+chapter: 401
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 401: 
+# Chương 401: Này Vách Cheo Leo Là Mua!
 
 "Như thế nào, đây chính là này giới thanh danh hiển hách Diệp Thủy Hà, tuy rằng lấy sông làm tên, nhưng ầm ầm sóng dậy, khí tượng hùng vĩ, cùng ta bản thân toán là phi thường tương xứng."
 

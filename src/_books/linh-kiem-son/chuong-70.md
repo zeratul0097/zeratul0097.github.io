@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 70: Người thắng ăn sạch
+title: Chương 70 - Người thắng ăn sạch
 book_name: linh-kiem-son
+chapter: 70
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

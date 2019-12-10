@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 333: 
+title: Chương 333 - Để Ngươi Mở Mang Làm Sao Lấy Một Làm Bách
 book_name: linh-kiem-son
+chapter: 333
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 333: 
+# Chương 333: Để Ngươi Mở Mang Làm Sao Lấy Một Làm Bách
 
 "Tạo tháp?"
 

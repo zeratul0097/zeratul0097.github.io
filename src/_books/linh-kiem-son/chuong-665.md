@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 665: 
+title: Chương 665 - Nữ Nhân
 book_name: linh-kiem-son
+chapter: 665
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 665: 
+# Chương 665: Nữ Nhân
 
 Trên bàn rượu, bọn nữ tử tiếng cười cười nói nói không ngừng.
 

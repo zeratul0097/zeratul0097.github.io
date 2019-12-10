@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 409: 
+title: Chương 409 - Chúng Ta Chỉ Là Ở Nghiên Cứu Học Thuật
 book_name: linh-kiem-son
+chapter: 409
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 409: 
+# Chương 409: Chúng Ta Chỉ Là Ở Nghiên Cứu Học Thuật
 
 Thịnh kinh người tập kích chiến sau khi, thánh diệp Sarman ngay ở người theo theo đề nghị, trở lại chính mình ở Vĩnh Hằng Thụ chỗ ở.
 

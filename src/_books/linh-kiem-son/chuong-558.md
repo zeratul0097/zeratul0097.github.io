@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 558: 
+title: Chương 558 - Ta Chân Tâm Hoài Nghi Này Có Phải Là Lại Một Lần Xuyên Qua
 book_name: linh-kiem-son
+chapter: 558
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 558: 
+# Chương 558: Ta Chân Tâm Hoài Nghi Này Có Phải Là Lại Một Lần Xuyên Qua
 
 "... Thật là nguy hiểm a, suýt chút nữa liền bị sét đánh."
 

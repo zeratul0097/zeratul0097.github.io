@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 72: Dũng cảm thiếu niên nhanh đi sáng tạo...
+title: Chương 72 - Dũng cảm thiếu niên nhanh đi sáng tạo...
 book_name: linh-kiem-son
+chapter: 72
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

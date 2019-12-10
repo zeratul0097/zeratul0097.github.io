@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 458: 
+title: Chương 458 - Yên Tâm Ta Sẽ Để Cái Này Giả Thiết Phát Dương Quang Đại
 book_name: linh-kiem-son
+chapter: 458
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 458: 
+# Chương 458: Yên Tâm Ta Sẽ Để Cái Này Giả Thiết Phát Dương Quang Đại
 
 Vương Lục xuất đạo tới nay cũng không phải là Thường Thắng bất bại, chí ít hắn ở trong núi luyện kiếm thời liền từng nhiều lần thua cho lưu ly tiên. Mà ở hắn Kim Đan đại thành, cùng lưu ly tiên hình thành đại kém trước đây, mặt đối với thiếu nữ Kiếm Tâm Thông Minh kỳ thực cũng chẳng có bao nhiêu ưu thế, phần thắng đơn giản bốn, sáu mở. Còn càng mạnh hơn một trù Đại sư tỷ Chu Thi Dao liền càng không cần nhiều lời. Tuy rằng hai người giao thủ không nhiều, nhưng Vương Lục tự nhận phần thắng nhiều nhất cũng chỉ có năm phần, thực tại không thể nói là ưu thế gì. Đương nhiên, so với năm đó chính diện giao chiến không phần thắng tình hình vẫn là được rồi quá hơn nhiều.
 

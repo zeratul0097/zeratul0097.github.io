@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 330: 
+title: Chương 330 - Ta Không Cùng Nhược Trí Nói Chuyện
 book_name: linh-kiem-son
+chapter: 330
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 330: 
+# Chương 330: Ta Không Cùng Nhược Trí Nói Chuyện
 
 "... Lại thật sự bị ngươi đi tới."
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 100: 
+title: Chương 100 - Trăm vạn người mở đường
 book_name: linh-kiem-son
+chapter: 100
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 100: 
+# Chương 100: Trăm vạn người mở đường
 
 Ở Vương Lục ra tay, đem trăm vạn Hỗn Độn đàn dựng thành sau đó, lão dâm côn đám người thuận lý thành chương vào ở Vương gia thôn, địa chỉ liền tuyển ở Vương Lục nhà nơi ở cũ —— đương nhiên, cũng là Vương Lục bản nhân bày mưu đặt kế.
 

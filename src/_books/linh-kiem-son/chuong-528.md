@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 528: 
+title: Chương 528 - Còn Có Một Năm
 book_name: linh-kiem-son
+chapter: 528
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 528: 
+# Chương 528: Còn Có Một Năm
 
 "Trương thắng sư huynh, ngày hôm nay đến phiên ngươi trách nhiệm?"
 

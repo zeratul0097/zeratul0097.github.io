@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 443: 
+title: Chương 443 - Phần Tử Trí Thức Cơn Giận
 book_name: linh-kiem-son
+chapter: 443
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 443: 
+# Chương 443: Phần Tử Trí Thức Cơn Giận
 
 Đoàn người tiến vào Côn Lôn Tiên Sơn thư viện sau, Chu Mộc Mộc lần thứ hai cường điệu mấy điểm yêu cầu sau liền từng người phân tán ra đến, tìm kiếm khả năng hữu dụng thư tịch.
 

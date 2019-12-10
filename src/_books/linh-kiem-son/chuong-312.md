@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 312: 
+title: Chương 312 - Đầu Người Huyết Hoa
 book_name: linh-kiem-son
+chapter: 312
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 312: 
+# Chương 312: Đầu Người Huyết Hoa
 
 Lại đến Long thành nhà thờ lớn mỗi mười ngày một lần hội nghị thời gian.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 392: 
+title: Chương 392 - Không Nghĩ Tới Chứ?
 book_name: linh-kiem-son
+chapter: 392
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 392: 
+# Chương 392: Không Nghĩ Tới Chứ?
 
 Cứu mạng người cũng không dễ làm.
 

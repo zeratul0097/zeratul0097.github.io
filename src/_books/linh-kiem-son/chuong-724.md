@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 724: 
+title: Chương 724 - Ở Thứ Tư Viết Xuống Mỏi Mắt Chờ Mong Văn Chương
 book_name: linh-kiem-son
+chapter: 724
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 724: 
+# Chương 724: Ở Thứ Tư Viết Xuống Mỏi Mắt Chờ Mong Văn Chương
 
 "... Vừa những câu nói kia, ngươi vẫn cùng ai nói qua?"
 

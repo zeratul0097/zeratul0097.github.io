@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 808: 
+title: Chương 808 - Chưa Tỉnh Ngủ Liền Không Nên Cùng Người Đánh Nhau
 book_name: linh-kiem-son
+chapter: 808
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 808: 
+# Chương 808: Chưa Tỉnh Ngủ Liền Không Nên Cùng Người Đánh Nhau
 
 Nương theo một đạo hào quang rừng rực lóng lánh, hai giới trong đường nối đại chiến kéo dài màn che.
 

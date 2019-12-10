@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 71: Chí đuổi lừa kỳ ngộ nhớ
+title: Chương 71 - Chí đuổi lừa kỳ ngộ nhớ
 book_name: linh-kiem-son
+chapter: 71
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

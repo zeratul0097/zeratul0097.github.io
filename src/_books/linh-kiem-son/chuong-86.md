@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 86: Như ý đằng thập bát mô dưa
+title: Chương 86 - Như ý đằng thập bát mô dưa
 book_name: linh-kiem-son
+chapter: 86
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

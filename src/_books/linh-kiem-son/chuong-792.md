@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 792: 
+title: Chương 792 - Ta Kiến Nghị Ngươi Đi Buộc Garô
 book_name: linh-kiem-son
+chapter: 792
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 792: 
+# Chương 792: Ta Kiến Nghị Ngươi Đi Buộc Garô
 
 "Nói cách khác, ngươi bị hắn một quyền liền phá nơi..."
 

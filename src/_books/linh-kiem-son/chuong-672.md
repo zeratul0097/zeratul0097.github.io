@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 672: 
+title: Chương 672 - Thẻ Văn Thành Công Ngăn Cản Ta, Vá Càng
 book_name: linh-kiem-son
+chapter: 672
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 672: 
+# Chương 672: Thẻ Văn Thành Công Ngăn Cản Ta, Vá Càng
 
 Làm Vương Lục xuất hiện ở tiên một khu trung ương sân đấu võ trên thính phòng thời, tập trung mà đến kinh ngạc ánh mắt cơ hồ đem hắn đâm vào thủng trăm ngàn lỗ.
 

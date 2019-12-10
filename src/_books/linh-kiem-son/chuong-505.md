@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 505: 
+title: Chương 505 - Đây Mới Gọi Là Quyền Đánh Viện Dưỡng Lão!
 book_name: linh-kiem-son
+chapter: 505
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 505: 
+# Chương 505: Đây Mới Gọi Là Quyền Đánh Viện Dưỡng Lão!
 
 Nhấc lên mộng cảnh, Vương Lục liền không khỏi nhớ tới cái kia bình sinh thấy hùng vĩ nhất mỹ lệ chi mộng, gánh chịu ức vạn sinh linh chi nguyện vọng mới Ma giới... Cùng với cái kia nguy nga cao vót trực vào mây trời núi thây, trong thi sơn khúc kính Thông U một phương mật thất, còn có trong mật thất không cánh mà bay người kia.
 

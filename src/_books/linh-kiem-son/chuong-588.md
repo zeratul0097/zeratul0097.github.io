@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 588: 
+title: Chương 588 - Luyến Thi Phích
 book_name: linh-kiem-son
+chapter: 588
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 588: 
+# Chương 588: Luyến Thi Phích
 
 "Đọa tiên tay... Xem ra Chung Thắng Minh sẽ đem bọn ngươi bỏ vào đến vậy không phải hoàn toàn bởi vì lão bị hồ đồ rồi."
 

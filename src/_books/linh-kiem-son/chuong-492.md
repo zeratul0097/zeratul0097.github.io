@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 492: 
+title: Chương 492 - Đây Chính Là Tình Yêu Chân Thành A
 book_name: linh-kiem-son
+chapter: 492
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 492: 
+# Chương 492: Đây Chính Là Tình Yêu Chân Thành A
 
 Vương Lục mang theo một thân trầm trọng thương thế trở lại trên đỉnh ngọn núi thời điểm, gây nên rất lớn tiếng vọng.
 

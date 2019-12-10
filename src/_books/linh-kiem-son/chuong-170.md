@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 170: 
+title: Chương 170 - Vương Lục Đã Siêu Thần
 book_name: linh-kiem-son
+chapter: 170
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 170: 
-
-Chương 45:: Vương Lục đã siêu thần
+# Chương 170: Vương Lục Đã Siêu Thần
 
 Phát sinh ở Cửu Châu lịch 48 năm, Linh Kiếm Sơn Vân Lộc trên Thiên đài một trận chiến đấu, nhất định đem ghi vào sử sách.
 

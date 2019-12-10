@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 432: 
+title: Chương 432 - Vương Lục Lão Sư Dạy Ngươi Làm Người Phòng Học Nhỏ
 book_name: linh-kiem-son
+chapter: 432
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 432: 
+# Chương 432: Vương Lục Lão Sư Dạy Ngươi Làm Người Phòng Học Nhỏ
 
 Cùm cụp, ào ào ào.
 

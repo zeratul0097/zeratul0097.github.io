@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 476: 
+title: Chương 476 - Bắt Đầu Từ Hôm Nay Cấm Chỉ Mộng Di
 book_name: linh-kiem-son
+chapter: 476
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 476: 
+# Chương 476: Bắt Đầu Từ Hôm Nay Cấm Chỉ Mộng Di
 
 Đối mặt trống rỗng quan tài, Vương Lục trầm mặc một lúc lâu, bất đắc dĩ thở dài.
 

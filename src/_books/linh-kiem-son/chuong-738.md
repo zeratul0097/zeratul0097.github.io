@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 738: 
+title: Chương 738 - Não Tàn Nhất Định Phải Chết!
 book_name: linh-kiem-son
+chapter: 738
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 738: 
+# Chương 738: Não Tàn Nhất Định Phải Chết!
 
 Đàn tiên thi đấu, làm Cửu Châu Đại Lục gần trăm năm qua trọng yếu nhất một việc trọng đại, cho tới nay không tới thời gian một năm, đã đề cao ra nhiều tràng nhất định ghi vào sử sách quyết đấu.
 

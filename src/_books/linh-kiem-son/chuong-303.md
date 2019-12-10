@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 303: 
+title: Chương 303 - Vấn Đề Hôn Nhân Xử Lý Chuyên Gia
 book_name: linh-kiem-son
+chapter: 303
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 303: 
+# Chương 303: Vấn Đề Hôn Nhân Xử Lý Chuyên Gia
 
 "Thực sự là hình tượng nghịch chuyển a."
 

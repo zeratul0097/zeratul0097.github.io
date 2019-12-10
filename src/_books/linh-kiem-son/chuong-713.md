@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 713: 
+title: Chương 713 - Đế Vương
 book_name: linh-kiem-son
+chapter: 713
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 713: 
+# Chương 713: Đế Vương
 
 Vương Lục một lời thành châm.
 

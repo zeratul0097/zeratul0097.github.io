@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 434: 
+title: Chương 434 - Nộ Kinh Hãi Một Làn Sóng! !
 book_name: linh-kiem-son
+chapter: 434
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 434: 
+# Chương 434: Nộ Kinh Hãi Một Làn Sóng! !
 
 Tâm ma đi trừ, đối với Vương Lục mà nói hầu như là giải trí mạng nguy cơ.
 

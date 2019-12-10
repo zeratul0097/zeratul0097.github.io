@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 192: 
+title: Chương 192 - Lưu Ly Tiên Không Chiếu Lái Xe
 book_name: linh-kiem-son
+chapter: 192
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 192: 
-
-Chương 21:: Lưu Ly Tiên không chiếu lái xe
+# Chương 192: Lưu Ly Tiên Không Chiếu Lái Xe
 
 Thân thể máu thịt có thể nào chống đối chiến xa?
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 462: 
+title: Chương 462 - Nói Ngươi Là Kẻ Tàn Phế Chân Tâm Không Sai!
 book_name: linh-kiem-son
+chapter: 462
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 462: 
+# Chương 462: Nói Ngươi Là Kẻ Tàn Phế Chân Tâm Không Sai!
 
 Ma giới đại đa số sinh linh thần trí cũng không tỉnh táo?
 

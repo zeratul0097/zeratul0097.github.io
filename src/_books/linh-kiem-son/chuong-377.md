@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 377: 
+title: Chương 377 - Vì Đời Kế Tiếp, Giúp Một Chút Ta!
 book_name: linh-kiem-son
+chapter: 377
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 377: 
+# Chương 377: Vì Đời Kế Tiếp, Giúp Một Chút Ta!
 
 Truy sát hắc vân bên trong yêu ma, khá phí đi chút công phu, Vương Lục chỉ dùng Vô Tướng Kiếm, thuần phòng ngự phản kích kiếm pháp đối mặt chạy tứ tán tinh quái có vẻ hơi không thuận lợi, mà Vương Lục xuất phát từ các loại cân nhắc, từ đầu đến cuối không có vận dụng hắn ở Thái Cổ kiếm trủng trung học từ Kiếm Ma công phu, thậm chí bản mệnh thần thông cũng bị ẩn giấu lên. Thuần lấy Vô Tướng Kiếm lực phản kích cùng với vẫn tính hơn người thân pháp tốc độ, đem trên trời bầy yêu từng cái đuổi theo chém giết.
 

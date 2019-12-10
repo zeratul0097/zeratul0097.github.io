@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 520: 
+title: Chương 520 - Ngài Có Mới Tin Tức Xin Tra Thu
 book_name: linh-kiem-son
+chapter: 520
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 520: 
+# Chương 520: Ngài Có Mới Tin Tức Xin Tra Thu
 
 Luận ra tay quả đoán, ít có người có thể so sánh được với Vương Lục. Ở Lưu Hiển sắp dẫn kiếm tự vẫn trong nháy mắt, hỗn độn Phá Thiên Kiếm Khí phá thể mà ra.
 

@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 136: 
+title: Chương 136 - Tiên Thiên Vô Tướng Kiếm Khí
 book_name: linh-kiem-son
+chapter: 136
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 136: 
-
-Chương 11:: Tiên Thiên Vô Tướng kiếm khí
+# Chương 136: Tiên Thiên Vô Tướng Kiếm Khí
 
 Hắc triều bên trong không ánh sáng không âm thanh, thế nhưng mười con to lớn Tử Linh tồn tại cảm giác mãnh liệt như thế, phảng phất một trận cơn lốc dường như phả vào mặt, mà nắm giữ Hắc Ám nhận biết Vương Lục, trong đầu đã rõ ràng ấn ra đối phương ánh mắt dữ tợn.
 

@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 153: 
+title: Chương 153 - Mập Mạp Chính Xác Phương Pháp Sử Dụng
 book_name: linh-kiem-son
+chapter: 153
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 153: 
-
-Chương 28:: Mập mạp chính xác phương pháp sử dụng
+# Chương 153: Mập Mạp Chính Xác Phương Pháp Sử Dụng
 
 "Môn phái Thủ Tịch việc, đã cùng chưởng môn bàn xong xuôi rồi."
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 712: 
+title: Chương 712 - Cưỡi Ngựa Xem Hoa Liễu
 book_name: linh-kiem-son
+chapter: 712
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 712: 
+# Chương 712: Cưỡi Ngựa Xem Hoa Liễu
 
 Linh Kiếm Sơn trên, một nam một nữ sóng vai cất bước trong đường núi, nữ tử vừa đi vừa nhìn, ánh mắt xuyên thấu mây mù đại trận, trực chống đỡ thâm thúy nơi. Hai người tuy ở chân núi, nhưng nữ tử thời gian ngắn ngủi liền đem Linh Kiếm Sơn nhìn cái đại khái, liền ngay cả trong núi tu hành đệ tử cũng bao hàm ở bên trong, thế là nàng đưa ra một vấn đề.
 

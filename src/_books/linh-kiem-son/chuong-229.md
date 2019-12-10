@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 229: 
+title: Chương 229 - Ban Ngày Muốn Ngươi Muội Thức Ăn Ngoài
 book_name: linh-kiem-son
+chapter: 229
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 229: 
+# Chương 229: Ban Ngày Muốn Ngươi Muội Thức Ăn Ngoài
 
 Trên thực tế, ngoại trừ hoa vân còn có nghi ngờ ở ngoài, làm Thiên Kiếm Đường các trưởng lão biết được Thái Cổ kiếm trủng là Chân Tiên di sản, truyền thừa chi trủng thời, trên căn bản liền xác lập đại phương hướng.
 

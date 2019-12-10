@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 80: Ngắm nhìn bầu trời một đời hắc
+title: Chương 80 - Ngắm nhìn bầu trời một đời hắc
 book_name: linh-kiem-son
+chapter: 80
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

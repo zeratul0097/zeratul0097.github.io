@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 137: 
+title: Chương 137 - Thầy Trò Tình Thâm
 book_name: linh-kiem-son
+chapter: 137
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 137: 
-
-Chương 12:: Thầy trò tình thâm
+# Chương 137: Thầy Trò Tình Thâm
 
 Vô biên vô tận trong bóng tối, mấy đám Minh Ngọc hỏa thiêu đốt có chừng Quang Minh, trong ánh sáng, da đen huyền độc Thi tướng kinh nghi bất định thu hồi cốt tiên, ở trước mặt hắn, một người một chó mắt nhìn chằm chằm.
 

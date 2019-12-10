@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 251: 
+title: Chương 251 - Dũng Đấu Ma Bệnh
 book_name: linh-kiem-son
+chapter: 251
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 251: 
+# Chương 251: Dũng Đấu Ma Bệnh
 
 Tinh thần tiên nữ vương lộ lộ thần kỳ vũ đạo mê hoặc chúng sinh, lưu ly bảy màu quần ánh sáng ở thạch thất bên trong thoả thích lóng lánh, khiến cho lòng người trì hoa mắt.
 

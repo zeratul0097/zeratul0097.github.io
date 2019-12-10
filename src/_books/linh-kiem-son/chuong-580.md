@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 580: 
+title: Chương 580 - Vì Yêu Ta Là Không Thèm Đến Xỉa
 book_name: linh-kiem-son
+chapter: 580
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 580: 
+# Chương 580: Vì Yêu Ta Là Không Thèm Đến Xỉa
 
 "Ha ha ha, tiểu Lục lục ta tìm đến ngươi chơi rồi"
 

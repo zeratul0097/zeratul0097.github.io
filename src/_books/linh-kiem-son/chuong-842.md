@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 842: 
+title: Chương 842 - Ta Chính Là Muốn Xoạt Thời Thượng Trị!
 book_name: linh-kiem-son
+chapter: 842
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 842: 
+# Chương 842: Ta Chính Là Muốn Xoạt Thời Thượng Trị!
 
 "Ngươi lại... Còn sống sót?"
 

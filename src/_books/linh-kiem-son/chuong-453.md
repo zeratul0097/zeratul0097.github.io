@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 453: 
+title: Chương 453 - Màu Xanh Lục Hoàn Bảo Chủ Nghĩa Giả Chém Nửa Đêm
 book_name: linh-kiem-son
+chapter: 453
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 453: 
+# Chương 453: Màu Xanh Lục Hoàn Bảo Chủ Nghĩa Giả Chém Nửa Đêm
 
 "Vĩnh Hằng Thụ?"
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 613: 
+title: Chương 613 - Chuẩn Xác Nắm Nhân Dân Quần Chúng Thoải Mái Điểm
 book_name: linh-kiem-son
+chapter: 613
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 613: 
+# Chương 613: Chuẩn Xác Nắm Nhân Dân Quần Chúng Thoải Mái Điểm
 
 Một hồi Kim Đan đối với hóa thần chiến đấu, nhìn ra trong diễn võ trường ở ngoài một mảnh trầm mặc.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 346: 
+title: Chương 346 - Sinh Lý Khỏe Mạnh Giáo Dục Sự Tất Yếu
 book_name: linh-kiem-son
+chapter: 346
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 346: 
+# Chương 346: Sinh Lý Khỏe Mạnh Giáo Dục Sự Tất Yếu
 
 "Không sai, mục tiêu của ta, từ vừa mới bắt đầu chính là ngươi."
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 722: 
+title: Chương 722 - Thứ Hai Viết Xuống Chia Buồn Cuối Tuần Văn Chương
 book_name: linh-kiem-son
+chapter: 722
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 722: 
+# Chương 722: Thứ Hai Viết Xuống Chia Buồn Cuối Tuần Văn Chương
 
 "Gần nhất này Quần Tiên Thành cảm giác lạnh thanh hạ xuống a."
 

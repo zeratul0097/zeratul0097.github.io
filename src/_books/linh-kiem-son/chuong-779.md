@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 779: 
+title: Chương 779 - Đây Là Muốn Hoàn Thành! ?
 book_name: linh-kiem-son
+chapter: 779
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 779: 
+# Chương 779: Đây Là Muốn Hoàn Thành! ?
 
 Trung Châu kỳ sơn, trong yên tĩnh sóng ngầm tuôn trào, ở nhàn nhạt sát ý bao phủ xuống, hai vị thượng cổ Địa tiên đồng thời cảm thấy sau lưng lông tơ nổ lập, tiên tâm diêu thốc.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 542: 
+title: Chương 542 - Cho Ta Một Cơ Hội!
 book_name: linh-kiem-son
+chapter: 542
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 542: 
+# Chương 542: Cho Ta Một Cơ Hội!
 
 Đối mặt trên Vương Lục, Trì Huyền Anh chỉ cảm thấy một loại trước nay chưa từng có buồn bực. Hắn tu hành năm mươi năm, hạng người gì cũng đã gặp, liền ngay cả cao cao tại thượng Quỳnh Hoa Tiên Tử cũng có thể chuyện trò vui vẻ, nhưng chưa từng thấy Vương Lục người như vậy... Chẳng trách ở trong vòng, Vương Lục danh tiếng lớn nhất tranh luận.
 

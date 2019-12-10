@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 34: Sư phụ của ta là nhục tiện khí
+title: Chương 34 - Sư phụ của ta là nhục tiện khí
 book_name: linh-kiem-son
+chapter: 34
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

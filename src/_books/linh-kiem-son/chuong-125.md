@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 125: 
+title: Chương 125 - Vạn Tiên Minh Thành Viên Là Như Thế Nào Luyện Thành
 book_name: linh-kiem-son
+chapter: 125
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 125: 
-
-Chương 41:: Vạn Tiên Minh thành viên là như thế nào luyện thành
+# Chương 125: Vạn Tiên Minh Thành Viên Là Như Thế Nào Luyện Thành
 
 Màu vàng Phù Ấn, khiến cho hai vị Nguyên Anh trưởng lão lâm vào cực lớn khiếp sợ.
 

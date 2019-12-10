@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 199: 
+title: Chương 199 - Trong Núi Không Giáp Hàn Tận Không Biết Năm
 book_name: linh-kiem-son
+chapter: 199
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 199: 
-
-Chương 28:: Trong núi không giáp hàn tận không biết năm
+# Chương 199: Trong Núi Không Giáp Hàn Tận Không Biết Năm
 
 "Xét thấy ta vừa nãy thành thực xin hỏi, có thể đem ngươi bên chân linh khuyển tặng cho ta sao?"
 

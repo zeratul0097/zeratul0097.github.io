@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 589: 
+title: Chương 589 - Thẳng Thắn Độn
 book_name: linh-kiem-son
+chapter: 589
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 589: 
+# Chương 589: Thẳng Thắn Độn
 
 Vạn Tiên Minh, đàn tiên mộ khai quật quản lý ủy viên hội đã ở trong vòng mười ngày liên tục tổ chức sáu lần hội nghị.
 

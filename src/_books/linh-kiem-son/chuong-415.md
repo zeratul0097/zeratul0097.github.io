@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 415: 
+title: Chương 415 - Đắc Tội Rồi Hạng Lương Còn Muốn Đi?
 book_name: linh-kiem-son
+chapter: 415
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 415: 
+# Chương 415: Đắc Tội Rồi Hạng Lương Còn Muốn Đi?
 
 Liệt diễm tà dương, Đại Địa như máu, bao quanh hỏa vân phảng phất đoạt mệnh đao nhọn, từ đường chân trời kéo dài hướng lên trên, lơ lửng ở đỉnh đầu.
 

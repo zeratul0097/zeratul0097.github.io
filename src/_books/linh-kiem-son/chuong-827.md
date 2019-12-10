@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 827: 
+title: Chương 827 - Rốt Cục Chơi Hỏng Rồi
 book_name: linh-kiem-son
+chapter: 827
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 827: 
+# Chương 827: Rốt Cục Chơi Hỏng Rồi
 
 Ngược, hoặc là không ngược, này xác thực là cái vấn đề.
 

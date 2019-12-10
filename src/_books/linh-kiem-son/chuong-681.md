@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 681: 
+title: Chương 681 - Vì Dota2 Quốc Nạn Ngày Chia Buồn
 book_name: linh-kiem-son
+chapter: 681
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 681: 
+# Chương 681: Vì Dota2 Quốc Nạn Ngày Chia Buồn
 
 Vương Lục cùng Bạch Trạch chiến đấu tiến hành đến cực kỳ nhanh.
 

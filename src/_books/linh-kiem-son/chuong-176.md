@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 176: 
+title: Chương 176 - Đạo Hữu Xin Dừng Bước, Vật Ấy Cùng Ta Ngự Thú Tông Hữu Duyên
 book_name: linh-kiem-son
+chapter: 176
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 176: 
-
-Chương 5:: Đạo hữu xin dừng bước, vật ấy cùng ta Ngự Thú tông hữu duyên
+# Chương 176: Đạo Hữu Xin Dừng Bước, Vật Ấy Cùng Ta Ngự Thú Tông Hữu Duyên
 
 Từ cửa hàng thịt đi ra, Vương Lục mang tới hai cái bằng hữu tốt nhất liền hướng về trung tâm thành phố đi đến, ở xác nhận thành phố này cơ bản hoàn cảnh sau, Vương Lục cơ bản yên lòng, Ngự Thú tông đối với khải đức thành khống chế có hạn, muốn đến cái này phân đà cũng không có đem nơi này nhìn đến mức quá nhiều sao trọng muốn, chủ lực đều tại Vân Đài núi phụ cận. Ở đây phổ biến thức ăn chay chủ nghĩa, hơn nửa chỉ là mấy cái Luyện Khí, Trúc Cơ kỳ hàng tiểu bối.
 

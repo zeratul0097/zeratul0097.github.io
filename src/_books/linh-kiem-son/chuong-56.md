@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 56: Luận Bá Vương ngạnh thượng cung thứ hai
+title: Chương 56 - Luận Bá Vương ngạnh thượng cung thứ hai
 book_name: linh-kiem-son
+chapter: 56
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

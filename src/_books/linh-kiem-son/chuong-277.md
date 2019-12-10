@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 277: 
+title: Chương 277 - Một Cái Chính Trực Cao Thượng Thoát Ly Cấp Thấp Thú Vị Đầu Bếp
 book_name: linh-kiem-son
+chapter: 277
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 277: 
+# Chương 277: Một Cái Chính Trực Cao Thượng Thoát Ly Cấp Thấp Thú Vị Đầu Bếp
 
 Phát quản ủy tìm kiếm ba năm đều không tìm được chìa khoá ở tây di
 

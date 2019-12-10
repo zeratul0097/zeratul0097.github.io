@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 373: 
+title: Chương 373 - Đã Từng Vương Bá Khí
 book_name: linh-kiem-son
+chapter: 373
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 373: 
+# Chương 373: Đã Từng Vương Bá Khí
 
 Đối với bà chủ bực này giai cấp giác ngộ hạ thấp tiểu chủ, Vương Lục xưa nay không hi vọng nàng có thể có cái gì đáng tin lĩnh ngộ, liên quan với Kim Đan thời cơ sự tình, chỉ cần mình biết là tốt rồi.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 497: 
+title: Chương 497 - Hết Thảy Đều Là Trách Nhiệm Của Ngươi! !
 book_name: linh-kiem-son
+chapter: 497
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 497: 
+# Chương 497: Hết Thảy Đều Là Trách Nhiệm Của Ngươi! !
 
 Ma tộc lão nhân tinh tế thủ đoạn khẽ run, nhìn qua lại như ở khô tế cành. Như vậy thủ đoạn đừng nói nắm chặt binh khí cùng nhân loại chém giết, chỉ sợ liền thỏa mãn chính mình cần cũng không đủ lực.
 

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 8: Sư đệ ngươi là hiểu rõ ta
+title: Chương 8 - Sư đệ ngươi là hiểu rõ ta
 book_name: linh-kiem-son
+chapter: 8
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

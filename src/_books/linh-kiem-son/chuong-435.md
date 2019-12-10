@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 435: 
+title: Chương 435 - Kiếm Chỉ Nguyên Anh?
 book_name: linh-kiem-son
+chapter: 435
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 435: 
+# Chương 435: Kiếm Chỉ Nguyên Anh?
 
 "Thực sự là dường như đang mơ a."
 

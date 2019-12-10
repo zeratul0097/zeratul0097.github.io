@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 437: 
+title: Chương 437 - Hoài Liền Hoài
 book_name: linh-kiem-son
+chapter: 437
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 437: 
+# Chương 437: Hoài Liền Hoài
 
 Thánh Quang Giáo làm tây di đại lục kể đến hàng đầu thế lực to lớn, dưới trướng ngàn quân vạn Mã Cường giả như mây, thánh quang chi hải càng là mênh mông vô ngần, nếu là đem nhân cách hoá hóa, chính là Chân Tiên thậm chí càng cao hơn một tầng tồn tại. Nhưng mà so với cái kia phần khổng lồ tổng sản lượng, thánh quang chi hải bao dung vạn vật đặc tính càng đáng giá lưu ý.
 

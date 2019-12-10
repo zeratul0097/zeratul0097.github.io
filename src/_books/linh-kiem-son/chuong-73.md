@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 73: Ta đi rồi!
+title: Chương 73 - Ta đi rồi!
 book_name: linh-kiem-son
+chapter: 73
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

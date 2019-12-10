@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 315: 
+title: Chương 315 - Thiệt Xán Hoa Sen
 book_name: linh-kiem-son
+chapter: 315
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 315: 
+# Chương 315: Thiệt Xán Hoa Sen
 
 Trên tòa long thành không, bối đức Neville cùng vô diện giả chiến đấu đã tiến vào gay cấn tột độ giai đoạn, thu hồi phân thân sau, vô diện giả sức mạnh tăng vọt một đoạn, bắt đầu biến thủ thành công, vô cùng vô tận thánh quang phép thuật giống như là thuỷ triều dâng tới bối đức Neville. Kỵ sĩ bàn tròn cao ngạo bóng người ở mênh mông trong biển ánh sáng có vẻ thấp kém mà nhỏ bé, hoàn toàn rơi vào rồi hạ phong.
 

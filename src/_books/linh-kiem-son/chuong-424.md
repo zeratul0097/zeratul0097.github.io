@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 424: 
+title: Chương 424 - Trận Chiến Cuối Cùng Khởi Nguồn
 book_name: linh-kiem-son
+chapter: 424
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 424: 
+# Chương 424: Trận Chiến Cuối Cùng Khởi Nguồn
 
 "Nửa đêm huynh, nén bi thương thuận biến a"
 

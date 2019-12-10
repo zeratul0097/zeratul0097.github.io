@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 119: 
+title: Chương 119 - Nói Chuyện Có Thể Còn Giữ Lời?
 book_name: linh-kiem-son
+chapter: 119
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 119: 
-
-Chương 35:: Nói chuyện có thể còn giữ lời?
+# Chương 119: Nói Chuyện Có Thể Còn Giữ Lời?
 
 "Xì."
 

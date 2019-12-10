@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 163: 
+title: Chương 163 - Đáng Tiếc Đây Là Không Đòn Bẩy
 book_name: linh-kiem-son
+chapter: 163
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 163: 
-
-Chương 38:: Đáng tiếc đây là không đòn bẩy
+# Chương 163: Đáng Tiếc Đây Là Không Đòn Bẩy
 
 Khi (làm) 50 triệu linh thạch chữ xuất hiện lúc, đăng ký đài phụ cận hoàn toàn tĩnh mịch, phảng phất thời gian sông dài liền như vậy đình trệ.
 

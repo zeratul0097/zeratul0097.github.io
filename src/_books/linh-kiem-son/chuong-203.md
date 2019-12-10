@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 203: 
+title: Chương 203 - Lấy Thực Lực Tuyệt Đối Nghiền Ép Lên Đi! Điểm!
 book_name: linh-kiem-son
+chapter: 203
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 203: 
+# Chương 203: Lấy Thực Lực Tuyệt Đối Nghiền Ép Lên Đi! Điểm!
 
 "Nói đến... Không cảm thấy hành động của ngươi quá mạo hiểm một chút sao?"
 

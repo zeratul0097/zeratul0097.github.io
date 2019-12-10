@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 472: 
+title: Chương 472 - Người Làm Việc Lớn Không Câu Nệ Tiểu Tiết
 book_name: linh-kiem-son
+chapter: 472
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 472: 
+# Chương 472: Người Làm Việc Lớn Không Câu Nệ Tiểu Tiết
 
 Vương Lục còn nhớ, rất lâu trước hắn đã từng từng thấy một cái vấn đề thú vị.
 

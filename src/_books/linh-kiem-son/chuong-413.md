@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 413: 
+title: Chương 413 - Ta Có Vô Cùng Dục Hỏa
 book_name: linh-kiem-son
+chapter: 413
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 413: 
+# Chương 413: Ta Có Vô Cùng Dục Hỏa
 
 Kim Ngọc Thành biên thuỳ trọng trấn thất thủ, chu vi ngàn dặm nơi bị quân địch tiến quân thần tốc, ngọn lửa chiến tranh liệu nguyên.
 

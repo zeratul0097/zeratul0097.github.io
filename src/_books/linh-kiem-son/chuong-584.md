@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 584: 
+title: Chương 584 - Lãnh Đạo Nghệ Thuật
 book_name: linh-kiem-son
+chapter: 584
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 584: 
+# Chương 584: Lãnh Đạo Nghệ Thuật
 
 Địa tiên phân liệt dung hợp dùng rất lâu.
 

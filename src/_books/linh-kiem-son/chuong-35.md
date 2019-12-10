@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 35: Rất nhanh thức thời Vô Tương kiếm cốt
+title: Chương 35 - Rất nhanh thức thời Vô Tương kiếm cốt
 book_name: linh-kiem-son
+chapter: 35
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

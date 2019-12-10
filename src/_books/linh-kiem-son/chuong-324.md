@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 324: 
+title: Chương 324 - Dật Giá Cả Uy Lực
 book_name: linh-kiem-son
+chapter: 324
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 324: 
+# Chương 324: Dật Giá Cả Uy Lực
 
 Rất nhiều chuyện, vạch trần chân tướng sau kỳ thực vô cùng đơn giản.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 714: 
+title: Chương 714 - Lập Tức Liền Là Thứ Hai ...
 book_name: linh-kiem-son
+chapter: 714
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 714: 
+# Chương 714: Lập Tức Liền Là Thứ Hai ...
 
 Lưu lại một đoạn liên quan với đế vương cảm khái sau, đế lưu tôn liền một mình trở về đàn tiên mộ.
 

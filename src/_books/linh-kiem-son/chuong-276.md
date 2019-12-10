@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 276: 
+title: Chương 276 - Đóng Cửa Thả Lão Bát
 book_name: linh-kiem-son
+chapter: 276
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 276: 
+# Chương 276: Đóng Cửa Thả Lão Bát
 
 Sư phụ một lời thành châm.
 

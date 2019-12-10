@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 632: 
+title: Chương 632 - Đàn Khẩu Tướng Thanh
 book_name: linh-kiem-son
+chapter: 632
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 632: 
+# Chương 632: Đàn Khẩu Tướng Thanh
 
 Vương Lục thiêm xong bút danh của chính mình sau, cái kia Địa tiên lập tức vô cùng phấn khởi địa nắm bắt thẻ ngọc ở đồng bạn bên trong khoe khoang: "Ha ha, ta có hắn kí tên rồi"
 

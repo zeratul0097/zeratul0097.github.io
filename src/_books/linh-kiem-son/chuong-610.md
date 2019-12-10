@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 610: 
+title: Chương 610 - Nằm Thắng
 book_name: linh-kiem-son
+chapter: 610
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 610: 
+# Chương 610: Nằm Thắng
 
 Đàn tiên thi đấu tổ ủy hội công bố lần thứ hai Kim Đan chiến hóa thần, bắt đầu thi đấu thời gian là định vì vào lúc giữa trưa.
 

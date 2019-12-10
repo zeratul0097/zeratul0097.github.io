@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 591: 
+title: Chương 591 - Chúc Mừng Phát Tài
 book_name: linh-kiem-son
+chapter: 591
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 591: 
+# Chương 591: Chúc Mừng Phát Tài
 
 "Này chính là các ngươi phương án? Quả thực chính là chuyện cười"
 

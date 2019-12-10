@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 524: 
+title: Chương 524 - Kế Hoạch Đại Nhảy Vọt
 book_name: linh-kiem-son
+chapter: 524
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 524: 
+# Chương 524: Kế Hoạch Đại Nhảy Vọt
 
 "Vá trận"
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 822: 
+title: Chương 822 - Ngọt Thành Như Vậy Đi Chết Đi Cho Ta
 book_name: linh-kiem-son
+chapter: 822
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 822: 
+# Chương 822: Ngọt Thành Như Vậy Đi Chết Đi Cho Ta
 
 Vương Lục âm thanh vừa đến, phi kiếm màu đỏ ngòm nhất thời liền dừng lại, sau đó chính là càng thêm run rẩy kịch liệt, nhưng không lại thô bạo, trên thân kiếm màu máu cũng cấp tốc tiêu tan xuống, đổi Đoạt Mục long lanh hào quang, dường như lệ nóng doanh tròng.
 

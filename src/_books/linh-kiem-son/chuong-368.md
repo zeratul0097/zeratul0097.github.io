@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 368: 
+title: Chương 368 - Tránh Ra Để Chuyên Nghiệp Đến!
 book_name: linh-kiem-son
+chapter: 368
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 368: 
+# Chương 368: Tránh Ra Để Chuyên Nghiệp Đến!
 
 Ở vô số người kinh ngạc bên trong, Vương Lục rốt cục niệm xong báo cáo của chính mình, mà lúc này phía sau mấy vị trưởng lão ồn ào cũng có một kết thúc, Vương Lục trung gian nghe được rõ ràng, chưởng hình trưởng lão muốn y theo môn phái quy tắc đối với sư phụ phi pháp đoạt được tiến hành toàn ngạch đoạt lại, sư phụ mấy lần kháng nghị vô hiệu, đành phải nuốt quả đắng, vẻ mặt đưa đám. Mà thấy nàng một bộ phảng phất bị người cường bạo làm nhục vẻ mặt, mới hạc cũng là bất đắc dĩ, liền không nhiều hơn truy cứu.
 

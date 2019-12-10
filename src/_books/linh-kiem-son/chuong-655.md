@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 655: 
+title: Chương 655 - Mở Ra Ngươi Nhũ Đầu!
 book_name: linh-kiem-son
+chapter: 655
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 655: 
+# Chương 655: Mở Ra Ngươi Nhũ Đầu!
 
 Khắp núi hồng cửa lớn mở rộng sau, phòng khách treo lơ lửng hoành phi cũng rơi vào rồi cái khác khán giả trong tầm mắt, nhất thời gợi ra nghị luận sôi nổi.
 

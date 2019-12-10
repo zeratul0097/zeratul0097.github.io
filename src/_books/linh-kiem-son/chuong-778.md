@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 778: 
+title: Chương 778 - Phụ Phụ Đến Chính
 book_name: linh-kiem-son
+chapter: 778
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 778: 
+# Chương 778: Phụ Phụ Đến Chính
 
 Trung Châu, bầu trời vân trên đường, một chiếc hình thể thon dài vân châu ở trắng xóa trong mây trắng tựa như tia chớp ngang qua, đưa tới phía dưới không ít người cảm thán.
 

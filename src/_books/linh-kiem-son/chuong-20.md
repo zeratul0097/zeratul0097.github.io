@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 20: Nhiều người sức mạnh lớn
+title: Chương 20 - Nhiều người sức mạnh lớn
 book_name: linh-kiem-son
+chapter: 20
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

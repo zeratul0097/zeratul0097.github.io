@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 109: 
+title: Chương 109 - Chiêu số giống vậy đối với ta là không có...
 book_name: linh-kiem-son
+chapter: 109
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 109: 
+# Chương 109: Chiêu số giống vậy đối với ta là không có...
 
 "Chúc mừng ngươi rốt cục bò đến trước mặt của ta, bất quá, hiện tại ngươi còn có lòng thanh thản cùng ta một mình đấu sao?"
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 531: 
+title: Chương 531 - Mới Thứ Tư Thực Sự Là Thật Phiền
 book_name: linh-kiem-son
+chapter: 531
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 531: 
+# Chương 531: Mới Thứ Tư Thực Sự Là Thật Phiền
 
 Bầu trời đen kịt như mực.
 

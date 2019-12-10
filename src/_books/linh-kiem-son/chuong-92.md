@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 92: 
+title: Chương 92 - Vương Lục làm ra một quyết định chặt vặt
 book_name: linh-kiem-son
+chapter: 92
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 92: 
+# Chương 92: Vương Lục làm ra một quyết định chặt vặt
 
 "A, Linh tỷ chúng ta thật không hổ là hiểu ngầm chị em gái ahaha." 
 

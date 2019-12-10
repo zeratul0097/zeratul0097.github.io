@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 776: 
+title: Chương 776 - Mười Năm Mài Một Chiêu Kiếm
 book_name: linh-kiem-son
+chapter: 776
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 776: 
+# Chương 776: Mười Năm Mài Một Chiêu Kiếm
 
 Thiên Nam Châu từ xưa tới nay chính là ở chếch Cửu Châu một góc biên thuỳ chi châu, từng cùng Thương Khê Châu nổi danh được khen là tu Tiên giới hoang mạc. Rộng lớn trên đất nhân tài rất ít, như Ngự Thú Tông bực này thực lực liền có thể xưng được là địa phương ngang ngược. Sau đó Thương Khê Châu ra một cái linh kiếm phái, tu Tiên giới hoang mạc mũ cuối cùng cũng coi như hái được xuống, mà Thiên Nam Châu càng là được trời cao chăm sóc, đàn tiên mộ cánh cửa mở ra sau, nơi đây một lần trở thành Cửu Châu chỗ then chốt, luận cùng tươi tốt, biến chuyển từng ngày, liền ngay cả Trung Châu cũng không bằng thiên nam.
 

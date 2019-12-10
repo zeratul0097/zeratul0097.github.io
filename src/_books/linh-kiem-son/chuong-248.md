@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 248: 
+title: Chương 248 - Tỏ Rõ Manh Mối, Các Ngươi Chưa Từng Hoài Nghi?
 book_name: linh-kiem-son
+chapter: 248
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 248: 
+# Chương 248: Tỏ Rõ Manh Mối, Các Ngươi Chưa Từng Hoài Nghi?
 
 Thế là tất cả câu đố đều bị phá giải.
 

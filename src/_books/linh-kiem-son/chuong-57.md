@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 57: Vào núi
+title: Chương 57 - Vào núi
 book_name: linh-kiem-son
+chapter: 57
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

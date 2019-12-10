@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 799: 
+title: Chương 799 - Người Cuối Cùng Cũng Có Vừa Chết
 book_name: linh-kiem-son
+chapter: 799
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 799: 
+# Chương 799: Người Cuối Cùng Cũng Có Vừa Chết
 
 Tới đúng lúc Hạ Tiểu Hà, rất nhanh sẽ gặp phải vô tình đả kích, đại thừa đỉnh phong tu sĩ tiên thuật như bão tố bình thường đập tới, làm cho nàng tả chi hữu thiểm, rất chật vật.
 

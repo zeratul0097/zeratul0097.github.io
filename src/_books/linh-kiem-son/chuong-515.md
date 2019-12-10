@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 515: 
+title: Chương 515 - Ép Giọt Cuối Cùng Chính Năng Lượng
 book_name: linh-kiem-son
+chapter: 515
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 515: 
+# Chương 515: Ép Giọt Cuối Cùng Chính Năng Lượng
 
 "... Ta nói sư đệ các sư muội, các ngươi ai có thể giải thích một chút, chuyện này rốt cuộc là như thế nào?"
 

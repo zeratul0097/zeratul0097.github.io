@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 614: 
+title: Chương 614 - Khó Mà Tin Nổi Chi Nhiệm Vụ Vật Ngữ
 book_name: linh-kiem-son
+chapter: 614
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 614: 
+# Chương 614: Khó Mà Tin Nổi Chi Nhiệm Vụ Vật Ngữ
 
 "Tiểu hải, phiền phức nói trò cười cho ta nghe đi."
 

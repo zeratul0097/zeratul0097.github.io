@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 191: 
+title: Chương 191 - Thân Thể Máu Thịt
 book_name: linh-kiem-son
+chapter: 191
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 191: 
-
-Chương 20:: Thân thể máu thịt
+# Chương 191: Thân Thể Máu Thịt
 
 "Cái kia thuần Thú Sư là tên rác rưởi."
 

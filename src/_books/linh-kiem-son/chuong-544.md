@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 544: 
+title: Chương 544 - Lần Này Thật Nhìn Thấy Chết Triệu Tinh
 book_name: linh-kiem-son
+chapter: 544
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 544: 
+# Chương 544: Lần Này Thật Nhìn Thấy Chết Triệu Tinh
 
 Phong đô đàn tiên mộ bị Vương Lục khóa chặt vì hắn trạm tiếp theo mục tiêu.
 

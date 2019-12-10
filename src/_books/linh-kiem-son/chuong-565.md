@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 565: 
+title: Chương 565 - Xem Ra Chỉ Có Thể Đoạn Tuyệt Quan Hệ Thầy Trò
 book_name: linh-kiem-son
+chapter: 565
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 565: 
+# Chương 565: Xem Ra Chỉ Có Thể Đoạn Tuyệt Quan Hệ Thầy Trò
 
 Sau ba ngày.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 729: 
+title: Chương 729 - Người Tế Quan Hệ Rắc Rối Phức Tạp!
 book_name: linh-kiem-son
+chapter: 729
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 729: 
+# Chương 729: Người Tế Quan Hệ Rắc Rối Phức Tạp!
 
 "Cái gì? Vương Lục không ở? Nói đùa sao? Loại này cần tăng giờ làm việc thời điểm, các ngươi nói hắn không ở? Kiếm cớ cũng tìm hợp lý một điểm a hơn nữa ta lại không phải cái gì người ngoài, xem ta mặc quần áo này còn không nhìn ra được sao? Dựa vào, ta không phải cái gì nhân vật đóng vai ham muốn giả, ta xuyên chính là hàng thật đúng giá linh kiếm chân truyền chế phục được chứ các ngươi cho Vương Lục làm việc thời gian dài như vậy, liền quần áo thật giả cũng không thấy? Cái gì? Không nghe nói linh kiếm phái có thứ tư chân truyền? Chuyện cười ta đương nhiên không phải thứ tư chân truyền, lão tử là cái thứ nhất nhà các ngươi lão đại thấy ta trên lý thuyết cũng nên kêu một tiếng sư huynh năm đó hắn đi thăng tiên trên đường Linh Kiếm Sơn thời điểm, ta còn toàn bộ hành trình vây xem ấy nhỉ, có thể nói tận mắt chứng kiến hắn trưởng thành, mấy người các ngươi lại dám đem ta cản ở ngoài cửa"
 

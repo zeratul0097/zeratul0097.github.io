@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 123: 
+title: Chương 123 - Không Thẹn Với Lương Tâm
 book_name: linh-kiem-son
+chapter: 123
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 123: 
-
-Chương 39:: Không thẹn với lương tâm
+# Chương 123: Không Thẹn Với Lương Tâm
 
 "Thật là can đảm"
 

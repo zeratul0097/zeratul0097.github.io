@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 243: 
+title: Chương 243 - Ta Càng Yêu Thích Nhìn Thấy Nàng Muốn Tìm Bất Mãn
 book_name: linh-kiem-son
+chapter: 243
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 243: 
+# Chương 243: Ta Càng Yêu Thích Nhìn Thấy Nàng Muốn Tìm Bất Mãn
 
 Vương Lục, huých ở tường bên trong,100 viên thẻ đánh bạc.
 

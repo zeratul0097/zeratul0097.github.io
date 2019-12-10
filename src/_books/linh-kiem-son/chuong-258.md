@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 258: 
+title: Chương 258 - Hoan Nghênh Đi Tới Thế Giới Của Ta
 book_name: linh-kiem-son
+chapter: 258
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 258: 
+# Chương 258: Hoan Nghênh Đi Tới Thế Giới Của Ta
 
 Rất nhiều người đối với kiếm tu tồn ở một cái hiểu lầm.
 

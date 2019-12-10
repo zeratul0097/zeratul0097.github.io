@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 628: 
+title: Chương 628 - Nghệ Thuật Muốn Rất Nhanh Thức Thời
 book_name: linh-kiem-son
+chapter: 628
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 628: 
+# Chương 628: Nghệ Thuật Muốn Rất Nhanh Thức Thời
 
 Vương Lục luôn luôn cho rằng, việc phải tự làm lãnh đạo là đáng thương, bởi vì cái kia mang ý nghĩa dưới tay hắn không người nào có thể dùng. Mà không người nào có thể dùng lãnh đạo cùng phế vật khác nhau ở chỗ nào? Chí ít ở lãnh đạo thân phận này trên là không còn gì khác.
 

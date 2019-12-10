@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 732: 
+title: Chương 732 - Đại Tù Trưởng Săn Bắn
 book_name: linh-kiem-son
+chapter: 732
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 732: 
+# Chương 732: Đại Tù Trưởng Săn Bắn
 
 "Gào thét"
 

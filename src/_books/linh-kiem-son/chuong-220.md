@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 220: 
+title: Chương 220 - Vương Lục Làm Văn Thanh Cái Kia Mấy Năm
 book_name: linh-kiem-son
+chapter: 220
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 220: 
+# Chương 220: Vương Lục Làm Văn Thanh Cái Kia Mấy Năm
 
 Từ vân châu trở về Linh Kiếm Sơn, lên đường bình an.
 

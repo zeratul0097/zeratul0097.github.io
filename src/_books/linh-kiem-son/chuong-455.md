@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 455: 
+title: Chương 455 - Ta Nghĩ Vậy Đại Khái Là Dầu Mỏ Tài Nguyên
 book_name: linh-kiem-son
+chapter: 455
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 455: 
+# Chương 455: Ta Nghĩ Vậy Đại Khái Là Dầu Mỏ Tài Nguyên
 
 Hơn nửa ngày sau, một nhóm năm người —— trong đó trên người hai người mang theo thương —— rốt cục đến Thiên Nam Châu động phủ.
 

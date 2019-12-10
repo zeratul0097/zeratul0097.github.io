@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 45: Bên trong dòm ngó kính
+title: Chương 45 - Bên trong dòm ngó kính
 book_name: linh-kiem-son
+chapter: 45
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

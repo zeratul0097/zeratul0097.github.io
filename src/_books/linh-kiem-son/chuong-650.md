@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 650: 
+title: Chương 650 - Thi Đấu Đã Tiến Vào Hình Mà Trên Lĩnh Vực
 book_name: linh-kiem-son
+chapter: 650
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 650: 
+# Chương 650: Thi Đấu Đã Tiến Vào Hình Mà Trên Lĩnh Vực
 
 "Này, đây rốt cuộc muốn làm sao so với a?"
 

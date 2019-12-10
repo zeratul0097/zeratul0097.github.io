@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 187: 
+title: Chương 187 - Các Ngươi Thế Hệ Này Thực Sự Là Hạnh Phúc
 book_name: linh-kiem-son
+chapter: 187
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 187: 
-
-Chương 16:: Các ngươi thế hệ này thực sự là hạnh phúc
+# Chương 187: Các Ngươi Thế Hệ Này Thực Sự Là Hạnh Phúc
 
 Vân Đài sơn mạch Phương Viên 500 dặm địa giới nói lớn không lớn, có thể thế núi liên miên phức tạp, đặc biệt là địa mạch linh khí biến hóa mãnh liệt, ở trong dãy núi tụ hợp khuấy động, làm cho trong núi hoàn cảnh càng khó lường. Từ trên trời lúc bay qua, hay là cảm thấy Vân Đài núi không coi là cỡ nào bao la, thế nhưng làm đến nơi đến chốn đi, mười ngày nửa tháng cũng chỉ có thể đi khắp trong núi một góc.
 

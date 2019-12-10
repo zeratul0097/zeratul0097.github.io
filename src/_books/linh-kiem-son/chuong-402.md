@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 402: 
+title: Chương 402 - Quý Nhân Hay Quên Sự
 book_name: linh-kiem-son
+chapter: 402
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 402: 
+# Chương 402: Quý Nhân Hay Quên Sự
 
 Vĩnh Hằng Thụ thủ lĩnh thánh diệp là Diệp Thủy Hà chi vương lão bà?
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 485: 
+title: Chương 485 - Để Cái Kia Nghiệt Súc Kiến Thức Linh Kiếm Người Cốt Khí!
 book_name: linh-kiem-son
+chapter: 485
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 485: 
+# Chương 485: Để Cái Kia Nghiệt Súc Kiến Thức Linh Kiếm Người Cốt Khí!
 
 Có lẽ là bởi vì Vương Lục tập hợp đến quá gần, đã ở quấy nhiễu đến năng lượng tuần hoàn, Vương Vũ mở mắt ra, có chút không biết làm sao mà nhìn Vương Lục.
 

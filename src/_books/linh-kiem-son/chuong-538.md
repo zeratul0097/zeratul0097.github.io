@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 538: 
+title: Chương 538 - Khó Khó Khó Khó
 book_name: linh-kiem-son
+chapter: 538
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 538: 
+# Chương 538: Khó Khó Khó Khó
 
 Ngăn cản Vương Lục ngay lập tức trở về sơn môn lý do thứ hai chính là đọa tiên di sản.
 

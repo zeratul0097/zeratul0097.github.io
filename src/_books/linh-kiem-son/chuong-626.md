@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 626: 
+title: Chương 626 - Vương Lục Khẩu Việc
 book_name: linh-kiem-son
+chapter: 626
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 626: 
+# Chương 626: Vương Lục Khẩu Việc
 
 Quần Tiên Thành ngay chính giữa sân đấu võ bên trong, đã biển người.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 247: 
+title: Chương 247 - Có Thể Người Sau Lưng Có Người Làm!
 book_name: linh-kiem-son
+chapter: 247
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 247: 
+# Chương 247: Có Thể Người Sau Lưng Có Người Làm!
 
 Vô Tướng Công là thiên hạ đệ nhất phòng ngự công pháp.
 

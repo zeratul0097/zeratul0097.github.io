@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 519: 
+title: Chương 519 - Ngủ Yên Ba
 book_name: linh-kiem-son
+chapter: 519
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 519: 
+# Chương 519: Ngủ Yên Ba
 
 Lý hi lễ tang vô cùng đơn giản.
 

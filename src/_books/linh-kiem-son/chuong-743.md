@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 743: 
+title: Chương 743 - Món Chính Hướng Dẫn Xong Xuôi!
 book_name: linh-kiem-son
+chapter: 743
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 743: 
+# Chương 743: Món Chính Hướng Dẫn Xong Xuôi!
 
 Thư tự chưa từng có giống như bây giờ phẫn nộ qua.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 235: 
+title: Chương 235 - Trước Tiên Thánh Bát Đức
 book_name: linh-kiem-son
+chapter: 235
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 235: 
+# Chương 235: Trước Tiên Thánh Bát Đức
 
 Vương Lục tu hành mười từ năm đó, vẫn là lần thứ nhất gặp phải chân chính về mặt ý nghĩa thích hợp chuyên nghiệp người mạo hiểm cường địch.
 

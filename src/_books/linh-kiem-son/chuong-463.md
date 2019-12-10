@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 463: 
+title: Chương 463 - Chớ Ta
 book_name: linh-kiem-son
+chapter: 463
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 463: 
+# Chương 463: Chớ Ta
 
 Chu Mộc Mộc cùng chém nửa đêm trong lúc đó ân oán, từ ngũ linh huyết quan tranh bá thời chiến kỳ bắt đầu, vẫn kéo dài tới hôm nay. Hai người gặp mặt liền rùm beng, ồn ào cuống lên liền đánh, hầu như không có yên tĩnh thời điểm. Trong lúc rất khó giảng ai đúng ai sai, y theo Vương Lục ý tứ tốt nhất là hai người đồng thời về nhà kết hôn quên đi. Chí ít hắn vẫn nằm ở lập trường trung lập
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 623: 
+title: Chương 623 - Khai Mạc Đại Điển
 book_name: linh-kiem-son
+chapter: 623
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 623: 
+# Chương 623: Khai Mạc Đại Điển
 
 Hai ngày sau, đàn tiên mộ ở ngoài biển người.
 

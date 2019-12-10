@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 169: 
+title: Chương 169 - Tuy Rằng Xin Lỗi, Thế Nhưng Ta Muốn Nói
 book_name: linh-kiem-son
+chapter: 169
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 169: 
-
-Chương 44:: Tuy rằng xin lỗi, thế nhưng ta muốn nói
+# Chương 169: Tuy Rằng Xin Lỗi, Thế Nhưng Ta Muốn Nói
 
 Vân Lộc trên Thiên đài quyết chiến đã kéo dài một quãng thời gian.
 

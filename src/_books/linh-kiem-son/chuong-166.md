@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 166: 
+title: Chương 166 - Ngươi Có Nguyện Ý Hay Không... Bất Luận Phú Quý Vẫn Là Bần Cùng
 book_name: linh-kiem-son
+chapter: 166
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 166: 
-
-Chương 41:: Ngươi có nguyện ý hay không... Bất luận phú quý vẫn là bần cùng
+# Chương 166: Ngươi Có Nguyện Ý Hay Không... Bất Luận Phú Quý Vẫn Là Bần Cùng
 
 "Kiếm Tâm Thông Minh cũng không phải vô địch công pháp, khuyết điểm của nó giống như ưu điểm đột xuất. Tuy rằng lực công kích mạnh, nhưng sức phòng ngự không đủ, vì lẽ đó Vạn Pháp Tiên Môn tiểu tể tử môn cơ bản dòng suy nghĩ không có sai, nhưng bọn họ nhưng sai ở đánh giá thấp Kiếm Tâm Thông Minh thiên biến vạn hóa, nóng lòng cầu thành, mưu toan ở hiệp một liền phân ra thắng bại, kết quả đều bị tiểu Lưu Ly nha đầu kia đánh trở tay không kịp. Tiểu nha đầu kỳ thực không nhiều như vậy phức tạp tâm tư, chỉ là trực giác nói cho nàng biết thế nào thủ thắng, nàng liền thế nào làm, mà Vạn Pháp Tiên Môn vô dụng, liền tiểu nha đầu trực giác đều đánh không lại."
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 609: 
+title: Chương 609 - Ta Rất Hiếu Kì!
 book_name: linh-kiem-son
+chapter: 609
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 609: 
+# Chương 609: Ta Rất Hiếu Kì!
 
 Thịnh Kinh Tiên Môn lệ xuyên sơn thủy tú lệ, từ trước đến giờ được khen là nhân gian tiên cảnh, là chưởng môn Hà Đồ Chân Quân cùng với nhiều vị tị thế ẩn tu thái thượng trưởng lão ẩn cư nơi. Hơn 700 năm trước đương nhiệm Thịnh Kinh Tiên Môn chức chưởng môn chính là vị nữ tử, nàng ở lệ xuyên xây dựng một toà Cẩm Tú đường làm chính mình nhàn nhã biệt viện. Bởi vì kiến trúc phong cách đường lối sáng tạo, kiến tài càng là tuyển chọn tỉ mỉ, bị rất nhiều tu sĩ xưng là Thịnh Kinh Tiên Môn một kỳ cảnh. Nhưng mà ở bây giờ đàn tiên thi đấu hoàn cảnh lớn dưới, này lệ xuyên Cẩm Tú đường cũng bị trưng dụng lên, trở thành một đám có oanh oanh yến yến trụ sở.
 

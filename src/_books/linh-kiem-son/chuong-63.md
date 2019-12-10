@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 63: Ta tinh thông tướng nhân thuật
+title: Chương 63 - Ta tinh thông tướng nhân thuật
 book_name: linh-kiem-son
+chapter: 63
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

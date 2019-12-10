@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 365: 
+title: Chương 365 - Khẩn Cấp
 book_name: linh-kiem-son
+chapter: 365
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 365: 
+# Chương 365: Khẩn Cấp
 
 Từ từ đường biển, dường như một cái vô biên vô hạn mộng.
 

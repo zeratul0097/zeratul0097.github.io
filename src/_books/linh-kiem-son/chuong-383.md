@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 383: 
+title: Chương 383 - Cố Sự Thật Giả Đã Đều Không Quan Trọng
 book_name: linh-kiem-son
+chapter: 383
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 383: 
+# Chương 383: Cố Sự Thật Giả Đã Đều Không Quan Trọng
 
 "Xem sắc mặt của ngươi, thật giống đối với ta thượng sách có chút ý kiến?"
 

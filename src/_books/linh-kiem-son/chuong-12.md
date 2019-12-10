@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 12: Kiền bà nội cùng kiền bà nội
+title: Chương 12 - Kiền bà nội cùng kiền bà nội
 book_name: linh-kiem-son
+chapter: 12
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

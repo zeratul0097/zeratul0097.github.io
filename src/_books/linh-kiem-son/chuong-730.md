@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 730: 
+title: Chương 730 - Ngày Cá Tháng Tư Vui Sướng!
 book_name: linh-kiem-son
+chapter: 730
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 730: 
+# Chương 730: Ngày Cá Tháng Tư Vui Sướng!
 
 Vương Vũ đi rồi, những người còn lại cũng không có nóng lòng động tác.
 

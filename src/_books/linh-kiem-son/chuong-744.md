@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 744: 
+title: Chương 744 - Hòa Thượng Muốn Nghịch Thiên
 book_name: linh-kiem-son
+chapter: 744
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 744: 
+# Chương 744: Hòa Thượng Muốn Nghịch Thiên
 
 Thư tự bị La Tiêu mời kinh ngạc đến ngây người.
 

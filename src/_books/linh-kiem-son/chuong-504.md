@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 504: 
+title: Chương 504 - Mỹ Lệ Không Phân Giới Tính, Gợi Cảm Không Phân Chủng Tộc
 book_name: linh-kiem-son
+chapter: 504
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 504: 
+# Chương 504: Mỹ Lệ Không Phân Giới Tính, Gợi Cảm Không Phân Chủng Tộc
 
 Tha hương ngộ cố tri vốn nên là thích nghe ngóng việc, đặc biệt là vốn là toàn bộ đề phòng lo lắng đề phòng ứng đối đối thủ, phát hiện càng là bạn tốt chi mẫu, càng ứng cảm thấy trấn an.
 

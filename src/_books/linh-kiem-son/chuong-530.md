@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 530: 
+title: Chương 530 - Hoa Sen Mới Nở
 book_name: linh-kiem-son
+chapter: 530
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 530: 
+# Chương 530: Hoa Sen Mới Nở
 
 Bị Linh Kiếm tu sĩ môn nghị luận đã lâu Tam Tài kiếm trận ứng cử viên chi tranh rốt cục kết thúc.
 

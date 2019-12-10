@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 840: 
+title: Chương 840 - Không Ăn Chúc Rượu
 book_name: linh-kiem-son
+chapter: 840
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 840: 
+# Chương 840: Không Ăn Chúc Rượu
 
 Cửu Châu cùng Tiên giới chiến tranh, cuối cùng là một hồi tranh cướp thời gian? Chiến tranh.
 

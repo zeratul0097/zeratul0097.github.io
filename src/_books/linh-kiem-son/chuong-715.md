@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 715: 
+title: Chương 715 - Phán Cuối Tuần...
 book_name: linh-kiem-son
+chapter: 715
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 715: 
+# Chương 715: Phán Cuối Tuần...
 
 Quân Hoàng Sơn dong trong nham động, vừa kết thúc một ngày căng thẳng huấn luyện các tu sĩ, mang theo một thân uể oải đi tới quần sơn vờn quanh bên trong một chỗ u cốc thanh đàm, gột rửa hỏa khí cùng bẩn thỉu tạp chất.
 

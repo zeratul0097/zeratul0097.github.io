@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 280: 
+title: Chương 280 - Hàng Năm Ngày 11 Tháng 11 Thánh Chiến
 book_name: linh-kiem-son
+chapter: 280
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 280: 
+# Chương 280: Hàng Năm Ngày 11 Tháng 11 Thánh Chiến
 
 "Chúc mừng ngươi thành công đào được một cái kim bài hướng đạo, bây giờ Cửu Châu Đại Lục trên tây người Di sĩ tuy nhiều, cũng không thiếu quyền quý xuất thân, thế nhưng có thể so sánh Aya càng ưu tú hướng đạo e sợ khó tìm. Nàng ở leo lên vương vị trước đã là học thức xuất chúng quý tộc. Xưng vương sau tầm nhìn rộng rãi, kiến thức uyên bác, hơn nữa... Bởi vì thiên tính nguyên nhân, nàng đối với kỳ trân dị bảo có không hề tầm thường hứng thú, đang tầm bảo, thu gom các phương diện là hưởng dự một phương mọi người. Tuy rằng nàng rời đi tây di đại lục đã gần trăm năm, nhưng ngươi lại không phải cần người giúp ngươi tìm thời thượng thánh địa, mà là truyền kỳ Tiên bảo. Như vậy không còn so với Aya càng thích hợp hướng đạo."
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 563: 
+title: Chương 563 - Ta Xem Này Phân Cấp Chế Độ Bắt Buộc Phải Làm
 book_name: linh-kiem-son
+chapter: 563
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 563: 
+# Chương 563: Ta Xem Này Phân Cấp Chế Độ Bắt Buộc Phải Làm
 
 Đối với rất nhiều nhất định cô độc suốt đời người mà nói, chốn Tu La kỳ thực là một niềm hạnh phúc buồn phiền.
 

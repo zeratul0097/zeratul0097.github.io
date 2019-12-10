@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 25: Không nên nhìn không nổi vật sưu tập ah!
+title: Chương 25 - Không nên nhìn không nổi vật sưu tập ah!
 book_name: linh-kiem-son
+chapter: 25
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 553: 
+title: Chương 553 - Đề Tài Trong Nháy Mắt Liền Thay Đổi!
 book_name: linh-kiem-son
+chapter: 553
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 553: 
+# Chương 553: Đề Tài Trong Nháy Mắt Liền Thay Đổi!
 
 "Ai, sớm nên nghĩ đến thiên hạ không có bữa trưa miễn phí, huống chi là ở tuần hoàn cơ bản đồng giá trao đổi nguyên tắc tiên mộng cảnh giới bên trong. Này không nguyệt nhiệt tình rõ ràng vượt qua cần phải mức độ... Vốn tưởng rằng nàng sẽ cho chúng ta bố trí chút độ khó hơi cao nhiệm vụ, vừa vặn còn có thể mượn cơ hội này tôi luyện một hồi kinh nghiệm thực chiến, không nghĩ tới a không nghĩ tới nàng lại rút củi dưới đáy nồi a."
 

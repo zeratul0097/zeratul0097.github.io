@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 273: 
+title: Chương 273 - Hữu Tâm Mở Bao Bao Không Ra
 book_name: linh-kiem-son
+chapter: 273
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 273: 
+# Chương 273: Hữu Tâm Mở Bao Bao Không Ra
 
 Thái Cổ kiếm trủng nơi sâu xa, Vương Lục tự tin tung bay âm thanh vang vọng tứ phương, đối mặt nhiều vị nguyên anh hóa thần thậm chí Hợp Thể kỳ chân quân nhìn kỹ, hắn không chút hoang mang, thao thao bất tuyệt.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 360: 
+title: Chương 360 - Dược Không Thể Đình Kỵ Sĩ Vương
 book_name: linh-kiem-son
+chapter: 360
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 360: 
+# Chương 360: Dược Không Thể Đình Kỵ Sĩ Vương
 
 Từ Thánh thành khải toàn Cửu Châu tu sĩ, dọc theo đường đi sẽ không có đình chỉ nghị luận, ở Thánh thành bên dưới thành hai trận chiến đấu tuy rằng thời gian kéo dài không lâu, nhưng là kinh tâm động phách, rung động đến tâm can. Thiên Nguyệt chân quân Hợp Thể kỳ siêu cường phép thuật, Giáo Hoàng triệu hoán thánh quang chi hải thần tự uy năng, đời mới Giáo Hoàng xoay chuyển nhân quả Đại Dự Ngôn thuật, cùng với Phong Ngâm Chân Nhân kỹ cao một bậc tinh thần đại diễn thuật... Đây là ở Cửu Châu đã rất nhiều năm chưa từng có đặc sắc đại chiến, khiến cho người dư vị vô cùng., mà chiến đấu bên ngoài biến hóa cũng là làm người bất ngờ.
 

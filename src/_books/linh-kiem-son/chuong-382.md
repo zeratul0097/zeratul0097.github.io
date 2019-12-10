@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 382: 
+title: Chương 382 - Ta Có Trên Dưới Hai Sách
 book_name: linh-kiem-son
+chapter: 382
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 382: 
+# Chương 382: Ta Có Trên Dưới Hai Sách
 
 Ở vân dương vương phủ tiềm tàng non nửa thiên, Vương Lục đã cơ bản thăm dò đầu đuôi sự tình.
 

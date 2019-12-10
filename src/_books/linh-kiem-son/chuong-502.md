@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 502: 
+title: Chương 502 - Bố Loại Thiên Hạ Là Không Thể Đừng Nghĩ
 book_name: linh-kiem-son
+chapter: 502
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 502: 
+# Chương 502: Bố Loại Thiên Hạ Là Không Thể Đừng Nghĩ
 
 "Có vú dục tử chi vui a nghe tới thật giống xác thực chơi rất vui. Đáng tiếc ta đều không nhớ rõ khi còn bé đến cùng là ai đem ta mang đại..."
 

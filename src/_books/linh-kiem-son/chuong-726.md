@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 726: 
+title: Chương 726 - Ha Ha Ha Ha Cuối Tuần Đến Rồi!
 book_name: linh-kiem-son
+chapter: 726
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 726: 
+# Chương 726: Ha Ha Ha Ha Cuối Tuần Đến Rồi!
 
 Hắc người này đúng là phi thường kỳ quái.
 

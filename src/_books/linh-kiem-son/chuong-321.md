@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 321: 
+title: Chương 321 - Aya Khẩu Việc
 book_name: linh-kiem-son
+chapter: 321
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 321: 
+# Chương 321: Aya Khẩu Việc
 
 Chiến tranh vẫn kéo dài đến màn đêm buông xuống, mới rốt cục có một kết thúc.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 831: 
+title: Chương 831 - Thỉnh Cầu Vé Tháng! Chúc Cổ Phiếu Toàn Tuyến Trúng Liền!
 book_name: linh-kiem-son
+chapter: 831
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 831: 
+# Chương 831: Thỉnh Cầu Vé Tháng! Chúc Cổ Phiếu Toàn Tuyến Trúng Liền!
 
 "Vương Lục, ngươi đến cùng xong chưa?! Ta xem phía dưới đúng là không kiên trì được!"
 

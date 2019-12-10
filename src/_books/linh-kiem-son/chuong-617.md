@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 617: 
+title: Chương 617 - Nam Nhân Trở Mình Điểm Quan Tâm Kéo Dài
 book_name: linh-kiem-son
+chapter: 617
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 617: 
+# Chương 617: Nam Nhân Trở Mình Điểm Quan Tâm Kéo Dài
 
 Này đã là Vương Lục cùng huyền mặc lần thứ hai giao thủ.
 

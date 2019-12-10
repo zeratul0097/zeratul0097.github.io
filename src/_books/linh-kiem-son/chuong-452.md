@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 452: 
+title: Chương 452 - Ta Cùng Vạn Pháp Tiên Môn Kỳ Thực Thật Rất Có Duyên
 book_name: linh-kiem-son
+chapter: 452
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 452: 
+# Chương 452: Ta Cùng Vạn Pháp Tiên Môn Kỳ Thực Thật Rất Có Duyên
 
 "Thực sự là thiên tài phát minh a."
 

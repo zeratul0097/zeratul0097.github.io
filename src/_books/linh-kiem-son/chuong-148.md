@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 148: 
+title: Chương 148 - Ta Liền Biết Hắn Tuyệt Đối Sẽ Không Đàng Hoàng
 book_name: linh-kiem-son
+chapter: 148
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 148: 
-
-Chương 23:: Ta liền biết hắn tuyệt đối sẽ không đàng hoàng
+# Chương 148: Ta Liền Biết Hắn Tuyệt Đối Sẽ Không Đàng Hoàng
 
 "Được, phía dưới liền để Trảm Tử Dạ vì mọi người biểu thị này chúng sinh cánh cửa công hiệu, còn ảo thuật cố sự bối cảnh sao... Nơi này có chút sẵn có kịch bản, có thể tùy cho các ngươi chọn."
 

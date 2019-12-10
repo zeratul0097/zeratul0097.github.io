@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 547: 
+title: Chương 547 - Đầu Mối Chính, Chi Nhánh, Ẩn Núp Nội Dung Vở Kịch
 book_name: linh-kiem-son
+chapter: 547
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 547: 
+# Chương 547: Đầu Mối Chính, Chi Nhánh, Ẩn Núp Nội Dung Vở Kịch
 
 Ngoại trừ thiên thượng nhân gian lai lịch bên ngoài, thiên ngửi bên trong còn giải đáp Vương Lục sớm nhất đưa ra vấn đề: Thế giới này đều là nữ tử tạo thành, như vậy làm sao sinh sôi sinh lợi?
 

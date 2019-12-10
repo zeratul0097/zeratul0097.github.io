@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 523: 
+title: Chương 523 - Khiêu Trứng
 book_name: linh-kiem-son
+chapter: 523
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 523: 
+# Chương 523: Khiêu Trứng
 
 "Không thể chờ?" Vương Lục đối với Âu Dương Thương suy đoán biểu thị hiếu kỳ.
 

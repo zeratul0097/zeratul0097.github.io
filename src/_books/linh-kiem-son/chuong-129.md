@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 129: 
+title: Chương 129 - Luận Chính Xác Xử Lý Tiên Phàm Quan Hệ
 book_name: linh-kiem-son
+chapter: 129
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 129: 
-
-Chương 4:: Luận chính xác xử lý Tiên phàm quan hệ
+# Chương 129: Luận Chính Xác Xử Lý Tiên Phàm Quan Hệ
 
 Xuân về hoa nở thời tiết, Linh Kiếm Sơn trên lần thứ hai khôi phục ngày xưa độ hot —— cứ việc người này đinh héo tàn môn phái trong ngày thường cũng không có người nào khí.
 

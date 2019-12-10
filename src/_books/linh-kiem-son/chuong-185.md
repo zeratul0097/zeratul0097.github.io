@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 185: 
+title: Chương 185 - Moonpie
 book_name: linh-kiem-son
+chapter: 185
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 185: 
-
-Chương 14:: Moonpie
+# Chương 185: Moonpie
 
 Nguyên Anh thăng cấp Hóa Thần có vài loại phương pháp, tiểu Thất sử dụng hóa thân rèn luyện phương pháp liền là một cái trong số đó, đương nhiên, xem như là thiên môn. Vương Lục tuy rằng hiểu rõ qua, nhưng nhất thời cũng không nghĩ ra nơi nào đây.
 

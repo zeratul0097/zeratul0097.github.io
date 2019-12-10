@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 48: Dọn bãi Thần khí
+title: Chương 48 - Dọn bãi Thần khí
 book_name: linh-kiem-son
+chapter: 48
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

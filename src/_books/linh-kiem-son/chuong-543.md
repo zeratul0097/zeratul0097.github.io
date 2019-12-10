@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 543: 
+title: Chương 543 - Danh Hoa Thật Sự Có Chủ
 book_name: linh-kiem-son
+chapter: 543
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 543: 
+# Chương 543: Danh Hoa Thật Sự Có Chủ
 
 Trì Huyền Anh cực kỳ nghi hoặc mà nhìn Vương Lục đầy cõi lòng thành ý đưa tới cái gọi là thịt linh chi, trong lòng suy đoán vật này đến cùng là dùng làm gì... Bất quá rất nhanh hắn liền chuyển qua ý nghĩ không nghĩ nữa những này việc vặt vãnh.
 

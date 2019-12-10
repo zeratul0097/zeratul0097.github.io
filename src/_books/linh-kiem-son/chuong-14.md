@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 14: Có chí thiếu niên nhẫn nhũ phụ trọng
+title: Chương 14 - Có chí thiếu niên nhẫn nhũ phụ trọng
 book_name: linh-kiem-son
+chapter: 14
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

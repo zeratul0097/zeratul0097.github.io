@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 426: 
+title: Chương 426 - Xem Ta Càn Khôn Nhất Trịch!
 book_name: linh-kiem-son
+chapter: 426
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 426: 
+# Chương 426: Xem Ta Càn Khôn Nhất Trịch!
 
 Lều trại ở ngoài, Quỳnh Hoa Tiên Tử chậm rãi đến gần, chỉ là bước tiến tuy hoãn, nhưng mỗi một bước đều gây nên sơn diêu địa chấn, mà hùng hồn pháp lực không kiêng kị mà tản mát ra, như dày nặng mây đen bình thường bao phủ ở nơi đóng quân bầu trời, ép tới người thở dốc gian nan.
 

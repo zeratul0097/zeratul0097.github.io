@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 290: 
+title: Chương 290 - Vì Dân Phục Vụ Kỵ Sĩ Vương
 book_name: linh-kiem-son
+chapter: 290
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 290: 
+# Chương 290: Vì Dân Phục Vụ Kỵ Sĩ Vương
 
 "Này Hoàng Kim vương, đến cùng là cái hạng người gì đây?"
 

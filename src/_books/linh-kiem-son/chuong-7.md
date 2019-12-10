@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 7: Đệ tử như vậy mới không nên
+title: Chương 7 - Đệ tử như vậy mới không nên
 book_name: linh-kiem-son
+chapter: 7
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

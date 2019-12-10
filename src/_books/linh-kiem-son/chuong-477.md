@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 477: 
+title: Chương 477 - Thế Giới Của Ta
 book_name: linh-kiem-son
+chapter: 477
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 477: 
+# Chương 477: Thế Giới Của Ta
 
 Mới Ma giới Ma tộc tại quá khứ 2000 thời kì, trước sau chưa từng chân chính đối mặt qua chính mình mặt tối, mỗi khi hắc triều giáng lâm, bọn họ liền như đà điểu bình thường trốn ở trong thành hôn ngủ thiếp đi, chợt có không tin tà người khiêu chiến, cũng sẽ ở ức vạn sinh linh oán niệm trước mặt biến thành tro bụi.
 

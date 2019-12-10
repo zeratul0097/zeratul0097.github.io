@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 130: 
+title: Chương 130 - Tại Sao Phải Vì Nhân Dân Phục Vụ
 book_name: linh-kiem-son
+chapter: 130
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 130: 
-
-Chương 5:: Tại sao phải vì nhân dân phục vụ
+# Chương 130: Tại Sao Phải Vì Nhân Dân Phục Vụ
 
 Tinh Thần Phong đỉnh, trúc trong phòng trầm mặc cũng không biết duy trì bao lâu, chưởng môn Phong Ngâm mới khẽ cười hỏi: "Sư muội, xem xong rồi sao?"
 

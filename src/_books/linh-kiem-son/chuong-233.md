@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 233: 
+title: Chương 233 - Tất ~ Thi Thể Quá Đánh Mất , Trước Tiên Phục Sinh Lại Làm Ba
 book_name: linh-kiem-son
+chapter: 233
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 233: 
+# Chương 233: Tất ~ Thi Thể Quá Đánh Mất , Trước Tiên Phục Sinh Lại Làm Ba
 
 "... Kiếm này trủng đến cùng có hay không thành ý a?"
 

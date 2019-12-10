@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 814: 
+title: Chương 814 - Chúc Ngài Dùng Cơm Vui Vẻ
 book_name: linh-kiem-son
+chapter: 814
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 814: 
+# Chương 814: Chúc Ngài Dùng Cơm Vui Vẻ
 
 Đó là một cái trụ, một cái cực kỳ vô cùng to lớn cao vót màu đen cự trụ, nối liền trời đất, dường như thời đại hồng hoang trong truyền thuyết Bất Chu sơn...
 

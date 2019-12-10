@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 104: 
+title: Chương 104 - Chuyên nghiệp cấp tiền kỳ phản quấy rầy
 book_name: linh-kiem-son
+chapter: 104
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 104: 
+# Chương 104: Chuyên nghiệp cấp tiền kỳ phản quấy rầy
 
 Trần Duyên Đường?"
 

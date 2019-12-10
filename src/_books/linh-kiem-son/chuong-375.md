@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 375: 
+title: Chương 375 - Tứ Đại Kim Cương
 book_name: linh-kiem-son
+chapter: 375
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 375: 
+# Chương 375: Tứ Đại Kim Cương
 
 Vương Lục chính đang cúi đầu suy tư thời, bị người bỗng nhiên đánh gãy, tâm tình hơi có chút khó chịu. Mà quay đầu lại thấy thiếu nữ cười tươi như hoa... Tâm tình liền càng khó chịu.
 

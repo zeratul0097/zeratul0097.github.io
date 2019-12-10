@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 742: 
+title: Chương 742 - Manh Em Gái Đối Với Người Da Đen Thật Có Cái Gì Thác?
 book_name: linh-kiem-son
+chapter: 742
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 742: 
+# Chương 742: Manh Em Gái Đối Với Người Da Đen Thật Có Cái Gì Thác?
 
 "... Ngươi người này thực sự là không có chút nào khiến người ta bớt lo a. Uổng phí ta một phen khổ cực tiêu diệt đối phương chủ lực, kết quả ngươi lại còn là bị người ám hại đắc thủ, dại dột ta nghĩ cùng ngươi đoạn tuyệt quan hệ thầy trò"
 

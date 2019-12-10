@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 441: 
+title: Chương 441 - Liền Âu Yếm Người Đều Bảo Vệ Không Được Tính Là Gì Đầu Bếp!
 book_name: linh-kiem-son
+chapter: 441
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 441: 
+# Chương 441: Liền Âu Yếm Người Đều Bảo Vệ Không Được Tính Là Gì Đầu Bếp!
 
 "... Ngươi nói cái gì? Ma giới?"
 

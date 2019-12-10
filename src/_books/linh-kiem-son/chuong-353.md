@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 353: 
+title: Chương 353 - Ngươi Đi Rồi, Nhìn Thấy Nó Đã Nghĩ Lên Ta Ba
 book_name: linh-kiem-son
+chapter: 353
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 353: 
+# Chương 353: Ngươi Đi Rồi, Nhìn Thấy Nó Đã Nghĩ Lên Ta Ba
 
 "Bệ hạ, nói như thế nào đây."
 

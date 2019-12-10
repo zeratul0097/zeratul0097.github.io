@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 256: 
+title: Chương 256 - Tốc Độ Cùng Cảm Xúc Mãnh Liệt
 book_name: linh-kiem-son
+chapter: 256
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 256: 
+# Chương 256: Tốc Độ Cùng Cảm Xúc Mãnh Liệt
 
 Chu Thi Dao nắm giữ một đôi cả thế gian khó tìm thật con mắt.
 

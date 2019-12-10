@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 533: 
+title: Chương 533 - Động Dục Người Không Đáng Tin
 book_name: linh-kiem-son
+chapter: 533
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 533: 
+# Chương 533: Động Dục Người Không Đáng Tin
 
 Song trận cùng phát chiến lược ở thiết kế thời liền không có cân nhắc qua gặp phải lực lượng ngang nhau đối thủ thời ứng làm sao biến chiêu, dựa vào tổ hợp kiếm trận, Linh Kiếm tu sĩ môn có thể ở trong vòng nửa canh giờ thu được có thể so với hóa thần chân nhân sức chiến đấu, vượt qua hai cái cấp độ sức chiến đấu tăng lên có thể nói kinh thế hãi tục. Mà vì đạt đến cái mục đích này, ba năm qua Linh Kiếm tu sĩ môn không tiếc tất cả, trả giá đau đớn thê thảm đánh đổi.
 

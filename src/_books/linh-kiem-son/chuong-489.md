@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 489: 
+title: Chương 489 - Là Có Thể Nhẫn Thục Không Thể Nhẫn!
 book_name: linh-kiem-son
+chapter: 489
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 489: 
+# Chương 489: Là Có Thể Nhẫn Thục Không Thể Nhẫn!
 
 Phương xa, đen kịt thú triều hấp dẫn chú ý của mọi người. Bất kể là trở về từ cõi chết Linh Kiếm tu sĩ môn, vẫn là cái kia hung diễm ngập trời nhị chuyển long giao đều sẽ sự chú ý tập trung đến phương xa, đối với gần ở kẻ địch bên người làm như không thấy.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 639: 
+title: Chương 639 - Ta Liền Yêu Thích Loại Này Tính Trẻ Con Chưa Thoát Tiểu Nam Sinh
 book_name: linh-kiem-son
+chapter: 639
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 639: 
+# Chương 639: Ta Liền Yêu Thích Loại Này Tính Trẻ Con Chưa Thoát Tiểu Nam Sinh
 
 "Vương, Vương Vũ?"
 

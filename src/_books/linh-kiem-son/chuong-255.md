@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 255: 
+title: Chương 255 - Ta Bản Tướng Tâm Đối Với Minh Nguyệt
 book_name: linh-kiem-son
+chapter: 255
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 255: 
+# Chương 255: Ta Bản Tướng Tâm Đối Với Minh Nguyệt
 
 Hỗn độn Phá Thiên Thần Kiếm, bách lê Kiếm thần kết hợp thượng cổ truyền thừa sáng chế, từ thành nhất thống tuyệt thế kiếm pháp.
 

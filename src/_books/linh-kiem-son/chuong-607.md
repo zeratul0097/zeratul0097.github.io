@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 607: 
+title: Chương 607 - Chuyện Đại Sự Cả Đời
 book_name: linh-kiem-son
+chapter: 607
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 607: 
+# Chương 607: Chuyện Đại Sự Cả Đời
 
 Khách quan tới nói, Vương Lục cuộc chiến đấu này thực sự thắng được may mắn.
 

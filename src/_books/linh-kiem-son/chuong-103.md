@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 103: 
+title: Chương 103 - Hắc Thủ Thánh Nữ ( maria ozawa )
 book_name: linh-kiem-son
+chapter: 103
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 103: 
+# Chương 103: Hắc Thủ Thánh Nữ ( maria ozawa )
 
 Liền, xin mọi người vỗ tay hoan nghênh người mới đến, vị này Tạ Trì đây, trước kia ở Thất Tinh môn gánh Nhâm trưởng lão, ở Thất Tinh môn thập bát trưởng lão bên trong xếp hạng thứ bảy, so với lão Hà cao hơn không ít, là cao cấp nhất nhân tài, sau đó đem ở trí cục thuế tích cực cống hiến tự thân sức mạnh, còn xin mọi người chăm sóc nhiều hơn." 
 

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 26: Ngươi là cố ý a! Ta muốn vạch tội ngươi!
+title: Chương 26 - Ngươi là cố ý a! Ta muốn vạch tội ngươi!
 book_name: linh-kiem-son
+chapter: 26
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

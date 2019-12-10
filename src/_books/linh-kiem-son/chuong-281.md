@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 281: 
+title: Chương 281 - Lăng Ba Vi Bộ, Đèn Cạn Dầu
 book_name: linh-kiem-son
+chapter: 281
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 281: 
+# Chương 281: Lăng Ba Vi Bộ, Đèn Cạn Dầu
 
 "Há, nơi này so với lúc ta tới trở nên càng phồn hoa, ân, quả thực là biến hóa long trời lở đất."
 

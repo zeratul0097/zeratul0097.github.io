@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 121: 
+title: Chương 121 - Đệ Tử Cả Gan Xin Mời Sư Bá Ban Kiếm
 book_name: linh-kiem-son
+chapter: 121
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 121: 
-
-Chương 37:: Đệ tử cả gan xin mời sư bá ban kiếm
+# Chương 121: Đệ Tử Cả Gan Xin Mời Sư Bá Ban Kiếm
 
 Văn Bảo ở Linh Kiếm Phái thuộc về đệ tử nội môn, ở Phiêu Miểu phong Nhị trưởng lão Lưu Hiển môn hạ, hắn Tam sư thúc, tự nhiên là môn phái Tam trưởng lão, Chưởng hình trưởng lão Phương Hạc. Mà dùng Vương Lục lại nói, chính là bí thư Kỷ ủy.
 

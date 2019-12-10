@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 775: 
+title: Chương 775 - Chớ Ép Ta Làm Thư Pháp Gia
 book_name: linh-kiem-son
+chapter: 775
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 775: 
+# Chương 775: Chớ Ép Ta Làm Thư Pháp Gia
 
 "Hồng Hải xưởng kiểu mới thí nghiệm cơ Zaku thu được toàn diện thành công... Hay, hay, thật"
 

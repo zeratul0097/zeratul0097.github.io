@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 275: 
+title: Chương 275 - Nhật Bất Lạc Cứ Điểm
 book_name: linh-kiem-son
+chapter: 275
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 275: 
+# Chương 275: Nhật Bất Lạc Cứ Điểm
 
 Trở về núi sau sinh hoạt cũng không có mong muốn như vậy nhàn nhã.
 

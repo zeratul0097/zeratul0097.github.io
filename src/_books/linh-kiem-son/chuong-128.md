@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 128: 
+title: Chương 128 - Một Tờ Huyết Thư
 book_name: linh-kiem-son
+chapter: 128
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 128: 
-
-Chương 3:: Một tờ huyết thư
+# Chương 128: Một Tờ Huyết Thư
 
 Nghiêm ngặt trên ý nghĩa giảng, Vương Lục nói lên phương pháp tính toán cũng không phải đặc biệt chuẩn xác, nhưng ở khuyết thiếu càng đáng tin phương án trước đó, cái này fl pháp chí ít đơn giản rõ ràng nói tóm tắt, dễ dàng phổ cập mở rộng.
 

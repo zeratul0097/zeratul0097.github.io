@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 805: 
+title: Chương 805 - Chỉ Hươu Bảo Ngựa
 book_name: linh-kiem-son
+chapter: 805
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 805: 
+# Chương 805: Chỉ Hươu Bảo Ngựa
 
 "Còn có ai không phục, còn có ai cảm giác mình có thể lẽ thẳng khí hùng địa ức hiếp thượng cổ Địa tiên môn, xin mau sớm đứng ra để chúng ta mở mang kiến thức một chút."
 

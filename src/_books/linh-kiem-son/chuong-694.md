@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 694: 
+title: Chương 694 - Xem Như Là Vá Càng Một Hồi...
 book_name: linh-kiem-son
+chapter: 694
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 694: 
+# Chương 694: Xem Như Là Vá Càng Một Hồi...
 
 Hải Vân Phàm chân tâm không muốn ở.
 

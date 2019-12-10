@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 217: 
+title: Chương 217 - Chết Tặc Ngốc, Dám Cùng Bần Đạo Cướp Sư Thái! ?
 book_name: linh-kiem-son
+chapter: 217
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 217: 
+# Chương 217: Chết Tặc Ngốc, Dám Cùng Bần Đạo Cướp Sư Thái! ?
 
 Cửu Châu đệ nhất Kim Đan?
 

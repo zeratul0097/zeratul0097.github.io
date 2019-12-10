@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 560: 
+title: Chương 560 - Muốn Như Thế Nào Cùng Nàng Giải Thích Khó Sinh Ý Tứ Đây?
 book_name: linh-kiem-son
+chapter: 560
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 560: 
+# Chương 560: Muốn Như Thế Nào Cùng Nàng Giải Thích Khó Sinh Ý Tứ Đây?
 
 Vũ tỷ tỷ, ta cái quái gì vậy muốn chết ngươi
 

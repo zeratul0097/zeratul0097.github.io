@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 703: 
+title: Chương 703 - Hiện Tại Bán Đi Đội Hữu Vẫn Tới Kịp!
 book_name: linh-kiem-son
+chapter: 703
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 703: 
+# Chương 703: Hiện Tại Bán Đi Đội Hữu Vẫn Tới Kịp!
 
 "Đó là đế lưu tôn?"
 

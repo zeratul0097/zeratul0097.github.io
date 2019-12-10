@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 320: 
+title: Chương 320 - Đã Không Phải Kẹo Que Liền Thỏa Mãn Tiểu Hài Tử
 book_name: linh-kiem-son
+chapter: 320
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 320: 
+# Chương 320: Đã Không Phải Kẹo Que Liền Thỏa Mãn Tiểu Hài Tử
 
 "Tại sao?"
 

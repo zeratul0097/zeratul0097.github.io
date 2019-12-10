@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 470: 
+title: Chương 470 - Làm Sao Luôn Ngươi! ?
 book_name: linh-kiem-son
+chapter: 470
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 470: 
+# Chương 470: Làm Sao Luôn Ngươi! ?
 
 Bất kỳ văn minh tiến vào giai đoạn cấp cao, giải quyết cơ bản ăn, mặc, ở, đi lại vấn đề sau đó, đối với giải trí khát cầu đều sắp trở thành xã hội tổng nhu cầu không thể thiếu một khâu, mà mới Ma giới không thể nghi ngờ đang đứng ở như vậy một cái văn minh giai đoạn cấp cao.
 

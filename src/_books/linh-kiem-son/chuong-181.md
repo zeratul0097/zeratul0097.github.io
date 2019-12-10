@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 181: 
+title: Chương 181 - Hắn Chăn Lớn Người Đã Cắt Đứt
 book_name: linh-kiem-son
+chapter: 181
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 181: 
-
-Chương 10:: Hắn chăn lớn người đã cắt đứt
+# Chương 181: Hắn Chăn Lớn Người Đã Cắt Đứt
 
 Khi (làm) Ngân Bối tin qua đời tự Nguyên Thần khế ước chi tuyến thượng truyền đến lúc, tương ứng trừng phạt cũng tặng lại đã đến chủ nhân của nó thân
 

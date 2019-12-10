@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 705: 
+title: Chương 705 - Ngày Hôm Qua Cái Kia Canh Một, Ngày Hôm Nay Chính Đang Cản
 book_name: linh-kiem-son
+chapter: 705
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 705: 
+# Chương 705: Ngày Hôm Qua Cái Kia Canh Một, Ngày Hôm Nay Chính Đang Cản
 
 Vương Lục rất sớm trước liền có qua suy đoán: Đàn tiên mộ bên trong tiên mộng cảnh giới, đại thể có thể chia làm hai loại, một loại là hoàn toàn tùy cơ sinh thành, nội dung đa dạng, khen thưởng cũng là đa dạng. Đàn tiên mộ khai phá sơ kỳ, các tu sĩ trải qua tiên mộng cảnh giới đại thể là này một loại.
 

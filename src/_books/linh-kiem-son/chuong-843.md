@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 843: 
+title: Chương 843 - Chung Yên Thời Gian
 book_name: linh-kiem-son
+chapter: 843
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 843: 
+# Chương 843: Chung Yên Thời Gian
 
 "Hạ vũ, ta cuối cùng hỏi một lần nữa, dừng tay như vậy, lui về Tiên giới nước giếng không phạm nước sông, thế nào?"
 

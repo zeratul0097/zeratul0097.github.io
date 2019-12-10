@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 197: 
+title: Chương 197 - Lưu Ly Tiên Dùng Nàng Cứng Rắn... Xuyên Qua Miêu Nữ
 book_name: linh-kiem-son
+chapter: 197
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 197: 
-
-Chương 26:: Lưu Ly Tiên dùng nàng cứng rắn... Xuyên qua miêu nữ
+# Chương 197: Lưu Ly Tiên Dùng Nàng Cứng Rắn... Xuyên Qua Miêu Nữ
 
 Miêu nữ bày ra việc này, hiển nhiên không phải một sớm một chiều, cho đến ngày nay, rốt cục nghênh đón bạo phát cơ hội.
 

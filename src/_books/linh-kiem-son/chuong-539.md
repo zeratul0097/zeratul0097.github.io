@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 539: 
+title: Chương 539 - Cây Muốn Lặng Mà Gió Chẳng Muốn Ngừng
 book_name: linh-kiem-son
+chapter: 539
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 539: 
+# Chương 539: Cây Muốn Lặng Mà Gió Chẳng Muốn Ngừng
 
 Lấy tinh nhuệ cấp tu sĩ Kim Đan tính nhẫn nại mà nói, một lần bế quan tu hành kéo dài ba năm rưỡi đều là chuyện thường. Vương Lục không có ý định làm lâu như vậy, nhưng cũng muốn ở mang sơn trước tiên ẩn cư mấy tháng lại nói.
 

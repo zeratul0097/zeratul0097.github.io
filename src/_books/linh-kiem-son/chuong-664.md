@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 664: 
+title: Chương 664 - Các Nàng Đều Là Ngươi Cánh?
 book_name: linh-kiem-son
+chapter: 664
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 664: 
+# Chương 664: Các Nàng Đều Là Ngươi Cánh?
 
 Người ngũ khu, vượng thuận các tửu lâu xuất hiện một đám cổ quái kỳ lạ các nữ nhân, rất nhanh sẽ gây nên lượng lớn quan tâm.
 

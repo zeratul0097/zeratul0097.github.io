@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 618: 
+title: Chương 618 - Liền Chiến Một Lần
 book_name: linh-kiem-son
+chapter: 618
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 618: 
+# Chương 618: Liền Chiến Một Lần
 
 Từ sân đấu võ bên trong đi ra thời, Vương Lục trong lòng bao nhiêu vẫn còn có chút vui mừng.
 

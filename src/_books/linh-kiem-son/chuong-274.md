@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 274: 
+title: Chương 274 - Chuyên Môn Ủy Viên Hội
 book_name: linh-kiem-son
+chapter: 274
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 274: 
+# Chương 274: Chuyên Môn Ủy Viên Hội
 
 Bốn phái chung quy không có chân chính trở mặt đi.
 

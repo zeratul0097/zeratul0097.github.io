@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 344: 
+title: Chương 344 - Ngón Tay Gãy Cuồng Ma
 book_name: linh-kiem-son
+chapter: 344
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 344: 
+# Chương 344: Ngón Tay Gãy Cuồng Ma
 
 "Lưu ly?"
 

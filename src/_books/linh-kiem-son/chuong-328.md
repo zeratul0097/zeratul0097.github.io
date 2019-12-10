@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 328: 
+title: Chương 328 - Chân Chính Sơn Trại Tài Nghệ!
 book_name: linh-kiem-son
+chapter: 328
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 328: 
+# Chương 328: Chân Chính Sơn Trại Tài Nghệ!
 
 "Ta, ta nói, ngươi như thế làm cũng không tránh khỏi quá... Quá ý nghĩ kỳ lạ ba"
 

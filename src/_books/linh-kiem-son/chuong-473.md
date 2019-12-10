@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 473: 
+title: Chương 473 - Ở Nhân Sinh Trên Đường Lạc Lối
 book_name: linh-kiem-son
+chapter: 473
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 473: 
+# Chương 473: Ở Nhân Sinh Trên Đường Lạc Lối
 
 Người làm việc lớn không câu nệ tiểu tiết, đây là ở đây mấy người nhận thức chung, có thể làm được thơ ngũ tuyệt thủ tịch không có nhân vật đơn giản, rất rõ ràng ở bây giờ thế đạo dưới, chân chính có thể khiến người ta đặt chân chính là cái gì.
 

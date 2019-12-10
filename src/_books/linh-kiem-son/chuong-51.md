@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 51: Không làm việc trái với lương tâm, không sợ hạnh.
+title: Chương 51 - Không làm việc trái với lương tâm, không sợ hạnh.
 book_name: linh-kiem-son
+chapter: 51
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

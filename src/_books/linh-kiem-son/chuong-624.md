@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 624: 
+title: Chương 624 - Làm Việc Không Nhìn Địa Phương Đó Là Một Con Đường Chết
 book_name: linh-kiem-son
+chapter: 624
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 624: 
+# Chương 624: Làm Việc Không Nhìn Địa Phương Đó Là Một Con Đường Chết
 
 Thư tự từ trước tới nay chưa từng gặp qua như thế rộng lớn thiên địa.
 

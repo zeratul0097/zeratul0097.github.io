@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 611: 
+title: Chương 611 - Một Thụ Hoa Lê Ép Hải Đường
 book_name: linh-kiem-son
+chapter: 611
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 611: 
+# Chương 611: Một Thụ Hoa Lê Ép Hải Đường
 
 "Vương Lục, nếu như ngươi cái gọi là nắm chắc tất thắng là làm cho nàng bỏ ra tay, như vậy ngày hôm nay giao đấu sẽ không có tiếp tục cần phải, chúng ta tự nhận ở cảnh giới Kim đan dưới tuyệt không là sư phụ ngươi đối thủ."
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 686: 
+title: Chương 686 - Khí Đại Hoạt Thật ** Nổ Thiên
 book_name: linh-kiem-son
+chapter: 686
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 686: 
+# Chương 686: Khí Đại Hoạt Thật ** Nổ Thiên
 
 Có thể làm cho Vương Lục giật nảy cả mình sự tình thực tại không nhiều, nhưng Tứ Tướng Chân Quân câu nói này, xác thực là xuyên thủng Vương Lục phòng ngự.
 

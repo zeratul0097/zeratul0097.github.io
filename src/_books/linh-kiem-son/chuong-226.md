@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 226: 
+title: Chương 226 - Thất Ý Sẽ Làm Người Càng Mạnh Mẽ
 book_name: linh-kiem-son
+chapter: 226
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 226: 
+# Chương 226: Thất Ý Sẽ Làm Người Càng Mạnh Mẽ
 
 Chu Thi Dao cường đại như thế, dựa vào cái gì do Vương Lục đam nhận chức thủ tịch?
 

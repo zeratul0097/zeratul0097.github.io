@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 795: 
+title: Chương 795 - Muốn Chết Cùng Chết!
 book_name: linh-kiem-son
+chapter: 795
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 795: 
+# Chương 795: Muốn Chết Cùng Chết!
 
 Trà phô bên trong, Hạ Tiểu Hà thoải mái địa ngồi vào huyền mặc đối diện, nâng bình trà lên đem trà lạnh uống một hơi cạn sạch, sau đó dùng ống tay áo lau miệng,
 

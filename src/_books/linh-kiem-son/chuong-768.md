@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 768: 
+title: Chương 768 - Bên Trong Cơ Thể Ngươi Đã Có Ta Loại
 book_name: linh-kiem-son
+chapter: 768
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 768: 
+# Chương 768: Bên Trong Cơ Thể Ngươi Đã Có Ta Loại
 
 "Bám dai như đỉa người điên, ngươi thật sự cho rằng ta không giết được ngươi?"
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 642: 
+title: Chương 642 - Độc Thân Vượt Năm Viết Loại Này ** Tình Tiết...
 book_name: linh-kiem-son
+chapter: 642
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 642: 
+# Chương 642: Độc Thân Vượt Năm Viết Loại Này ** Tình Tiết...
 
 "Sư huynh, buổi trưa chúng ta đến đồng thời làm này sáo ngọc nhà ai nghe rơi mai đi, ta lúc trước chỉ ở trong sách đọc được qua, vốn tưởng rằng là tác giả bỗng dưng bịa đặt, nhưng ta có cái làm bếp trưởng bằng hữu nói là cái kia kỳ thực là có thể làm được, ta nghĩ không ngại thử một lần a."
 

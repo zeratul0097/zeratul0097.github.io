@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 598: 
+title: Chương 598 - Đại Sư Tỷ Nói Linh Thuật
 book_name: linh-kiem-son
+chapter: 598
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 598: 
+# Chương 598: Đại Sư Tỷ Nói Linh Thuật
 
 Trên diễn võ trường, Chu Thi Dao ngoài dự đoán mọi người lên sàn, cùng với cái kia đối chọi gay gắt khí thế lệnh trong sân người ngoài đều trố mắt ngoác mồm.
 

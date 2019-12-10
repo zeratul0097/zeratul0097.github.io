@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 767: 
+title: Chương 767 - Rút ** Vô Tình Là Không Được Phép
 book_name: linh-kiem-son
+chapter: 767
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 767: 
+# Chương 767: Rút ** Vô Tình Là Không Được Phép
 
 Vùng Cực bắc chiến đấu, kéo dài thời gian không lâu, nhưng mà đối với Thương Lan Tiên tôn mà nói, coi là thật sống một ngày bằng một năm, mỗi một cái chớp mắt đều vô cùng gian nan. Hắn vừa giáng lâm, trắng trợn hấp thu Cửu Châu số mệnh, quanh thân tiên linh bất ổn, trạng thái cũng không thích hợp cùng người làm trì cửu chiến. Chỉ là hắn lúc đó nghĩ đối phó một cái ngoại đạo có thể phí bao nhiêu công phu, lúc này mới ra tay làm một đòn sấm sét.
 

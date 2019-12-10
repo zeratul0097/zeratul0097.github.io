@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 126: Trí Giáo Môn Đồ
+title: Chương 126 - Trí Giáo Môn Đồ
 book_name: linh-kiem-son
+chapter: 126
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
 # Chương 126: Trí Giáo Môn Đồ
-
-Chương 1:: Trí Giáo môn đồ
 
 Xuân hàn se lạnh lúc, Linh Kiếm Phái sơn môn rèn luyện rốt cục đi tới kết thúc, đến đây, từ Thương Khê châu trời nam biển bắc, linh kiếm các đệ tử lục tục trở về núi.
 

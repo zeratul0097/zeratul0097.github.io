@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 699: 
+title: Chương 699 - Rắn Mất Đầu
 book_name: linh-kiem-son
+chapter: 699
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 699: 
+# Chương 699: Rắn Mất Đầu
 
 Cùng lần trước đi tới Ngân hà vòng xoáy nơi bái phỏng huyền mặc có chỗ bất đồng, lần này, Vương Lục là làm tốt khai chiến chuẩn bị.
 

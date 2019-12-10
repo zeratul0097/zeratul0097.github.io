@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 763: 
+title: Chương 763 - Có Loại Bị Ntr Vui Vẻ
 book_name: linh-kiem-son
+chapter: 763
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 763: 
+# Chương 763: Có Loại Bị Ntr Vui Vẻ
 
 Cực bắc lạnh lẽo nơi, âm phong gào thét như đao, đầy trời quyển tuyết, trắng xóa tự một mảnh lều vải, che kín bầu trời. Nơi đây ở vào Cửu Châu Đại Lục một trong cấp, là xưng tên Cửu Châu tử địa, vô biên vô hạn tuyết trắng sông băng nhưng thai nghén không ra bao nhiêu sinh linh. Ra số rất ít băng tinh tuyết quái, nơi đây liền chỉ có gào thét tật phong năng lực tĩnh mịch Đại Địa mang đến một chút tức giận.
 

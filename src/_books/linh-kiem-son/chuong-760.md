@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 760: 
+title: Chương 760 - Người Suốt Đời Phải Làm Như Vậy Vượt Qua...
 book_name: linh-kiem-son
+chapter: 760
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 760: 
+# Chương 760: Người Suốt Đời Phải Làm Như Vậy Vượt Qua...
 
 "Hừ, lại là loại này dối trá hòa bình cuồng hoan."
 

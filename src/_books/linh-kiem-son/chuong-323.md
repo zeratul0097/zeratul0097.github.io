@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 323: 
+title: Chương 323 - Ngô Vương Thích Nhất Cùng Quần Thể Khách Hàng Chơi Đùa
 book_name: linh-kiem-son
+chapter: 323
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 323: 
+# Chương 323: Ngô Vương Thích Nhất Cùng Quần Thể Khách Hàng Chơi Đùa
 
 Cuồng Huyết Thánh đoàn kỵ sĩ là Thánh Quang Giáo nắm giữ mạnh mẽ nhất vũ lực, bọn họ quanh năm trấn thủ hoang rất biên quan, suốt ngày cùng trên cánh đồng hoang dã thú cùng Man tộc giao chiến, mài giũa ra kinh nghiệm chiến đấu phong phú, cùng với lạnh lẽo tâm trí. Đối với cuồng Huyết Thánh bọn kỵ sĩ tới nói, chiến trường lại như là một cái giải trí tràng, dấn thân vào trong đó, sẽ không có hoảng sợ, sẽ không có chần chờ, chỉ có thể có đối với thắng lợi không tiếc đánh đổi khát cầu.
 

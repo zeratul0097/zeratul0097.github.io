@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 157: 
+title: Chương 157 - Đáng Yêu Chính Là Sức Mạnh!
 book_name: linh-kiem-son
+chapter: 157
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 157: 
-
-Chương 32:: Đáng yêu chính là sức mạnh!
+# Chương 157: Đáng Yêu Chính Là Sức Mạnh!
 
 Linh Kiếm Phái cùng Vạn Pháp Tiên Môn đệ tử ở giữa trận thứ hai giao đấu, chỉ dùng trong nháy mắt liền phân ra được thắng bại —— cứ việc này nháy mắt bên trong, cũng hơi có chút biến hóa.
 

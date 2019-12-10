@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 666: 
+title: Chương 666 - Say Rượu
 book_name: linh-kiem-son
+chapter: 666
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 666: 
+# Chương 666: Say Rượu
 
 Tiên ngũ khu, tổ ủy hội tổng bày ra phủ đệ, yên tĩnh trong đình viện bỗng nhiên chấn động tới mấy Con Phi Điểu. Xuyên thấu qua xanh um cây cối, một trận thê thảm tiếng rên rỉ truyền ra.
 

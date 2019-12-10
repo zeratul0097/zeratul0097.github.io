@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 196: 
+title: Chương 196 - Ta Có Thể Vì Ngươi Làm Bất Cứ Chuyện Gì!
 book_name: linh-kiem-son
+chapter: 196
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 196: 
-
-Chương 25:: Ta có thể vì ngươi làm bất cứ chuyện gì!
+# Chương 196: Ta Có Thể Vì Ngươi Làm Bất Cứ Chuyện Gì!
 
 "Trên thực tế, ta vẫn có một vấn đề nghĩ không rõ lắm."
 

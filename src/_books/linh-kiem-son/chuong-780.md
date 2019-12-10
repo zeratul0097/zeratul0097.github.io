@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 780: 
+title: Chương 780 - Văn Sơn Sẽ Hải Hại Chết Người
 book_name: linh-kiem-son
+chapter: 780
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 780: 
+# Chương 780: Văn Sơn Sẽ Hải Hại Chết Người
 
 "Hướng về ngươi... Đầu hàng?"
 

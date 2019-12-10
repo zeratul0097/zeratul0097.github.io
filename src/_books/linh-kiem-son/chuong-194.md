@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 194: 
+title: Chương 194 - Nuôi Mèo Hữu Ích Cả Người Khỏe Mạnh
 book_name: linh-kiem-son
+chapter: 194
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 194: 
-
-Chương 23:: Nuôi mèo hữu ích cả người khỏe mạnh
+# Chương 194: Nuôi Mèo Hữu Ích Cả Người Khỏe Mạnh
 
 Vương Lục vấn đề cũng không có được giải đáp.
 

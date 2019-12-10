@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 314: 
+title: Chương 314 - Ở Mẹ Con Trong Cơ Thể Gieo Xuống...
 book_name: linh-kiem-son
+chapter: 314
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 314: 
+# Chương 314: Ở Mẹ Con Trong Cơ Thể Gieo Xuống...
 
 Thánh Quang Giáo cùng Long thành vệ sĩ chiến tranh toàn diện bạo phát.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 405: 
+title: Chương 405 - Học Sinh Khối Văn
 book_name: linh-kiem-son
+chapter: 405
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 405: 
+# Chương 405: Học Sinh Khối Văn
 
 "Ta nói, thịnh kinh chư vị, đừng ở trong nước ngâm."
 

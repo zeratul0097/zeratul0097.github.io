@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 571: 
+title: Chương 571 - Xin Lỗi Lại Chậm
 book_name: linh-kiem-son
+chapter: 571
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 571: 
+# Chương 571: Xin Lỗi Lại Chậm
 
 Nếu như không phải chuyên nghiệp người mạo hiểm tố chất để Vương Lục đúng lúc tìm về bình tĩnh, hắn gần như sắp muốn đã quên hiện nay đầu mối chính nhiệm vụ là cái gì.
 

@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 150: 
+title: Chương 150 - Đại Minh Toả Sáng Đại Biện Luận
 book_name: linh-kiem-son
+chapter: 150
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 150: 
-
-Chương 25:: Đại minh toả sáng đại biện luận
+# Chương 150: Đại Minh Toả Sáng Đại Biện Luận
 
 Chúng sinh cánh cửa làm Tiên bảo, trong môn phái ngoài cửa, thời gian tốc độ chảy cũng không ngang nhau. Lúc trước Trảm Tử Dạ hoàn thành rèn luyện, dưới cái nhìn của hắn diễn ra mấy tháng, có thể biểu hiện ở ở ngoài, cũng chỉ có ngăn ngắn một canh giờ.
 

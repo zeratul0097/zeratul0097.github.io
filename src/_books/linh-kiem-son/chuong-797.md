@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 797: 
+title: Chương 797 - Thật Bỏ Trốn
 book_name: linh-kiem-son
+chapter: 797
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 797: 
+# Chương 797: Thật Bỏ Trốn
 
 Phong Linh cầu kiến?
 

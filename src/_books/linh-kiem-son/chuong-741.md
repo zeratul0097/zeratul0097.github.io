@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 741: 
+title: Chương 741 - Kiếm Cùng Mỹ
 book_name: linh-kiem-son
+chapter: 741
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 741: 
+# Chương 741: Kiếm Cùng Mỹ
 
 "Tứ Tướng Chân Quân... Đã xác định không có được cứu trợ sao?"
 

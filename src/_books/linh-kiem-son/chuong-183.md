@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 183: 
+title: Chương 183 - Cùng Lưu Ly Tiên Ở Chung Muốn Giỏi Về Quy Nạp Tổng Kết
 book_name: linh-kiem-son
+chapter: 183
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 183: 
-
-Chương 12:: Cùng Lưu Ly Tiên ở chung muốn giỏi về quy nạp tổng kết
+# Chương 183: Cùng Lưu Ly Tiên Ở Chung Muốn Giỏi Về Quy Nạp Tổng Kết
 
 "Có chuyện muốn nhờ ngươi, Vân Đài núi bên kia, Ngự Thú tông đám chó con xây xong một cái phân đà, xem ra rất là chướng mắt, theo ta đồng thời nghĩ biện pháp xúc nó đi."
 

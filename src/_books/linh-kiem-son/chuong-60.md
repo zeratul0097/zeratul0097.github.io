@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 60: Vòng xoáy chi linh
+title: Chương 60 - Vòng xoáy chi linh
 book_name: linh-kiem-son
+chapter: 60
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 777: 
+title: Chương 777 - Vô Đề
 book_name: linh-kiem-son
+chapter: 777
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 777: 
+# Chương 777: Vô Đề
 
 Trấn áp Thương Lan Tiên tôn sau khi mười năm, là Vạn Tiên Minh huy hoàng nhất mười năm. Ở Vạn Tiên Minh được thượng cổ Địa tiên toàn diện quy thuận sau, tu Tiên giới quyền lực trở nên độ cao tập trung, Vạn Tiên Minh trên quản thiên hạ quản địa, đối với tu Tiên giới quyền sinh quyền sát trong tay.
 

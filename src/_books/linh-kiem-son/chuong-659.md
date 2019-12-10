@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 659: 
+title: Chương 659 - Miễn Cưỡng Tạo Hóa
 book_name: linh-kiem-son
+chapter: 659
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 659: 
+# Chương 659: Miễn Cưỡng Tạo Hóa
 
 "Cuộc tranh tài thứ ba liền định vào ngày mai buổi sáng đi, cho tới hạng mục mà... Ta xem này vô song thần toán liền rất tốt."
 

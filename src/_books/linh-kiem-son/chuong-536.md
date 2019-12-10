@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 536: 
+title: Chương 536 - Này Một Chương Thật Dài A...
 book_name: linh-kiem-son
+chapter: 536
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 536: 
+# Chương 536: Này Một Chương Thật Dài A...
 
 "Đại sư huynh, yên tâm đi, chúng ta sớm đã có hi sinh tất cả chuẩn bị, không cần ngươi nói chúng ta cũng biết."
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 211: 
+title: Chương 211 - Lúc Còn Trẻ Hắn Không Biết Cái Gì Gọi Là Yêu
 book_name: linh-kiem-son
+chapter: 211
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 211: 
+# Chương 211: Lúc Còn Trẻ Hắn Không Biết Cái Gì Gọi Là Yêu
 
 Đem xích hầu phái đi Thiên Thủy hồ Nhạc gia, không thể nghi ngờ là một nước cờ hiểm, thậm chí nước cờ thua. Ban đầu thời điểm, chỉ là vì thông qua Thiên Thủy hồ con đường, xác minh Vương Lục cùng lưu ly tiên thân phận, mà bước đi này tiến triển cũng xác thực rất nhanh, xích hầu lẫn vào Thiên Thủy hồ Nhạc gia bên trong, rất nhanh tìm hiểu ra chân tướng, ngoài ý muốn chân tướng.
 

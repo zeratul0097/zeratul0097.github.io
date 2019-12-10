@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 395: 
+title: Chương 395 - Mặc Quần Áo Vào Ta Không Nhận Ra A
 book_name: linh-kiem-son
+chapter: 395
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 395: 
+# Chương 395: Mặc Quần Áo Vào Ta Không Nhận Ra A
 
 Từ Tinh Thần Phong sau khi rời đi, Vương Lục trở lại vô tướng phong nghỉ ngơi hai ngày, lại lần nữa bước lên đi tới Phong đô con đường.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 643: 
+title: Chương 643 - Toàn Bộ Hành Trình Đánh Mã!
 book_name: linh-kiem-son
+chapter: 643
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 643: 
+# Chương 643: Toàn Bộ Hành Trình Đánh Mã!
 
 "Mẹ kiếp, sân đấu võ bên trong tình huống vẫn là không nhìn thấy sao?"
 

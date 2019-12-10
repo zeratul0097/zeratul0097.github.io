@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 747: 
+title: Chương 747 - Có Lỗi Với Ta Chính Là Muốn Làm Chết
 book_name: linh-kiem-son
+chapter: 747
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 747: 
+# Chương 747: Có Lỗi Với Ta Chính Là Muốn Làm Chết
 
 "Huyền mặc, Bạch Trạch? Các ngươi tại sao lại ở chỗ này?"
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 669: 
+title: Chương 669 - Ngày Kia Ra Ngoài Mở Hội, Sớm Xin Nghỉ
 book_name: linh-kiem-son
+chapter: 669
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 669: 
+# Chương 669: Ngày Kia Ra Ngoài Mở Hội, Sớm Xin Nghỉ
 
 Khoảng cách đàn tiên thi đấu bắt đầu thi đấu, đã có hơn hai tháng thời gian, nhiên còn chân chính đủ phân lượng thi đấu kỳ thực có thể đếm được trên đầu ngón tay.
 

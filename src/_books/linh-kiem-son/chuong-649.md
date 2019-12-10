@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 649: 
+title: Chương 649 - Khác Loại Chiến Trường
 book_name: linh-kiem-son
+chapter: 649
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 649: 
+# Chương 649: Khác Loại Chiến Trường
 
 Thiên thư lâu chủ nghe phong chân quân ở tiên bảy khu bị tây di Kỵ Sĩ vương lấy thẩm phán chi kiếm chém ra bản nguyên, tội rất rõ ràng thiên hạ sự tình rất nhanh sẽ truyền khắp Quần Tiên Thành.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 244: 
+title: Chương 244 - Bát Đức Thử Thách Chính Xác Phá Giải Pháp
 book_name: linh-kiem-son
+chapter: 244
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 244: 
+# Chương 244: Bát Đức Thử Thách Chính Xác Phá Giải Pháp
 
 Rời đi kính môn thời điểm, Vương Lục thuận miệng nói một câu, tìm tới trò chơi này chính xác chơi pháp.
 

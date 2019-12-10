@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 605: 
+title: Chương 605 - Rất Đáng Tiếc, Hai Người Chúng Ta Là Không Thể!
 book_name: linh-kiem-son
+chapter: 605
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 605: 
+# Chương 605: Rất Đáng Tiếc, Hai Người Chúng Ta Là Không Thể!
 
 "Vương Lục a, tuy rằng chúng ta linh kiếm phái từ trên xuống dưới xác thực đối với ngươi là phi thường tín nhiệm, nhưng nguyên nhân chính là như vậy, ngươi làm việc trước mới nên cân nhắc sau đó làm a."
 

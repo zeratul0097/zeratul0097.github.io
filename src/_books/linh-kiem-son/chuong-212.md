@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 212: 
+title: Chương 212 - Chỉ Bằng Ngươi Cũng Xứng Làm Xử Nữ?
 book_name: linh-kiem-son
+chapter: 212
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 212: 
+# Chương 212: Chỉ Bằng Ngươi Cũng Xứng Làm Xử Nữ?
 
 "Lưu ly tình huống thế nào?"
 

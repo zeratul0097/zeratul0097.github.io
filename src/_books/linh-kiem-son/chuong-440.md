@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 440: 
+title: Chương 440 - A Dạ Ở Trong Cơ Thể Nàng Lưu Lại Hạt Giống
 book_name: linh-kiem-son
+chapter: 440
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 440: 
+# Chương 440: A Dạ Ở Trong Cơ Thể Nàng Lưu Lại Hạt Giống
 
 "Được, phía dưới chúng ta đến phân tích tình huống giáp, giả thiết phong thư này chân thực dụng ý là Chu Mộc Mộc xuất phát từ đối với ta mãnh liệt mà khó có thể ngăn chặn yêu thương, lấy thơ ngũ tuyệt thủ tịch tụ hội vì do dụ dỗ ta đi tới Côn Luân, sau đó thông qua hạ độc, đầu độc, mê tâm, kinh thần các loại (chờ) phương pháp ở tinh thần mức độ dụ dỗ ta cùng với phát sinh không đứng đắn nam nữ quan hệ, do đó ở một quãng thời gian rất dài khiến cho ta cùng với duy trì mật thiết quan hệ. Như vậy ta nên làm sao ứng đối?"
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 478: 
+title: Chương 478 - Xuyên Qua Chi Khe Nằm? !
 book_name: linh-kiem-son
+chapter: 478
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 478: 
+# Chương 478: Xuyên Qua Chi Khe Nằm? !
 
 Vương Lục cũng không có tận mắt đến Ma giới chí tôn là làm sao hóa thân mấy trăm, giáng lâm Ma giới thành thị lớn nhỏ, lấy vô thượng thần uy nghiền nát vong hồn đại quân.
 

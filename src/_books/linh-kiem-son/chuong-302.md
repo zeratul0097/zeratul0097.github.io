@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 302: 
+title: Chương 302 - Ngươi Không Thể Là Kỵ Sĩ Vương
 book_name: linh-kiem-son
+chapter: 302
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 302: 
+# Chương 302: Ngươi Không Thể Là Kỵ Sĩ Vương
 
 Aya cái gọi là biến hóa, là đánh vỡ bối đức Neville đối với Long Duệ áp chế.
 

@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 188: 
+title: Chương 188 - Trong Mắt Của Ta Chỉ Có Ngươi
 book_name: linh-kiem-son
+chapter: 188
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 188: 
-
-Chương 17:: Trong mắt của ta chỉ có ngươi
+# Chương 188: Trong Mắt Của Ta Chỉ Có Ngươi
 
 Chúng ta cũng không ác ý?
 

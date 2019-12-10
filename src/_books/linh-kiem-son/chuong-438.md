@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 438: 
+title: Chương 438 - Thực Sự Là Khai Môn Hồng A
 book_name: linh-kiem-son
+chapter: 438
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 438: 
+# Chương 438: Thực Sự Là Khai Môn Hồng A
 
 Lấy thánh quang dính vào tính, mạnh mẽ kết hợp hỗn độn Phá Thiên Kiếm Khí cùng Vô Tướng Công, sử dụng kỹ thuật ngang qua Cửu Châu tây di hai khối đại lục, quả thực có thể nói chưa từng có ai việc làm vĩ đại. Nhưng mà chính là bởi vì là việc làm vĩ đại, trong đó nguy hiểm cũng không cần nói cũng biết.
 

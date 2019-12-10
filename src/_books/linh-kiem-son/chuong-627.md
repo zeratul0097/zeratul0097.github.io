@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 627: 
+title: Chương 627 - Siêu Cấp Giọng Nữ
 book_name: linh-kiem-son
+chapter: 627
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 627: 
+# Chương 627: Siêu Cấp Giọng Nữ
 
 Ở Vương Lục một phen nói chuyện làm nổi lên mọi người nhiệt tình sau, càng thêm đầy nhiệt tình văn nghệ biểu diễn chính thức bắt đầu. Đối với này, không chỉ là Địa tiên đoàn đội môn tràn ngập hiếu kỳ, liền ngay cả Vạn Tiên Minh một phương rất nhiều trưởng lão cũng dồn dập về phía trước thò ra thân thể.
 

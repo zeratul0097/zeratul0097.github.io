@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 508: 
+title: Chương 508 - Tràn Ngập Chính Năng Lượng Một Chương
 book_name: linh-kiem-son
+chapter: 508
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 508: 
+# Chương 508: Tràn Ngập Chính Năng Lượng Một Chương
 
 Phá hoại vĩnh viễn so với kiến thiết đến dễ dàng, thế nhưng đối với ma linh chi mộng cái này kéo dài 2000 năm khổng lồ mộng cảnh mà nói, như muốn triệt để phá hủy tuyệt đối không phải chuyện đơn giản, chí ít đối với hai cái cảnh giới Kim đan tu sĩ mà nói có thể nói nói mơ giữa ban ngày.
 

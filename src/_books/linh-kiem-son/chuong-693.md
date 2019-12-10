@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 693: 
+title: Chương 693 - Gọn Gàng Dứt Khoát
 book_name: linh-kiem-son
+chapter: 693
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 693: 
+# Chương 693: Gọn Gàng Dứt Khoát
 
 Hải Vân Phàm vạn muôn vàn không nghĩ tới chính mình thuận miệng một vấn đề, lại gây nên phản ứng dây chuyền.
 

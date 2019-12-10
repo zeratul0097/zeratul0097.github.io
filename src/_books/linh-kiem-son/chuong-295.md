@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 295: 
+title: Chương 295 - Mù Ngươi Mắt Chó
 book_name: linh-kiem-son
+chapter: 295
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 295: 
+# Chương 295: Mù Ngươi Mắt Chó
 
 "Ta quốc gia?"
 

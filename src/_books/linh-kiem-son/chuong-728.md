@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 728: 
+title: Chương 728 - Còn Có Người Nhớ Người Này Lần Trước Ra Trận Sao
 book_name: linh-kiem-son
+chapter: 728
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 728: 
+# Chương 728: Còn Có Người Nhớ Người Này Lần Trước Ra Trận Sao
 
 Trong đình viện đối thoại nhưng đang tiếp tục.
 

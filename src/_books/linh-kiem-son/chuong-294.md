@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 294: 
+title: Chương 294 - Người Đều 333
 book_name: linh-kiem-son
+chapter: 294
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 294: 
+# Chương 294: Người Đều 333
 
 "Xin chào bệ hạ."
 

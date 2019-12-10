@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 698: 
+title: Chương 698 - Luôn Cảm Giác Tết Xuân Kỳ Thực Còn Không Có Kết Thúc...
 book_name: linh-kiem-son
+chapter: 698
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 698: 
+# Chương 698: Luôn Cảm Giác Tết Xuân Kỳ Thực Còn Không Có Kết Thúc...
 
 Không có ai sẽ cố ý đi chết, đặc biệt là trải qua đọa tiên cuộc chiến những tu sĩ này môn, nên càng thêm có thể thể ngộ đến sinh mệnh quý giá, phải làm khuynh lấy hết tất cả đến kéo dài tính mạng của chính mình, mà không phải mình muốn chết.
 

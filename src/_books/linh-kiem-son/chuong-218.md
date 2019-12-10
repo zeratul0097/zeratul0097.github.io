@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 218: 
+title: Chương 218 - Nghe Nói Ngươi Mua Một Chiếc Rất Tốt Tàu Bay
 book_name: linh-kiem-son
+chapter: 218
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 218: 
+# Chương 218: Nghe Nói Ngươi Mua Một Chiếc Rất Tốt Tàu Bay
 
 Ta cùng bạch thơ tuyền chân tâm yêu nhau, từ lâu tư định chung thân
 

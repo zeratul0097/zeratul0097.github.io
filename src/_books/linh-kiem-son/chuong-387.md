@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 387: 
+title: Chương 387 - Này Một Chương Sẽ Không Nói Cho Ngươi Quyển Sách Trên Viết Cái Gì
 book_name: linh-kiem-son
+chapter: 387
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 387: 
+# Chương 387: Này Một Chương Sẽ Không Nói Cho Ngươi Quyển Sách Trên Viết Cái Gì
 
 Vân Nguyệt công chúa là thiên linh căn tư chất?
 

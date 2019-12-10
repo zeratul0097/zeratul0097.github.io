@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 718: 
+title: Chương 718 - Ở Thứ Năm Viết Xuống Hô Hoán Cuối Tuần Văn Chương
 book_name: linh-kiem-son
+chapter: 718
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 718: 
+# Chương 718: Ở Thứ Năm Viết Xuống Hô Hoán Cuối Tuần Văn Chương
 
 "... Ngoài ý muốn, chân tâm là ngoài ý muốn."
 

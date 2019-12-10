@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 306: 
+title: Chương 306 - Lời Đồn Sức Mạnh
 book_name: linh-kiem-son
+chapter: 306
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 306: 
+# Chương 306: Lời Đồn Sức Mạnh
 
 "Ngươi như thế làm đến cùng có ý nghĩa gì?"
 

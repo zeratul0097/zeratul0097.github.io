@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 124: 
+title: Chương 124 - Đường Đường Chính Chính
 book_name: linh-kiem-son
+chapter: 124
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 124: 
-
-Chương 40:: Đường đường chính chính
+# Chương 124: Đường Đường Chính Chính
 
 Lại một lần nữa cùng Lưu Hiển, Phương Hạc nói chuyện, đã là đại nửa ngày trời sau rồi.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 646: 
+title: Chương 646 - Chính Diện Nghiền Ép
 book_name: linh-kiem-son
+chapter: 646
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 646: 
+# Chương 646: Chính Diện Nghiền Ép
 
 "Híc, ngươi là...?"
 

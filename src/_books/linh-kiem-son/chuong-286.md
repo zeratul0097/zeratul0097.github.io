@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 286: 
+title: Chương 286 - Vì Ngươi Mà Chiến Ta Nữ Vương
 book_name: linh-kiem-son
+chapter: 286
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 286: 
+# Chương 286: Vì Ngươi Mà Chiến Ta Nữ Vương
 
 "Làm sao?"
 

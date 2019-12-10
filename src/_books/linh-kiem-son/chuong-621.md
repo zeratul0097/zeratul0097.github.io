@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 621: 
+title: Chương 621 - Chính Thức Bắt Đầu Thi Đấu Đại Khái Muốn Mười Năm Sau Đó
 book_name: linh-kiem-son
+chapter: 621
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 621: 
+# Chương 621: Chính Thức Bắt Đầu Thi Đấu Đại Khái Muốn Mười Năm Sau Đó
 
 "Khai mạc thức?"
 

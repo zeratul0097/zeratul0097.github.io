@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 630: 
+title: Chương 630 - Nữ Nhân Tốt Có Thể Làm Cho Nam Nhân Nhanh Gấp Mười Lần
 book_name: linh-kiem-son
+chapter: 630
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 630: 
+# Chương 630: Nữ Nhân Tốt Có Thể Làm Cho Nam Nhân Nhanh Gấp Mười Lần
 
 "Hai ngày trước là ta phải lớn hơn gia kiềm chế bất động, vì lẽ đó hiện tại liền do ta bỏ ra tay thu thập cục diện này đi."
 

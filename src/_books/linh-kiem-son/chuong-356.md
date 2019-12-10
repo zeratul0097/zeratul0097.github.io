@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 356: 
+title: Chương 356 - Thực Sự Là Đơn Giản Thô Bạo Tiết Mục Cây Nhà Lá Vườn
 book_name: linh-kiem-son
+chapter: 356
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 356: 
+# Chương 356: Thực Sự Là Đơn Giản Thô Bạo Tiết Mục Cây Nhà Lá Vườn
 
 Truyền kỳ cuộc chiến, ở tây di đại lục dài lâu trong lịch sử cũng không phải rất thông thường.
 

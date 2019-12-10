@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 15: Con gái cùng người bỏ trốn ngốc · bức cha
+title: Chương 15 - Con gái cùng người bỏ trốn ngốc · bức cha
 book_name: linh-kiem-son
+chapter: 15
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

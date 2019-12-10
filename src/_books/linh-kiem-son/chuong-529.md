@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 529: 
+title: Chương 529 - Ra Mắt
 book_name: linh-kiem-son
+chapter: 529
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 529: 
+# Chương 529: Ra Mắt
 
 "Nghe nói trương thắng tiểu tử này gần nhất trạng thái không đúng lắm a."
 

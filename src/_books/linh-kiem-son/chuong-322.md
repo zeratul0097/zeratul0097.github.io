@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 322: 
+title: Chương 322 - Bay Đầu Rất
 book_name: linh-kiem-son
+chapter: 322
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 322: 
+# Chương 322: Bay Đầu Rất
 
 "Thất bại?"
 

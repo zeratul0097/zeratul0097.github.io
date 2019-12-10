@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 253: 
+title: Chương 253 - Cao Minh Kỳ Thủ
 book_name: linh-kiem-son
+chapter: 253
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 253: 
+# Chương 253: Cao Minh Kỳ Thủ
 
 "Chờ đã"
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 113: 
+title: Chương 113 - Trời giết X 2 đời
 book_name: linh-kiem-son
+chapter: 113
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 113: 
+# Chương 113: Trời giết X 2 đời
 
 Từ khi hơn tám tháng trước, Văn Bảo bị Vương Lục từ linh suối trấn đã lừa gạt đến, chính là một cái hố cha tiếp theo một cái hố cha, tỷ như mới bắt đầu giáo phái mới vừa thành lập thời điểm, liền lão dâm côn cấp độ kia vô dụng đều bị phân ra một cái trí cục thuế cục phó danh hiệu, một mực hắn cũng chỉ có thể làm một gã quang vinh trí cục thuế công nhân, tục xưng lực sĩ, sau đó từ sáng đến tối phụ trách ở các nơi đào hầm cất phòng. Sau đó Trí Giáo quy mô mở rộng, hắn lại lắc mình biến hóa đã trở thành xây dựng cơ bản xử xử trưởng, nhưng phụ trách công việc vẫn là như thế, đào hầm cất phòng, xây dựng rầm rộ.
 

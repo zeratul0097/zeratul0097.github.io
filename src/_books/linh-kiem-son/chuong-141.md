@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 141: 
+title: Chương 141 - Ngươi Là Ngày Đó Một Bên Đẹp Nhất Đám Mây
 book_name: linh-kiem-son
+chapter: 141
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 141: 
-
-Chương 16:: Ngươi là ngày đó một bên đẹp nhất đám mây
+# Chương 141: Ngươi Là Ngày Đó Một Bên Đẹp Nhất Đám Mây
 
 Linh Kiếm Sơn, Vô Tương Phong, nhà gỗ nhỏ, đón đỏ thắm đêm hà, một hồi âm mưu chính nằm trong quá trình chuẩn bị.
 

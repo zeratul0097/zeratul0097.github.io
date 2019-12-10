@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 301: 
+title: Chương 301 - Sự Tình Chính Đang Lên Biến Hóa
 book_name: linh-kiem-son
+chapter: 301
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 301: 
+# Chương 301: Sự Tình Chính Đang Lên Biến Hóa
 
 Ngày thứ hai buổi trưa, Vương Lục các loại (chờ) người liền đến đến Long thành, ngàn dặm xa, thoáng qua tới gần.
 

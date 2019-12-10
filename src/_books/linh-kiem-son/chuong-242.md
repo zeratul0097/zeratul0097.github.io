@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 242: 
+title: Chương 242 - Có Lỗi Với Ta Có Người Thích
 book_name: linh-kiem-son
+chapter: 242
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 242: 
+# Chương 242: Có Lỗi Với Ta Có Người Thích
 
 Hiếu môn sau khi, chính là kính môn.
 

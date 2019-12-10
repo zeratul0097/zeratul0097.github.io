@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 84: Nhà ta Vương Lục mới không có như vậy...
+title: Chương 84 - Nhà ta Vương Lục mới không có như vậy...
 book_name: linh-kiem-son
+chapter: 84
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

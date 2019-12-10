@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 139: 
+title: Chương 139 - Karla Là Con Chó
 book_name: linh-kiem-son
+chapter: 139
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 139: 
-
-Chương 14:: Karla là con chó
+# Chương 139: Karla Là Con Chó
 
 "Vương huynh, tự Linh Kiếm Sơn trên phân biệt đến nay đã có 5 năm, có khoẻ hay không? Vương huynh xưa nay không thích vô vị hàn huyên, vì lẽ đó cũng thứ cho ta đi thẳng vào vấn đề, hai tháng sau, ta đem theo sư môn một đám sư huynh đệ đi tới Linh Kiếm Sơn bái sơn, chuyến này không phải thiện, cũng không cá nhân ta mong muốn, nhưng mà chiều hướng phát triển, không thể không từ, kính xin Vương huynh thứ lỗi.
 

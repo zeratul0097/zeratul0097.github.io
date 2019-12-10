@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 268: 
+title: Chương 268 - Ta Có Rộng Rãi Hạ Vạn Ruộng Tốt Trăm Ngàn Mẫu
 book_name: linh-kiem-son
+chapter: 268
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 268: 
+# Chương 268: Ta Có Rộng Rãi Hạ Vạn Ruộng Tốt Trăm Ngàn Mẫu
 
 Thượng tầng ý chí?
 

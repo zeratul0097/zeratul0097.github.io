@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 357: 
+title: Chương 357 - Quyền Tài Sản Đến Kỳ Như Thế Thu Về
 book_name: linh-kiem-son
+chapter: 357
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 357: 
+# Chương 357: Quyền Tài Sản Đến Kỳ Như Thế Thu Về
 
 Từ xưa tới nay, từ trên trời giáng xuống đồ vật nhiều không kể xiết, nhỏ đến nhỏ vụn thiên thạch mảnh vỡ, lớn đến thiêu đốt sao băng, Đại Địa bên trên kỳ thực không thiếu trời cao ân huệ, rất nhiều loại thiên thạch càng là chế tạo thần binh lợi khí chuẩn bị tư liệu sống. Mà đối với tây di đại lục rất nhiều chức nghiệp giả mà nói, từ trên trời giáng xuống công kích càng không tiên thấy, những kia cấp cao các ma pháp sư có thể từ cửu thiên bầu trời triệu hoán vẫn thạch khổng lồ, trải qua dài lâu gia tốc sau, một viên gian phòng to nhỏ thiên thạch liền có thể hủy diệt một tòa thành trì, phương thức công kích tuy rằng đơn giản thô bạo, nhưng thực sự là uy lực vô cùng.
 

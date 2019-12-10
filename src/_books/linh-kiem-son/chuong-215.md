@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 215: 
+title: Chương 215 - Vô Tướng Phong Tài Sản Thần Thánh Không Thể Xâm Phạm
 book_name: linh-kiem-son
+chapter: 215
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 215: 
+# Chương 215: Vô Tướng Phong Tài Sản Thần Thánh Không Thể Xâm Phạm
 
 Cho tới nay, Vương Lục trong lòng sư phụ hình tượng đều là cùng cao thủ dính không lên một bên.
 

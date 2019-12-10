@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 156: 
+title: Chương 156 - Vĩnh Viễn Không Nên Tin Nữ Nhân
 book_name: linh-kiem-son
+chapter: 156
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 156: 
-
-Chương 31:: Vĩnh viễn không nên tin nữ nhân
+# Chương 156: Vĩnh Viễn Không Nên Tin Nữ Nhân
 
 "Được rồi, ta chịu thua."
 

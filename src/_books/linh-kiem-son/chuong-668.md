@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 668: 
+title: Chương 668 - Chính Hí Sắp Bắt Đầu Diễn
 book_name: linh-kiem-son
+chapter: 668
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 668: 
+# Chương 668: Chính Hí Sắp Bắt Đầu Diễn
 
 "Xa xôi a ngươi người này chính là quá yếu lòng, cơ hội tốt như vậy ngươi lại đều không nhẫn tâm xuống tay, khiến người ta nói ngươi cái gì tốt thực sự là đáng đời được cùng"
 

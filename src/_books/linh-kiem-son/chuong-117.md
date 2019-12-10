@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 117: 
+title: Chương 117 - Nếu như âm mưu bị người nhìn thấu nên làm gì
 book_name: linh-kiem-son
+chapter: 117
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 117: 
+# Chương 117: Nếu như âm mưu bị người nhìn thấu nên làm gì
 
 Văn Bảo sau khi tỉnh dậy, cảm thấy thời đại mạt pháp tựa hồ muốn phủ xuống.
 

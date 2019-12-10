@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 364: 
+title: Chương 364 - Thệ Ước Thắng Lợi Chi Kiếm
 book_name: linh-kiem-son
+chapter: 364
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 364: 
+# Chương 364: Thệ Ước Thắng Lợi Chi Kiếm
 
 Một người ở tây di lữ hành cũng không vui, Vương Lục ở Long thành tìm hai ngày, hoàn toàn không có có thể tìm tới Aya hình bóng, vị này Kỵ Sĩ vương dường như bốc hơi khỏi thế gian, không có để lại nửa điểm manh mối, lấy Vương Lục hướng dẫn năng lực cũng không thể làm gì.
 

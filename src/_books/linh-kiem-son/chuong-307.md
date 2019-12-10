@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 307: 
+title: Chương 307 - Không Có Cách Nào Thành Thục Lên
 book_name: linh-kiem-son
+chapter: 307
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 307: 
+# Chương 307: Không Có Cách Nào Thành Thục Lên
 
 Hai ngày thời gian đảo mắt liền quá khứ.
 

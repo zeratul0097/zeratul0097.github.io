@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 389: 
+title: Chương 389 - Xiếc Đi Dây Vui Vẻ
 book_name: linh-kiem-son
+chapter: 389
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 389: 
+# Chương 389: Xiếc Đi Dây Vui Vẻ
 
 Ngày thứ hai lúc xế trưa, mặt trời chói chang treo cao, Vương Lục đã lại xuất hiện ở vương lăng biên giới.
 

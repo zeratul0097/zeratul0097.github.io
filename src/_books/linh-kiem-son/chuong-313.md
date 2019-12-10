@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 313: 
+title: Chương 313 - Loli Xuyên Xuyên Hương
 book_name: linh-kiem-son
+chapter: 313
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 313: 
+# Chương 313: Loli Xuyên Xuyên Hương
 
 Long thành buổi sáng bận rộn mà có thứ tự, khu buôn bán đại đại cửa hàng nho nhỏ vừa kết thúc trắng đêm cuồng hoan, tiến hành ngắn ngủi nghỉ ngơi, sau đó không lâu lại quan trọng hơn trương địa bắt đầu mới một ngày hành trình. Khu dân cư đám người dồn dập mở lim dim mắt buồn ngủ, đứng dậy rửa mặt, bắt đầu một ngày bận rộn. Ngoài ra, ở đầu đường cuối ngõ, những kia phụ trách giữ gìn thành thị vận chuyển bình thường các công nhân, thì thôi kinh bắt đầu rồi tân cần làm lụng.
 

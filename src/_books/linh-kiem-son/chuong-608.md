@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 608: 
+title: Chương 608 - Có Lúc Một Lần Có Lúc Nửa Lần
 book_name: linh-kiem-son
+chapter: 608
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 608: 
+# Chương 608: Có Lúc Một Lần Có Lúc Nửa Lần
 
 Vương Lục cùng chu minh một trường ác đấu, rất nhanh sẽ truyền khắp Cửu Châu Đại Lục.
 

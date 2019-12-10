@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 762: 
+title: Chương 762 - Ta Thực Sự Là Ngày Cẩu
 book_name: linh-kiem-son
+chapter: 762
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 762: 
+# Chương 762: Ta Thực Sự Là Ngày Cẩu
 
 "Đây chính là ngươi nói con kia độc nhất vô nhị, đoạt thiên địa tạo hóa chó mực? Xem ra chẳng có gì ghê gớm mà."
 

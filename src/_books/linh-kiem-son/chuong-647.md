@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 647: 
+title: Chương 647 - Quả Nhiên Là Cao Tầng Phạm Tội Tất Nhiên Động Tác Võ Thuật
 book_name: linh-kiem-son
+chapter: 647
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 647: 
+# Chương 647: Quả Nhiên Là Cao Tầng Phạm Tội Tất Nhiên Động Tác Võ Thuật
 
 Tiên bảy khu chu vi mấy chục dặm, phân thượng trung hạ ba tầng, đóng quân hai, ba phẩm môn phái bảy mươi sáu gia, thường trú tu sĩ vượt qua ngàn người.
 

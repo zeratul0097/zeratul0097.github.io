@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 165: 
+title: Chương 165 - Quân Tử Ái Tài Cưới Chi Có Đạo
 book_name: linh-kiem-son
+chapter: 165
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 165: 
-
-Chương 40:: Quân tử ái tài cưới chi có đạo
+# Chương 165: Quân Tử Ái Tài Cưới Chi Có Đạo
 
 "Ồ, làm sao một mặt táo bón vẻ mặt? Ngươi quan âm thổ ăn nhiều?"
 

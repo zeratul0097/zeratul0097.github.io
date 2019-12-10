@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 667: 
+title: Chương 667 - Cái Này Cứng Quảng Cáo Làm Tốt Lắm A!
 book_name: linh-kiem-son
+chapter: 667
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 667: 
+# Chương 667: Cái Này Cứng Quảng Cáo Làm Tốt Lắm A!
 
 Xa xôi nói đến, thi đấu sẽ chính thức bắt đầu rồi.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 657: 
+title: Chương 657 - Nguyên Lai Không Chỉ Là Có Thể Ăn...
 book_name: linh-kiem-son
+chapter: 657
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 657: 
+# Chương 657: Nguyên Lai Không Chỉ Là Có Thể Ăn...
 
 Ở trận này ám hắc liệu lý thi đấu bên trong, thực tiên đã ăn qua thực hủ trùng, gặm qua thịt rữa bính, uống qua hòn đá chúc... Vương Lục triệu tập Vạn Tiên Minh sức mạnh, từ Cửu Châu Đại Lục mỗi cái xó xỉnh thu thập đến hiếu kỳ mỹ thực, hắn cơ bản đều từng trải qua, xem như là thân kinh bách chiến.
 

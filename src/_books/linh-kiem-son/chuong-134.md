@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 134: 
+title: Chương 134 - Trong Thiên Hạ Đệ Nhất Mỹ Vị
 book_name: linh-kiem-son
+chapter: 134
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 134: 
-
-Chương 9:: Trong thiên hạ đệ nhất mỹ vị
+# Chương 134: Trong Thiên Hạ Đệ Nhất Mỹ Vị
 
 Ở hoang man nơi sinh tồn hơn ba trăm ngày, Vương Lục đã dần dần thuận buồm xuôi gió thành thạo điêu luyện, thậm chí còn kế hoạch ở lần này hắc triều sau khi, hướng về càng Tây Phương, cũng chính là hắc triều càng nồng nặc khu vực xuất phát, tiến một bước đổi mới (respawn) của mình hạn cuối... Cực hạn.
 

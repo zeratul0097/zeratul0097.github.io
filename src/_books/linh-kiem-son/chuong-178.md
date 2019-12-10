@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 178: 
+title: Chương 178 - Sưu Cẩu Ký
 book_name: linh-kiem-son
+chapter: 178
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 178: 
-
-Chương 7:: Sưu cẩu ký
+# Chương 178: Sưu Cẩu Ký
 
 Khi (làm) ngu xuẩn Lưu Ly Tiên đối người mình thả ra đại chiêu sau khi, Vương Lục quả nhiên không thể chống đối, sững sờ chỉ chốc lát, mà như vậy thời gian ngắn ngủi, cái kia hai cái Ngự Thú tông nữ tu sĩ ánh mắt ngưng lại.
 

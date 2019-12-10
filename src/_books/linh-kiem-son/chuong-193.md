@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 193: 
+title: Chương 193 - Cường Hào Dạy Ngươi Mở Tàu Cao Tốc
 book_name: linh-kiem-son
+chapter: 193
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 193: 
-
-Chương 22:: Cường hào dạy ngươi mở tàu cao tốc
+# Chương 193: Cường Hào Dạy Ngươi Mở Tàu Cao Tốc
 
 Đây là một cơn ác mộng.
 

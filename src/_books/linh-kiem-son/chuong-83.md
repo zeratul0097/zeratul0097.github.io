@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 83: Người đáng giết
+title: Chương 83 - Người đáng giết
 book_name: linh-kiem-son
+chapter: 83
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

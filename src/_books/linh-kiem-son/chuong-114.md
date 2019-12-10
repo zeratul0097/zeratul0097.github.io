@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 114: 
+title: Chương 114 - Hôm nay ta liền tới hoành đao đoạt ải !
 book_name: linh-kiem-son
+chapter: 114
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 114: 
+# Chương 114: Hôm nay ta liền tới hoành đao đoạt ải !
 
 Chu Tần sư huynh, đa tạ ngươi vì ta liên hệ Quang Minh phủ, chỉ là hưng sư động chúng như vậy, tựa hồ có hơi..." 
 

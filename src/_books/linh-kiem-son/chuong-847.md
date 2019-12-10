@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 847: 
+title: Chương 847 - Sau Khi, Tân Thế Giới Tiên Phong
 book_name: linh-kiem-son
+chapter: 847
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 847: 
+# Chương 847: Sau Khi, Tân Thế Giới Tiên Phong
 
 Thanh Thanh trên thảo nguyên, một toà trắng nõn bia mộ yên tĩnh đón gió nhẹ, bi bầu trời không một chữ, rồi lại thu hoạch lớn năm tháng tang thương.
 

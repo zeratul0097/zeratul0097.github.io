@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 494: 
+title: Chương 494 - Những Ma Tộc Này Thực Sự Là Quá Đê Tiện Vô Liêm Sỉ!
 book_name: linh-kiem-son
+chapter: 494
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 494: 
+# Chương 494: Những Ma Tộc Này Thực Sự Là Quá Đê Tiện Vô Liêm Sỉ!
 
 Xích mặt răng nanh, ma Giới Vương tộc.
 

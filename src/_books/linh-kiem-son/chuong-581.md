@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 581: 
+title: Chương 581 - Cái Tên Này Nghe Không Biết Dùng Người Nói Thật Ra
 book_name: linh-kiem-son
+chapter: 581
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 581: 
+# Chương 581: Cái Tên Này Nghe Không Biết Dùng Người Nói Thật Ra
 
 Tỉnh lại thời điểm, Vương Lục phát hiện mình vẫn là ở cái kia kỳ lạ trong hoàng cung, mà trước mặt nhưng là tấm kia làm người vọng mà đau "bi" mặt.
 

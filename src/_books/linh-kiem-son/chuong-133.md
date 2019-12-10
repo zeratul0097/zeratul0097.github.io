@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 133: 
+title: Chương 133 - Thân Ái Sắp Tới Ta Trong Bát Đến
 book_name: linh-kiem-son
+chapter: 133
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 133: 
-
-Chương 8:: Thân ái sắp tới ta trong bát đến
+# Chương 133: Thân Ái Sắp Tới Ta Trong Bát Đến
 
 Không ánh sáng, không có gió, vô biên vô tận đen kịt, từ xa tới gần, nhuộm dần thiên địa vạn vật, phảng phất đem thế giới xuyên vào ở một cái vô biên vô tận mực nước trong bình, nổi lên vĩnh hằng tĩnh mịch.
 

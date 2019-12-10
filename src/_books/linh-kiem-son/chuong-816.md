@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 816: 
+title: Chương 816 - Quốc Tế Bạn Bè
 book_name: linh-kiem-son
+chapter: 816
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 816: 
+# Chương 816: Quốc Tế Bạn Bè
 
 "Ha ha, khuyên người ta khiêm tốn một chút? Ngươi cái này bức trang thật? Ta có thể cho 95 phân."
 

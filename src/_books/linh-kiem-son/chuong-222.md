@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 222: 
+title: Chương 222 - Vương Lục Thích Nghe Ngóng Hằng Ngày Bị Chung Kết
 book_name: linh-kiem-son
+chapter: 222
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 222: 
+# Chương 222: Vương Lục Thích Nghe Ngóng Hằng Ngày Bị Chung Kết
 
 Một hồi vân châu rèn luyện, thời gian không lâu, nhưng cho Vương Lục mang đến dị thường phong phú thu hoạch.
 

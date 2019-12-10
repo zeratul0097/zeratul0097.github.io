@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 428: 
+title: Chương 428 - Ta Mới Không Phải Vương Vũ Cẩu
 book_name: linh-kiem-son
+chapter: 428
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 428: 
+# Chương 428: Ta Mới Không Phải Vương Vũ Cẩu
 
 "Ha ha ha, gởi thư ngưỡng thánh quang đi, Cửu Châu dị đoan tiểu thư"
 

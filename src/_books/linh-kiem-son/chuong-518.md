@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 518: 
+title: Chương 518 - Câu Cá
 book_name: linh-kiem-son
+chapter: 518
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 518: 
+# Chương 518: Câu Cá
 
 Mâm tròn trên hình ảnh hoàn toàn đỏ ngầu.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 352: 
+title: Chương 352 - Tiểu Tử Ta Rất Yêu Quý Ngươi Nha
 book_name: linh-kiem-son
+chapter: 352
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 352: 
+# Chương 352: Tiểu Tử Ta Rất Yêu Quý Ngươi Nha
 
 "Từ chối?" Đối với Vương Lục từ chối, vô diện giả có chút bất ngờ, "Lý do đây?"
 

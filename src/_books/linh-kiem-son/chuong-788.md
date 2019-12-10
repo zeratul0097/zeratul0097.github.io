@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 788: 
+title: Chương 788 - Tấu Chương Không Có Bất Luận Cái Gì Ánh Xạ
 book_name: linh-kiem-son
+chapter: 788
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 788: 
+# Chương 788: Tấu Chương Không Có Bất Luận Cái Gì Ánh Xạ
 
 Thương Khê Châu trí vương thành, dưới nền đất nơi sâu xa chiến đấu đã kéo dài rất lâu. Vương Lục lấy một địch ba, nhưng thành thạo điêu luyện, đem đối phương ba người ép tới đỡ trái hở phải, ngàn cân treo sợi tóc.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 758: 
+title: Chương 758 - Thật Sự Cho Rằng Sẽ Đẩy Ngã?
 book_name: linh-kiem-son
+chapter: 758
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 758: 
+# Chương 758: Thật Sự Cho Rằng Sẽ Đẩy Ngã?
 
 "Được, cánh tay trái thông suốt, tiên linh lưu chuyển không ngại, mạch này xem như là xong rồi. Sau khi ngươi phải làm có thể sử dụng Cự Linh thần trên cánh tay trái điêu khắc tiên thuật đại trận. Còn còn lại thời gian nửa năm, tranh thủ đem thường dùng năm đạo Đại Tiên thuật nắm giữ thứ ba, đã như thế coi như là cùng đứng đầu nhất Địa tiên chống lại, cũng có năm phần mười phần thắng."
 

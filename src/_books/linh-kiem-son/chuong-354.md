@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 354: 
+title: Chương 354 - Ta Có Đặc Biệt Tìm Kiếm Hung Phạm Phương Pháp
 book_name: linh-kiem-son
+chapter: 354
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 354: 
+# Chương 354: Ta Có Đặc Biệt Tìm Kiếm Hung Phạm Phương Pháp
 
 "Ba ngày đã đến, các ngươi là ngoan ngoãn chính mình đem cửa thành mở ra? Vẫn là nhất định phải làm phiền lão tử tự tay tới cho các ngươi mở cửa?"
 

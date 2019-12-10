@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 416: 
+title: Chương 416 - Trăm Người Chém
 book_name: linh-kiem-son
+chapter: 416
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 416: 
+# Chương 416: Trăm Người Chém
 
 "Thật là lợi hại..."
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 772: 
+title: Chương 772 - Thiên Hạ Thái Bình
 book_name: linh-kiem-son
+chapter: 772
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 772: 
+# Chương 772: Thiên Hạ Thái Bình
 
 Thời gian đều là ở trong lúc vô tình liền trải qua nhanh chóng.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 807: 
+title: Chương 807 - Agent· Hạ Vũ
 book_name: linh-kiem-son
+chapter: 807
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 807: 
+# Chương 807: Agent· Hạ Vũ
 
 "Rất cao hứng ngươi có thể như thế nghĩ, sau này liền để chúng ta hữu hảo ở chung đi." Nhan lạc lộ ra nụ cười nhẹ nhõm, sau đó hướng về đối diện hai người gật gù, liền muốn xoay người cáo từ.
 

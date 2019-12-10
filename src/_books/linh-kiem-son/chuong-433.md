@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 433: 
+title: Chương 433 - Thành Lập Chung Một Chiến Tuyến?
 book_name: linh-kiem-son
+chapter: 433
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 433: 
+# Chương 433: Thành Lập Chung Một Chiến Tuyến?
 
 Thu hồi nắm đấm, Vương Lục tiện tay ở trên vách đá xóa đi trên mu bàn tay vết máu, sau đó nói rằng: "Ta đối với Ma tộc kỳ thực không có cảm giác gì, bọn họ sinh động cũng được, không có tim không có phổi cũng được, ta là không thế nào quan tâm, bởi vì Tiên Ma đại chiến kết thúc sau đó, trên căn bản cũng không có cơ hội gì nhìn thấy bọn họ, những kia tiểu yêu tiểu ma cũng không tới phiên chúng ta ra tay giải quyết... Sách, đừng nhìn ta như vậy, có vẻ ta nhiều lạnh lùng vô tri tựa như, ta lại không phải thịnh kinh thủ tịch, không đáng chủ động đi gánh chịu tu tiên thế giới hưng suy trọng trách."
 

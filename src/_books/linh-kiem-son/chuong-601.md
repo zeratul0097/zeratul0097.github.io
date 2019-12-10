@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 601: 
+title: Chương 601 - Yêu Liệu Lý Ăn Thoải Mái!
 book_name: linh-kiem-son
+chapter: 601
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 601: 
+# Chương 601: Yêu Liệu Lý Ăn Thoải Mái!
 
 Vương Lục làm hoạt động tổng bày ra sinh hoạt bận rộn mà phong phú, mỗi ngày non nửa thời gian ở Quân Hoàng Sơn mỗi cái sân huấn luyện bên trong đổ mồ hôi như mưa, non nửa thời gian vùi đầu công văn, đồng thời còn muốn tình cờ đứng ra phối hợp khắp nơi quan hệ, cùng với ứng phó dần dần hiện quật khởi tư thế độ hot thần tượng: Mộ Dung Băng Ly · dạ mị hoàng · nhan diên · múa nhi gặp phải phiền phức.
 

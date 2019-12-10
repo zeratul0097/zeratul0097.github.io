@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 479: 
+title: Chương 479 - Này Tao Ngộ Làm Đến Hơi Nhanh
 book_name: linh-kiem-son
+chapter: 479
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 479: 
+# Chương 479: Này Tao Ngộ Làm Đến Hơi Nhanh
 
 Vương Lục cảm giác mình ba nhìn có tan vỡ nguy hiểm.
 

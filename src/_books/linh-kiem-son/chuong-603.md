@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 603: 
+title: Chương 603 - Chúc Mọi Người Hắc Ngũ Mua Sắm Vui Vẻ
 book_name: linh-kiem-son
+chapter: 603
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 603: 
+# Chương 603: Chúc Mọi Người Hắc Ngũ Mua Sắm Vui Vẻ
 
 "Chưởng môn sư bá, ngươi chuyên chạy đến tìm ta, có phải là còn có chuyện quan trọng gì?"
 

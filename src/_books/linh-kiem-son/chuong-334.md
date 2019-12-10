@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 334: 
+title: Chương 334 - Ta Có Đặc Biệt Cầu Thắng Kỹ Xảo
 book_name: linh-kiem-son
+chapter: 334
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 334: 
+# Chương 334: Ta Có Đặc Biệt Cầu Thắng Kỹ Xảo
 
 Kim bài đương nhiên là giả.
 

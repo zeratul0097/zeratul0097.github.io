@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 122: 
+title: Chương 122 - Vấn Tâm Chi Kiếm
 book_name: linh-kiem-son
+chapter: 122
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 122: 
-
-Chương 38:: Vấn tâm chi kiếm
+# Chương 122: Vấn Tâm Chi Kiếm
 
 "Ngươi muốn ta ban thưởng ngươi gì kiếm?" Lưu Hiển sắc mặt nghiêm nghị, trầm giọng mà hỏi.
 

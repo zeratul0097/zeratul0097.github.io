@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 734: 
+title: Chương 734 - Không Phải Tín Nhiệm Xạ Thủ Tốc Độ
 book_name: linh-kiem-son
+chapter: 734
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 734: 
+# Chương 734: Không Phải Tín Nhiệm Xạ Thủ Tốc Độ
 
 Trên đường đi về nhà, Vương Vũ không ngừng nghĩ lại chính mình liên tiếp hành động đến tột cùng xảy ra vấn đề gì.
 

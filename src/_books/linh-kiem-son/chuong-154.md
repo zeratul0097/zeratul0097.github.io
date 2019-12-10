@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 154: 
+title: Chương 154 - Nàng Cần Chính Là Não Bạch Kim
 book_name: linh-kiem-son
+chapter: 154
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 154: 
-
-Chương 29:: Nàng cần chính là não bạch kim
+# Chương 154: Nàng Cần Chính Là Não Bạch Kim
 
 Chu Tần bị thua, khiến cho vô số người giật nảy cả mình, vị kia một tay dẫn đến chiến cuộc nghịch chuyển nữ tử thân phận, càng lộ vẻ thần bí khó lường, nhưng đáng tiếc không chờ bọn hắn tới kịp làm rõ tất cả những thứ này, cô gái kia liền nhanh chóng rời khỏi.
 

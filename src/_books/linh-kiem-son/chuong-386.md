@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 386: 
+title: Chương 386 - Thời Khắc Mấu Chốt, Ta Có Ngoại Tinh Đội Hữu!
 book_name: linh-kiem-son
+chapter: 386
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 386: 
+# Chương 386: Thời Khắc Mấu Chốt, Ta Có Ngoại Tinh Đội Hữu!
 
 "Ngài là chỉ, cái này Chu Nho là ngươi trực hệ huyết thống, Vân Quốc chân chính chủ nhân? Nói cách khác..."
 

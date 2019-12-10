@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 709: 
+title: Chương 709 - Hà Đồ Ngươi Vì Sao Như Thế **
 book_name: linh-kiem-son
+chapter: 709
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 709: 
+# Chương 709: Hà Đồ Ngươi Vì Sao Như Thế **
 
 "Thông gia?"
 

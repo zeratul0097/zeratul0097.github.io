@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 454: 
+title: Chương 454 - Dọc Theo Con Đường Này Thực Sự Là Đặc Sắc Lộ Ra
 book_name: linh-kiem-son
+chapter: 454
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 454: 
+# Chương 454: Dọc Theo Con Đường Này Thực Sự Là Đặc Sắc Lộ Ra
 
 Mọi việc không hoạn quả mà hoạn không đều.
 

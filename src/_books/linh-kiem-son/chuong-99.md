@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 99: 
+title: Chương 99 - Trăm vạn Hỗn Độn đàn
 book_name: linh-kiem-son
+chapter: 99
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 99: 
+# Chương 99: Trăm vạn Hỗn Độn đàn
 
 Mong muốn bên trong ngôi sao cực mới vụ nổ lớn cũng chưa từng xuất hiện.
 

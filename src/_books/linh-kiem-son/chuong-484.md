@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 484: 
+title: Chương 484 - Bá Đạo Thủ Tịch Yêu Ta
 book_name: linh-kiem-son
+chapter: 484
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 484: 
+# Chương 484: Bá Đạo Thủ Tịch Yêu Ta
 
 Vương Lục chính là chưởng môn con riêng lời đồn rất nhanh sẽ được rộng khắp truyền bá cùng tán thành.
 

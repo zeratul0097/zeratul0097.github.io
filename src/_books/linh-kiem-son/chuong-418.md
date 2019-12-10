@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 418: 
+title: Chương 418 - Minh
 book_name: linh-kiem-son
+chapter: 418
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 418: 
+# Chương 418: Minh
 
 "Vương Lục?"
 

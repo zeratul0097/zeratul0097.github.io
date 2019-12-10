@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 81: Ngu không thể nói
+title: Chương 81 - Ngu không thể nói
 book_name: linh-kiem-son
+chapter: 81
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

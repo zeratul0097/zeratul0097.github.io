@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 752: 
+title: Chương 752 - Mơ Hồ Cảm Thấy Mình Bị Chiếm Tiện Nghi
 book_name: linh-kiem-son
+chapter: 752
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 752: 
+# Chương 752: Mơ Hồ Cảm Thấy Mình Bị Chiếm Tiện Nghi
 
 "Cao tới là cái gì?"
 

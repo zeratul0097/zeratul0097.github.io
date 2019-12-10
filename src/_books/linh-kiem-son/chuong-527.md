@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 527: 
+title: Chương 527 - Còn Có Hai Năm
 book_name: linh-kiem-son
+chapter: 527
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 527: 
+# Chương 527: Còn Có Hai Năm
 
 "Vương Lục sư huynh, đây là mọi người tháng trước tu hành tiến độ bảng thống kê, mời ngài thẩm duyệt."
 

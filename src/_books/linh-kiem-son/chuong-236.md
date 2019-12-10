@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 236: 
+title: Chương 236 - Bách Thiện Hiếu Làm Đầu
 book_name: linh-kiem-son
+chapter: 236
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 236: 
+# Chương 236: Bách Thiện Hiếu Làm Đầu
 
 Hiếu kính trung tín lễ nghĩa liêm sỉ?
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 820: 
+title: Chương 820 - Ta Tuyệt Không Tin Là Nàng!
 book_name: linh-kiem-son
+chapter: 820
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 820: 
+# Chương 820: Ta Tuyệt Không Tin Là Nàng!
 
 Linh Kiếm Sơn mộ kiếm đã có rất nhiều rất nhiều năm chưa từng? Khải qua, toà này lẻ loi ngọn núi còn như thực thể không tồn tại ảo giác giống như vậy, ở quần sơn sương mù bên trong như ẩn như hiện. Mà gần trăm năm qua, bất kể là Linh Kiếm môn dưới đệ tử, vẫn là Thiên Kiếm Đường chủ sự chư vị trưởng lão, đều cực nhỏ tiến vào mộ kiếm.
 

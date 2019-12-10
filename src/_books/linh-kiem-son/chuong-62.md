@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 62: Thần kỳ hắc thúc thúc
+title: Chương 62 - Thần kỳ hắc thúc thúc
 book_name: linh-kiem-son
+chapter: 62
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

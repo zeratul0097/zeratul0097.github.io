@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 577: 
+title: Chương 577 - Tuyệt Thế Người Đàn Ông Tốt
 book_name: linh-kiem-son
+chapter: 577
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 577: 
+# Chương 577: Tuyệt Thế Người Đàn Ông Tốt
 
 "Rốt cục nhìn thấy ngươi a."
 

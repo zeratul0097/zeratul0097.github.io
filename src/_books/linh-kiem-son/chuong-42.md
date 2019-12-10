@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 42: Ha ha ha ha, bọn họ thật sự tin...
+title: Chương 42 - Ha ha ha ha, bọn họ thật sự tin...
 book_name: linh-kiem-son
+chapter: 42
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

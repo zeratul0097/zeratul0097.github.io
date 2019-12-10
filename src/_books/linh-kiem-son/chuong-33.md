@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 33: Bày đặt tuyệt thế mỹ nữ không ngủ chính mình tuốt...
+title: Chương 33 - Bày đặt tuyệt thế mỹ nữ không ngủ chính mình tuốt...
 book_name: linh-kiem-son
+chapter: 33
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 697: 
+title: Chương 697 - Bất Ngờ Thương Vong
 book_name: linh-kiem-son
+chapter: 697
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 697: 
+# Chương 697: Bất Ngờ Thương Vong
 
 Tiên một khu, trung ương sân đấu võ, ồn ào huyên náo tiếng đinh tai nhức óc, vừa vào tràng liền có thể cảm thấy cuồn cuộn mà đến sóng âm hình thành cộng hưởng, cả người tóc gáy đều nổ đứng lên đến. Một luồng hơi nóng phả vào mặt làm người gò má ửng đỏ, ngạch lòng sinh mồ hôi.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 480: 
+title: Chương 480 - Hỉ Làm Tiên Nhị Đại
 book_name: linh-kiem-son
+chapter: 480
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 480: 
+# Chương 480: Hỉ Làm Tiên Nhị Đại
 
 Đột nhiên xuất hiện tao ngộ lệnh Vương Lục rất là lấy làm kinh hãi, trên một khắc đối phương còn ở bên ngoài mười dặm, sau một khắc liền gần ngay trước mắt, hơn nữa thần không biết quỷ không hay, loại thủ đoạn này thực tại có mấy phần lợi hại.
 

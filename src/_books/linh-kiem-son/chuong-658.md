@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 658: 
+title: Chương 658 - Ta Thấy Hoa Bách Hợp Điềm Báo Trước
 book_name: linh-kiem-son
+chapter: 658
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 658: 
+# Chương 658: Ta Thấy Hoa Bách Hợp Điềm Báo Trước
 
 "Thắng, chúng ta thắng"
 

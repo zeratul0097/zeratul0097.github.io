@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 582: 
+title: Chương 582 - Ta Cảm Thấy Ta Thật Giống Đã Chết Rồi
 book_name: linh-kiem-son
+chapter: 582
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 582: 
+# Chương 582: Ta Cảm Thấy Ta Thật Giống Đã Chết Rồi
 
 "Sư huynh, ngươi tìm ta?"
 

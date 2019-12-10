@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 673: 
+title: Chương 673 - Mở Mang Kiến Thức Một Chút Hoa Bách Hợp Sức Mạnh Ba
 book_name: linh-kiem-son
+chapter: 673
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 673: 
+# Chương 673: Mở Mang Kiến Thức Một Chút Hoa Bách Hợp Sức Mạnh Ba
 
 Trên đất tiên trong trận doanh, tiểu độc tiên xem như là tương đương đặc lập độc hành một vị, hắn bề ngoài xấu xí: Chiều cao vừa bốn thước, hình như đứa bé, nhưng da dẻ nhăn nheo tiều tụy, tràn đầy u ác tính u nang, đáng ghê tởm không giống người —— đương nhiên, bây giờ nhìn lại hắn cũng xác thực không phải là loài người —— ngoài ra, hắn lòng dạ độc ác, giết người như ngóe, vì tinh nghiên độc dược mà tàn sát sinh linh khó có thể tính toán, trên tay mạng người thậm chí so với huyết nhục đồ cùng tham lang này hai đại sát tinh gộp lại còn nhiều hơn, một thân sát khí lệnh Địa tiên môn cũng cảm thấy khó có thể tiếp cận.
 

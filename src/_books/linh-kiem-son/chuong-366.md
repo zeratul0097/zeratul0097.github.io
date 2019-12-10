@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 366: 
+title: Chương 366 - Có Quan Hệ Lãnh Đạo Phát Biểu Trọng Yếu Nói Chuyện
 book_name: linh-kiem-son
+chapter: 366
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 366: 
+# Chương 366: Có Quan Hệ Lãnh Đạo Phát Biểu Trọng Yếu Nói Chuyện
 
 Quỳnh Hoa?
 

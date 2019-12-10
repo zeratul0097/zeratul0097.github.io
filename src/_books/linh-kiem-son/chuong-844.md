@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 844: 
+title: Chương 844 - Ta Khá Là Yêu Thích Sau Vào
 book_name: linh-kiem-son
+chapter: 844
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 844: 
+# Chương 844: Ta Khá Là Yêu Thích Sau Vào
 
 Tinh Thần Phong trên, Cửu Châu còn sót lại sức mạnh đã toàn bộ? Tập lên, lấy mỗi cái loại phương thức vì Vương Vũ cung cấp cần phải chống đỡ.
 

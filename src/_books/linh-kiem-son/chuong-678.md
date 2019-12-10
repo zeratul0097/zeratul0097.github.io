@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 678: 
+title: Chương 678 - Hỉ Nghênh Thứ Sáu
 book_name: linh-kiem-son
+chapter: 678
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 678: 
+# Chương 678: Hỉ Nghênh Thứ Sáu
 
 Tham lang đã cực kỳ lâu không có như thế thống qua.
 

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 77: Kiếm Linh Lương Thu
+title: Chương 77 - Kiếm Linh Lương Thu
 book_name: linh-kiem-son
+chapter: 77
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

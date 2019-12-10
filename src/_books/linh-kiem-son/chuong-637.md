@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 637: 
+title: Chương 637 - Âm Dương Người!
 book_name: linh-kiem-son
+chapter: 637
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 637: 
+# Chương 637: Âm Dương Người!
 
 "Tấm kia đồ là cái gì quỷ a?"
 

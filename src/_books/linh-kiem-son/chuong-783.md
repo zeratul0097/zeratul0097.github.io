@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 783: 
+title: Chương 783 - Thổ Địa Phụ Gia Trị
 book_name: linh-kiem-son
+chapter: 783
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 783: 
+# Chương 783: Thổ Địa Phụ Gia Trị
 
 Thương Khê Châu, Linh Kiếm Sơn, vô tướng phong trên, một toà vàng son lộng lẫy cung điện, đứng sững ở xanh um tiên thực vờn quanh bên trong.
 

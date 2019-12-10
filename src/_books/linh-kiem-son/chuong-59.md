@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 59: Bà mẹ nó bà chủ ngươi phần mềm hack đâu...
+title: Chương 59 - Bà mẹ nó bà chủ ngươi phần mềm hack đâu...
 book_name: linh-kiem-son
+chapter: 59
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 279: 
+title: Chương 279 - Ta Đã Có Thể Nhìn Thấy Kết Cục
 book_name: linh-kiem-son
+chapter: 279
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 279: 
+# Chương 279: Ta Đã Có Thể Nhìn Thấy Kết Cục
 
 Aya em gái đừng sợ, chuyên nghiệp người mạo hiểm tới cứu ngươi
 

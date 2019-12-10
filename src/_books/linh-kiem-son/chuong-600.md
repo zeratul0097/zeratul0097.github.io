@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 600: 
+title: Chương 600 - Ngày Riwan Cơ Hằng Ngày
 book_name: linh-kiem-son
+chapter: 600
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 600: 
+# Chương 600: Ngày Riwan Cơ Hằng Ngày
 
 Từ trong phòng đi lúc đi ra, Vương Lục cảm giác mình toàn bộ não nhân cũng bắt đầu đau.
 

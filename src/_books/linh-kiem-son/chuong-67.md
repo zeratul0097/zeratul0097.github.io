@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 67: Ta tin nàng
+title: Chương 67 - Ta tin nàng
 book_name: linh-kiem-son
+chapter: 67
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

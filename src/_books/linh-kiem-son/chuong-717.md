@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 717: 
+title: Chương 717 - Ở Thứ Tư Viết Xuống Hô Hoán Cuối Tuần Văn Chương
 book_name: linh-kiem-son
+chapter: 717
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 717: 
+# Chương 717: Ở Thứ Tư Viết Xuống Hô Hoán Cuối Tuần Văn Chương
 
 "... Thật không cam lòng, bất quá ta, ta chịu thua là được rồi."
 

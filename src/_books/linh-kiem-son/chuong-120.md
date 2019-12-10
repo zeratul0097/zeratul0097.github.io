@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 120: 
+title: Chương 120 - Tên Béo Đáng Chết Vui Quá Hóa Buồn
 book_name: linh-kiem-son
+chapter: 120
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 120: 
-
-Chương 36:: Tên béo đáng chết vui quá hóa buồn
+# Chương 120: Tên Béo Đáng Chết Vui Quá Hóa Buồn
 
 Mà đi ra Quang Minh phủ, vốn định trực tiếp về khách sạn, đã thấy Vương Lục cùng Nhạc Hinh Dao sóng vai các loại (chờ) ở một góc chỗ bóng tối.
 

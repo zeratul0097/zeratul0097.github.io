@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 745: 
+title: Chương 745 - Ta Lặp Lại Một Lần...
 book_name: linh-kiem-son
+chapter: 745
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 745: 
+# Chương 745: Ta Lặp Lại Một Lần...
 
 "Ai, lớn tuổi, mọi người bị hồ đồ rồi."
 

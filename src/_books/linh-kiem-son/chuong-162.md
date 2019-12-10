@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 162: 
+title: Chương 162 - Nha, Ngươi Nghĩ Cùng Ta Làm Bằng Hữu?
 book_name: linh-kiem-son
+chapter: 162
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 162: 
-
-Chương 37:: Nha, ngươi nghĩ cùng ta làm bằng hữu?
+# Chương 162: Nha, Ngươi Nghĩ Cùng Ta Làm Bằng Hữu?
 
 "Sư tỷ, ngươi không sao chứ?"
 

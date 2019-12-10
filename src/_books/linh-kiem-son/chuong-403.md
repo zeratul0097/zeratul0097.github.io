@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 403: 
+title: Chương 403 - Giam Cầm
 book_name: linh-kiem-son
+chapter: 403
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 403: 
+# Chương 403: Giam Cầm
 
 Nghe được Vương Lục sư đệ vài chữ, mới để Vương Lục thật chính phản ứng lại người này thân phận.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 625: 
+title: Chương 625 - Mọi Việc Không Thích Hợp
 book_name: linh-kiem-son
+chapter: 625
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 625: 
+# Chương 625: Mọi Việc Không Thích Hợp
 
 Đây là một gian ánh đèn u ám mật thất.
 

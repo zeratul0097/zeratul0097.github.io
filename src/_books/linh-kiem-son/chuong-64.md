@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 64: Mời uống trà
+title: Chương 64 - Mời uống trà
 book_name: linh-kiem-son
+chapter: 64
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

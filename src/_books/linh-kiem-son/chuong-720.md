@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 720: 
+title: Chương 720 - Ở Cuối Tuần Viết Xuống Phán Cuối Tuần Sau Văn Chương
 book_name: linh-kiem-son
+chapter: 720
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 720: 
+# Chương 720: Ở Cuối Tuần Viết Xuống Phán Cuối Tuần Sau Văn Chương
 
 Thời gian qua mau.
 

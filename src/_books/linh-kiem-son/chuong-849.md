@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 849: 
+title: Chương 849 - Gặp Lại
 book_name: linh-kiem-son
+chapter: 849
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 849: 
+# Chương 849: Gặp Lại
 
 Trăm năm thời gian như thời gian qua nhanh, bỗng nhiên nhìn lại, cái kia tràng kinh? Động địa đại chiến đã đi tới trăm năm ngày kỷ niệm.
 

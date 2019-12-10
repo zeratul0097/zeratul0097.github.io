@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 27: Hả hê lòng người!
+title: Chương 27 - Hả hê lòng người!
 book_name: linh-kiem-son
+chapter: 27
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

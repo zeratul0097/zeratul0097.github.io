@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 284: 
+title: Chương 284 - Người Người Oán Trách Kẻ Thù Khắp Nơi Aya
 book_name: linh-kiem-son
+chapter: 284
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 284: 
+# Chương 284: Người Người Oán Trách Kẻ Thù Khắp Nơi Aya
 
 Hai con thần tuấn Mộng Yểm thú lôi kéo một chiếc tạo hình tinh xảo xa hoa xe ngựa, chạy ở Thâm Thổ Thành ở ngoài trơn bóng chỉnh tề trên đường, thẳng tắp hướng về phía Đông to lớn nhất mậu dịch vương quốc thủ phủ mà đi.
 

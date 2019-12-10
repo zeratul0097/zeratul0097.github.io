@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 46: Môn khó tiến, mặt khó coi, công việc (sự việc) khó...
+title: Chương 46 - Môn khó tiến, mặt khó coi, công việc (sự việc) khó...
 book_name: linh-kiem-son
+chapter: 46
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

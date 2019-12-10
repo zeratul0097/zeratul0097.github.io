@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 44: Văn Bảo chính xác phương pháp sử dụng
+title: Chương 44 - Văn Bảo chính xác phương pháp sử dụng
 book_name: linh-kiem-son
+chapter: 44
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

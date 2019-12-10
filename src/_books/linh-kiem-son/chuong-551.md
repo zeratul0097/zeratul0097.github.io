@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 551: 
+title: Chương 551 - Tấu Chương Chỉ Do Hư Cấu Như Có Nói Hùa Xin Chớ Báo Cáo
 book_name: linh-kiem-son
+chapter: 551
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 551: 
+# Chương 551: Tấu Chương Chỉ Do Hư Cấu Như Có Nói Hùa Xin Chớ Báo Cáo
 
 "Đây chính là hướng Thiên cung a... Không hổ là hàm thiên cư thành, đã có mấy phần Ma vương pháo đài khí thế."
 

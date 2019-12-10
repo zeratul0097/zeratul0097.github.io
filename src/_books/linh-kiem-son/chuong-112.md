@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 112: 
+title: Chương 112 - Ngoại giao hình Văn Bảo
 book_name: linh-kiem-son
+chapter: 112
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 112: 
+# Chương 112: Ngoại giao hình Văn Bảo
 
 Vương Lục cũng chưa cho đối phương suy tính thời gian cùng cơ hội lựa chọn.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 102: 
+title: Chương 102 - Một cái tiểu Trúc cơ nha, đi tới Vương gia thôn nha...
 book_name: linh-kiem-son
+chapter: 102
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 102: 
+# Chương 102: Một cái tiểu Trúc cơ nha, đi tới Vương gia thôn nha...
 
 Thương Khê châu Đại Minh Quốc chủ nhà phủ, một chỗ núi hoang trên đỉnh ngọn núi, Thất Tinh môn hội nghị cấp cao lặng yên tiến hành.
 

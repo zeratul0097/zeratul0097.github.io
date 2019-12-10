@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 292: 
+title: Chương 292 - Chờ Chút, Nàng Có Hậu Nhân! ?
 book_name: linh-kiem-son
+chapter: 292
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 292: 
+# Chương 292: Chờ Chút, Nàng Có Hậu Nhân! ?
 
 Thánh Quang Giáo ở đào bảo vật thành quyền thế ngập trời, to lớn nhất dựa vào chính là bọn họ ở vương chi trong bảo khố nắm giữ một tên nhân viên quản lý, nắm giữ chư Dorthe thù quyền hạn.
 

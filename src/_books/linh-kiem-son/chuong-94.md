@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 94: 
+title: Chương 94 - Trí cục thuế đoàn văn công đồng chí an ủi diễn xuất
 book_name: linh-kiem-son
+chapter: 94
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 94: 
+# Chương 94: Trí cục thuế đoàn văn công đồng chí an ủi diễn xuất
 
 Cửu Châu thông minh thuế vụ quản lý tổng cục thành lập không lâu sau, lần thứ nhất ban lãnh đạo tổng cộng năm người liền suốt đêm rời khỏi Vũ Hầu huyện.
 

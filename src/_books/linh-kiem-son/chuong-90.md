@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 90: 
+title: Chương 90 - Các Ngươi Những Tên Biến Thái Toàn Bộ Đều Phải Chết
 book_name: linh-kiem-son
+chapter: 90
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 90: 
+# Chương 90: Các Ngươi Những Tên Biến Thái Toàn Bộ Đều Phải Chết
 
 Khi (làm) Tiểu Linh nhi khôi phục khi tỉnh táo, phát hiện mình đã đứng ở biệt viện bên ngoài tường viện rồi, trên người nhưng ăn mặc bộ kia tinh xảo quần dài, tắm rửa xong hơi nước đều chưa hề hoàn toàn tản đi, chỉ là... Dựa lưng vào tà dương, trước mắt bỏ ra dài nhỏ bóng người, có vẻ là như vậy cô quạnh bi thương.
 

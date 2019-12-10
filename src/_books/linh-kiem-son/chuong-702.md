@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 702: 
+title: Chương 702 - Lại Như Có Người Mưu Hại Được Rồi Như Thế
 book_name: linh-kiem-son
+chapter: 702
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 702: 
+# Chương 702: Lại Như Có Người Mưu Hại Được Rồi Như Thế
 
 "Không nghĩ tới chúng ta nhanh như vậy liền lại gặp mặt."
 

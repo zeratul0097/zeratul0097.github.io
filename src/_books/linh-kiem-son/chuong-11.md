@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 11: Chơi hỏng rồi cũng không đau lòng a
+title: Chương 11 - Chơi hỏng rồi cũng không đau lòng a
 book_name: linh-kiem-son
+chapter: 11
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

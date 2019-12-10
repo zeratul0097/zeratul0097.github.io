@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 140: 
+title: Chương 140 - Đần Cẩu Tranh Đoạt Chiến
 book_name: linh-kiem-son
+chapter: 140
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 140: 
-
-Chương 15:: Đần cẩu tranh đoạt chiến
+# Chương 140: Đần Cẩu Tranh Đoạt Chiến
 
 Thẳng thắn giảng, Vương Vũ cũng không biết cái gọi là khủng bố ma lang Fenrir, đến tột cùng là cái thứ gì.
 

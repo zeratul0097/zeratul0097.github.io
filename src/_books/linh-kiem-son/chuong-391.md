@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 391: 
+title: Chương 391 - Ta Là Cứu Mạng Người
 book_name: linh-kiem-son
+chapter: 391
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 391: 
+# Chương 391: Ta Là Cứu Mạng Người
 
 Thế giới này là mỹ lệ mà tàn khốc.
 

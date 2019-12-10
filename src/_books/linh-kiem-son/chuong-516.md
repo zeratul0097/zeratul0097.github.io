@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 516: 
+title: Chương 516 - Tự Tìm Đường Chết
 book_name: linh-kiem-son
+chapter: 516
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 516: 
+# Chương 516: Tự Tìm Đường Chết
 
 Linh kiếm đệ tử ở quỷ khóc lâm mất tích... Đối với một cái tràn ngập nguy hiểm cùng biến số quản lý huấn luyện cổn kế sinh nhai hoa mà nói có thể coi là chuyện thường như cơm bữa —— môn phái ở khởi thảo kế hoạch phương án thời thậm chí dự để lại một phần mười tử vong tiêu chuẩn, quả thực là đẫm máu đốt cháy giai đoạn —— nhưng Vương Lục cùng Âu Dương Thương nhưng trực giác sự tình không có đơn giản như vậy.
 

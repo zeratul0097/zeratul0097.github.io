@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 299: 
+title: Chương 299 - Chúng Ta Là Người Một Nhà A!
 book_name: linh-kiem-son
+chapter: 299
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 299: 
+# Chương 299: Chúng Ta Là Người Một Nhà A!
 
 "Tin tưởng ta, trong này nhất định có hiểu nhầm"
 

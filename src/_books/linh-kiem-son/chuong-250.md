@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 250: 
+title: Chương 250 - Vô Song Áo Nghĩa, Sỉ Độ Phá Biểu
 book_name: linh-kiem-son
+chapter: 250
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 250: 
+# Chương 250: Vô Song Áo Nghĩa, Sỉ Độ Phá Biểu
 
 "Vương Lục, ngươi để những người khác người thả vứt bỏ thử thách, vậy ngươi bản thân thì lại làm sao đây?"
 

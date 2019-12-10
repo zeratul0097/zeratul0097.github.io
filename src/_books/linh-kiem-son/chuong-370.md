@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 370: 
+title: Chương 370 - Trở Nên Mạnh Mẽ Lý Do
 book_name: linh-kiem-son
+chapter: 370
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 370: 
+# Chương 370: Trở Nên Mạnh Mẽ Lý Do
 
 Lời của sư phụ, để Vương Lục theo bản năng có chút lạnh cả người.
 

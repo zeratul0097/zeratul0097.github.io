@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 619: 
+title: Chương 619 - Chính Mình Tuốt Đi Thôi ~
 book_name: linh-kiem-son
+chapter: 619
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 619: 
+# Chương 619: Chính Mình Tuốt Đi Thôi ~
 
 Đau nhức truyền đến thời điểm, Bạch Trạch thủ đoạn đã không lại thuộc về hắn.
 

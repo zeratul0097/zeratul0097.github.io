@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 770: 
+title: Chương 770 - Ái Tình Tất Cả Đều Là Lừa Người
 book_name: linh-kiem-son
+chapter: 770
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 770: 
+# Chương 770: Ái Tình Tất Cả Đều Là Lừa Người
 
 Một toà nguy nga núi cao, một toà thời đại hồng hoang lưu truyền tới nay hãm tiên đại trận, cộng đồng tạo thành nghe tên Cửu Châu tuyệt địa một trong.
 

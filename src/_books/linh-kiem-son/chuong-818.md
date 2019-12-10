@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 818: 
+title: Chương 818 - Tự Bạo Cũng Coi Như Hai Sông Truyền Thống?
 book_name: linh-kiem-son
+chapter: 818
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 818: 
+# Chương 818: Tự Bạo Cũng Coi Như Hai Sông Truyền Thống?
 
 Vân châu bên trên, một đạo kéo dài ngàn dặm xấu xí vết tích chiếm cứ nửa bên bầu trời, mà một cái đen kịt trụ đá đang từ Thiên Chi Ngân bên trong chậm rãi lộ ra đầu đến.
 

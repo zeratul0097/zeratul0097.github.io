@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 138: 
+title: Chương 138 - Thư Nhà Chống Đỡ Vạn Kim
 book_name: linh-kiem-son
+chapter: 138
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 138: 
-
-Chương 13:: Thư nhà chống đỡ Vạn Kim
+# Chương 138: Thư Nhà Chống Đỡ Vạn Kim
 
 Hoang man nơi, Tây Sơn hắc triều, ở Minh Ngọc hỏa từ từ lờ mờ ánh sáng xuống, một vị thiếu niên tu sĩ sắc mặt cũng là âm tình bất định.
 

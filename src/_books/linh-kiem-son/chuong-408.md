@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 408: 
+title: Chương 408 - Làm Ta Có Thể Làm
 book_name: linh-kiem-son
+chapter: 408
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 408: 
+# Chương 408: Làm Ta Có Thể Làm
 
 Dân dĩ thực vi thiên a...
 

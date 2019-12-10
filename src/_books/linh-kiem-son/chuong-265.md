@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 265: 
+title: Chương 265 - Đi Xuống Thần Đàn Chung Thắng Minh
 book_name: linh-kiem-son
+chapter: 265
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 265: 
+# Chương 265: Đi Xuống Thần Đàn Chung Thắng Minh
 
 Lấy lại nên được đồ vật?
 

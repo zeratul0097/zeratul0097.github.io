@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 532: 
+title: Chương 532 - Chỉ Thiếu Một Chút
 book_name: linh-kiem-son
+chapter: 532
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 532: 
+# Chương 532: Chỉ Thiếu Một Chút
 
 Đây là một hồi bất ngờ ác chiến.
 

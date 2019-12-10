@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 541: 
+title: Chương 541 - Cây Này Cải Trắng Bị Ta Nhận Thầu
 book_name: linh-kiem-son
+chapter: 541
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 541: 
+# Chương 541: Cây Này Cải Trắng Bị Ta Nhận Thầu
 
 Lưu ly tiên vấn đề thực tại nan giải.
 

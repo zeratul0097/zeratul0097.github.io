@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 304: 
+title: Chương 304 - Đem Khát Cầu Tái Giá Đến Trên Người Đồng Bạn
 book_name: linh-kiem-son
+chapter: 304
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 304: 
+# Chương 304: Đem Khát Cầu Tái Giá Đến Trên Người Đồng Bạn
 
 "Đây chính là ngươi cái gọi là vẹn toàn đôi bên, hơn nữa tuyệt không đê hèn thành phần phương pháp?"
 

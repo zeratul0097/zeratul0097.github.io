@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 260: 
+title: Chương 260 - Đáng Tiếc Sau Lưng Không Có Mắt
 book_name: linh-kiem-son
+chapter: 260
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 260: 
+# Chương 260: Đáng Tiếc Sau Lưng Không Có Mắt
 
 Làm mất mặt chỉ là bắt đầu.
 

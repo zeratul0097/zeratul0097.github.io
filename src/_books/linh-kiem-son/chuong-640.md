@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 640: 
+title: Chương 640 - Ngươi Coi Ta Là Ái Tình Tiểu Thanh Tân Sao?
 book_name: linh-kiem-son
+chapter: 640
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 640: 
+# Chương 640: Ngươi Coi Ta Là Ái Tình Tiểu Thanh Tân Sao?
 
 Sân đấu võ bên trong, biến hóa có thể nói động tác mau lẹ.
 

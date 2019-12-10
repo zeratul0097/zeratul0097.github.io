@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 461: 
+title: Chương 461 - Hai Cái Nhất Định Cô Độc Suốt Đời Người
 book_name: linh-kiem-son
+chapter: 461
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 461: 
+# Chương 461: Hai Cái Nhất Định Cô Độc Suốt Đời Người
 
 Vương Lục hiện tại hơi có chút hối hận.
 

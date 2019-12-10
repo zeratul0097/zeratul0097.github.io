@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 821: 
+title: Chương 821 - Tụ Chúng Gây Sự
 book_name: linh-kiem-son
+chapter: 821
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 821: 
+# Chương 821: Tụ Chúng Gây Sự
 
 Liên quan với trương thắng thê tử khúc nhạc dạo ngắn rất nhanh sẽ bị lật lại. Phong Ngâm các loại (chờ) người đến mộ kiếm dù sao không phải vì hiểu rõ quyết nhi nữ tình trường.
 

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 10: Có tin hay không lão tử báo cáo ngươi?
+title: Chương 10 - Có tin hay không lão tử báo cáo ngươi?
 book_name: linh-kiem-son
+chapter: 10
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

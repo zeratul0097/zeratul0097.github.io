@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 107: 
+title: Chương 107 - Đường đường chính chính cùng ngươi một mình đấu
 book_name: linh-kiem-son
+chapter: 107
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 107: 
+# Chương 107: Đường đường chính chính cùng ngươi một mình đấu
 
 "Các ngươi thật đúng là nét mực ah." 
 

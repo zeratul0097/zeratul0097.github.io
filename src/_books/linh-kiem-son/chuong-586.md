@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 586: 
+title: Chương 586 - Hỏi Trời Xanh
 book_name: linh-kiem-son
+chapter: 586
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 586: 
+# Chương 586: Hỏi Trời Xanh
 
 "Đọa tiên?"
 

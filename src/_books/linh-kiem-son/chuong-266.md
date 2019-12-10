@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 266: 
+title: Chương 266 - Ta Thèm Nhỏ Dãi Này Cụ Tươi Mới Thân Thể Rất Lâu
 book_name: linh-kiem-son
+chapter: 266
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 266: 
+# Chương 266: Ta Thèm Nhỏ Dãi Này Cụ Tươi Mới Thân Thể Rất Lâu
 
 "... Ngươi thật đúng là trở mặt không quen biết điển phạm a, lúc trước ngươi ôn nhu dễ thân, quả thực là hòa ái trưởng giả."
 

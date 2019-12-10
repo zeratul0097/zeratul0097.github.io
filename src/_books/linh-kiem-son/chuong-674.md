@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 674: 
+title: Chương 674 - Thành Công Hoa Bách Hợp Sau Lưng Là Yên Lặng Kính Dâng Nam Nhân
 book_name: linh-kiem-son
+chapter: 674
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 674: 
+# Chương 674: Thành Công Hoa Bách Hợp Sau Lưng Là Yên Lặng Kính Dâng Nam Nhân
 
 "Thắng"
 

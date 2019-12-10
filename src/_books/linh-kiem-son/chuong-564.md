@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 564: 
+title: Chương 564 - Ta Có Một Cây Thần Thương
 book_name: linh-kiem-son
+chapter: 564
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 564: 
+# Chương 564: Ta Có Một Cây Thần Thương
 
 Đưa đi lưu ly tiên sau, trong phòng nhỏ dạy dỗ lần thứ hai bắt đầu.
 

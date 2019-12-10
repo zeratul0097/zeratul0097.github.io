@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 652: 
+title: Chương 652 - Ăn Rồi Chưa Văn Hóa Thiệt Thòi
 book_name: linh-kiem-son
+chapter: 652
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 652: 
+# Chương 652: Ăn Rồi Chưa Văn Hóa Thiệt Thòi
 
 Lỗi chính tả?
 

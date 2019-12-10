@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 332: 
+title: Chương 332 - Nuốt Thiên Địa
 book_name: linh-kiem-son
+chapter: 332
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 332: 
+# Chương 332: Nuốt Thiên Địa
 
 Bất luận quân thần tháp nỗ trong lòng làm sao không cam, thua chung quy chính là thua, ngày xưa quân thần tổng không đến nỗi ở trò chơi trên chơi xấu không công nhận.
 

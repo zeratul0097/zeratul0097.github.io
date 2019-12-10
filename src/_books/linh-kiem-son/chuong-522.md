@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 522: 
+title: Chương 522 - Chúc Mọi Người Trung Thu Vui Sướng
 book_name: linh-kiem-son
+chapter: 522
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 522: 
+# Chương 522: Chúc Mọi Người Trung Thu Vui Sướng
 
 "Ồ, Vương Lục sư đệ, ngươi tại sao trở về..."
 

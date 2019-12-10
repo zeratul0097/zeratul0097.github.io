@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 318: 
+title: Chương 318 - Ta Đã Từng Cũng Là Một Cái Kỵ Sĩ
 book_name: linh-kiem-son
+chapter: 318
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 318: 
+# Chương 318: Ta Đã Từng Cũng Là Một Cái Kỵ Sĩ
 
 Long thành quân doanh khu, mấy ngàn người chia làm hai cái trận doanh kịch liệt chém giết, Long thành vệ sĩ một bên, dạy dỗ mục sư, Thánh kỵ sĩ, thẩm phán quan các loại (chờ) lại là một bên. Từ thần cắt thánh kiếm vạch trần chiến tranh màn che, cuộc chiến tranh này đã kéo dài hơn nửa ngày thời gian.
 

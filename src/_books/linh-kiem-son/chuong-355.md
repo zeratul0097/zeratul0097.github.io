@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 355: 
+title: Chương 355 - Có Bao Nhiêu Ta Ăn Bao Nhiêu!
 book_name: linh-kiem-son
+chapter: 355
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 355: 
+# Chương 355: Có Bao Nhiêu Ta Ăn Bao Nhiêu!
 
 Mấy tháng nay, rất nhiều người đều ở giả thiết, nếu như lúc đó Phong Ngâm không hề rời đi đội ngũ, tiếp tục khống chế toàn cục, sự tiến triển của tình hình có thể hay không là mặt khác một phen dáng dấp.
 

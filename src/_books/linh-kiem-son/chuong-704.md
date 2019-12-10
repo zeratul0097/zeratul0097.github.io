@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 704: 
+title: Chương 704 - Nữ Tử Này Đã Có Tám Phần Mười Rơi Vào Ta Khống Chế
 book_name: linh-kiem-son
+chapter: 704
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 704: 
+# Chương 704: Nữ Tử Này Đã Có Tám Phần Mười Rơi Vào Ta Khống Chế
 
 Giới long là huyền mặc các loại (chờ) lưu vong Địa tiên trong tay duy nhất vương bài, cũng là hy vọng duy nhất chi ký thác. Loại này thần kỳ sinh linh trên lý thuyết ủng có thể trong thời gian ngắn chính diện chống lại cấp thấp đọa tiên thực lực, mạnh mẽ tuyệt luân.
 

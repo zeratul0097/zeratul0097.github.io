@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 300: 
+title: Chương 300 - Không Có Câu Thông, Lạnh Lẽo, Công Cụ Bình Thường
 book_name: linh-kiem-son
+chapter: 300
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 300: 
+# Chương 300: Không Có Câu Thông, Lạnh Lẽo, Công Cụ Bình Thường
 
 "Mặt... Thủ?"
 

@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 198: 
+title: Chương 198 - Người Thành Thật Không Nên Đạt Được Khen Thưởng Ư!?
 book_name: linh-kiem-son
+chapter: 198
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 198: 
-
-Chương 27:: Người thành thật không nên đạt được khen thưởng ư!?
+# Chương 198: Người Thành Thật Không Nên Đạt Được Khen Thưởng Ư!?
 
 "Chà chà, quả nhiên là ân đền oán trả chi mèo ah, uổng ta nhọc lòng mất công sức giúp ngươi tranh thủ tự do, ngươi chính là như vậy báo đáp ta sao?"
 

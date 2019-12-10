@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 231: 
+title: Chương 231 - Đại Sư Tỷ Cường Mạnh Mẽ Xuyên Qua
 book_name: linh-kiem-son
+chapter: 231
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 231: 
+# Chương 231: Đại Sư Tỷ Cường Mạnh Mẽ Xuyên Qua
 
 Mộ kiếm tàng bảo thất không gian đối lập rộng rãi, nhưng lúc này chen hơn ba mươi người gần bốn mươi người, liền có vẻ hơi chật hẹp chen chúc, bầu không khí cũng khá là vi diệu, Vương Lục các loại (chờ) người từ truyền tống trận bên trong sau khi xuất hiện, ngay lập tức sẽ gây nên chú ý của mọi người, dường như nhiệt trong chảo dầu ngã nước lạnh.
 

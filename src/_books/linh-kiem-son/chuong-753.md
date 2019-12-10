@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 753: 
+title: Chương 753 - Sau Khi Lớn Lên Ta Liền Thành Ngươi?
 book_name: linh-kiem-son
+chapter: 753
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 753: 
+# Chương 753: Sau Khi Lớn Lên Ta Liền Thành Ngươi?
 
 "Phúc âm chiến sĩ danh tự này không tốt sao?" Tôn Bất Bình hơi nghi hoặc một chút, nghĩ lại vừa nghĩ nói không chắc là người ta có cái gì kiêng kỵ, này phúc âm chiến sĩ dù sao cũng là muốn giao phó cho Vương Lục đến lái, chỉ là một cái tên, không ngại nghe theo hắn ý kiến.
 

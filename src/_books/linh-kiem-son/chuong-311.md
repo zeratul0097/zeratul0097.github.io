@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 311: 
+title: Chương 311 - Không Sợ Đùa Bỡn
 book_name: linh-kiem-son
+chapter: 311
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 311: 
+# Chương 311: Không Sợ Đùa Bỡn
 
 "Thủy đứng đưa nước?"
 

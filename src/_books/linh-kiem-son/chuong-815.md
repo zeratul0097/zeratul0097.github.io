@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 815: 
+title: Chương 815 - Tiện Lợi Không Chấp Nhận Trả Hàng
 book_name: linh-kiem-son
+chapter: 815
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 815: 
+# Chương 815: Tiện Lợi Không Chấp Nhận Trả Hàng
 
 Nghịch giới long trụ bạo phát, Thiên Nam Châu toàn hủy... Cửu vĩ thiên hồ tỉnh táo nói ra đáp án.
 

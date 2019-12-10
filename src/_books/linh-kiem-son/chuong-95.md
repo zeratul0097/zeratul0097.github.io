@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 95: 
+title: Chương 95 - Lại thăng thiên á!!!
 book_name: linh-kiem-son
+chapter: 95
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 95: 
+# Chương 95: Lại thăng thiên á!!!
 
 "Tham kiến Thánh Nữ đại nhân!"
 

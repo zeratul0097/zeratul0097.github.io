@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 425: 
+title: Chương 425 - Ta Đã Nắm Chắc Phần Thắng
 book_name: linh-kiem-son
+chapter: 425
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 425: 
+# Chương 425: Ta Đã Nắm Chắc Phần Thắng
 
 Sau nửa canh giờ, Vĩnh Hằng Thụ ở ngoài, Vương Lục chính và phụ hai người ngự Kiếm Phi thiên, hướng về Nộ Diễm Cốc bay nhanh mà đi.
 

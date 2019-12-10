@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 116: 
+title: Chương 116 - Tránh ra để chuyên nghiệp đến!
 book_name: linh-kiem-son
+chapter: 116
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 116: 
+# Chương 116: Tránh ra để chuyên nghiệp đến!
 
 Ngay khi Văn Bảo trong lòng cuồng hô cứu mạng trong phút chốc, Vương Lục âm thanh vừa đúng vang lên.
 

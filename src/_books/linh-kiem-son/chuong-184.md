@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 184: 
+title: Chương 184 - Nàng Lấy Ra Thật Lớn Một Cái!
 book_name: linh-kiem-son
+chapter: 184
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 184: 
-
-Chương 13:: Nàng lấy ra thật lớn một cái!
+# Chương 184: Nàng Lấy Ra Thật Lớn Một Cái!
 
 Tiểu Thất ra tay nỗ lực phá trận cướp đoạt linh khuyển, nhưng mà nàng phép thuật mới vừa vặn ngưng tụ mô hình, mãnh liệt thiên địa linh khí biến hóa liền đem phép thuật miễn cưỡng đánh gãy. Tiểu Thất cau mày thu hồi tay phải, tiện đà liền đã nghe được giữa sơn cốc vang vọng thanh âm cô gái.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 663: 
+title: Chương 663 - Bảy Nương Thật Cơ Hữu
 book_name: linh-kiem-son
+chapter: 663
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 663: 
+# Chương 663: Bảy Nương Thật Cơ Hữu
 
 Thịt chó thiền sư bảy nương ở Cửu Châu Đại Lục tiếng tăm thường thường, nhưng Hải Vân Phàm cùng Vương Lục nhiều năm bút hữu, lại sao lại không nhận ra vị này vô tướng chân quân thật cơ hữu? Mà nhìn thấy nàng đến, Hải Vân Phàm trong lòng cũng là một rộng.
 

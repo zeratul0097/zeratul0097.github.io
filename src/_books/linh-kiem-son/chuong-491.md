@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 491: 
+title: Chương 491 - Đau "bi"
 book_name: linh-kiem-son
+chapter: 491
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 491: 
+# Chương 491: Đau "bi"
 
 Xua hổ nuốt sói cũng không phải là ban đầu kế hoạch.
 

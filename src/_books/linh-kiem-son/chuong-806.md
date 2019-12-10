@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 806: 
+title: Chương 806 - Một Nam Hai Nữ
 book_name: linh-kiem-son
+chapter: 806
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 806: 
+# Chương 806: Một Nam Hai Nữ
 
 Hai giới trong đường nối, lâu không gặp thầy trò gặp lại, nhưng mà cũng không có cảm động ôm hôn cùng? Thủy, cũng không có thâm tình đối diện cùng hỗ tố tâm sự, chỉ có một luồng nhìn nhau hai yếm không khí lúng túng.
 

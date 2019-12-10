@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 534: 
+title: Chương 534 - Ta Đại Linh Kiếm Phái Vĩnh Thùy Bất Hủ!
 book_name: linh-kiem-son
+chapter: 534
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 534: 
+# Chương 534: Ta Đại Linh Kiếm Phái Vĩnh Thùy Bất Hủ!
 
 Đen kịt bên trong vang lên giọt nước mưa tiếng.
 

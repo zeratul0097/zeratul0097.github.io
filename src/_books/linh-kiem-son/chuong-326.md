@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 326: 
+title: Chương 326 - Ta Yêu Cầu Lại Còn Mời Trên Cương
 book_name: linh-kiem-son
+chapter: 326
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 326: 
+# Chương 326: Ta Yêu Cầu Lại Còn Mời Trên Cương
 
 Ở kết thúc kéo dài đến sáng sớm đại tiệc rượu sau, Aya hỗn loạn địa trở lại chính mình tẩm cung —— kỳ thực chính là phủ thành chủ phòng ngủ.
 

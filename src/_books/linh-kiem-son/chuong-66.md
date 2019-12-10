@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 66: Vô Tương nghèo ba đời, kỳ ảo hủy...
+title: Chương 66 - Vô Tương nghèo ba đời, kỳ ảo hủy...
 book_name: linh-kiem-son
+chapter: 66
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

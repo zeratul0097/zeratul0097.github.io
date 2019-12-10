@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 817: 
+title: Chương 817 - Hoàng Kim
 book_name: linh-kiem-son
+chapter: 817
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 817: 
+# Chương 817: Hoàng Kim
 
 Thiên hữu Cửu Châu!
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 501: 
+title: Chương 501 - Vương Lục Đã Vượt Qua Thần
 book_name: linh-kiem-son
+chapter: 501
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 501: 
+# Chương 501: Vương Lục Đã Vượt Qua Thần
 
 Ở tiến vào thần điện trước, Âu Dương Thương cùng Vương Lục từng thiết tưởng qua vô số loại khả năng, trong đó đương nhiên là có bị ác ma phát hiện, không thể không chính diện cứng mới vừa khả năng.
 

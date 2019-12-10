@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 429: 
+title: Chương 429 - Cuối Cùng Một Lá Bài Tẩy
 book_name: linh-kiem-son
+chapter: 429
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 429: 
+# Chương 429: Cuối Cùng Một Lá Bài Tẩy
 
 Vương Lục xưa nay chưa từng chân chính mưu đồ hai đứa bé tính mạng, huyết tế một người thành tựu Vĩnh Hằng Thụ vân vân, từ mới bắt đầu chính là một cái âm mưu.
 

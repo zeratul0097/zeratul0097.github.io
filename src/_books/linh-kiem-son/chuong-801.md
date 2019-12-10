@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 801: 
+title: Chương 801 - Dám Chạm Ta Tay Làm Người Đều Muốn Chết!
 book_name: linh-kiem-son
+chapter: 801
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 801: 
+# Chương 801: Dám Chạm Ta Tay Làm Người Đều Muốn Chết!
 
 "Hồ ly a, chúng ta đến nói chuyện phiếm chứ?"
 

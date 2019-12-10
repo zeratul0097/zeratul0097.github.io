@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 836: 
+title: Chương 836 - Khang Đa
 book_name: linh-kiem-son
+chapter: 836
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 836: 
+# Chương 836: Khang Đa
 
 "Là ngươi?"
 

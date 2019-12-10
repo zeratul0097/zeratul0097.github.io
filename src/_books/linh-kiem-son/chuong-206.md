@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 206: 
+title: Chương 206 - Phía Trước Lần Thứ Hai Năng Lượng Cao Phản Ứng, Từ Bị Mắt Chó
 book_name: linh-kiem-son
+chapter: 206
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 206: 
+# Chương 206: Phía Trước Lần Thứ Hai Năng Lượng Cao Phản Ứng, Từ Bị Mắt Chó
 
 Thực lực tuyệt đối bên dưới, tất cả mưu kế, bố cục đều có vẻ bé nhỏ không đáng kể.
 

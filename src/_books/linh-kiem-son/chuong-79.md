@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 79: Ngài khỏe chứ, tìm hiểu một chút Thất Tinh môn...
+title: Chương 79 - Ngài khỏe chứ, tìm hiểu một chút Thất Tinh môn...
 book_name: linh-kiem-son
+chapter: 79
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

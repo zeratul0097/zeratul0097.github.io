@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 345: 
+title: Chương 345 - Bỏ Trốn
 book_name: linh-kiem-son
+chapter: 345
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 345: 
+# Chương 345: Bỏ Trốn
 
 "Há, còn rất đau."
 

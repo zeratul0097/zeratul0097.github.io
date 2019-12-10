@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 343: 
+title: Chương 343 - Mỗi Nguyệt Lệ Hành Lấy Máu Sao?
 book_name: linh-kiem-son
+chapter: 343
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 343: 
+# Chương 343: Mỗi Nguyệt Lệ Hành Lấy Máu Sao?
 
 Làm Vương Lục lái Tatar chiến xa, lấy đĩa bay bình thường tư thái loạng choà loạng choạng mà trở lại pháo đài cổ thời, Aya các loại (chờ) người kinh ngạc không cần nói cũng biết.
 

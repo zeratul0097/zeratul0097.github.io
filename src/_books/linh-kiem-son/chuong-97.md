@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 97: 
+title: Chương 97 - Nhiệt liệt hoan nghênh trí cục thuế phá dỡ làm lãnh đạo đến
 book_name: linh-kiem-son
+chapter: 97
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 97: 
+# Chương 97: Nhiệt liệt hoan nghênh trí cục thuế phá dỡ làm lãnh đạo đến
 
 Hai ngày sau, lão dâm côn Hà Quân cùng Vụ Phi Hoa vội vã chạy về Cẩu Nhĩ núi, sắc mặt đều cực không dễ nhìn.
 

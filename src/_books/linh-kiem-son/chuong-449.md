@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 449: 
+title: Chương 449 - Dùng Ái Tướng Ngươi Hòa Tan
 book_name: linh-kiem-son
+chapter: 449
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 449: 
+# Chương 449: Dùng Ái Tướng Ngươi Hòa Tan
 
 "Tiểu Lục, ngươi nhớ kỹ, nếu như nhìn thấy như vậy màu sắc hỏa diễm, không cần phải sợ, lấy ngươi Vô Tướng Kiếm cốt, dù cho mạnh mẽ chống đỡ cũng sẽ không đả thương gân động cốt. Nhưng nếu như hỏa diễm màu sắc biến thành như vậy, ngươi liền cần phải cẩn thận rồi, nhất định nhớ dùng Vô Tướng kiếm khí ngăn cách ra, bất luận làm sao không có thể dính vào người, hiểu chưa?"
 

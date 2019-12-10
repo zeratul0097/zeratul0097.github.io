@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 172: Của Ta Hai Cái Bằng Hữu Tốt Nhất
+title: Chương 172 - Của Ta Hai Cái Bằng Hữu Tốt Nhất
 book_name: linh-kiem-son
+chapter: 172
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
 # Chương 172: Của Ta Hai Cái Bằng Hữu Tốt Nhất
-
-Chương 1:: Của ta hai cái bằng hữu tốt nhất
 
 Tu tiên năm tháng không ưu khuyết điểm, tự hai phái thi đấu sau, thời gian năm năm tựa hồ nháy mắt ở giữa liền chạy trốn.
 

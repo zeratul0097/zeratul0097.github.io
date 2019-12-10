@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 30: Tu vi cao hơn, tố chất càng phải cao!
+title: Chương 30 - Tu vi cao hơn, tố chất càng phải cao!
 book_name: linh-kiem-son
+chapter: 30
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

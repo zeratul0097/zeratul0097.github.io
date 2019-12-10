@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 824: 
+title: Chương 824 - Học Thuật Chó Điên
 book_name: linh-kiem-son
+chapter: 824
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 824: 
+# Chương 824: Học Thuật Chó Điên
 
 Ở Hoàng Kim vương trong ký ức, doãn huyền danh tự này gửi ở phi thường hẻo lánh bên trong góc, hầu như cùng bụi trần chuyện vặt không khác.
 

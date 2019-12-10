@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 585: 
+title: Chương 585 - Hồng Nhan Dịch Lão
 book_name: linh-kiem-son
+chapter: 585
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 585: 
+# Chương 585: Hồng Nhan Dịch Lão
 
 Đang thiêu đốt hừng hực bát quái chi tâm được thỏa mãn sau, Địa tiên rốt cục tiến vào đề tài chính.
 

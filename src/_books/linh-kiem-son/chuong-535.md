@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 535: 
+title: Chương 535 - Những Kia Đời Đời Truyền Thừa
 book_name: linh-kiem-son
+chapter: 535
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 535: 
+# Chương 535: Những Kia Đời Đời Truyền Thừa
 
 Lấy Vương Lục ánh mắt đến xem, đời trước linh kiếm trưởng lão môn rất có chút vấn đề.
 

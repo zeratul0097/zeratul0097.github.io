@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 335: 
+title: Chương 335 - Ta Chính Là Giáo Hoàng
 book_name: linh-kiem-son
+chapter: 335
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 335: 
+# Chương 335: Ta Chính Là Giáo Hoàng
 
 "Muốn giết ta tùy ý động thủ, chúc ngươi nhiều may mắn."
 

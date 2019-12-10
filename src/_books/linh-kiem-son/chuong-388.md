@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 388: 
+title: Chương 388 - Ngươi Đoán Hoàn Mỹ Biện Pháp Là Cái Gì?
 book_name: linh-kiem-son
+chapter: 388
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 388: 
+# Chương 388: Ngươi Đoán Hoàn Mỹ Biện Pháp Là Cái Gì?
 
 Ấn tỷ bên trong quyển sách, làm Vân Quốc vương thất bí mật lớn nhất, cũng không có để Vương Lục thất vọng, mặt trên xác thực ghi chép liên quan với bia đá tình báo, hơn nữa là Vương Lục quan tâm nhất, liên quan với bia đá kiến tạo giả tình báo.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 631: 
+title: Chương 631 - Các Ngươi Hết Thảy Cần Điện Giật!
 book_name: linh-kiem-son
+chapter: 631
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 631: 
+# Chương 631: Các Ngươi Hết Thảy Cần Điện Giật!
 
 "... Các ngươi, đang nói cái gì đồ vật?"
 

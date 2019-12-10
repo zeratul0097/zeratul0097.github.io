@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 376: 
+title: Chương 376 - Thằng Hí
 book_name: linh-kiem-son
+chapter: 376
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 376: 
+# Chương 376: Thằng Hí
 
 Đàn tiên mộ từ cửa lớn mà vào, xông tới mặt chính là óng ánh khắp nơi Ngân hà, vô số đoàn Tinh Vân quay chung quanh Vương Lục một nhóm, tinh quang biến hoá thất thường.
 

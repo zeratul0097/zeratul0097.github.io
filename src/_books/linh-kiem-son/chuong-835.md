@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 835: 
+title: Chương 835 - Súc Lực
 book_name: linh-kiem-son
+chapter: 835
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 835: 
+# Chương 835: Súc Lực
 
 Nửa canh giờ trước đây, Cửu Châu Đại Lục, Tinh Thần Phong trên xuất hiện một cái lâu không gặp bóng người.
 

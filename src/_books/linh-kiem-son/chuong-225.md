@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 225: 
+title: Chương 225 - Ta Mới Là Đệ Nhất Được Chứ!
 book_name: linh-kiem-son
+chapter: 225
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 225: 
+# Chương 225: Ta Mới Là Đệ Nhất Được Chứ!
 
 "Sư phụ, khẩn cấp cầu viện."
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 498: 
+title: Chương 498 - Kỳ Thực Là Muốn Mở Mang Kiến Thức Một Chút Tiêu Độc Y Sư Lợi Hại
 book_name: linh-kiem-son
+chapter: 498
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 498: 
+# Chương 498: Kỳ Thực Là Muốn Mở Mang Kiến Thức Một Chút Tiêu Độc Y Sư Lợi Hại
 
 Đội ngũ cuối cùng cũng không có đi thành.
 

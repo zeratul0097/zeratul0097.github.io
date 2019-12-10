@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 785: 
+title: Chương 785 - Ta Nói Đây Là Phục Bút Có Người Tin?
 book_name: linh-kiem-son
+chapter: 785
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 785: 
+# Chương 785: Ta Nói Đây Là Phục Bút Có Người Tin?
 
 Thương Khê Châu hoang rất nơi, khoảng cách năm mươi mốt khu ngàn dặm ở ngoài ven hồ, Vương Lục cùng Quân Hoàng Sơn Khô Cầm Chân Quân đứng sóng vai, khô cầm chỉ nửa bước đạp ở trên mặt hồ, gây nên từng vòng sóng gợn.
 

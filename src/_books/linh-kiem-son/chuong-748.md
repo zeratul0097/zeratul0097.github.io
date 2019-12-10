@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 748: 
+title: Chương 748 - Phần Cuối Thêm Cái Toàn Tan Hát Liền Thoải Mái
 book_name: linh-kiem-son
+chapter: 748
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 748: 
+# Chương 748: Phần Cuối Thêm Cái Toàn Tan Hát Liền Thoải Mái
 
 "Vân Hạc chân nhân?"
 

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 87: Vương Lục vừa vào Vũ Hầu huyện, Văn Bảo sơ thí mây mưa tình
+title: Chương 87 - Vương Lục vừa vào Vũ Hầu huyện, Văn Bảo sơ thí mây mưa tình
 book_name: linh-kiem-son
+chapter: 87
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

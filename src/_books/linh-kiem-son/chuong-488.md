@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 488: 
+title: Chương 488 - Cận Chiến Trước Phải Làm Tốt An Toàn Biện Pháp
 book_name: linh-kiem-son
+chapter: 488
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 488: 
+# Chương 488: Cận Chiến Trước Phải Làm Tốt An Toàn Biện Pháp
 
 Sau ba ngày, phúc tuyền bầu trời, hơn ba mươi người Linh Kiếm tu sĩ cả đội tập kết, người chưa đến, lẫm liệt kiếm ý đã bao phủ bầu trời, phảng phất một đạo kiên cố lao tù.
 

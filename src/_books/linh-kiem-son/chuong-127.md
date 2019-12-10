@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 127: 
+title: Chương 127 - Quy Phạm Đo Lường
 book_name: linh-kiem-son
+chapter: 127
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 127: 
-
-Chương 2:: Quy phạm đo lường
+# Chương 127: Quy Phạm Đo Lường
 
 Sau khi hơn nửa tháng, Vương Lục cùng Văn Bảo ngay khi như khách sạn (mặt dày) để ở, an tâm làm văn tự công tác.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 696: 
+title: Chương 696 - Ta Cũng Không Muốn Làm Vĩnh Viễn Khỏe Mạnh
 book_name: linh-kiem-son
+chapter: 696
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 696: 
+# Chương 696: Ta Cũng Không Muốn Làm Vĩnh Viễn Khỏe Mạnh
 
 "Hóa thần cấp đoàn chiến sự tình xem ra không cần lo lắng quá hơn nhiều."
 

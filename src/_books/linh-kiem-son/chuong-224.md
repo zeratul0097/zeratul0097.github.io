@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 224: 
+title: Chương 224 - Vương Lục Lập Xuống Vĩ Đại Chí Nguyện
 book_name: linh-kiem-son
+chapter: 224
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 224: 
+# Chương 224: Vương Lục Lập Xuống Vĩ Đại Chí Nguyện
 
 "Con người của ta không quá sẽ nói."
 

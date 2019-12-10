@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 271: 
+title: Chương 271 - Sư Phụ Cường Mà Mạnh Mẽ Xuyên Qua
 book_name: linh-kiem-son
+chapter: 271
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 271: 
+# Chương 271: Sư Phụ Cường Mà Mạnh Mẽ Xuyên Qua
 
 "Sư phụ?"
 

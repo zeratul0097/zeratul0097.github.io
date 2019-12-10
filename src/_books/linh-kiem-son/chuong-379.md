@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 379: 
+title: Chương 379 - Sinh Sôi Sinh Lợi Chỉ Là Bắt Đầu
 book_name: linh-kiem-son
+chapter: 379
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 379: 
+# Chương 379: Sinh Sôi Sinh Lợi Chỉ Là Bắt Đầu
 
 Tin tức chính là sức mạnh
 

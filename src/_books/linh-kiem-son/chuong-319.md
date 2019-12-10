@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 319: 
+title: Chương 319 - Thiếu Nữ Thân Phận Thực Sự
 book_name: linh-kiem-son
+chapter: 319
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 319: 
+# Chương 319: Thiếu Nữ Thân Phận Thực Sự
 
 Thạch trung kiếm truyền thuyết, bất luận cái nào hợp lệ Blai Thony á mọi người sẽ không xa lạ.
 

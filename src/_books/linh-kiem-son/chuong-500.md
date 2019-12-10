@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 500: 
+title: Chương 500 - Hang Động Vật Ngữ
 book_name: linh-kiem-son
+chapter: 500
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 500: 
+# Chương 500: Hang Động Vật Ngữ
 
 Sáng sớm ngày thứ hai, Vương Lục cùng Âu Dương Thương liền tìm đến bộ tộc đại trưởng lão, trực tiếp những nơi đưa ra yêu cầu
 

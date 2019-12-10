@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 456: 
+title: Chương 456 - Vào Cừ
 book_name: linh-kiem-son
+chapter: 456
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 456: 
+# Chương 456: Vào Cừ
 
 Hắt xì
 

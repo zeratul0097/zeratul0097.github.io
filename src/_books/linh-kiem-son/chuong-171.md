@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 171: 
+title: Chương 171 - Đợi Ngươi Tiết Tháo Đến Eo...
 book_name: linh-kiem-son
+chapter: 171
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 171: 
-
-Chương 46:: Đợi ngươi tiết tháo đến eo...
+# Chương 171: Đợi Ngươi Tiết Tháo Đến Eo...
 
 Đã xong Lưu Ly Tiên cùng Vương Lục quyết đấu đỉnh cao, lại đã trải qua Vương Lục Vân Đài mười thắng liên tiếp siêu cuộc chiến của các vị Thần, đến từ trời nam biển bắc các khách xem liền dồn dập cáo từ cách núi —— trên thực tế bọn họ muốn giữ lại cũng không cửa, Linh Kiếm Phái cũng không phải công viên, khiến người ta muốn đi dạo liền đi dạo.
 

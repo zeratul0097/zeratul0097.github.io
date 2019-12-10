@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 19: Dũng cảm Tiểu Hải ah nhanh đi sáng tạo kỳ tích
+title: Chương 19 - Dũng cảm Tiểu Hải ah nhanh đi sáng tạo kỳ tích
 book_name: linh-kiem-son
+chapter: 19
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

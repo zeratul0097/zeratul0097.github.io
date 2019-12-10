@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 371: 
+title: Chương 371 - Sư Phụ Thước Dạy Học Đó Là Rất Lợi Hại
 book_name: linh-kiem-son
+chapter: 371
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 371: 
+# Chương 371: Sư Phụ Thước Dạy Học Đó Là Rất Lợi Hại
 
 Bất luận sư phụ ngăn cản Vương Lục hát vang tiến mạnh dũng xông đàn tiên mộ lý do là cái gì, ở Vương Lục ngủ say hơn tháng sau đó, xác thực rất nhiều chuyện đều phát sinh ra biến hóa.
 

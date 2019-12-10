@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 629: 
+title: Chương 629 - Tay Bút Tự Mình Tu Dưỡng
 book_name: linh-kiem-son
+chapter: 629
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 629: 
+# Chương 629: Tay Bút Tự Mình Tu Dưỡng
 
 Sau ba ngày.
 

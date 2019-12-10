@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 471: 
+title: Chương 471 - Thế Giới Chân Tướng
 book_name: linh-kiem-son
+chapter: 471
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 471: 
+# Chương 471: Thế Giới Chân Tướng
 
 Thế gian có thật nhiều sinh mà tương tự người, cũng bởi vậy sản sinh đếm mãi không hết hiểu lầm. Thế nhưng đối với Kim Đan chân nhân mà nói, tuyệt không đến nỗi bởi vì người tướng mạo tương tự liền nhận lầm người. Có thể nhận ra một người đặc thù thực sự quá nhiều, nếu như toàn bộ phù hợp, vậy cũng thực sự rất khó cho rằng là trùng hợp.
 

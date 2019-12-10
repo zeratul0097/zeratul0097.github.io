@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 570: 
+title: Chương 570 - Liên Quan Với Tương Lai
 book_name: linh-kiem-son
+chapter: 570
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 570: 
+# Chương 570: Liên Quan Với Tương Lai
 
 Đôi môi dần dần dập dờn mở thanh tân hương vị làm người dư vị vô cùng.
 

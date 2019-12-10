@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 736: 
+title: Chương 736 - Sư Phụ, Ngươi Thực Sự Là Hảo Sư Phụ Của Ta!
 book_name: linh-kiem-son
+chapter: 736
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 736: 
+# Chương 736: Sư Phụ, Ngươi Thực Sự Là Hảo Sư Phụ Của Ta!
 
 Tổ Long xuất hiện, để đế lưu tôn cũng bất ngờ.
 

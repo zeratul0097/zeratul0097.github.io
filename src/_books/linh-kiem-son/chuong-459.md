@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 459: 
+title: Chương 459 - Chân Tướng Đã Càng Ngày Càng Gần !
 book_name: linh-kiem-son
+chapter: 459
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 459: 
+# Chương 459: Chân Tướng Đã Càng Ngày Càng Gần !
 
 Ma tộc không hổ là Ma tộc.
 

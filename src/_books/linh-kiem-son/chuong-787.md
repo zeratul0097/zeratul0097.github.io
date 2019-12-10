@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 787: 
+title: Chương 787 - Ta Đây Là Đường Đường Chính Chính
 book_name: linh-kiem-son
+chapter: 787
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 787: 
+# Chương 787: Ta Đây Là Đường Đường Chính Chính
 
 "A, Vương Lục cái tên nhà ngươi so với ta tưởng tượng muốn trấn định a, ta còn tưởng rằng bị người gọi ra thân phận sau đó ngươi sẽ hơi hơi kinh hoàng một hồi đây... Là thật sự tiên tâm tu vì thiên hạ vô song, vẫn là nói, ngươi cảm giác mình đã là Cửu Châu người số một, có thể trấn áp bất kỳ phản đối âm thanh, vô tư?"
 

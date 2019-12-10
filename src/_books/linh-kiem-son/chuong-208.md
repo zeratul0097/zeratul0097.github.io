@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 208: 
+title: Chương 208 - Ăn Miếng Trả Miếng, Gấp Bội Xin Trả!
 book_name: linh-kiem-son
+chapter: 208
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 208: 
+# Chương 208: Ăn Miếng Trả Miếng, Gấp Bội Xin Trả!
 
 Lại chuyên nghiệp người mạo hiểm, cũng sẽ có nhào nhai thời điểm, phía trên thế giới này không có toàn trí toàn năng thần, chỉ có cẩn trọng, đã tốt muốn tốt hơn người tu hành.
 

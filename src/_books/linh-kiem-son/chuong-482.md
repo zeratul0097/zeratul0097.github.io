@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 482: 
+title: Chương 482 - Biết Được Chân Tướng Ta Cằm Rơi Xuống
 book_name: linh-kiem-son
+chapter: 482
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 482: 
+# Chương 482: Biết Được Chân Tướng Ta Cằm Rơi Xuống
 
 Đối với Âu Dương Thương đi tới phúc tuyền câu cá đề nghị, Vương Lục cũng không có làm sao do dự liền đáp ứng rồi.
 

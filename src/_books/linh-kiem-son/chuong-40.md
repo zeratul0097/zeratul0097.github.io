@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 40: Xem ta sẽ cùng ngươi đại chiến một trăm về...
+title: Chương 40 - Xem ta sẽ cùng ngươi đại chiến một trăm về...
 book_name: linh-kiem-son
+chapter: 40
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

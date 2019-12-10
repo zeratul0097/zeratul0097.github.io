@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 596: 
+title: Chương 596 - Hơn Trăm Triệu Tiền Mặt Chỉ Là Tiêu Vặt Nữ Nhân Thực Sự Là Cưới Không Được
 book_name: linh-kiem-son
+chapter: 596
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 596: 
+# Chương 596: Hơn Trăm Triệu Tiền Mặt Chỉ Là Tiêu Vặt Nữ Nhân Thực Sự Là Cưới Không Được
 
 Vì ứng đối hai tháng sau cùng Địa tiên đại chiến, Vạn Tiên Minh ở nhiều địa phương thiết trí tập huấn cổn căn cứ, trong đó Quân Hoàng Sơn dung nham động chính là một cái trong đó. Kim Đan, nguyên anh, hóa thần... Tổng cộng có ba cái tổ tu sĩ khác đem ở đây tham gia đặc huấn cổn lấy mỗi cái loại phương thức đến cường hóa năng lực công kích.
 

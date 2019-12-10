@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 41: Bà mẹ nó, sư huynh ngươi phần mềm hack ở...
+title: Chương 41 - Bà mẹ nó, sư huynh ngươi phần mềm hack ở...
 book_name: linh-kiem-son
+chapter: 41
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

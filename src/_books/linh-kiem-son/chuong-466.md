@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 466: 
+title: Chương 466 - Không Có Cách Nào Không Thể Làm Gì Khác Hơn Là Đem Thẻ Xanh Làm Được
 book_name: linh-kiem-son
+chapter: 466
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 466: 
+# Chương 466: Không Có Cách Nào Không Thể Làm Gì Khác Hơn Là Đem Thẻ Xanh Làm Được
 
 "Chúng ta... Xem như là bị nhốt rồi chứ?"
 

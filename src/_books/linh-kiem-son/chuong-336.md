@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 336: 
+title: Chương 336 - Xin Lỗi Giẫm Thống Ngươi Sao?
 book_name: linh-kiem-son
+chapter: 336
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 336: 
+# Chương 336: Xin Lỗi Giẫm Thống Ngươi Sao?
 
 Đối với Vương Lục phản bác, Aya nhất thời á khẩu không trả lời được. Lưu ly tiên ăn tướng cũng không khó xem, hiển nhiên là khi còn bé bị sư phụ tỉ mỉ làm cho thẳng qua, mỗi một cái động tác đều có vẻ điềm đạm nhạt
 

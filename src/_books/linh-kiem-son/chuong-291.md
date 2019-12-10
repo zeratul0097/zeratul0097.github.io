@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 291: 
+title: Chương 291 - Ta Cho Rằng Này Sau Lưng Nhất Định Có Âm Mưu
 book_name: linh-kiem-son
+chapter: 291
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 291: 
+# Chương 291: Ta Cho Rằng Này Sau Lưng Nhất Định Có Âm Mưu
 
 Năm tên hoàng kim vệ sĩ ở phá bầu trời thần uy dưới biến thành tro bụi, nhưng mà còn không người ngoài môn cảm khái lưu ly tiên này uy thế của một kiếm, vòng kế tiếp chiến đấu liền bắt đầu.
 

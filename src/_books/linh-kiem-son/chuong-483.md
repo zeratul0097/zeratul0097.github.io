@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 483: 
+title: Chương 483 - Ta Xem Như Là Đem Để Khố Đều Bàn Giao
 book_name: linh-kiem-son
+chapter: 483
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 483: 
+# Chương 483: Ta Xem Như Là Đem Để Khố Đều Bàn Giao
 
 Vương Lục phát hiện, từ khi linh kiếm thiên phù dời đi thời không thất bại, đem hắn cuốn vào trận này xuyên qua kịch sau khi, hắn ba nhìn liền nhiều lần gặp đả kích.
 

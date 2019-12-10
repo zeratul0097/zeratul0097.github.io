@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 671: 
+title: Chương 671 - Mở Hội Cũng Không Thể Ngăn Cản Ta
 book_name: linh-kiem-son
+chapter: 671
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 671: 
+# Chương 671: Mở Hội Cũng Không Thể Ngăn Cản Ta
 
 Ở Vạn Tiên Minh công bố danh sách sau chưa tới một canh giờ bên trong, thượng cổ Địa tiên cũng công bố chính mình danh sách.
 

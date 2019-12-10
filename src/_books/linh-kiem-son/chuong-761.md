@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 761: 
+title: Chương 761 - Tam Hoa Bốn Bạch
 book_name: linh-kiem-son
+chapter: 761
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 761: 
+# Chương 761: Tam Hoa Bốn Bạch
 
 Quần Tiên Thành Tiên ngũ khu, tổ ủy hội cao tầng làm công trong đình viện, Phong Ngâm Chân Nhân không thể làm gì địa thả rơi xuống văn kiện trong tay giáp.
 

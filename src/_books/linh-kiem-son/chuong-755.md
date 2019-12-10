@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 755: 
+title: Chương 755 - Biến Thân Siêu Cấp Tôn Bất Bình
 book_name: linh-kiem-son
+chapter: 755
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 755: 
+# Chương 755: Biến Thân Siêu Cấp Tôn Bất Bình
 
 "Hắc, ngươi hiện tại đã là một con đường chết, dằn vặt đến chết ta, đơn giản là một thi hai mệnh, tội gì đến tai?"
 

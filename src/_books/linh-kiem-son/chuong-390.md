@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 390: 
+title: Chương 390 - Ta Có Bài Độc Dưỡng Nhan Bổng
 book_name: linh-kiem-son
+chapter: 390
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 390: 
+# Chương 390: Ta Có Bài Độc Dưỡng Nhan Bổng
 
 Vương lăng bên trong bia đá, bằng tốc độ kinh người khôi phục, mà nương theo bia đá khôi phục, Vân Không Quân chính mình vì chính mình thiết bàng trận pháp lớn cũng khôi phục hoạt động.
 

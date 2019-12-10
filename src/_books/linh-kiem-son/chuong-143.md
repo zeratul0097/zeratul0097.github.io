@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 143: 
+title: Chương 143 - Ta Yêu Thích Tiểu Loli Phát Ra Từ Chân Tâm!
 book_name: linh-kiem-son
+chapter: 143
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 143: 
-
-Chương 18:: Ta yêu thích tiểu loli phát ra từ chân tâm!
+# Chương 143: Ta Yêu Thích Tiểu Loli Phát Ra Từ Chân Tâm!
 
 Tứ Tượng Phong rối loạn, chung quy vẫn là dẹp loạn xuống. Vạn Pháp Tiên Môn chỉ là lúc đầu đột nhiên không kịp chuẩn bị, rất nhanh vẫn là ở Tiên môn trưởng lão trong tiếng rống giận dữ, khôi phục bình tĩnh.
 

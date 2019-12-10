@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 246: 
+title: Chương 246 - Ta Nói Sẽ Không Có, Chính Là Sẽ Không Có
 book_name: linh-kiem-son
+chapter: 246
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 246: 
+# Chương 246: Ta Nói Sẽ Không Có, Chính Là Sẽ Không Có
 
 Từ trung cửa mở bắt đầu, đón lấy ngũ môn thử thách, sẽ không lại có thêm bất luận cái nào qua cửa giả.
 

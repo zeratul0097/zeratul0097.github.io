@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 562: 
+title: Chương 562 - Này Nội Dung Vở Kịch Chuyển Tiếp Đột Ngột A
 book_name: linh-kiem-son
+chapter: 562
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 562: 
+# Chương 562: Này Nội Dung Vở Kịch Chuyển Tiếp Đột Ngột A
 
 Nghe Vương Vũ hùng vĩ cấu tứ sau đó, Vương Lục lại một lần nữa rơi vào trầm tư.
 

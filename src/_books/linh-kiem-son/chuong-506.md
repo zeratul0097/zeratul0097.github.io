@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 506: 
+title: Chương 506 - Whosyourdaddy
 book_name: linh-kiem-son
+chapter: 506
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 506: 
+# Chương 506: Whosyourdaddy
 
 Thông thường về mặt ý nghĩa giảng, Vương Lục cùng Âu Dương Thương đều là biết lễ thủ tiết chính phái nhân sĩ, dù cho tình cờ trinh tiết thần ẩn, nhưng thủ đoạn luôn có điểm mấu chốt, nếu không hai người cũng không chịu nổi môn phái đứng đầu tên tuổi.
 

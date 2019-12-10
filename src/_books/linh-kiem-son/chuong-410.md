@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 410: 
+title: Chương 410 - Trần Trụi Thân Thể Ngâm Ở Bể Bên Trong
 book_name: linh-kiem-son
+chapter: 410
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 410: 
+# Chương 410: Trần Trụi Thân Thể Ngâm Ở Bể Bên Trong
 
 "Nói chung, sự tình không phải ngươi tưởng tượng như vậy."
 

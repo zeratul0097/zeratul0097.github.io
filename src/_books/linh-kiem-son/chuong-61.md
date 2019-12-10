@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 61: Vòng xoáy chi linh quả thực nhược bạo rồi...
+title: Chương 61 - Vòng xoáy chi linh quả thực nhược bạo rồi...
 book_name: linh-kiem-son
+chapter: 61
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

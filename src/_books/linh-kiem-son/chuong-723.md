@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 723: 
+title: Chương 723 - Ở Thứ Ba Viết Xuống Vui Thích Đưa Thứ Hai Văn Chương
 book_name: linh-kiem-son
+chapter: 723
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 723: 
+# Chương 723: Ở Thứ Ba Viết Xuống Vui Thích Đưa Thứ Hai Văn Chương
 
 "A a a, này đàn tiên thi đấu còn có thể hay không thể được rồi? Thua thua thua, ngoại trừ thua thì thua Vạn Tiên Minh đều là sao?"
 

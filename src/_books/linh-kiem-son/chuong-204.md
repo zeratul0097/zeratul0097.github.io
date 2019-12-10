@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 204: 
+title: Chương 204 - Con Vịt Nhỏ Xấu Xí Cố Sự
 book_name: linh-kiem-son
+chapter: 204
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 204: 
+# Chương 204: Con Vịt Nhỏ Xấu Xí Cố Sự
 
 Làm ngự thú quyển khí linh, lôi kéo roi da, đem tiên thú trói buộc đưa đến hổ vương dưới chân thời, vây quanh ở bốn phía rất nhiều trưởng lão thậm chí không thể tin được sự tình chỉ đơn giản như vậy địa xong rồi.
 

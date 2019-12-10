@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 289: 
+title: Chương 289 - Dưỡng Ta Cho Ăn Ta Lấy Lòng Ta
 book_name: linh-kiem-son
+chapter: 289
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 289: 
+# Chương 289: Dưỡng Ta Cho Ăn Ta Lấy Lòng Ta
 
 Thâm Thổ Thành chủ xe ngựa chạy tới đào bảo vật ngoài thành, Clift bắt đầu vì Vương Lục chăm chú giới thiệu đào bảo vật thành tình huống
 

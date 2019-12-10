@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 679: 
+title: Chương 679 - Mấy Ngày Nay Trạng Thái Thật Kém, Vá Càng Nhất Định Sẽ Đến
 book_name: linh-kiem-son
+chapter: 679
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 679: 
+# Chương 679: Mấy Ngày Nay Trạng Thái Thật Kém, Vá Càng Nhất Định Sẽ Đến
 
 Răng rắc
 

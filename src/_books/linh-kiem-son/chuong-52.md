@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 52: Sư đệ thật là một người sảng khoái
+title: Chương 52 - Sư đệ thật là một người sảng khoái
 book_name: linh-kiem-son
+chapter: 52
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

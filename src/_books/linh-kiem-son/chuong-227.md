@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 227: 
+title: Chương 227 - Ta Cùng Đức Thắng Thái Tổ Từng Là Đồng Hành
 book_name: linh-kiem-son
+chapter: 227
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 227: 
+# Chương 227: Ta Cùng Đức Thắng Thái Tổ Từng Là Đồng Hành
 
 Thông qua theo ảnh giấy viết thư hiểu rõ đến tiểu hải lịch hiểm ký toàn cảnh sau khi, Vương Lục liền không khó lý giải vì sao hắn sẽ vội vội vã vã địa cho mình viết thư.
 

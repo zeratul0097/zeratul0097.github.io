@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 74: Sư phụ ở trên, được đồ nhi cúi đầu
+title: Chương 74 - Sư phụ ở trên, được đồ nhi cúi đầu
 book_name: linh-kiem-son
+chapter: 74
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

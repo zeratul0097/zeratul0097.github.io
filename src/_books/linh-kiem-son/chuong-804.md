@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 804: 
+title: Chương 804 - Một Cây Vào Động
 book_name: linh-kiem-son
+chapter: 804
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 804: 
+# Chương 804: Một Cây Vào Động
 
 Vương Lục đem cửu vĩ thiên hồ chi đi Trung Châu trấn áp nội chiến rối loạn, có hai điểm cân nhắc.
 

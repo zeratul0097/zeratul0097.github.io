@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 308: 
+title: Chương 308 - Cùng Hung Cực Đói Bụng!
 book_name: linh-kiem-son
+chapter: 308
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 308: 
+# Chương 308: Cùng Hung Cực Đói Bụng!
 
 Vào đêm, ở vào Long thành phía đông tông giáo khu một mảnh an nhàn, cùng trung tâm thành phố độ cao phồn hoa huyên náo động đến bất dạ khu hình thành sự chênh lệch rõ ràng. Khu vực này đã từng thuộc về Blai đông Niya cảnh nội mấy chục chi tông giáo thế lực, bây giờ thì lại cơ bản bị Thánh Quang Giáo độc chiếm, nhàn nhạt thánh quang bao phủ tông giáo khu, trục xuất bóng đêm, mang đến an bình.
 

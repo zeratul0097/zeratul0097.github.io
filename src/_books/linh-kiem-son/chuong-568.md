@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 568: 
+title: Chương 568 - Vương Lục Làm Ra Lựa Chọn Chính Xác
 book_name: linh-kiem-son
+chapter: 568
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 568: 
+# Chương 568: Vương Lục Làm Ra Lựa Chọn Chính Xác
 
 Ngàn vạn sét, một đạo màn ánh sáng màu vàng.
 

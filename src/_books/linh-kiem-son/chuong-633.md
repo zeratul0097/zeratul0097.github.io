@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 633: 
+title: Chương 633 - Ngươi Còn Dám Không Cười! ?
 book_name: linh-kiem-son
+chapter: 633
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 633: 
+# Chương 633: Ngươi Còn Dám Không Cười! ?
 
 Một cái hai cái, ba cái bốn cái... Rất nhanh sẽ tràn vào đến sáu, bảy trăm người, đem trước kia diễn viên vị trí chiếm được tràn đầy, mà đối thoại càng cũng như thế nhận xuống.
 

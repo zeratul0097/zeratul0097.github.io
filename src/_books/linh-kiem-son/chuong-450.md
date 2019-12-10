@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 450: 
+title: Chương 450 - Tha Hương Ngộ Cố Tri
 book_name: linh-kiem-son
+chapter: 450
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 450: 
+# Chương 450: Tha Hương Ngộ Cố Tri
 
 Nửa ngày sau, Vương Lục đi tới thịnh kinh môn hạ.
 

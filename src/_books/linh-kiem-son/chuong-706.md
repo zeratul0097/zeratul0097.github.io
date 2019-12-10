@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 706: 
+title: Chương 706 - Vá Càng...
 book_name: linh-kiem-son
+chapter: 706
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 706: 
+# Chương 706: Vá Càng...
 
 Vương Lục thực sự không nghĩ tới, vương đối với vương cục diện sẽ đến nhanh như vậy.
 

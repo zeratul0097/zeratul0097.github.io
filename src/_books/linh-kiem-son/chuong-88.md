@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 88: Nhà ta Tiểu Linh nhi mới không có đáng yêu như thế
+title: Chương 88 - Nhà ta Tiểu Linh nhi mới không có đáng yêu như thế
 book_name: linh-kiem-son
+chapter: 88
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

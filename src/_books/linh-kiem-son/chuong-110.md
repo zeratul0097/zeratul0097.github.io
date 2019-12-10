@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 110: 
+title: Chương 110 - Cho thần hào quỳ ba
 book_name: linh-kiem-son
+chapter: 110
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 110: 
+# Chương 110: Cho thần hào quỳ ba
 
 Há, tỉnh chưa? Quả nhiên là nhóm người này bên trong tố chất tốt nhất." 
 

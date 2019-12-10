@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 594: 
+title: Chương 594 - Đây Mới Thực Sự Là Đề Hải Chiến Thuật
 book_name: linh-kiem-son
+chapter: 594
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 594: 
+# Chương 594: Đây Mới Thực Sự Là Đề Hải Chiến Thuật
 
 Lấy vô tướng vô danh kiếm đàn hồi tiên thuật, sư phụ biểu diễn thực tại để Vương Lục mở mang tầm mắt.
 

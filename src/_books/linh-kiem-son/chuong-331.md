@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 331: 
+title: Chương 331 - Ngươi Cùng Aya Là Người Cùng Một Con Đường
 book_name: linh-kiem-son
+chapter: 331
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 331: 
+# Chương 331: Ngươi Cùng Aya Là Người Cùng Một Con Đường
 
 "Sách, làm người ta trong lòng bất an hòa bình a."
 

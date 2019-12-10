@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 213: 
+title: Chương 213 - Hoành Đao Đoạt Ái! ?
 book_name: linh-kiem-son
+chapter: 213
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 213: 
+# Chương 213: Hoành Đao Đoạt Ái! ?
 
 Tiên thú nguyệt linh tồn tại, xác thực bị người lơ là hồi lâu.
 

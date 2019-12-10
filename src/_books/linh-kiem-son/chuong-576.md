@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 576: 
+title: Chương 576 - Ngậm Đắng Nuốt Cay A
 book_name: linh-kiem-son
+chapter: 576
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 576: 
+# Chương 576: Ngậm Đắng Nuốt Cay A
 
 Ở trong ngọn lửa tiến lên là một loại lãng mạn.
 

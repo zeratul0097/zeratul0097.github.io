@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 407: 
+title: Chương 407 - Ta Đã Không Lại Khát Khao
 book_name: linh-kiem-son
+chapter: 407
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 407: 
+# Chương 407: Ta Đã Không Lại Khát Khao
 
 Huyết phù thần thương là a dạ sát chiêu mạnh nhất. Uy lực không gì sánh kịp, một thương liền có thể đánh tan Kim Ngọc Thành kim y quân đoàn.
 

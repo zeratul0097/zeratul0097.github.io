@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 574: 
+title: Chương 574 - Ta Yêu Thích
 book_name: linh-kiem-son
+chapter: 574
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 574: 
+# Chương 574: Ta Yêu Thích
 
 "Khe nằm, hỗn độn xâm lấn?"
 

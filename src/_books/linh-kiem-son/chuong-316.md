@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 316: 
+title: Chương 316 - Lưu Ly Hoa Nở
 book_name: linh-kiem-son
+chapter: 316
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 316: 
+# Chương 316: Lưu Ly Hoa Nở
 
 Nếu như ngươi tùy ý ngăn cản một người hỏi hắn, tuân sơn ẩn tu sẽ là cái gì, được trả lời chắc chắn hơn phân nửa là vẻ mặt khó hiểu.
 

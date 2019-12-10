@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 175: 
+title: Chương 175 - Thức Ăn Chay Chi Đô
 book_name: linh-kiem-son
+chapter: 175
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 175: 
-
-Chương 4:: Thức ăn chay chi đô
+# Chương 175: Thức Ăn Chay Chi Đô
 
 Vân Đài núi Ngự Thú tông xảy ra sự kiện cũng không khiến người bất ngờ, Vạn Tiên Minh môn phái lên tới hàng ngàn, hàng vạn, tuyệt đại đa số đều tránh không được muốn cùng phàm nhân giao thiệp với, như Côn Luân tiên sơn như vậy tác phẩm nghệ thuật xuất sắc, không dính khói bụi trần gian không có mấy nhà, mà chỉ cần giao thiệp với, liền tránh không được sản sinh mâu thuẫn, cũng không ngạc nhiên. Ngoài ra, Vạn Tiên Minh trung môn phái văn hóa tương đối kỳ hoa cũng không phải số ít, yêu thích cùng Linh Thú làm bạn Ngự Thú tông so sánh lẫn nhau mà nói vẫn tính khá là ôn hòa, dù sao toàn bộ mâu thuẫn cũng không quá hạn chế với đả thương mấy người, tổn hại Vân Thái đế quốc Hoàng thất cùng Bạch Long quan bộ mặt.
 

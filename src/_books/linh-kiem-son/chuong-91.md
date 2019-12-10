@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 91: 
+title: Chương 91 - Các Ngươi Những Này Gay Toàn Bộ Đều Phải Chết
 book_name: linh-kiem-son
+chapter: 91
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 91: 
+# Chương 91: Các Ngươi Những Này Gay Toàn Bộ Đều Phải Chết
 
 Quản gia cùng Vũ Sư giơ lên nữ tử tiến vào viện, vốn định đi trước trong phòng tắm thanh tẩy một phen, lại nghe Tiên sư không nhịn được âm thanh trực tiếp bên tai bên nổ vang.
 

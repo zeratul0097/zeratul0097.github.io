@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 9: Đệ tử ưu tú Đức Trí Thể phát triển toàn diện
+title: Chương 9 - Đệ tử ưu tú Đức Trí Thể phát triển toàn diện
 book_name: linh-kiem-son
+chapter: 9
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

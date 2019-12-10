@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 517: 
+title: Chương 517 - Tìm
 book_name: linh-kiem-son
+chapter: 517
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 517: 
+# Chương 517: Tìm
 
 Vào lúc này nhìn thấy vương đông hoa, trầm vừa nghe trong lòng đầu tiên là vui vẻ, sau đó chính là cả kinh.
 

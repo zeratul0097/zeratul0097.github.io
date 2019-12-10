@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 47: Cầu ôm bắp đùi!
+title: Chương 47 - Cầu ôm bắp đùi!
 book_name: linh-kiem-son
+chapter: 47
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

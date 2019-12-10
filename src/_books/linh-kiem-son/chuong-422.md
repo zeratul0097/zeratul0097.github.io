@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 422: 
+title: Chương 422 - Sau Lưng Tay
 book_name: linh-kiem-son
+chapter: 422
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 422: 
+# Chương 422: Sau Lưng Tay
 
 "Ta muốn cùng Kim Ngọc Thành chủ một mình đấu"
 

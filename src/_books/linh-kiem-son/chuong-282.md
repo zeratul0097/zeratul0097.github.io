@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 282: 
+title: Chương 282 - Aya Ngươi Có Muốn Hay Không Như Thế Trọng Sắc Khinh Bạn
 book_name: linh-kiem-son
+chapter: 282
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 282: 
+# Chương 282: Aya Ngươi Có Muốn Hay Không Như Thế Trọng Sắc Khinh Bạn
 
 Trên biển tháng ngày nhàn nhã mà an nhàn.
 

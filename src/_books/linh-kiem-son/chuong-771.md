@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 771: 
+title: Chương 771 - Chúc Mừng Ngươi Gia Nhập Vạn Tiên Minh Đại Gia Đình
 book_name: linh-kiem-son
+chapter: 771
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 771: 
+# Chương 771: Chúc Mừng Ngươi Gia Nhập Vạn Tiên Minh Đại Gia Đình
 
 Nhìn thấy Vương Lục hơi chuyển tới được nòng pháo thời, hắc tâm thần hoảng hốt bất định, trong đầu đều là hiện ra quá khứ đoạn ngắn.
 

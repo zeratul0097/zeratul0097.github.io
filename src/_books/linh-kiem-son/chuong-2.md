@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 2: Đến từ quê hương thổ đặc sản
+title: Chương 2 - Đến từ quê hương thổ đặc sản
 book_name: linh-kiem-son
+chapter: 2
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

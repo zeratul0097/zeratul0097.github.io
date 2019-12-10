@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 689: 
+title: Chương 689 - Cho Rằng Ta Sẽ Nhằm Vào Hắn Người Thực Sự Quá Ngọt .
 book_name: linh-kiem-son
+chapter: 689
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 689: 
+# Chương 689: Cho Rằng Ta Sẽ Nhằm Vào Hắn Người Thực Sự Quá Ngọt .
 
 "Các đạo hữu, ngày hôm nay chúng ta cử hành cái này lễ mừng, chủ yếu là để ăn mừng La Tiêu chân nhân ở đàn tiên thi đấu đạt được mười thắng liên tiếp. Một mặt chúng ta phải chăm chỉ tổng kết La Tiêu chân nhân thành công kinh nghiệm, mặt khác muốn mượn cơ hội này nhận thức chính xác trước mặt tình thế, cuối cùng, thì lại phải căn cứ La Tiêu chân nhân tiên tiến kinh nghiệm đến chỉ đạo bước kế tiếp công tác, tranh thủ cuối cùng đạt được đàn tiên thi đấu thắng lợi. Phía dưới ta liền này ba phía vấn đề tiến hành trình bày..."
 

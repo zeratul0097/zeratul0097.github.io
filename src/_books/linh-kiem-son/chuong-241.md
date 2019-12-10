@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 241: 
+title: Chương 241 - Cái Kia Hàm Thấp Ánh Mắt Làm Người Đặc Biệt Không Vui...
 book_name: linh-kiem-son
+chapter: 241
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 241: 
+# Chương 241: Cái Kia Hàm Thấp Ánh Mắt Làm Người Đặc Biệt Không Vui...
 
 Nếu như đem cái này hiếu môn thí luyện quy tắc từ đầu vuốt một hồi, không khó phát hiện kỳ thực qua ải phương pháp rất đơn giản
 

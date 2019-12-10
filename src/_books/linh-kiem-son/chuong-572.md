@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 572: 
+title: Chương 572 - Vô Nghĩa Đẳng Cấp Max
 book_name: linh-kiem-son
+chapter: 572
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 572: 
+# Chương 572: Vô Nghĩa Đẳng Cấp Max
 
 Ở thành công bắt mặt trời lặn vương cùng hộ vệ của nàng sau khi, mặt trời lặn vương sẽ không có làm tiếp dư thừa chống lại.
 

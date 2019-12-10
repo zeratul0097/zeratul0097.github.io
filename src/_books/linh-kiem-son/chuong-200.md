@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 200: 
+title: Chương 200 - Tại Sao?
 book_name: linh-kiem-son
+chapter: 200
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 200: 
-
-Chương 29:: Tại sao?
+# Chương 200: Tại Sao?
 
 Trước đó, Vương Lục còn chưa từng nghe nói có loại này thời gian vặn vẹo, sống một ngày bằng một năm diệu thuật.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 362: 
+title: Chương 362 - Chữa Trị Lòng Người Linh Đan Diệu Dược
 book_name: linh-kiem-son
+chapter: 362
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 362: 
+# Chương 362: Chữa Trị Lòng Người Linh Đan Diệu Dược
 
 Đối với thay đổi lòng người vấn đề, Aya hiển nhiên có ý nghĩ của chính mình.
 

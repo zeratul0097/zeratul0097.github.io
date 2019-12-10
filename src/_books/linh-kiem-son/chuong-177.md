@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 177: 
+title: Chương 177 - Lưu Ly Tiên Đối Người Mình Lạnh Lùng Hạ Sát Thủ!?
 book_name: linh-kiem-son
+chapter: 177
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 177: 
-
-Chương 6:: Lưu Ly Tiên đối người mình lạnh lùng hạ sát thủ!?
+# Chương 177: Lưu Ly Tiên Đối Người Mình Lạnh Lùng Hạ Sát Thủ!?
 
 Đối mặt Vương Lục đột nhiên xuất hiện phản ứng, Ngự Thú tông nữ tu sĩ nhất thời sợ ngây người.
 

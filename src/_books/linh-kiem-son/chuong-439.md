@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 439: 
+title: Chương 439 - Không Phải Thư Tình Ta Không Tiếp
 book_name: linh-kiem-son
+chapter: 439
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 439: 
+# Chương 439: Không Phải Thư Tình Ta Không Tiếp
 
 Xuân đi thu đến, lại đến linh kiếm phái mỗi năm một lần thiếp thu phiêu tháng ngày.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 305: 
+title: Chương 305 - Chí Hướng Cao Xa
 book_name: linh-kiem-son
+chapter: 305
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 305: 
+# Chương 305: Chí Hướng Cao Xa
 
 Long thành khu buôn bán trung tâm quảng trường cũng là khu buôn bán ăn uống trung tâm. Rộng rãi quảng trường bốn phía, đủ loại kiểu dáng ăn uống cửa hàng rực rỡ muôn màu, trong cửa hàng đến từ trời nam biển bắc đặc sắc ẩm thực tỏa ra mùi thơm mê người, cũng ở trên quảng trường đan vào lẫn nhau lên, đối diện hướng về người đi đường tạo thành tuyệt đối không cho chống cự mê hoặc.
 

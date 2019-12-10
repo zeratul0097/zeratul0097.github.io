@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 819: 
+title: Chương 819 - Hoàng Kim Vương の Ác Đọa
 book_name: linh-kiem-son
+chapter: 819
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 819: 
+# Chương 819: Hoàng Kim Vương の Ác Đọa
 
 Lần thứ ba Thiên Chi Ngân phòng ngự chiến, lấy Cửu Châu Đại Lục hoàn toàn thắng lợi mà kết thúc. Tiên giới nhọc lòng mở ra hai giới đường nối so với lúc trước bất kỳ lần nào đều muốn to lớn, nhưng mà bị Hoàng Kim vương lấy xa xỉ đến phát điên Hoàng Kim thành tự bạo phá huỷ, liên quan trong lối đi nghịch giới long trụ cũng biến thành tro bụi, tổn thất nặng nề.
 

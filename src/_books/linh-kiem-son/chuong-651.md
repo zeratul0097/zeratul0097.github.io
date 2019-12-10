@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 651: 
+title: Chương 651 - Vương Lục, Ngươi Thực Sự Là Một Cái Tiện Nhân!
 book_name: linh-kiem-son
+chapter: 651
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 651: 
+# Chương 651: Vương Lục, Ngươi Thực Sự Là Một Cái Tiện Nhân!
 
 "Này một đạo âm u tiêu hồn cơm..."
 

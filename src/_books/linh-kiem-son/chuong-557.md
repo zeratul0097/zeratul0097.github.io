@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 557: 
+title: Chương 557 - Vụ Mai Rốt Cục Tản Đi, Thật Đáng Mừng
 book_name: linh-kiem-son
+chapter: 557
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 557: 
+# Chương 557: Vụ Mai Rốt Cục Tản Đi, Thật Đáng Mừng
 
 Đại hội luận võ từ ngày thứ ba bắt đầu, bầu không khí rốt cục nguội xuống, loại kia giội phụ đánh nhau tình cảnh đã không còn, tỉ lệ thương vong cũng thẳng tắp giảm xuống, giao đấu song phương toàn lực ứng phó nhưng điểm đến đến, hoàn mỹ hiện ra thi đấu tinh thần, bác đến trên thính phòng từng mảng từng mảng ủng hộ. Còn không nguyệt, vẻ mặt của nàng vẫn cứ lạnh lùng, nhưng không còn là mây đen giăng kín, khiến cho rất nhiều người đều đại đại thở phào nhẹ nhõm.
 

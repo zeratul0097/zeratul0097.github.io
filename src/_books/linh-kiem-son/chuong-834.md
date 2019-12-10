@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 834: 
+title: Chương 834 - Quả Nhiên Là Con Ruột
 book_name: linh-kiem-son
+chapter: 834
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 834: 
+# Chương 834: Quả Nhiên Là Con Ruột
 
 "Tiêu dao, đây chính là ngươi phản bội lý do của ta?"
 

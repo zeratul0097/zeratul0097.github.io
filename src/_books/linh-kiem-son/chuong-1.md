@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 1: Khách sạn phòng chứa củi ấm áp như xuân
+title: Chương 1 - Khách sạn phòng chứa củi ấm áp như xuân
 book_name: linh-kiem-son
+chapter: 1
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

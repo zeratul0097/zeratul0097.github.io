@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 757: 
+title: Chương 757 - Phi Lễ Chớ Nhìn
 book_name: linh-kiem-son
+chapter: 757
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 757: 
+# Chương 757: Phi Lễ Chớ Nhìn
 
 Nghe được Vương Lục nhấc lên người thừa kế, đế lưu tôn mới rốt cục ý thức được, Tôn Bất Bình là thật sự cách nàng mà đi tới.
 

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 58: Nghe nói ngươi kim cương bất hoại?
+title: Chương 58 - Nghe nói ngươi kim cương bất hoại?
 book_name: linh-kiem-son
+chapter: 58
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

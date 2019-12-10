@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 17: Luận giáo dục bắt buộc tầm quan trọng
+title: Chương 17 - Luận giáo dục bắt buộc tầm quan trọng
 book_name: linh-kiem-son
+chapter: 17
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

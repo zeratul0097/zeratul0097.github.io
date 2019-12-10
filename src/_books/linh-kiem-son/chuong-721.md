@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 721: 
+title: Chương 721 - Thỉnh Cầu Trên Thiên Tứ Dư Ta Không Có Điểm Dừng Cuối Tuần
 book_name: linh-kiem-son
+chapter: 721
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 721: 
+# Chương 721: Thỉnh Cầu Trên Thiên Tứ Dư Ta Không Có Điểm Dừng Cuối Tuần
 
 "Hừ, lại hét thành bộ này quỷ dáng vẻ. Ngươi thật sự coi chính mình Trúc Cơ thành công, có thể muốn làm gì thì làm?"
 

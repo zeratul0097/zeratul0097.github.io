@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 756: 
+title: Chương 756 - Tiếu Quả Phụ
 book_name: linh-kiem-son
+chapter: 756
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 756: 
+# Chương 756: Tiếu Quả Phụ
 
 "Chân trái, nhấc chân trái, tả, tả, bên trái a ngươi này ngu ngốc liền trái phải đều không phân biệt được sao?"
 

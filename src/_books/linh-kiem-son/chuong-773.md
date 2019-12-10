@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 773: 
+title: Chương 773 - Muốn
 book_name: linh-kiem-son
+chapter: 773
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 773: 
+# Chương 773: Muốn
 
 "Liên quan với u minh sơn kỷ niệm quán công tác tình huống báo cáo... Hắc, năm ngoái năm thu vào đã vượt qua ngàn vạn linh thạch a, mấy năm qua cũng thật là vận doanh đến vui vẻ sung sướng."
 

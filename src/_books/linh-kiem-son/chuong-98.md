@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 98: 
+title: Chương 98 - Pháp đàn không phải một ngày xây thành
 book_name: linh-kiem-son
+chapter: 98
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 98: 
+# Chương 98: Pháp đàn không phải một ngày xây thành
 
 Trí cục thuế cục trưởng Vương Lục hít một hơi thật sâu.
 

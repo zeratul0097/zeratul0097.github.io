@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 442: 
+title: Chương 442 - 3600 Năm Sóng Gợn
 book_name: linh-kiem-son
+chapter: 442
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 442: 
+# Chương 442: 3600 Năm Sóng Gợn
 
 "Chà chà chà."
 

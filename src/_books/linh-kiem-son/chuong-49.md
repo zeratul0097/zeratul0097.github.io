@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 49: Vương Lục đâm thân
+title: Chương 49 - Vương Lục đâm thân
 book_name: linh-kiem-son
+chapter: 49
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

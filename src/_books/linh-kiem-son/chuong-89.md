@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 89: Ngươi nhất định phải chết! Thiên Thượng Thiên Hạ không có ai cứu được ngươi
+title: Chương 89 - Ngươi nhất định phải chết! Thiên Thượng Thiên Hạ không có ai cứu được ngươi
 book_name: linh-kiem-son
+chapter: 89
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

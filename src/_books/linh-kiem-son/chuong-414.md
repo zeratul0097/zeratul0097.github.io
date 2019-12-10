@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 414: 
+title: Chương 414 - Ta Thê Tử Nhữ Nuôi Dưỡng
 book_name: linh-kiem-son
+chapter: 414
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 414: 
+# Chương 414: Ta Thê Tử Nhữ Nuôi Dưỡng
 
 Vĩnh Hằng Thụ, thánh diệp chỗ ở.
 

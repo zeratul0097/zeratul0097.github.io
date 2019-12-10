@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 189: 
+title: Chương 189 - Mèo Chưa Bao Giờ Là Trung Thần
 book_name: linh-kiem-son
+chapter: 189
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 189: 
-
-Chương 18:: Mèo chưa bao giờ là trung thần
+# Chương 189: Mèo Chưa Bao Giờ Là Trung Thần
 
 Tiểu Thất, Vương Lục, Lưu Ly Tiên tam người liên thủ, để lại A Hạ phụ tá đắc lực, khiến cho cái kia âm lãnh trung niên tu sĩ thất bại tan tác mà quay trở về, thắng được một hồi có thể nói thắng lợi huy hoàng.
 

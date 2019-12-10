@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 790: 
+title: Chương 790 - 
 book_name: linh-kiem-son
+chapter: 790
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

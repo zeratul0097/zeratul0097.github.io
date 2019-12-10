@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 144: 
+title: Chương 144 - Phiêu Miểu Phong Tiểu Đương Gia
 book_name: linh-kiem-son
+chapter: 144
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 144: 
-
-Chương 19:: Phiêu Miểu phong tiểu đương gia
+# Chương 144: Phiêu Miểu Phong Tiểu Đương Gia
 
 Có Tiểu Hải đứng ra điều đình, hai bên cũng sẽ không tiếp tục tranh chấp, bắt đầu từng người thưởng thức thức ăn trên bàn.
 

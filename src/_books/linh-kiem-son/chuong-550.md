@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 550: 
+title: Chương 550 - Tuyệt Không Có Cái Kia Đoạn Hắc Lịch Sử!
 book_name: linh-kiem-son
+chapter: 550
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 550: 
+# Chương 550: Tuyệt Không Có Cái Kia Đoạn Hắc Lịch Sử!
 
 Làm lưu ly tiên cái kia hoàn mỹ không một tì vết thâm thúy khe xuất hiện ở trước mắt thời điểm, Âm Dương tông các thiếu nữ liền biết mình thất bại.
 

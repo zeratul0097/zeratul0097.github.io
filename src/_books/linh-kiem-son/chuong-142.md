@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 142: 
+title: Chương 142 - Bạn Gái Của Ta Là Khô Lâu
 book_name: linh-kiem-son
+chapter: 142
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 142: 
-
-Chương 17:: Bạn gái của ta là Khô Lâu
+# Chương 142: Bạn Gái Của Ta Là Khô Lâu
 
 Màu vàng vân vô thanh vô tức tiếp cận Linh Kiếm Sơn, chỉ chốc lát sau, hộ núi mây mù đại trận ầm ầm tản ra, lộ ra một cái rộng rãi thông lộ, cùng với trong núi hình dáng. Thông lộ bến bờ là Linh Kiếm Sơn Tứ Tượng Phong, chỗ đỉnh núi, Linh Kiếm Phái cao tầng hầu như tất cả trình diện.
 

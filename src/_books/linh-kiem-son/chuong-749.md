@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 749: 
+title: Chương 749 - Lưu Hầu
 book_name: linh-kiem-son
+chapter: 749
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 749: 
+# Chương 749: Lưu Hầu
 
 "Mở"
 

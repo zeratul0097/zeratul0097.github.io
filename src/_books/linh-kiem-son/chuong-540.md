@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 540: 
+title: Chương 540 - Tại Sao Là Ngươi! ?
 book_name: linh-kiem-son
+chapter: 540
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 540: 
+# Chương 540: Tại Sao Là Ngươi! ?
 
 Mang sơn thành bầu trời, áo bào đen tu sĩ cực kỳ nghi hoặc mà nhìn trước mặt vị này đột nhiên xuất hiện kiếm tu, trong lòng xoắn xuýt cực điểm.
 

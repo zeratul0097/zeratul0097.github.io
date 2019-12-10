@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 460: 
+title: Chương 460 - Cuối Cùng Hay Là Muốn Thoát
 book_name: linh-kiem-son
+chapter: 460
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 460: 
+# Chương 460: Cuối Cùng Hay Là Muốn Thoát
 
 Hoang rất nơi, tây sơn hắc triều, nơi đó từng là Vương Lục trọng yếu chỗ tu hành.
 

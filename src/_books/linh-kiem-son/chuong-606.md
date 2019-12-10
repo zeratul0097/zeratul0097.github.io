@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 606: 
+title: Chương 606 - Ngươi Xứng Đáng Ta Sao! ! ?
 book_name: linh-kiem-son
+chapter: 606
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 606: 
+# Chương 606: Ngươi Xứng Đáng Ta Sao! ! ?
 
 Một bên khác, dựa vào thiên thạch vỡ tan mà ẩn giấu đi Vương Lục, thì lại cực kỳ vui mừng chính mình trước đây không lâu vừa mới mới vừa trải qua một hồi xuyên qua chi mộng.
 

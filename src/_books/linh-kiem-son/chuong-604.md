@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 604: 
+title: Chương 604 - Xin Lỗi, Cuộc Tranh Tài Này Ta Muốn Thắng
 book_name: linh-kiem-son
+chapter: 604
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 604: 
+# Chương 604: Xin Lỗi, Cuộc Tranh Tài Này Ta Muốn Thắng
 
 "Phân tổ vượt cấp bậc đối kháng?"
 

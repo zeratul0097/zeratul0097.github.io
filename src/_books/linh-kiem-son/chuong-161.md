@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 161: 
+title: Chương 161 - Nó Là Ta Bằng Hữu Tốt Nhất!
 book_name: linh-kiem-son
+chapter: 161
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 161: 
-
-Chương 36:: Nó là ta bằng hữu tốt nhất!
+# Chương 161: Nó Là Ta Bằng Hữu Tốt Nhất!
 
 Vạn chúng chúc mục vòng bán kết, ở sáng sớm hôm sau đúng giờ bắt đầu.
 

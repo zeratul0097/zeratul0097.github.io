@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 716: 
+title: Chương 716 - Mở Mang Tầm Mắt
 book_name: linh-kiem-son
+chapter: 716
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 716: 
+# Chương 716: Mở Mang Tầm Mắt
 
 Rất nhiều lúc, chân tướng cũng không phải là khách quan tồn tại, mà là từ trên xuống dưới, người vì chế tạo ra.
 

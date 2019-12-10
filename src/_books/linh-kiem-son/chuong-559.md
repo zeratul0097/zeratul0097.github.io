@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 559: 
+title: Chương 559 - Cảm Động Lòng Người Gặp Lại Cố Sự
 book_name: linh-kiem-son
+chapter: 559
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 559: 
+# Chương 559: Cảm Động Lòng Người Gặp Lại Cố Sự
 
 Vũ tỷ tỷ?
 

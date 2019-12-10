@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 421: 
+title: Chương 421 - Làm Người Đảm Đương
 book_name: linh-kiem-son
+chapter: 421
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 421: 
+# Chương 421: Làm Người Đảm Đương
 
 A dạ đột nhiên xuất hiện, khiến cho trên sân tình thế nhất thời vì đó nghịch chuyển.
 

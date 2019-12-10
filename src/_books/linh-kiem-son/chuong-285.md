@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 285: 
+title: Chương 285 - Cẩn Thận Sau Lưng Của Ngươi
 book_name: linh-kiem-son
+chapter: 285
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 285: 
+# Chương 285: Cẩn Thận Sau Lưng Của Ngươi
 
 Phẫn nộ rít gào lôi đình tự bạch thơ tuyền trong tay tỏa ra, hóa thành một đoàn tàn phá bão táp đâm thẳng bầu trời, trên trời bốn tên viễn trình chức nghiệp giả toàn bộ bao phủ ở trong ánh chớp.
 

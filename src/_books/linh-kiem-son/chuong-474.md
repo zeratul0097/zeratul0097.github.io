@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 474: 
+title: Chương 474 - Về Nhà
 book_name: linh-kiem-son
+chapter: 474
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 474: 
+# Chương 474: Về Nhà
 
 "Vương Lục đây?"
 

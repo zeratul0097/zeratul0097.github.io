@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 393: 
+title: Chương 393 - Chúng Ta Mấy Ngàn Năm Sau Gặp Lại Ba
 book_name: linh-kiem-son
+chapter: 393
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 393: 
+# Chương 393: Chúng Ta Mấy Ngàn Năm Sau Gặp Lại Ba
 
 Vân nguyệt chết rồi, cố sự rốt cục tiến vào kết thúc, mà thu quan giai đoạn, tình tiết lại chia làm mấy cái tuyến, trong đó nặng nhất cái kia đương nhiên muốn phóng tới... Tới chóp nhất nói.
 

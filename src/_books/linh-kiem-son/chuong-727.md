@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 727: 
+title: Chương 727 - Mèo Và Chuột
 book_name: linh-kiem-son
+chapter: 727
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 727: 
+# Chương 727: Mèo Và Chuột
 
 Người chết mặt bước đi từ trước đến giờ không nhanh, nhưng lúc này tiếng bước chân của hắn, ở thư tự nghe tới nhưng là như vậy gấp gáp.
 

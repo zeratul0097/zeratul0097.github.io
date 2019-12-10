@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 179: 
+title: Chương 179 - Lưu Ly Tiên Trẻ Nhỏ Dễ Dạy
 book_name: linh-kiem-son
+chapter: 179
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 179: 
-
-Chương 8:: Lưu Ly Tiên trẻ nhỏ dễ dạy
+# Chương 179: Lưu Ly Tiên Trẻ Nhỏ Dễ Dạy
 
 Ngự Thú tông lấy giá ngự linh thú nghe tên Cửu Châu, tông phái tu sĩ hầu như nhân thủ một con thậm chí mấy con linh thú, nhưng điều động phương pháp liền tùy theo từng người. Như Thẩm Đông đến như vậy, đem linh khuyển coi như công cụ đến dùng, còn thuộc về tương đối thấp cấp độ. Đến đó cái kia cường tráng trưởng lão cấp bậc, tu vi có cảnh giới Kim đan, Ngự Thú phương thức cũng sẽ phát sinh tương ứng biến hóa.
 

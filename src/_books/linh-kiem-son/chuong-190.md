@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 190: 
+title: Chương 190 - Và Ôn Hòa Phát Triển Chưa Bao Giờ Là Của Ta Giọng Chính
 book_name: linh-kiem-son
+chapter: 190
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 190: 
-
-Chương 19:: Và ôn hòa phát triển chưa bao giờ là của ta giọng chính
+# Chương 190: Và Ôn Hòa Phát Triển Chưa Bao Giờ Là Của Ta Giọng Chính
 
 Khi (làm) Ngự Thú tông Ngũ Nhạc đoạn mạch thuật tái hiện với tiểu Thất trước mặt lúc, nữ tử sắc mặt nghiêm nghị, trong lòng nặng nề.
 

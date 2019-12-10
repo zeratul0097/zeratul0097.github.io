@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 3: Ta linh căn to như củ cải
+title: Chương 3 - Ta linh căn to như củ cải
 book_name: linh-kiem-son
+chapter: 3
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

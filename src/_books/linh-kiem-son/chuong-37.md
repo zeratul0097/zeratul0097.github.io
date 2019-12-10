@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 37: Một bước lên mây
+title: Chương 37 - Một bước lên mây
 book_name: linh-kiem-son
+chapter: 37
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

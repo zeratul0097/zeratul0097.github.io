@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 430: 
+title: Chương 430 - Thế Giới Tận Thế
 book_name: linh-kiem-son
+chapter: 430
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 430: 
+# Chương 430: Thế Giới Tận Thế
 
 Làm trên thân kiếm tiên lộ hai chữ biến thành lục tiên thời, phảng phất có một luồng vô hình sức mạnh bị bỗng nhiên phóng thích, trong thiên địa, linh khí nổi khùng, mây gió biến ảo, gào thét tật phong ở trong núi thoán hành, cuồn cuộn mây đen từ chân trời tụ lại tản đi, đạo đạo Lôi Xà ở trong tầng mây lăn lộn.
 

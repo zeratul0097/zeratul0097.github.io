@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 634: 
+title: Chương 634 - Này Mẹ Nó Thật Sự Vẫn Là Tướng Thanh Sao...
 book_name: linh-kiem-son
+chapter: 634
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 634: 
+# Chương 634: Này Mẹ Nó Thật Sự Vẫn Là Tướng Thanh Sao...
 
 "Tổ truyền độc nhất bí phương, họ Lưu tương thịt, một khối linh thạch một vò lạc"
 

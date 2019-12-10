@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 545: 
+title: Chương 545 - Lại Có Vài Thứ Vỡ Hỏng Rồi
 book_name: linh-kiem-son
+chapter: 545
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 545: 
+# Chương 545: Lại Có Vài Thứ Vỡ Hỏng Rồi
 
 "Thật là nhiều người a, gần nhất Phong đô lại làm cái gì mới hoạt động sao?"
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 691: 
+title: Chương 691 - Này Một Chương Là Nhàn Bút
 book_name: linh-kiem-son
+chapter: 691
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 691: 
+# Chương 691: Này Một Chương Là Nhàn Bút
 
 "Thư lão đại, tuần này hàng chúng ta đã mang đến..."
 

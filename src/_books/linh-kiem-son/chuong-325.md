@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 325: 
+title: Chương 325 - Ta Yêu Thích Ngươi
 book_name: linh-kiem-son
+chapter: 325
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 325: 
+# Chương 325: Ta Yêu Thích Ngươi
 
 "Thực sự là làm người hài lòng không đứng lên tiệc khánh công a."
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 338: 
+title: Chương 338 - Lưu Ly Tiên Tìm Tới Hai Bức Hoàng
 book_name: linh-kiem-son
+chapter: 338
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 338: 
+# Chương 338: Lưu Ly Tiên Tìm Tới Hai Bức Hoàng
 
 Cùng lúc đó, ở hỗn độn Vân Hải một đầu khác, một đội người thí luyện chính yên tĩnh cất bước ở trong mây mù, bước chân cùng phiến đá mặt đất phát sinh lanh lảnh va chạm, ở hoàn toàn u ám trong cơn mông lung không ngừng vang vọng, phảng phất đặt mình trong một cái bịt kín mà ngột ngạt cung điện.
 

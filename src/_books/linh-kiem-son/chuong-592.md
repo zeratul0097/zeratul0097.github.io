@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 592: 
+title: Chương 592 - Giá Trị 1000 Vạn Linh Thạch Chiến Đấu
 book_name: linh-kiem-son
+chapter: 592
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 592: 
+# Chương 592: Giá Trị 1000 Vạn Linh Thạch Chiến Đấu
 
 Đường đường Địa tiên tôn sư, cùng kim đan cấp giun dế kéo thấp đến đồng nhất mức độ làm sinh tử tranh tài.
 

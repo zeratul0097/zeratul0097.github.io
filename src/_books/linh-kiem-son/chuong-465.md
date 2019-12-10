@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 465: 
+title: Chương 465 - Lịch Sử Khác Một Cái Chi Nhánh?
 book_name: linh-kiem-son
+chapter: 465
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 465: 
+# Chương 465: Lịch Sử Khác Một Cái Chi Nhánh?
 
 Hủy diệt nơi?
 

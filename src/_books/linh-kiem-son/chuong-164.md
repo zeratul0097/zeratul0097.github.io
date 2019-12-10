@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 164: 
+title: Chương 164 - Cho Nên Nói Toán Học Không Thể Cút Khỏi Linh Kiếm Sơn
 book_name: linh-kiem-son
+chapter: 164
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 164: 
-
-Chương 39:: Cho nên nói toán học không thể cút khỏi Linh Kiếm Sơn
+# Chương 164: Cho Nên Nói Toán Học Không Thể Cút Khỏi Linh Kiếm Sơn
 
 Vân Lộc trên Thiên đài chiến đấu, khiến cho rất nhiều người vây xem cảm thấy hô hấp gian nan.
 

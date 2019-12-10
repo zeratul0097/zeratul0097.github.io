@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 297: 
+title: Chương 297 - Blai Thony Á Người Kiêu Ngạo
 book_name: linh-kiem-son
+chapter: 297
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 297: 
+# Chương 297: Blai Thony Á Người Kiêu Ngạo
 
 "Ầm, oanh"
 

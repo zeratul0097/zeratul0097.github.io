@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 202: 
+title: Chương 202 - Hắn Thác Cổ Quan Hệ Của Chúng Ta!
 book_name: linh-kiem-son
+chapter: 202
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 202: 
-
-Chương 31:: Hắn thác cổ quan hệ của chúng ta!
+# Chương 202: Hắn Thác Cổ Quan Hệ Của Chúng Ta!
 
 Đón mười lăm tháng bảy tà dương, Vương Lục đoàn người ở tiểu Thất phép thuật che lấp dưới, ở Vân Đài Sơn bên trong dễ như ăn cháo địa lướt qua vài đạo tiếu cương, dần dần tới gần đêm nay sân khấu.
 

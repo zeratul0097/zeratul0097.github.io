@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 65: Sư phụ đại nhân giấu thật sâu
+title: Chương 65 - Sư phụ đại nhân giấu thật sâu
 book_name: linh-kiem-son
+chapter: 65
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

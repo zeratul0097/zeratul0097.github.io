@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 317: 
+title: Chương 317 - Ta Là Lừa Ngươi ~
 book_name: linh-kiem-son
+chapter: 317
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 317: 
+# Chương 317: Ta Là Lừa Ngươi ~
 
 Thiếu nữ nụ cười lóe lên liền qua.
 

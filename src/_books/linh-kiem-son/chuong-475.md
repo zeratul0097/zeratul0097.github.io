@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 475: 
+title: Chương 475 - Quỷ Triều Thổi Đèn
 book_name: linh-kiem-son
+chapter: 475
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 475: 
+# Chương 475: Quỷ Triều Thổi Đèn
 
 Vương Lục thật cảm thấy mở mang tầm mắt.
 

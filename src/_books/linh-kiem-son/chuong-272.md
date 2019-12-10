@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 272: 
+title: Chương 272 - Ngươi Nghe Nói Qua Tinh Thần Tiên Nữ Sao?
 book_name: linh-kiem-son
+chapter: 272
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 272: 
+# Chương 272: Ngươi Nghe Nói Qua Tinh Thần Tiên Nữ Sao?
 
 Vương Lục tuỳ tùng sư phụ phá tan Tứ Cửu thiên kiếp, nhìn thấy lâu không gặp quang minh, cũng nhìn thấy lâu không gặp sư môn trưởng lão.
 

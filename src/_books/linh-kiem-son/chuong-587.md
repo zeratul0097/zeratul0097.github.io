@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 587: 
+title: Chương 587 - Kim Thủ Chỉ
 book_name: linh-kiem-son
+chapter: 587
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 587: 
+# Chương 587: Kim Thủ Chỉ
 
 "Lần này thức tỉnh đồng bạn? Nắm có dị nghị?"
 

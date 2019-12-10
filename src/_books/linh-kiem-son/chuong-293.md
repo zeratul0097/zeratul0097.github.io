@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 293: 
+title: Chương 293 - 999 Đóa Hoa Hồng Tượng Trưng Ta Chân Tâm
 book_name: linh-kiem-son
+chapter: 293
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 293: 
+# Chương 293: 999 Đóa Hoa Hồng Tượng Trưng Ta Chân Tâm
 
 Tầng thứ năm là cái Đại thế giới.
 

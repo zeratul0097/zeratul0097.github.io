@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 327: 
+title: Chương 327 - Tìm Vật
 book_name: linh-kiem-son
+chapter: 327
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 327: 
+# Chương 327: Tìm Vật
 
 Dọc theo cái kia xuyên qua tầng thứ năm không gian hào quang con đường thẳng tắp tiến lên, không biết bao lâu sau khi, trước mắt không gian một đổi, một toà dị thường hùng vĩ vôi sắc cửa đá xuất hiện ở trước mắt.
 

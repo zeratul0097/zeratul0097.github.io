@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 653: 
+title: Chương 653 - Thực Sự Là Có Lỗi Với Chính Mình Cánh Chim (cánh)
 book_name: linh-kiem-son
+chapter: 653
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 653: 
+# Chương 653: Thực Sự Là Có Lỗi Với Chính Mình Cánh Chim (cánh)
 
 "Hô, không có sao chứ?"
 

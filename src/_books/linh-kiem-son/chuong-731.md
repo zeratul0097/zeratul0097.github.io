@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 731: 
+title: Chương 731 - Đại Biểu Cửu Châu Trinh Tiết Đạo Đức Trừng Phạt Ngươi!
 book_name: linh-kiem-son
+chapter: 731
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 731: 
+# Chương 731: Đại Biểu Cửu Châu Trinh Tiết Đạo Đức Trừng Phạt Ngươi!
 
 "Đương nhiên có chuyện."
 

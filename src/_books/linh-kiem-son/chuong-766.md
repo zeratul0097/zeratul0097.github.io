@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 766: 
+title: Chương 766 - Liền Ngự Ba Nữ
 book_name: linh-kiem-son
+chapter: 766
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 766: 
+# Chương 766: Liền Ngự Ba Nữ
 
 Oanh
 

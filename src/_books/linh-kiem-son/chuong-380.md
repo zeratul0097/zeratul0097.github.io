@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 380: 
+title: Chương 380 - Mai Mở Hai Độ
 book_name: linh-kiem-son
+chapter: 380
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 380: 
+# Chương 380: Mai Mở Hai Độ
 
 Đầy trời nhỏ vụn vụn phấn ở trước mắt chậm rãi hạ xuống, Đào Hoa Thôn bên trong hết thảy đều biến mất không thấy hình bóng, thay vào đó chính là đàn tiên mộ bên trong thâm thúy vô tận óng ánh Ngân hà.
 

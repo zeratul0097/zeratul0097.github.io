@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 350: 
+title: Chương 350 - An Toàn Chạy
 book_name: linh-kiem-son
+chapter: 350
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 350: 
+# Chương 350: An Toàn Chạy
 
 Vù
 

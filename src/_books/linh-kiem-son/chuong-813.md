@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 813: 
+title: Chương 813 - Mau Đưa Tiện Lợi Ăn Trở Lại!
 book_name: linh-kiem-son
+chapter: 813
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 813: 
+# Chương 813: Mau Đưa Tiện Lợi Ăn Trở Lại!
 
 "Tê Hà Sơn, đi!"
 

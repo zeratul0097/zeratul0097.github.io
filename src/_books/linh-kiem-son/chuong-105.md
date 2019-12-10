@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Chương 105: 
+title: Chương 105 - Biết ta tội ta, duy xuân thu
 book_name: linh-kiem-son
+chapter: 105
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 105: 
-
-Chương 21:: Biết ta tội ta, duy xuân thu
+# Chương 105: Biết ta tội ta, duy xuân thu
 
 Đối với Kiền Nguyên Nhiên Huyết Công, Thương Khê châu Tu Tiên giới có thật nhiều người cũng sẽ không xa lạ, có thể nói đại danh đỉnh đỉnh.
 

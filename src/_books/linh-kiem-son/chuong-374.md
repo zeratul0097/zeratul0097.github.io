@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 374: 
+title: Chương 374 - Những Thứ Này Đều Là Ta Chơi Còn Lại
 book_name: linh-kiem-son
+chapter: 374
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 374: 
+# Chương 374: Những Thứ Này Đều Là Ta Chơi Còn Lại
 
 Ở Tinh Thần Phong trúc bên trong lâm thời hội nghị vẫn mở ra lúc sáng sớm.
 

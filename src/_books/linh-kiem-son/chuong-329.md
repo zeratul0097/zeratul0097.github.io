@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 329: 
+title: Chương 329 - Cướp Đoạt Nhân Loại Tư Cách
 book_name: linh-kiem-son
+chapter: 329
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 329: 
+# Chương 329: Cướp Đoạt Nhân Loại Tư Cách
 
 Mãi đến tận rời đi cửa thứ nhất lơ lửng giữa trời đảo hồi lâu, Aya nhưng chìm đắm ở trong khiếp sợ khó có thể tự kiềm chế.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 616: 
+title: Chương 616 - Quần Tiên Thành
 book_name: linh-kiem-son
+chapter: 616
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 616: 
+# Chương 616: Quần Tiên Thành
 
 Ở đàn tiên mộ trống trải trong điện phủ, dài lâu yên tĩnh nhuộm đẫm ra khó có thể dùng lời diễn tả được không khí lúng túng. Chỉ có dưới chân không ngừng cuồn cuộn mù sương mây mù, vì vùng không gian này xây dựng mấy phần tức giận.
 

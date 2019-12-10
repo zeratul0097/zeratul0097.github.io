@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 622: 
+title: Chương 622 - Ta Cùng Hắn Là Thuần Khiết!
 book_name: linh-kiem-son
+chapter: 622
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 622: 
+# Chương 622: Ta Cùng Hắn Là Thuần Khiết!
 
 "Thực sự là mở mang tầm mắt a."
 

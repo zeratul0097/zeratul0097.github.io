@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 29: Càng kiên càng cao càng cứng hơn!
+title: Chương 29 - Càng kiên càng cao càng cứng hơn!
 book_name: linh-kiem-son
+chapter: 29
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

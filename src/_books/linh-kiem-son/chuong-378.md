@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 378: 
+title: Chương 378 - Nữ Tử Có Thể Đỉnh Nửa Bầu Trời, Hai Cô Gái Liền Viên Mãn
 book_name: linh-kiem-son
+chapter: 378
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 378: 
+# Chương 378: Nữ Tử Có Thể Đỉnh Nửa Bầu Trời, Hai Cô Gái Liền Viên Mãn
 
 Âm Dương tông nữ tu sĩ môn, hay là Tiên đạo trên thủ đoạn so với cái khác cùng thuộc về thượng phẩm môn phái có chỗ không bằng, nhưng Âm Dương tông có thể ở Vạn Tiên Minh lên tới hàng ngàn, hàng vạn tông phái trung vị liệt đến 100 vị trí đầu thượng phẩm hàng ngũ, luôn có đạo lý của hắn.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 512: 
+title: Chương 512 - Tình Kiếm Thật Không Phải Làm Cho Người Ta Tu...
 book_name: linh-kiem-son
+chapter: 512
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 512: 
+# Chương 512: Tình Kiếm Thật Không Phải Làm Cho Người Ta Tu...
 
 Sa mạc ốc đảo bên trong, mâu thuẫn đang không ngừng ấp ủ trở nên gay gắt.
 

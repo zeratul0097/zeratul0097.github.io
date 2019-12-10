@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 526: 
+title: Chương 526 - Rối Loạn Luân Lý
 book_name: linh-kiem-son
+chapter: 526
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 526: 
+# Chương 526: Rối Loạn Luân Lý
 
 Thời gian một năm, đã nói liền quá khứ.
 

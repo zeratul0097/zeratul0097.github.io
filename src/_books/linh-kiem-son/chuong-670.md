@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 670: 
+title: Chương 670 - Ngày Mai Ra Ngoài Mở Hội, Sớm Xin Nghỉ Một Ngày
 book_name: linh-kiem-son
+chapter: 670
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 670: 
+# Chương 670: Ngày Mai Ra Ngoài Mở Hội, Sớm Xin Nghỉ Một Ngày
 
 "Chắc chắn thắng?"
 

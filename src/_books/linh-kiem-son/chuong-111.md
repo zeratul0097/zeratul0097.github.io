@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 111: 
+title: Chương 111 - Cho người một ngày, từ từ suy nghỉ
 book_name: linh-kiem-son
+chapter: 111
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 111: 
+# Chương 111: Cho người một ngày, từ từ suy nghỉ
 
 Thất Tinh chưởng môn xác thực luyện qua Kiền Nguyên Nhiên Huyết Công.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 561: 
+title: Chương 561 - Chân Chính Nhân Cách Mị Lực Ở Chỗ Động Thủ Thực Tiễn
 book_name: linh-kiem-son
+chapter: 561
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 561: 
+# Chương 561: Chân Chính Nhân Cách Mị Lực Ở Chỗ Động Thủ Thực Tiễn
 
 Tu tiên chi đạo xưa nay không phải công bằng.
 

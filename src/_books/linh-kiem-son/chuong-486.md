@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 486: 
+title: Chương 486 - Này Làm Người Ước Ao Ghen Tị Xuất Thân...
 book_name: linh-kiem-son
+chapter: 486
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 486: 
+# Chương 486: Này Làm Người Ước Ao Ghen Tị Xuất Thân...
 
 Âu Dương Thương là cái cấp tiến nhưng người cẩn thận.
 

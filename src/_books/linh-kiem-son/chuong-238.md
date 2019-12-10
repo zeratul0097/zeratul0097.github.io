@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 238: 
+title: Chương 238 - Trí Giả Lưu Ly Tiên Xảo Giải Nạn Đề
 book_name: linh-kiem-son
+chapter: 238
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 238: 
+# Chương 238: Trí Giả Lưu Ly Tiên Xảo Giải Nạn Đề
 
 Chờ Vương Lục kết thúc cùng Hải Vân Phàm đối thoại, bên trong thạch thất không khí trầm mặc rất nhanh sẽ bị đánh vỡ.
 

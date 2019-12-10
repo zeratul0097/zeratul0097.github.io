@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 209: 
+title: Chương 209 - Lưu Ly Tiên Vĩnh Viễn Hoạt Ở Trong Lòng Ta
 book_name: linh-kiem-son
+chapter: 209
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 209: 
+# Chương 209: Lưu Ly Tiên Vĩnh Viễn Hoạt Ở Trong Lòng Ta
 
 Thương tâm có hay không cũng coi như thương tổn một phần, a hạ đã không kịp ngẫm nghĩ nữa.
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 269: 
+title: Chương 269 - Vô Hạn Tùy Cơ Phó Bản
 book_name: linh-kiem-son
+chapter: 269
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 269: 
+# Chương 269: Vô Hạn Tùy Cơ Phó Bản
 
 Bị Vạn Tiên Minh thơ ngũ tuyệt trân mà trùng chi Thái Cổ kiếm trủng, chỉ là to lớn trên internet một cái bé nhỏ không đáng kể điểm, mà ở trên internet, ngàn vạn cái tiết điểm dường như đầy sao bình thường làm người hoa cả mắt.
 

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 385: Cửa Ải Này Là Cường Điệu Chiến Đấu! ?
+title: Chương 385 - Cửa Ải Này Là Cường Điệu Chiến Đấu! ?
 book_name: linh-kiem-son
+chapter: 385
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

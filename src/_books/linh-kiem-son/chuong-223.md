@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 223: 
+title: Chương 223 - Con Người Của Ta Không Quá Sẽ Nói
 book_name: linh-kiem-son
+chapter: 223
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 223: 
+# Chương 223: Con Người Của Ta Không Quá Sẽ Nói
 
 Liên quan với Chu Thi Dao truyền thuyết, ở Linh Kiếm Sơn trên là nhiệt độ nhiều năm duy trì không giảm đề tài.
 

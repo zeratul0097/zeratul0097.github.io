@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 337: 
+title: Chương 337 - Này Cùng Nói Cẩn Thận Không Giống Nhau A! ?
 book_name: linh-kiem-son
+chapter: 337
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 337: 
+# Chương 337: Này Cùng Nói Cẩn Thận Không Giống Nhau A! ?
 
 Làm cửa đá kết thúc bích hoạ biểu thị sau khi, đoàn người rơi vào dài lâu trầm mặc.
 

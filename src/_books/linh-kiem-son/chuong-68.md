@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 68: Kim Đan chiến Nguyên Anh
+title: Chương 68 - Kim Đan chiến Nguyên Anh
 book_name: linh-kiem-son
+chapter: 68
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---

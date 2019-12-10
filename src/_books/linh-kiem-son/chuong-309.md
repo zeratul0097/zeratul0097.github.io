@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 309: 
+title: Chương 309 - Khó Coi!
 book_name: linh-kiem-son
+chapter: 309
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 309: 
+# Chương 309: Khó Coi!
 
 Long thành thành chủ tự mình tập kích Tài Phán Sở, cứu viện dưới trướng hai tên lính mới sự tình cũng không có truyền ra.
 

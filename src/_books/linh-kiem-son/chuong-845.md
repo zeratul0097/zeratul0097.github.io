@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 845: 
+title: Chương 845 - Không Muốn Nói Gặp Lại
 book_name: linh-kiem-son
+chapter: 845
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 845: 
+# Chương 845: Không Muốn Nói Gặp Lại
 
 Hạ vũ đặt mình trong biển lửa.
 

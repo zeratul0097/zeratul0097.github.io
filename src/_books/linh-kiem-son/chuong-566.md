@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 566: 
+title: Chương 566 - Một Làn Sóng Mang Đi Không Thể Kinh Hãi!
 book_name: linh-kiem-son
+chapter: 566
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 566: 
+# Chương 566: Một Làn Sóng Mang Đi Không Thể Kinh Hãi!
 
 "Ta nghĩ, hai người chúng ta trong lúc đó tồn tại một ít hiểu lầm."
 

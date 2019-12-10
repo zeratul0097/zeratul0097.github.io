@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Chương 759: 
+title: Chương 759 - Thắng?
 book_name: linh-kiem-son
+chapter: 759
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 759: 
+# Chương 759: Thắng?
 
 "Đọa tiên chẳng mấy chốc sẽ đến rồi?"
 

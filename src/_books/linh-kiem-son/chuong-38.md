@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Chương 38: Văn Nhân cùng tiểu hỏa bạn nhóm đều sợ ngây người...
+title: Chương 38 - Văn Nhân cùng tiểu hỏa bạn nhóm đều sợ ngây người...
 book_name: linh-kiem-son
+chapter: 38
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
