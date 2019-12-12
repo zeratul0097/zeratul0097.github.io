@@ -53,7 +53,7 @@ Vương Lục yên lặng nhắm mắt lại, thở dài.
 
 Vào lúc này, nói cái gì đều không có tác dụng, oán giận sư môn báu vật không góp sức? Hối hận chính mình không nên tùy tiện thâm nhập? Suy đoán thiên phù mất đi hiệu lực nguyên lý? Có tác dụng đâu? Lúc trước quyết sách thời điểm, nên đầy đủ cân nhắc đến hết thảy biến hóa...
 
-[ truyen cｕa tui | net ] Vì lẽ đó hiện tại, liền nên khởi động dự án.
+Vì lẽ đó hiện tại, liền nên khởi động dự án.
 
 Thiên phù mất đi hiệu lực, cứ việc làm người khiếp sợ, nhưng cũng không tính đặc biệt ngoài ý muốn, kém cỏi nhất mong muốn so với này còn bết bát hơn, đón lấy... Cũng không phải không có đến chơi.
 

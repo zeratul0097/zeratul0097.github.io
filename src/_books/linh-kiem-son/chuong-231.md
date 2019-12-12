@@ -47,7 +47,7 @@ Thịnh Kinh Tiên Môn tu sĩ tuy rằng thân hình cao lớn, cũng không ph
 
 Vương Lục hời hợt địa nói rằng: "Tu hú chiếm tổ chim khách, này chính là các ngươi Thịnh Kinh Tiên Môn xử thế chi đạo?"
 
-[ truyen cua tui |❊Net ] "Tu hú chiếm tổ chim khách? Buồn cười, vật vô chủ, lúc nào thành nhà ngươi đồ vật?"
+"Tu hú chiếm tổ chim khách? Buồn cười, vật vô chủ, lúc nào thành nhà ngươi đồ vật?"
 
 Vương Lục nghe được lời ấy, nhất thời nở nụ cười, sau đó ngẩng đầu lên: "Nếu ngươi cũng thừa nhận là vật vô chủ, vậy ít nhất không tính Thịnh Kinh Tiên Môn hết thảy, mọi người gác lại tranh luận, cộng đồng khai phá chính là, mà thăm dò mộ kiếm thâm tầng mỗi người dựa vào cơ duyên... Như vậy ngược lại cũng không tồi."
 

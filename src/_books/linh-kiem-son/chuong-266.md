@@ -59,7 +59,7 @@ Kiếm Ma mặt không hề cảm xúc mà nhìn uy năng càng hơn dĩ vãng t
 
 Đang khi nói chuyện, Kiếm Ma cười nhạo một tiếng, cùng lúc đó, Vương Lục chỉ cảm thấy nguyên thần, Ngọc Phủ, thân thể đồng thời chấn động, bốn phía thế giới dường như đánh nát lưu ly giống như vậy, vỡ vụn thành ngàn vạn mảnh vỡ.
 
-[ truyen cua tui @@ Net ] Màu máu bầu trời cùng với ngàn vạn tàn kiếm, ở Kiếm Ma nở nụ cười liền biến thành tro bụi. Mà bản mệnh thần thông bị phá, Vương Lục chỉ cảm thấy phản phệ bên dưới, hoa mắt chóng mặt, ngực khó chịu, thất khiếu bên trong đều chảy ra máu.
+Màu máu bầu trời cùng với ngàn vạn tàn kiếm, ở Kiếm Ma nở nụ cười liền biến thành tro bụi. Mà bản mệnh thần thông bị phá, Vương Lục chỉ cảm thấy phản phệ bên dưới, hoa mắt chóng mặt, ngực khó chịu, thất khiếu bên trong đều chảy ra máu.
 
 "Hỗn độn Phá Thiên Thần Kiếm tất cả ta đều rõ như lòng bàn tay, ngươi ở trên mặt này tiêu tốn tâm tư tinh lực càng nhiều, phần thắng cũng là càng nhỏ. Dù cho là trong truyền thuyết Tiên giới hạ phàm chi kỳ tài, cũng không thể ở trong thời gian ngắn ngủi, ở hỗn độn Phá Thiên Thần Kiếm một đạo, nắm giữ so với ta càng sâu trình độ."
 

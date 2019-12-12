@@ -55,7 +55,7 @@ Vương Lục cũng không tin hắn là thật sự không vội vã, như khô
 
 Không riêng Kiếm Ma gấp, Vương Lục cũng tương tự gấp, Chu Thi Dao sống chết không rõ, kéo càng lâu, rất khả năng tình thế liền càng nát. Hơn nữa đối với Vương Lục bản thân tới nói, nơi đây cũng không thích hợp ở lâu, dù sao không phải là mình sân nhà, chỉ dựa vào một tấm linh kiếm thiên phù cũng không an toàn, càng vấn đề trí mạng là, song phương nắm giữ tin tức hoàn toàn không ngang nhau.
 
-t❊r u y e n c u a t u i n e t Vì lẽ đó, muốn phá cục, phải sập tiệm ở ngoài chiêu. Vương Lục trong lòng suy tính một trận, vẫn là quyết định binh hành hiểm chiêu, trước tiên phá vỡ cục diện bế tắc lại nói.
+Vì lẽ đó, muốn phá cục, phải sập tiệm ở ngoài chiêu. Vương Lục trong lòng suy tính một trận, vẫn là quyết định binh hành hiểm chiêu, trước tiên phá vỡ cục diện bế tắc lại nói.
 
 Hắn lấy ra Khôn Sơn Kiếm, một tay cầm kiếm nhằm phía Kiếm Ma.
 

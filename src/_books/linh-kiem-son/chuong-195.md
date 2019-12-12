@@ -55,7 +55,7 @@ Vì lẽ đó, khi (làm) A Hạ cho ăn nàng dùng một viên rất viên th
 
 A Hạ nói cho nàng biết, cái kia là có thể giúp nàng ở hoá hình chi kiếp bên trong thuận lợi quá quan Linh Dược.
 
-ghé thäm http://truyencuａtui.net/ để đọc tｒuyện Linh Yên gật gù, liền vui vẻ tiếp nhận rồi, dưới cái nhìn của nàng, ngược lại cũng sẽ không có vấn đề, A Hạ chỉ là cái quái nhân mà không phải người xấu, hơn nữa chính mình lại là ở Ngự Thú tông như vậy Đại tông phái bên trong, không biết bao nhiêu người nhìn đây này
+Linh Yên gật gù, liền vui vẻ tiếp nhận rồi, dưới cái nhìn của nàng, ngược lại cũng sẽ không có vấn đề, A Hạ chỉ là cái quái nhân mà không phải người xấu, hơn nữa chính mình lại là ở Ngự Thú tông như vậy Đại tông phái bên trong, không biết bao nhiêu người nhìn đây này
 
 Dùng qua viên thuốc sau, Linh Yên ngủ mê ròng rã ba ngày, khi tỉnh lại, hết thảy đều thay đổi.
 

@@ -37,7 +37,7 @@ Thấy mọi người vẫn có không ít không có hồi qua vị, Vương L
 
 Lời nói này nói xong, những môn phái khác người cũng vẫn được, Vạn Pháp Tiên Môn người nhưng cùng nhau rơi vào trầm tư, đối với cơ quan thiết kế một đạo, những người này đều có không ít nghiên cứu, đặc biệt là chuyến này đến đây Thái Cổ kiếm trủng, đến trước đều từng làm bài tập.
 
-đọc truyện tại http://tｒuyencuatui.net "Nói cách khác, cái này sinh mệnh có trí tuệ, đối với này một cửa khảo nghiệm tới nói, rất khả năng là xâm lấn dị vật, cũng không phải là hàng nguyên đai nguyên kiện sắc."
+"Nói cách khác, cái này sinh mệnh có trí tuệ, đối với này một cửa khảo nghiệm tới nói, rất khả năng là xâm lấn dị vật, cũng không phải là hàng nguyên đai nguyên kiện sắc."
 
 "Sau đó thì sao?"
 

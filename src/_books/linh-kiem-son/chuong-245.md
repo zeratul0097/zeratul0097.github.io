@@ -103,15 +103,15 @@ Một lời đã ra, cả phòng đều kinh.
 
 Vương Lục dĩ nhiên liền như thế tự mình kết cục? Lẽ nào hắn thật sự có niềm tin tất thắng? Ở thịt con rối chiến thuật trên càng tiến vào một tầng, đến tột cùng là chỉ cái gì?
 
-Ở tầm mắt mọi người chú ý, Vương Lục cười nhạt nói: "Ta thanh minh, hướng về ■■ cống hiến cho"
+Ở tầm mắt mọi người chú ý, Vương Lục cười nhạt nói: "Ta thanh minh, hướng về cống hiến cho"
 
 Sau một khắc, kim quang loé ra, thanh minh đã có hiệu lực
 
-■■?
+?
 
-Trong lúc nhất thời, liền ngay cả lúc trước trấn định nhất Giang Lưu, đều hơi kinh ngạc,■■ là cái gì?
+Trong lúc nhất thời, liền ngay cả lúc trước trấn định nhất Giang Lưu, đều hơi kinh ngạc, là cái gì?
 
-"Cái gọi là ■■ chỉ là một cái danh hiệu, bản chất là một loại thần bí tồn tại, nó không cách nào bị bất luận người nào lấy bất kỳ phương thức quan trắc đến, nó chân chính tục danh cũng không cách nào bị người lấy bất kỳ phương thức nói ra, mà ta, thanh minh hướng về nó cống hiến cho."
+"Cái gọi là chỉ là một cái danh hiệu, bản chất là một loại thần bí tồn tại, nó không cách nào bị bất luận người nào lấy bất kỳ phương thức quan trắc đến, nó chân chính tục danh cũng không cách nào bị người lấy bất kỳ phương thức nói ra, mà ta, thanh minh hướng về nó cống hiến cho."
 
 Vương Lục nói, ánh mắt gần như khiêu khích địa nhìn về phía bốn phía, "Phía dưới, hoan nghênh mọi người đến nghi vấn ta trung thành."
 
@@ -125,7 +125,7 @@ Không thể bị bất luận người nào lấy bất kỳ phương thức qu
 
 Này so với thịt con rối cùng đã qua đời giả xác thực là càng tiến lên một bước, không đúng hiện thực có bất luận ảnh hưởng gì, đương nhiên sẽ không gặp phải mảy may vi phạm, hướng về nó cống hiến cho, quả thực là không phá Kim Thân
 
-Một hồi lâu sau, một cái thịnh kinh tu sĩ thử nghiệm mở miệng hỏi: "Ngươi nói ■■, đến tột cùng là cái gì? Ngươi phải như thế nào hướng về nó cống hiến cho?"
+Một hồi lâu sau, một cái thịnh kinh tu sĩ thử nghiệm mở miệng hỏi: "Ngươi nói, đến tột cùng là cái gì? Ngươi phải như thế nào hướng về nó cống hiến cho?"
 
 Vương Lục quả đoán đáp: "Không thể trả lời"
 
@@ -143,7 +143,7 @@ Bất quá, Vương Lục cũng quá có lòng tin chút, như thế rất sớ
 
 "Triệu kiếm, ngươi đến." Giang Lưu quay đầu, đối với một tên đồng môn sư đệ liếc mắt ra hiệu.
 
-Tu sĩ kia gật gù, sau đó cao giọng nói rằng: "Ta thanh minh, đối với ●● cống hiến cho cái gọi là ●●, chỉ là một cái danh hiệu, bản chất là một loại thần bí tồn tại, nó không cách nào bị bất luận người nào lấy bất kỳ phương thức quan trắc đến, nó chân chính tục danh cũng không cách nào bị người lấy bất kỳ phương thức nói ra, mà ta, thanh minh hướng về nó cống hiến cho."
+Tu sĩ kia gật gù, sau đó cao giọng nói rằng: "Ta thanh minh, đối với cống hiến cho cái gọi là, chỉ là một cái danh hiệu, bản chất là một loại thần bí tồn tại, nó không cách nào bị bất luận người nào lấy bất kỳ phương thức quan trắc đến, nó chân chính tục danh cũng không cách nào bị người lấy bất kỳ phương thức nói ra, mà ta, thanh minh hướng về nó cống hiến cho."
 
 Lời kịch cùng Vương Lục một chữ đều không kém. Đối với này Vương Lục không nhịn được cười nói: "Lấy đạo của người trả lại cho người? Không nghĩ tới ngươi đường đường Thịnh Kinh Tiên Môn cũng làm lên sơn trại chuyện làm ăn."
 

@@ -95,7 +95,7 @@ Liền A Hạ không tiếc tất cả, đem trong trận còn sót lại loại
 
 Hơn mười đầu lấy đại địa vì là áo giáp cự thú, cùng với nhanh đi như gió ma lang cộng đồng tạo thành phòng tuyến, đem mấy con muốn hại: chỗ yếu Linh Thú che lấp ở phía sau. Tàu cao tốc bất kể là lấy tự thân xông tới, vẫn là Lôi Hỏa tháp đại bác, đều kiên quyết Vô Pháp dễ dàng xé rách phòng tuyến như vậy.
 
-t r u y e n c u❤a t u i n e t Phòng tuyến tạo thành lúc, A Hạ trong lòng thoáng thở phào nhẹ nhõm, hắn vốn tưởng rằng tàu cao tốc sẽ lấy linh động ưu thế nhiễu loạn trận hình, vì thế hắn không tiếc thiêu đốt Nguyên Thần đến tế luyện trận đồ, khiến cho linh thú hành động thêm nhanh thêm mấy phần, cuối cùng cũng coi như kịp đem phòng tuyến cấu trúc xong xuôi.
+Phòng tuyến tạo thành lúc, A Hạ trong lòng thoáng thở phào nhẹ nhõm, hắn vốn tưởng rằng tàu cao tốc sẽ lấy linh động ưu thế nhiễu loạn trận hình, vì thế hắn không tiếc thiêu đốt Nguyên Thần đến tế luyện trận đồ, khiến cho linh thú hành động thêm nhanh thêm mấy phần, cuối cùng cũng coi như kịp đem phòng tuyến cấu trúc xong xuôi.
 
 Sau đó, ở hắn kinh hãi gần chết trong ánh mắt, tàu cao tốc tháp đại bác phun ra nhất khẩu phi kiếm.
 

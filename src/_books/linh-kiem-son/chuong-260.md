@@ -59,7 +59,7 @@ Vương Lục đối với này đúng là không hề để ý: "Đối phươn
 
 "Khà khà, lao ngài nhọc lòng, tuy rằng mất máu có thêm điểm, còn khôi phục lại đây."
 
-Truyện Của Tｕi . Net "Hừm, vậy thì tốt, chú ý điều dưỡng, không cần thiết nóng lòng nhất thời, bọn họ đột nhiên thất bại dưới không sẽ lập tức quay đầu trở lại, chúng ta còn có thời gian."
+"Hừm, vậy thì tốt, chú ý điều dưỡng, không cần thiết nóng lòng nhất thời, bọn họ đột nhiên thất bại dưới không sẽ lập tức quay đầu trở lại, chúng ta còn có thời gian."
 
 Hai người một hỏi một đáp, bình thản bên trong hiện ra nhàn nhạt quan tâm, chỉ là hai người trong giọng nói, nhưng đều có chút không nói rõ được cũng không tả rõ được mùi vị, khiến cho đối thoại có vẻ quỷ dị lên.
 

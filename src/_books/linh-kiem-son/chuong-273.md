@@ -67,7 +67,7 @@ Thiên Nguyệt cười lạnh nói: "Sư phụ ngươi dùng không biết các
 
 Thiên Nguyệt trừng người trưởng lão kia một chút: "Chúng ta bốn phái trước sau đến, linh kiếm phái trước hết. Hơn nữa này một đường đi tới, ngươi có thể bảo đảm linh kiếm phái mỗi người mỗi một cái động tác đều ở ngươi nắm trong bàn tay? Bọn họ nhân lúc người ta không để ý khai quật xuất kiếm trủng một ít bí mật, có chuyện gì ngạc nhiên? Huống hồ coi như này bức bản đồ là chính xác, cũng không có nghĩa là những bộ phận khác cũng chính xác. Ngàn vạn Tiên bảo, thiệt thòi hắn dám to gan ý nghĩ kỳ lạ"
 
-http://truyencuaＴui.net/ Lần này thuyết pháp, liền có chút cãi chày cãi cối mùi vị, nhất thời để vạn pháp trưởng lão ninh lên lông mày, chuẩn bị kỹ càng thật cùng vị này hợp thể chân quân nhận biết một phen.
+Lần này thuyết pháp, liền có chút cãi chày cãi cối mùi vị, nhất thời để vạn pháp trưởng lão ninh lên lông mày, chuẩn bị kỹ càng thật cùng vị này hợp thể chân quân nhận biết một phen.
 
 Bất quá Thiên Nguyệt chân quân cái nào có hứng thú cùng người phân bua lý? Hắn tuy rằng cãi chày cãi cối quen rồi, nhưng lại không phải lỗ mãng vô tri kẻ ngu dốt, bằng không Thịnh Kinh Tiên Môn sớm đem này từ sáng đến tối gây rắc rối yêu tu trấn áp vạn năm. Hắn đương nhiên biết Vương Lục địa đồ chân thực tính rất cao, nhưng hắn càng muốn coi đây là đột phá, hùng hổ doạ người, kỳ thực là vì muốn Vương Lục lấy ra càng nhiều tin tức đi chứng minh.
 

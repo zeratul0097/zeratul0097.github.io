@@ -47,7 +47,7 @@ Vương Lục âm thanh lạnh lẽo mà trào phúng ý vị mười phần, ba
 
 Cùng a hạ tưởng tượng có chỗ bất đồng, thương tâm là không thể đơn giản cho rằng thương tổn một loại, Vương Lục lúc này lấy vô danh kiếm cộng hưởng năng lực đem Ngọc Phủ chi hỏa hướng phát triển đối phương, kỳ thực là đánh một cái rất vi diệu gần cầu.
 
-[ truyen cｕa tui | net ] Mà tâm ma đại thề là không cho phép gần cầu, Vương Lục ràng buộc đối tượng, cùng với giám sát ràng buộc người đều là chính hắn, tất cả nhận thức trên lừa gạt thủ đoạn cũng không thể giấu giếm được chính mình bản tâm. Huống hồ làm tự mình ràng buộc, tâm ma đại thề bản thân liền là cái linh cùng trò chơi, lời thề khen thưởng vừa vặn đến từ ràng buộc lừa gạt mình đồng thời, coi như không phát động tâm ma trừng phạt, cũng sẽ mất đi cái này lời thề dành cho khen thưởng.
+Mà tâm ma đại thề là không cho phép gần cầu, Vương Lục ràng buộc đối tượng, cùng với giám sát ràng buộc người đều là chính hắn, tất cả nhận thức trên lừa gạt thủ đoạn cũng không thể giấu giếm được chính mình bản tâm. Huống hồ làm tự mình ràng buộc, tâm ma đại thề bản thân liền là cái linh cùng trò chơi, lời thề khen thưởng vừa vặn đến từ ràng buộc lừa gạt mình đồng thời, coi như không phát động tâm ma trừng phạt, cũng sẽ mất đi cái này lời thề dành cho khen thưởng.
 
 Dù cho vẻn vẹn là cái gần cầu, đều sẽ đối với lòng này ma đại thề tạo thành rất lớn dao động. Mà ở Vương Lục nhân sinh quy hoạch bên trong, tâm ma đại thề tồn tại là cực kỳ cần phải, vì lẽ đó việc này như muốn song toàn, cũng chỉ có một biện pháp: Thản nhiên tiếp thu gần cầu sự thực, cùng là cũng thản nhiên tiếp thu tâm ma trừng phạt. Tâm ma đoạt mệnh, vậy thì thiêu đốt sinh mệnh tế hiến cho tâm ma, mãi đến tận hắn hài lòng mới thôi.
 

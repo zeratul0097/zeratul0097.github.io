@@ -89,7 +89,7 @@ Nghĩ tới đây, Vương Lục rốt cục có linh cảm: "Cái gọi là bá
 
 Kiếm Ma nhàn nhạt nở nụ cười: "Cùng mở ra phi thăng con đường mạc đại công đức so với, Chung Thắng Minh cuộc đời hết thảy đều bé nhỏ không đáng kể, lấy công đức luận, thần nhiều ma cũng không kỳ quái."
 
-http://truyenyy.net/ Vương Lục nói rằng: "Thì ra là như vậy, nhưng đó chỉ là thế nhân hiểu lầm, Chung Thắng Minh bản thân hẳn là sẽ không vì ngoại vật ảnh hưởng, bất luận thế nhân chê khen, đều không có quan hệ gì với hắn, cũng không thể người ta nói hắn công lớn lao yên, hắn liền bỗng nhiên biến thành đạo đức thánh nhân."
+Vương Lục nói rằng: "Thì ra là như vậy, nhưng đó chỉ là thế nhân hiểu lầm, Chung Thắng Minh bản thân hẳn là sẽ không vì ngoại vật ảnh hưởng, bất luận thế nhân chê khen, đều không có quan hệ gì với hắn, cũng không thể người ta nói hắn công lớn lao yên, hắn liền bỗng nhiên biến thành đạo đức thánh nhân."
 
 "Chẳng phải ngửi ngàn người công kích, không bệnh mà chết? Thế gian lòng người là có sức mạnh, hay là trong hồng trần phàm nhân, nguồn sức mạnh này còn rất yếu ớt, nhưng bước lên tiên lộ tu sĩ nhưng không như thế. Một cái bạo ngược quân vương có thể tùy ý ức vạn lê dân nguyền rủa mà vững vàng vương tọa, nhưng không có bất kỳ tu sĩ nào có thể chịu nổi ngàn vạn tu sĩ cùng kêu lên trách cứ. Đồng dạng, làm hết thảy tu sĩ đều cho rằng một cái vì bách lê chúng sinh tạo phúc người là Kiếm thần thời, bản thân của hắn đến tột cùng là thần là ma cũng liền không còn quan trọng nữa."
 

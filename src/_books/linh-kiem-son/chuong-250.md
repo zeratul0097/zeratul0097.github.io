@@ -41,7 +41,7 @@ Vừa vặn vào lúc này, Hải Vân Phàm nói rằng: "Quy tắc đi ra ở 
 
 Mọi người lập tức hướng về một chỗ nhìn lại, trên vách đá, một nhóm cổ điển chữ viết chậm rãi nổi lên, so với phía trước mấy quan phiền phức nghiêm cẩn, cửa ải này quy tắc càng là lạ kỳ đơn giản
 
-[ truyen cua tui |❊Net ] Quy tắc: Người nếu như không có sỉ, cùng cầm thú có gì khác nhau đâu?
+Quy tắc: Người nếu như không có sỉ, cùng cầm thú có gì khác nhau đâu?
 
 Mỗi người thiết trí sỉ độ, xấu hổ cảm sẽ tăng cường sỉ độ, đến 100 điểm tức thất bại, cái cuối cùng người may mắn còn sống sót thắng lợi.
 
@@ -51,9 +51,7 @@ Nói cách khác, chính là nghĩ biện pháp để những người khác ng�
 
 Mới vừa cùng Giang Lưu đối thoại, hắn cũng không có đem chính mình nghĩ đến đồ vật toàn nói hết ra. Từ lúc cửa thứ nhất thời điểm, Vương Lục đối với này bát đức thử thách liền có càng sâu tầng suy đoán, lúc này thấy đến sỉ môn quy tắc, càng thêm xác minh phán đoán của hắn.
 
-Cái này hậu trường hắc thủ, là dự định để này bốn phái tu sĩ ở trước mặt hắn làm trò hề, hiển lộ hết nhân tính chi ác. Trên thực tế nó thiết kế cửa ải hết thảy mục đích đều là cái này. Cửa thứ nhất Vương Lục tại sao cho rằng, Thịnh Kinh Tiên Môn bị thua nguyên nhân lớn nhất là bọn họ nhiều người? Bởi vì rất nhiều người bởi vì thất bại mà ảo não, muốn so với số ít người ảo não càng có lợi. Còn cửa ải thứ hai vì sao lại để cho thịnh kinh người thắng một
-
-Cục? Một mặt là vì duy trì cân bằng, để bọn họ cam tâm tình nguyện tiếp tục chơi tiếp, nếu là vẫn thua, ai còn sẽ đàng hoàng chơi? Mặt khác, bị thịnh kinh người lấy vô liêm sỉ thủ đoạn đánh bại tam phái liên minh, lúc đó trong lòng tâm tình tiêu cực, e sợ so với cửa thứ nhất thịnh kinh người thất bại thời còn cường liệt hơn nhiều lắm.
+Cái này hậu trường hắc thủ, là dự định để này bốn phái tu sĩ ở trước mặt hắn làm trò hề, hiển lộ hết nhân tính chi ác. Trên thực tế nó thiết kế cửa ải hết thảy mục đích đều là cái này. Cửa thứ nhất Vương Lục tại sao cho rằng, Thịnh Kinh Tiên Môn bị thua nguyên nhân lớn nhất là bọn họ nhiều người? Bởi vì rất nhiều người bởi vì thất bại mà ảo não, muốn so với số ít người ảo não càng có lợi. Còn cửa ải thứ hai vì sao lại để cho thịnh kinh người thắng một cục? Một mặt là vì duy trì cân bằng, để bọn họ cam tâm tình nguyện tiếp tục chơi tiếp, nếu là vẫn thua, ai còn sẽ đàng hoàng chơi? Mặt khác, bị thịnh kinh người lấy vô liêm sỉ thủ đoạn đánh bại tam phái liên minh, lúc đó trong lòng tâm tình tiêu cực, e sợ so với cửa thứ nhất thịnh kinh người thất bại thời còn cường liệt hơn nhiều lắm.
 
 Cho tới trước mắt cửa ải này, dụng ý nhưng không ngoại lệ, đại khái là muốn các tu sĩ công kích lẫn nhau, lẫn nhau vạch khuyết điểm, đem lẫn nhau tối không muốn bày ra việc riêng tư yết lộ ra, lấy này đến sản sinh mãnh liệt tâm tình tiêu cực.
 
@@ -117,7 +115,7 @@ Cầm qua giới tử túi, Vương Lục nhẹ giọng đối với lưu ly ti
 
 Đáng thương lưu ly tiên tự nhiên không nghĩ tới, Lăng Vân thuyền là Vương Lục đặc biệt đính làm đồ vật, thuyền bên trong tự nhiên trải rộng giám thị đạo cụ.
 
-Sau một khắc, chỉ thấy lưu ly tiên hai gò má ửng đỏ, trên đầu đỏ tươi con số không ngừng tăng vọt, rất nhanh sẽ đến lUU điểm sau đó một trận hào quang loé lên, thiếu nữ liền bị truyền tống ra sỉ môn bên ngoài.
+Sau một khắc, chỉ thấy lưu ly tiên hai gò má ửng đỏ, trên đầu đỏ tươi con số không ngừng tăng vọt, rất nhanh sẽ đến 100 điểm sau đó một trận hào quang loé lên, thiếu nữ liền bị truyền tống ra sỉ môn bên ngoài.
 
 Mà lưu ly tiên bên cạnh, tiểu bạch cũng là lúng túng vạn phần, nhớ tới đêm đó lưu ly tiên như cái động vật nhỏ tựa như chán ở bên người nàng, thực sự là... Lúc này, trên đầu nàng cũng xuất hiện màu đỏ con số.
 

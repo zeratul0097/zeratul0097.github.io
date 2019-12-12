@@ -99,7 +99,7 @@ Giang Lưu ánh mắt, vững vàng khóa chặt ở cách đó không xa Vươn
 
 "Sách, cảm giác như là bị biến thái si hán nhìn chằm chằm như thế."
 
-http://Ｔruyencuatui.net Vương Lục bỗng nhiên nhíu nhíu mày, cảm thán một câu, sau đó ngẩng đầu nhìn trời, quần sơn sáng sủa ngày không đã dần dần bao phủ lên một tầng mù mịt.
+Vương Lục bỗng nhiên nhíu nhíu mày, cảm thán một câu, sau đó ngẩng đầu nhìn trời, quần sơn sáng sủa ngày không đã dần dần bao phủ lên một tầng mù mịt.
 
 "Vương huynh tài hoa xuất chúng, khó tránh khỏi trở thành chúng thỉ chi." Hải Vân Phàm nở nụ cười, lập tức thu lại, trầm giọng nói, "Vương huynh, ta luôn cảm giác này bát đức thử thách có chút kỳ quái, hiếu môn tuy rằng xác thực có tận hiếu lý niệm, thế nhưng..."
 

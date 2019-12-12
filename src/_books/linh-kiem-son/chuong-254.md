@@ -93,7 +93,7 @@ Vì lẽ đó, dù cho Vương Lục việc này biết rõ Kiếm Ma nói tới
 
 Chuyện đến nước này, nên làm chính là thời khắc duy trì cảnh giác, sau đó đi được tới đâu hay tới đó, đi trước ra một bước lại nói.
 
-http://Ｔruyencuatui.net Mà ngay ở Vương Lục trong trầm mặc, Kiếm Ma lần thứ hai tăng thêm kiếp mã: "Nếu ngươi không tin, ta có thể truyền cho ngươi nhập môn khẩu quyết, ngươi đi đầu sau khi phân tích làm tiếp quyết đoán."
+Mà ngay ở Vương Lục trong trầm mặc, Kiếm Ma lần thứ hai tăng thêm kiếp mã: "Nếu ngươi không tin, ta có thể truyền cho ngươi nhập môn khẩu quyết, ngươi đi đầu sau khi phân tích làm tiếp quyết đoán."
 
 "Làm sao, luyện là không luyện?"
 

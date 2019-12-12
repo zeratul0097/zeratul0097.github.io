@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Chương 240 - Tuy Rằng Xin Lỗi, Thế Nhưng Ta Muốn Nói (2)
+title: Chương 240 - Tuy Rằng Xin Lỗi, Thế Nhưng Ta Muốn Nói
 book_name: linh-kiem-son
 chapter: 240
 categories: [Ebook]
 tag: [Tien hiep, Linh Kiem Son]
 ---
 
-# Chương 240: Tuy Rằng Xin Lỗi, Thế Nhưng Ta Muốn Nói (2)
+# Chương 240: Tuy Rằng Xin Lỗi, Thế Nhưng Ta Muốn Nói
 
 Nghe xong Vương Lục cùng lưu ly tiên đối thoại, tất cả mọi người đều không hẹn mà cùng địa nhìn kỹ lưu ly tiên, vị này xinh đẹp đáng yêu thiếu nữ có bao nhiêu kẻ tham ăn tạm thời bất luận...
 

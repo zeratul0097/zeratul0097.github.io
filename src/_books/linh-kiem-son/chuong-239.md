@@ -45,7 +45,7 @@ Vương Lục nói rằng: "Không sao, nếu người ta hào phóng mở mi
 
 "Này, ngươi lời này lập trường thật giống nói phản."
 
-[ truyen cｕa tui | net ] "Tính chất đều giống nhau... Ngược lại bất kể là huyễn thuật vẫn là phá vọng, đều cùng ta không quan hệ nhiều lắm, có thể tranh thủ ta đã tận lực giúp các ngươi tranh thủ, tiếp đó, liền để ta mở mang kiến thức một chút Côn Luân cùng vạn pháp lợi hại không
+"Tính chất đều giống nhau... Ngược lại bất kể là huyễn thuật vẫn là phá vọng, đều cùng ta không quan hệ nhiều lắm, có thể tranh thủ ta đã tận lực giúp các ngươi tranh thủ, tiếp đó, liền để ta mở mang kiến thức một chút Côn Luân cùng vạn pháp lợi hại không
 
 Cuối cùng phương án chính là do Thịnh Kinh Tiên Môn thanh tẩy, tam phái liên minh chọn bài, thịnh kinh cũng không có dị nghị.
 

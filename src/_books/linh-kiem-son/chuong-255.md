@@ -35,7 +35,7 @@ Kiếm Ma thì lại lạnh lùng nói: "Hừ, ta cùng Kiếm thần tuy không
 
 Vương Lục hắc một tiếng, yên lặng lấy ra Khôn Sơn Kiếm, tiến lên hai bước, bước chân thác động, cả người khí thế cũng nâng lên, tuy rằng ở Chu Thi Dao chèn ép xuống có vẻ lảo đà lảo đảo, nhưng ba thước kiếm bao vây bên trong không gian, vẫn còn đang Vương Lục nắm trong bàn tay, hệt như sóng lớn dưới đá ngầm.
 
-[ truyen cua tui ʘ◎ net ] Mà lúc này, một luồng pháp lực màu xám sau lưng Vương Lục lan tràn ra, tổng sản lượng tuy không nhiều lắm, nhưng trong đó nhưng ẩn chứa làm người nhìn không thấu huyền diệu thần thông. Bước đầu phân tích qua Phá Thiên Thần Kiếm công pháp Vương Lục tự nhiên nhận ra, cái kia chính là ngày xưa bách lê Kiếm thần ngang dọc Cửu Châu tuyệt học, Phá Thiên Kiếm Khí.
+Mà lúc này, một luồng pháp lực màu xám sau lưng Vương Lục lan tràn ra, tổng sản lượng tuy không nhiều lắm, nhưng trong đó nhưng ẩn chứa làm người nhìn không thấu huyền diệu thần thông. Bước đầu phân tích qua Phá Thiên Thần Kiếm công pháp Vương Lục tự nhiên nhận ra, cái kia chính là ngày xưa bách lê Kiếm thần ngang dọc Cửu Châu tuyệt học, Phá Thiên Kiếm Khí.
 
 Kiếm này khí chi nguyên lấy từ trong hỗn độn, vừa có khai thiên tích địa khả năng, cũng có miễn cưỡng tạo hóa công lao, lúc này Kiếm Ma thả ra Phá Thiên Kiếm Khí tự nhiên là lấy người sau công hiệu, vì Vương Lục cường hóa thực lực, lấy chống lại kiếm Thần Sư đồ
 
