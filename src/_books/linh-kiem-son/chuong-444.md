@@ -108,3 +108,5 @@ Chu Mộc Mộc trong lòng quýnh lên, càng tử khuynh bất luận nhân ph
 Sau một khắc, Vương Lục cười nhạo vang lên, một đạo ánh kiếm màu vàng đất bao phủ thành viên, đem chính mình vững vàng vững chắc ở bên trong, càng tử khuynh, ngưng mắt hai đạo phi kiếm va vào ánh kiếm, càng bị phản chấn mà quay về
 
 Ánh kiếm bên trong, Vương Lục cười gằn không ngừng: "Chu sư tỷ ngươi cũng quá khách khí, chiêu đãi ta đến vậy liền quên đi, lại vẫn đặc biệt tìm đến ba con thịt chậu cung ta dạy dỗ ta biết ngươi tính tình ngay thẳng, ta liền từ chối thì bất kính"
+
+### [Next](./chuong-445.html)

@@ -76,3 +76,5 @@ Bởi vì Vương Lục vừa liếc mắt liền thấy, chính mình lên ti�
 "Hắn đây mẹ món đồ quỷ quái gì vậy?" Vương Lục hận không thể tại chỗ liền đốt sách chôn người tài, đáng tiếc ngay ở hắn chuẩn bị phát điên thời điểm, Hà Đồ đạo nhân mở miệng.
 
 Đầy ngập lửa giận, chỉ có thể cố nhịn xuống.
+
+### [Next](./chuong-367.html)

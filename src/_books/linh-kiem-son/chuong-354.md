@@ -118,3 +118,5 @@ Thiên Nguyệt biết được sự tình ngọn nguồn sau, một trận cư�
 Đang khi nói chuyện, hắn liền trực tiếp giết hướng về phía Thánh Quang Giáo ở phía Đông to lớn nhất giáo đường vị trí —— Bạo Phong thành, yêu đao từ thiên chém xuống, đem nhà thờ lớn và cả tòa thành thị, cùng với trong thành phố mấy vạn quân dân tàn sát hết sạch.
 
 "Không tìm được hung thủ, vậy liền đem hết thảy tây người Di đều sát quang chứ, hung thủ tóm lại là ở trong những người này.
+
+### [Next](./chuong-355.html)

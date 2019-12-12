@@ -144,3 +144,5 @@ Trong lều vải cái khác vài tên Linh Kiếm tu sĩ cũng là cảm khái
 Mà nhưng vào lúc này, một tên trong đó Ma tộc thiếu nữ trong mắt, bỗng nhiên nổi lên một tia hào quang màu đen.
 
 Mà nàng khoảng cách Vương Lục cùng Âu Dương Thương, chỉ có vài bước xa.
+
+### [Next](./chuong-513.html)

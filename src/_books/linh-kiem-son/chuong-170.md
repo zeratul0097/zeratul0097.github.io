@@ -168,3 +168,5 @@ Quỳnh Hoa tiên tử, Trảm Tử Dạ, Lưu Ly Tiên, Vương Lục... Nhữn
 "Trường Giang sóng sau đè sóng trước ah."
 
 Trong lúc nhất thời, không biết bao nhiêu tu tiên tiền bối nhớ tới câu châm ngôn này.
+
+### [Next](./chuong-171.html)

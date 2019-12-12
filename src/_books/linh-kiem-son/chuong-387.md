@@ -110,3 +110,5 @@ Vương Lục nở nụ cười: "Liền như thế cho ta một người ngoài
 Vân dương vương trầm giọng nói: "Bây giờ toàn bộ Vân Quốc đều như muốn phúc, còn có cái gì quy củ có thể so sánh quốc gia này càng to lớn hơn?"
 
 "Nói thật hay." Vương Lục nói mở ra quyển sách, chỉ liếc mắt nhìn, liền đổi sắc mặt.
+
+### [Next](./chuong-388.html)

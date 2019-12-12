@@ -112,3 +112,5 @@ Ngự Thú tông ở khải đức thành ảnh hưởng vẫn có giới hạn,
 Đã như vậy, ở trong thành chỉ cần không chủ động gây sự, liền không tồn tại phiền toái gì.
 
 Trên lý thuyết...
+
+### [Next](./chuong-176.html)

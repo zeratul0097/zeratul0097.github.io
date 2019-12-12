@@ -140,3 +140,5 @@ Trong phòng truyền đến Hải Vân Phàm tiếng gào: "Hai người các n
 Vương Vũ cười ha ha, mang theo Vương Lục một đạo ngự kiếm đi xa, người ở giữa không trung, mở miệng nói rằng: "Đi xem xem ta công tác thành quả đi, có kinh hỉ nha."
 
 Vương Lục bất đắc dĩ: "Được rồi, ngược lại hiện tại cũng không có gì khác chuyện làm."
+
+### [Next](./chuong-622.html)

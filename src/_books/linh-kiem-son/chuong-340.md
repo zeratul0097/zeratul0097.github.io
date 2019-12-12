@@ -120,3 +120,5 @@ Vương Lục gật gù, ra hiệu mọi người an tâm, sau đó cúi đầu 
 "Bất quá, lần này thăm dò tích lũy quý giá kinh nghiệm, vĩnh cửu hào hi sinh là có giá trị. Bước kế tiếp dòng suy nghĩ, đã dần dần sáng tỏ."
 
 Vương Lục vừa nói, một bên dứt khoát kiên quyết địa đi vào cất giữ tài nguyên gian phòng, bắt đầu rồi một vòng mới rèn đúc.
+
+### [Next](./chuong-341.html)

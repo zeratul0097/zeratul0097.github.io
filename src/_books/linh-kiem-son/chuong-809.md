@@ -114,3 +114,5 @@ Cũng may cũng không lâu lắm, tình thế đột nhiên biến hóa liền 
 Thông Thiên Thánh Đường, cùng Cửu Châu đồ liên kết tiết điểm nơi thắp sáng hào quang màu đỏ —— đó là đẳng cấp cao nhất cảnh tấn tiêu chí, sau đó, thanh âm lạnh như băng ở trong đại điện vang lên.
 
 "Đạo thứ hai Thiên Chi Ngân xuất hiện."
+
+### [Next](./chuong-810.html)

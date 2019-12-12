@@ -122,3 +122,5 @@ Bất quá tất cả mọi người đối với này đều không ngoài ý m
 Đường nối phía trước dần dần rộng rãi, cho đến cuối cùng, một toà nhỏ hẹp nhà đá chính là điểm cuối.
 
 Nhà đá không lớn, nội bộ tình huống vừa xem hiểu ngay, Vương Lục một chút nhìn lại, lúc đó chính là một tiếng khe nằm.
+
+### [Next](./chuong-237.html)

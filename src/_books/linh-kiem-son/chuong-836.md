@@ -132,3 +132,5 @@ Thế nhưng ở tiêu dao bản thân xem ra, tự mình nói cái gì kỳ th�
 Bởi vì trọng điểm ở chỗ, hắn muốn tận lực đem cái này đối thoại kéo dài thêm.
 
 Bởi vì, hắn đã nhìn ra, Vương Lục súc thế đã lâu đòn mạnh nhất, đã đến bạo phát biên giới.
+
+### [Next](./chuong-837.html)

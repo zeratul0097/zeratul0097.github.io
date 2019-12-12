@@ -106,3 +106,5 @@ Hải Vân Phàm phi thường lý giải Vương Lục ý nghĩ, cũng chống
 Không bán hai giá, thật có thể làm được đến sao?
 
 Ba ngày nay bên trong, ám lưu mãnh liệt a.
+
+### [Next](./chuong-685.html)

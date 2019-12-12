@@ -172,3 +172,5 @@ Một cái xem ra, cùng hắn giống nhau như đúc người.
 Sau đó, hắn nghe được đời này câu nói sau cùng.
 
 "Gặp được chẳng tốn chút công phu."
+
+### [Next](./chuong-723.html)

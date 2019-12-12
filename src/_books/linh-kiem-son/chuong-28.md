@@ -168,3 +168,5 @@ Chưởng môn hữu hóa thần tu vi, cùng thế hệ trưởng lão coi như
 Đối mặt Vương Lục tràn ngập ánh mắt hoài nghi, Ngũ trưởng lão không hề hay biết: "Nguyên Anh chứ, ngoại trừ chưởng môn cái kia lão ngu ngốc, cái khác một cái hóa thần đều không có, thực sự là xấu hổ." 
 
 Một mình ngươi tu sĩ Kim Đan nói lời này thật không ngại!?
+
+### [Next](./chuong-29.html)

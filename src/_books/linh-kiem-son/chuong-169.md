@@ -186,3 +186,5 @@ Trên đài dưới đài, hoàn toàn tĩnh mịch.
 Vương Lục ở trên đài đứng một hồi, ho mấy búng máu —— thương thế của hắn đã phi thường trầm trọng, lúc nào cũng có thể ngã xuống —— nhưng nhưng không gặp có người nói chuyện, không thể làm gì khác hơn là chính mình mở miệng.
 
 "Tuy rằng xin lỗi, thế nhưng ta muốn nói, ta đã thắng."
+
+### [Next](./chuong-170.html)

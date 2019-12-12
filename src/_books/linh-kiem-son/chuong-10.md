@@ -186,3 +186,5 @@ Bóng đen kia đánh ngất ba người, phá cửa sổ mà ra không nhiều
 Sau đó, Hải Vân Phàm rõ ràng mà nghe được âm thanh Vương Lục xem thường.
 
 "Mấy cái rác rưởi đạo cụ lưu, cũng dám khiêu chiến ta này Tông Sư báo cáo lưu? Điếc không sợ súng!"
+
+### [Next](./chuong-11.html)

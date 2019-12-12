@@ -110,3 +110,5 @@ Tiêu Dao Tiên tôn không lời nào để nói, hắn xác thực là đối 
 Nhưng mà, nhưng vào lúc này, một cái trêu tức tiếng cười xen vào đi vào.
 
 "Thật đáng tiếc a hai vị, ta đã trở về."
+
+### [Next](./chuong-835.html)

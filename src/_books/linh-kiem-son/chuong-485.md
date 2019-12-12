@@ -132,3 +132,5 @@ Long giao bản tôn, ra tay sắp tới.
 Sau đó, Âu Dương Thương phát sinh tiếng thứ hai chỉ lệnh: "Ra tay"
 
 Ba mươi bảy tên tu sĩ, lấy chỉnh tề như một tư thái, sét đánh không kịp bưng tai tốc độ, xoay người liền chạy, tan tác như chim muông
+
+### [Next](./chuong-486.html)

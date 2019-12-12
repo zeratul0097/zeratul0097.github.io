@@ -142,3 +142,5 @@ Một lát sau, vân phá thiên mở.
 Nhìn trước mắt lâu không gặp quang minh, Vương Lục không khỏi không cảm khái.
 
 Sư phụ, ngươi thực sự là điếu nổ ngày.
+
+### [Next](./chuong-272.html)

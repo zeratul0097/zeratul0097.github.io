@@ -126,3 +126,5 @@ Vương Lục xì cười một tiếng: "Đây là chân quân đưa ra hợp t
 Tứ Tướng Chân Quân trầm mặc không nói.
 
 "Được, ta coi như chân quân ngầm thừa nhận. Có thể đổi đến chân quân chống đỡ, chỉ là một cái La Tiêu lại tính là gì? Tiếp đó, ta sẽ không lại ngăn cản hắn, xin mời hắn ở đàn tiên thi đấu trên sàn nhảy tùy ý phát huy đi."
+
+### [Next](./chuong-688.html)

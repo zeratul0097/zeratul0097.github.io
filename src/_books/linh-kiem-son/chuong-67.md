@@ -160,3 +160,5 @@ Vương Lục không biết từ chỗ nào nhảy ra một cái đầu lâu né
 Chí Phong chân nhân chỉ một thoáng trước mắt hoàn toàn đỏ ngầu, vô thượng đạo tâm cũng áp chế không nổi sôi trào lửa giận.
 
 "Các ngươi, các ngươi đây là tự tìm đường chết!"
+
+### [Next](./chuong-68.html)

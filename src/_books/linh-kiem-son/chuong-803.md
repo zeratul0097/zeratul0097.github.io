@@ -146,3 +146,5 @@ Vương Lục lạnh giọng nói rằng: "Vào lúc này nháo nội chiến kh
 "Ha ha, nói tới thoải mái! Bất quá chuyện như vậy ngươi không tự mình ra tay, ủy thác ta đi làm, ngươi thật tin được ta?"
 
 "Ta tin được ngươi giảo hoạt." Vương Lục từ tốn nói, "Giảo hoạt hồ ly, hẳn phải biết hiện tại nên làm cái gì."
+
+### [Next](./chuong-804.html)

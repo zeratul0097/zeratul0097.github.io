@@ -186,3 +186,5 @@ Sau một khắc, hồng quang hóa thành một đạo nhân hình, Hạ Tiểu
 Nét cười của nàng vẫn như cũ là như vậy chân thành, đầy cõi lòng thân thiết.
 
 (chương này số lượng từ thật nhiều, viết chậm chút, thật không tiện. Thuận tiện tình bạn đề cử một quyển sắp hoàn thành thư, mỹ nữ của ta cáo nhỏ tiên.)
+
+### [Next](./chuong-799.html)

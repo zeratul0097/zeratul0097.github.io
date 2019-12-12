@@ -140,3 +140,5 @@ Trên môi bị nhẹ nhàng đụng vào, hệt như sương mai, trong suốt
 Bên tai, Vương Vũ âm thanh mờ ảo không vết, rồi lại tự thần chung mộ cổ (chuông sớm trống chiều) khuấy động nội tâm.
 
 "Xin lỗi, tuy rằng không phải nụ hôn đầu, nhưng kỹ xảo trên vẫn là kém một chút, vì lẽ đó không thích liền đã quên đi."
+
+### [Next](./chuong-570.html)

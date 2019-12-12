@@ -122,3 +122,5 @@ Vương Vũ cười gằn: "Chà chà, cho rằng trơn liền không tính cư�
 Vương Lục cười gằn: "Chà chà, cánh cửa kia đã bị phá hỏng, vui sướng lại cũng không về được."
 
 Vương Vũ còn phải tiếp tục cười gằn, bị Phong Ngâm bất đắc dĩ đánh gãy: "Hai người các ngươi được rồi."
+
+### [Next](./chuong-274.html)

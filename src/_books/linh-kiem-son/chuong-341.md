@@ -104,3 +104,5 @@ Lương thu nói rằng: "Nói không chừng, nhưng này cỗ sức hấp dẫ
 Vương Lục vừa muốn, một bên xin nhờ lương thu cùng hắn một đạo nỗ lực, đem tầng cuối cùng thổ nhưỡng đào ra, này tầng cuối cùng thổ nhưỡng tuy rằng không dày, nhưng là bị vạn lần áp lực nặng nề đè ép vạn năm lâu dài, quả thực cứng rắn không thể phá vỡ. Là lương thu vận dụng linh bảo sức mạnh bản nguyên, trực tiếp lay động Đại Địa mới đưa thổ nhưỡng đánh nứt, lộ ra phía dưới hình dáng.
 
 Một đoàn sâu thẳm đen kịt, nhìn thật kỹ, nhưng là cái viên cầu.
+
+### [Next](./chuong-342.html)

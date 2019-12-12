@@ -150,3 +150,5 @@ Aya hiếu kỳ lên: "Ngươi đối với Hoàng Kim vương rất tôn trọn
 "Không có gì, chỉ là muốn nói, Thánh Quang Giáo nếu là muốn tiêu diệt như vậy huyết mạch, ngoại trừ kỳ đối xử các ngươi huyết thống Long tộc bên trong hòa bình diễn biến bên ngoài, cũng chỉ có lấy ra tuyệt đối nghiền ép cấp quân lực đến. Đồng thời, diệt tộc sau khi càng muốn đóng quân cường quân trấn áp phản loạn, mà cái kia cường quân, chính là tốt nhất ra tay mục tiêu... Aya, bất kể là ngươi muốn phục quốc cũng được, vẫn là ta muốn ở vương chi bảo khố tìm kiếm càng sâu tầng bảo vật cũng tốt. Bước đi này đều là nhất định phải đi."
 
 "Aya, đi ngươi quốc gia đi."
+
+### [Next](./chuong-295.html)

@@ -162,3 +162,5 @@ Chỉ là... Vương Lục nhíu mày, trong lòng không rõ.
 Trước không ai đã nói Côn Luân cùng vạn pháp người có nhiều như vậy chứ?
 
 Nhìn trước mắt đầy đủ hơn ba mươi người bàng đại đội ngũ, cùng với cái kia khác biệt cùng Côn Luân cùng vạn pháp sóng pháp lực, Vương Lục trong lòng hơi trầm xuống, mộ kiếm hành trình vừa mới mới vừa mới đầu, tình huống có vẻ như cũng đã hướng về không bị khống chế phương hướng phát triển.
+
+### [Next](./chuong-231.html)

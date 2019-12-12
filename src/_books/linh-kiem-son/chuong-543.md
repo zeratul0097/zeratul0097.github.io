@@ -142,3 +142,5 @@ Bất quá, lưu ly tiên chân chính tác dụng, tuyệt không chỉ là m�
 "诶?" Lưu ly tiên có chút nghi hoặc không rõ.
 
 Vương Lục cũng không cưỡi thích quá nhiều, chỉ là một bên gắp thức ăn, vừa hướng lưu ly tiên nói: "Hai ngày nữa, chúng ta hồi Phong đô đi."
+
+### [Next](./chuong-544.html)

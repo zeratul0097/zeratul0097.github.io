@@ -98,3 +98,5 @@ Vào lúc này, có thể lấy sức một người ở trong khoảnh khắc x
 Đáng tiếc không kịp ngẫm nghĩ nữa, đế lưu tôn liền bị vui mừng đám người vây lại, mọi người vây quanh nàng cười lớn hô to, thanh âm huyên náo làm cho nàng khó có thể trầm xuống tâm đi suy nghĩ. Mà cũng không lâu lắm, một tên Địa tiên sắc mặt tái xanh địa bay tới, ở đế lưu tôn bên tai nói ra một câu.
 
 Thông Thiên Thánh Đường bị người tàn sát, rất nhiều Vạn Tiên Minh tu sĩ chết thảm.
+
+### [Next](./chuong-805.html)

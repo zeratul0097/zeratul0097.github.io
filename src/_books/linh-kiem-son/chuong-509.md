@@ -118,3 +118,5 @@ Vương Lục cười cười nói: "Vì lẽ đó không bằng ngươi cải 
 Vương Lục hít một hơi thật sâu: "Giao cho ta được rồi, cứng đến không được, thủ xảo thủ đoạn ta còn có rất nhiều.
 
 Nói, hắn lại một lần lấy ra ma ngọc, ngọc thạch bên trong ẩn chứa hỗn độn đỏ sẫm màu sắc, phảng phất khát khao mãnh thú.
+
+### [Next](./chuong-510.html)

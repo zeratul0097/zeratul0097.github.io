@@ -126,3 +126,5 @@ Quay đầu lại, Aya kinh ngạc càng sâu, bởi vì sau lưng bọn họ, r
 Cố sự này, Aya cũng từng nghe nói qua, thâm biểu thán phục: "Hoàng Kim vương dưới trướng tinh nhuệ tập hợp, xác thực danh bất hư truyền, bất quá ngươi muốn nhiều như vậy khổ công thì có ích lợi gì?"
 
 Vương Lục từ tốn nói: "Tạo tháp."
+
+### [Next](./chuong-333.html)

@@ -124,3 +124,5 @@ Dừng một chút, đế lưu tôn còn nói: "Nhiên mà ngày hôm nay tận 
 Nói xong, nàng mặt hướng Vương Lục, nghiêm mặt nói: "Cửu Châu Đại Lục rất nhỏ yếu, đan dựa vào chính các ngươi là tuyệt đối không cách nào chống lại đọa tiên. Các ngươi cần sự giúp đỡ của ta, mà ta, nhất định sẽ tận ta có thể trợ giúp các ngươi. Bao quát đàn tiên mộ nơi sâu xa di sản, ta cũng sẽ cùng các ngươi chia sẻ."
 
 "Đương nhiên, tất cả những thứ này tiền đề, các ngươi cần thần phục với ta."
+
+### [Next](./chuong-714.html)

@@ -142,3 +142,5 @@ Vương Lục nói tới chính là Tà đạo tu sĩ thường dùng sưu hồn
 Bị sưu hồn đoạt phách hoảng sợ thoáng chốc chiếm cứ đại trưởng lão tâm thần. Hắn tuy rằng tu vi cảnh giới cực cao, nhưng về sức mạnh hoàn toàn không thể cùng hai người đánh đồng với nhau, mặt đối với hai người trần trụi vũ lực uy hiếp... Hắn không chống đỡ được.
 
 "Được, ta nói..."
+
+### [Next](./chuong-506.html)

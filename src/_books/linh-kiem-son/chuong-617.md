@@ -122,3 +122,5 @@ Lại như thế giằng co nữa, e sợ thua trận sẽ là nàng, mà một
 "Được rồi, này một ván ta chịu thua."
 
 Đao cái đuôi nhỏ: Quyển sách đã khai thông vi tin xem, bình thường sẽ ở vi tin bình đài tuyên bố một ít mới mẻ thư tấn cùng đoạn ngắn tử, hoan nghênh mọi người quan tâm. Công chúng hào tìm tòi lúc trước có tòa Linh Kiếm Sơn là có thể rồi. Cảm ơn mọi người thuận tiện phồn thể thư đào bảo vật có thụ nha)
+
+### [Next](./chuong-618.html)

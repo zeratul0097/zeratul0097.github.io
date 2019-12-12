@@ -134,3 +134,5 @@ Thế nhưng có câu nói này nhắc nhở, Vương Lục đương nhiên có 
 Vô diện giả ở Vương Lục trong đầu cười nói: "Này ngài liền sai rồi..."
 
 "Chúng ta chơi, so với cái này cao cấp hơn một chút."
+
+### [Next](./chuong-745.html)

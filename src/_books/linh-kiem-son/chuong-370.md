@@ -100,3 +100,5 @@ Lúc trước Vương Lục cùng Chu Thi Dao ở Thái Cổ kiếm trủng bên
 Vương Lục hiếu kỳ: "Ta hà tất lưu ý cái gì người số một người thứ hai hư danh?"
 
 Sư phụ nhàn nhạt giải thích: "Bởi vì quảng cáo tài trợ phí chênh lệch lớn vô cùng."
+
+### [Next](./chuong-371.html)

@@ -114,3 +114,5 @@ Mà chính mình... Đã trở thành có tư cách cùng này rất nhiều dan
 Người chết mặt a, ngươi... Rốt cuộc là ai a?
 
 (vẫn là hướng về các thư hữu nói rằng đi, chiến hạm thiếu nữ thánh kiến ngày, trải qua không ngừng nỗ lực rốt cục ra Richelieu. Ở đây dâng huyền học công thức: 4005UU50130, chúc chào mọi người vận.)
+
+### [Next](./chuong-721.html)

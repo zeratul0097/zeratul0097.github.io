@@ -120,3 +120,5 @@ Nhưng mà sau một khắc, huyền mặc liền đã thấy đáp án.
 Ngay ở huyền mặc trước mắt, có một vị thanh niên mặc áo trắng, một vị thiếu nữ mặc áo đen, hai người phân ra âm dương hai giới, khuôn mặt nghiêm nghị địa nhìn chằm chằm nàng.
 
 "Được lắm âm dương hóa thân"
+
+### [Next](./chuong-638.html)

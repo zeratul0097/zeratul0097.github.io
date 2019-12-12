@@ -134,3 +134,5 @@ Chỉ là trong thiên hạ, có thể đem này đạo mỹ thực thịnh yế
 "Cuộc tranh tài này liền chấm dứt ở đây đi, lão phu chịu thua."
 
 (thỉnh cầu quan tâm vi tin công chúng bình đài, tăng thêm bằng hữu, công chúng hào, tìm tòi quốc vương bệ hạ liền có rồi cảm ơn mọi người)
+
+### [Next](./chuong-658.html)

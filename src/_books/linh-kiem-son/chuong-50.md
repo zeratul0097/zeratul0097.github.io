@@ -160,3 +160,5 @@ Vừa nói, cái kia người nói chuyện một bên từ tường xây làm b
 "A, thật nhiều người quen ôi chao!"
 
 Ở mọi người trong ánh mắt kinh ngạc, Vương Lục lộ ra cực kỳ thành khẩn nụ cười.
+
+### [Next](./chuong-51.html)

@@ -142,3 +142,5 @@ tag: [Tien hiep, Linh Kiem Son]
 "Tuyệt đối không thể! Lão tổ ngươi hiện đang chủ trì đại cục, tuyệt đối không thể sai sót a! Ta, ta biết rồi, ta vậy thì đi truyền đạt mệnh lệnh của ngài!"
 
 "... Vương Lục, chúng ta bên này, đã đến cực hạn, ngươi đến cùng còn muốn chờ tới khi nào mới bằng lòng trở về!"
+
+### [Next](./chuong-831.html)

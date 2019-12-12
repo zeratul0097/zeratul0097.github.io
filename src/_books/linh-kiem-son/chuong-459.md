@@ -164,3 +164,5 @@ Mấy lần thời gian trong chớp mắt, Ma giới thiên địa liền bị 
 Mà tình cảnh này, chợt để Vương Lục nhớ tới một chút chuyện xưa.
 
 "Đây là... Hắc triều?"
+
+### [Next](./chuong-460.html)

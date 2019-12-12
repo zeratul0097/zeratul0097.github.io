@@ -140,3 +140,5 @@ Sau đó đứng dậy liền đi.
 Vương Lục ngạc nhiên nói: "Ngươi muốn đi đâu?"
 
 "Đương nhiên là mò cá đi tới. Ngược lại vừa nãy đã cùng ngươi công tác lâu như vậy, chưởng môn sư huynh cũng không lời nói ha ha ha"
+
+### [Next](./chuong-696.html)

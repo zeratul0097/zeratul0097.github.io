@@ -124,3 +124,5 @@ Tuổi trẻ Ma vương cất tiếng cười to.
 "Muốn biết sao? Đánh đổ ta, ta tự nhiên sẽ nói cho ngươi biết"
 
 Hắc ám lần thứ hai bao phủ.
+
+### [Next](./chuong-511.html)

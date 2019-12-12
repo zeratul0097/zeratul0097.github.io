@@ -154,3 +154,5 @@ Trúc trong phòng, sư phụ đại nhân càng thảnh thơi địa ngâm ở 
 Mà nhìn thấy Vương Lục cùng Aya phút chốc xuất hiện ở trước mắt, Vương Vũ cũng là giật nảy cả mình
 
 Sau một khắc, nàng đứng thẳng người lên, trong suốt dòng nước từ cái kia no đủ thân thể đường cong chảy xuôi mà xuống, thủy châu hạt hạt óng ánh long lanh. Nữ tử lời lẽ đanh thép, đưa tay chỉ về Vương Lục: "Linh kiếm thiên phù? Tên nghịch đồ nhà ngươi quả thực làm người giận sôi còn không mau nhanh đem tài sản của ngươi giao ra đây để sư phụ bảo quản"
+
+### [Next](./chuong-448.html)

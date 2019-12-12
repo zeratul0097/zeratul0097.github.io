@@ -138,3 +138,5 @@ Sư đệ các sư muội ánh mắt tụ vào lại đây, chờ đợi Phong N
 "Mộ kiếm!?"
 
 "Là thời điểm để lão thập xuống núi, hiện đang muốn tìm được Vương Lục, không phải hắn không thể."
+
+### [Next](./chuong-820.html)

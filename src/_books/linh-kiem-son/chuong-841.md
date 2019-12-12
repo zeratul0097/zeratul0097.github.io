@@ -110,3 +110,5 @@ Sau một khắc, hạ vũ tay đè đến tiêu dao trên đầu, ngăn chặn 
 "Như cùng ta như thế sao?"
 
 Một cái nào đó sớm nên biến mất âm thanh, lại một lần vang lên ở Tiên vương bên tai.
+
+### [Next](./chuong-842.html)

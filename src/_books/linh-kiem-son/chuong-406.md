@@ -114,3 +114,5 @@ Vương Lục trong lòng sầu lo nhưng chưa từng giảm thiểu, trước 
 Ngay ở Vương Lục hơi sự nghỉ chân, rơi vào suy nghĩ thời, bỗng nhiên trong thành một tiếng nổ đùng, a dạ dinh thự nơi, một mặt trong suốt lưu ly vách tường vỡ tan, vô số mảnh vặn vẹo tia sáng mảnh vỡ rì rào hạ xuống, một đạo màu đỏ sương mù từ chỗ vỡ nơi tràn ngập ra.
 
 Vương Lục trong lòng rùng mình, cái kia màu đỏ sương mù... Rõ ràng là a dạ Huyết phù thần thương
+
+### [Next](./chuong-407.html)

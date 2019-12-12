@@ -140,3 +140,5 @@ Hồ nữ mím mím miệng, không có phản đối. Nàng đưa tay khoa tay
 Chém nửa đêm run rẩy hỏi: "Đây là cái gì?"
 
 "Thiên Nam Châu a." Hồ nữ nói rằng, "Bị nghịch giới long trụ oanh qua chính là như vậy, tất cả hết thảy đều sẽ biến mất, lên tới Cửu Thiên cương phong xuống tới Cửu U thâm ngục đều sẽ bị xóa đi. Hiện tại Cửu Châu Đại Lục cơ bản có thể cải danh gọi tám châu đại lục, Thiên Nam Châu chẳng mấy chốc sẽ bị xoá tên..."
+
+### [Next](./chuong-815.html)

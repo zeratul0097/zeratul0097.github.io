@@ -110,3 +110,5 @@ Nhưng vào đúng lúc này, một cái thản nhiên tiếng cười ở hồ
 Nghe được âm thanh này, lão tổ miệng trương đến càng to lớn hơn: "Vương Lục, ngươi tại sao lại ở chỗ này?"
 
 "Bởi vì bên này tầm nhìn tốt nhất."
+
+### [Next](./chuong-672.html)

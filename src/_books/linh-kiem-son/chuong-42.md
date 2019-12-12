@@ -120,3 +120,5 @@ Tuy rằng Thanh Vân Phong sự vụ cũng không do hắn phụ trách, nhưng
 "Vương vũ... Vương vũ! Vương vũ!!!"
 
 Lưu Hiển thực sự không kiềm chế nổi nội tâm lửa giận, ngửa mặt lên trời gầm lên giận dữ, Nguyên Anh rung mạnh
+
+### [Next](./chuong-43.html)

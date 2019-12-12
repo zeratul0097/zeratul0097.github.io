@@ -170,3 +170,5 @@ Ai biết Nhạc Hinh Dao nhưng khinh khẽ cười nói: "Ta cảm thấy sư 
 Nhạc Hinh Dao nghiêm túc lắc lắc đầu, dùng chính mình trong suốt ôn hòa ánh mắt nhìn đối diện: "Sẽ không, hắn đã nói, hắn yêu thích ta."
 
 CHƯƠNG SAU
+
+### [Next](./chuong-117.html)

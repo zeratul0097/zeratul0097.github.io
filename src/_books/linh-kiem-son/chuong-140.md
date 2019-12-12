@@ -150,3 +150,5 @@ Hoạt động chủ bày ra là Thiên Kiếm Đường Ngũ trưởng lão, nh
 Đối với chuyên nghiệp người mạo hiểm mà nói, tự mình kết cục động thủ đã quá hạn rồi, cư cao lâm hạ, lấy kỳ thủ độ cao đến thao túng quân cờ đó mới là người mạo hiểm cảnh giới tối cao
 
 Vạn Pháp Tiên Môn đạo hữu nhóm, hoan nghênh các ngươi
+
+### [Next](./chuong-141.html)

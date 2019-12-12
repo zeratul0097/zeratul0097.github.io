@@ -120,3 +120,5 @@ Nhưng mà nghĩ lại, Thất Tinh chưởng môn liền cười lạnh nói: "
 Vương Lục cũng không phủ nhận, một bên dẫn hướng về trong thôn lớp học đi đến, vừa nói: "Đúng vậy, Kiền Nguyên Nhiên Huyết Công. Không có vật này, chỉ bằng bang này sáu cùng linh căn vô dụng, trong vòng ba năm rưỡi đều khỏi hi vọng Luyện Khí thành công... Bất quá, ngươi lúc nói chuyện cũng động não được rồi? Chỉ bằng vào một cái Kiền Nguyên Nhiên Huyết Công, có thể để một đám vô dụng có bực này tiến độ? Kiền Nguyên Nhiên Huyết Công thật tốt như vậy dùng, năm đó ngàn linh giáo đã sớm nhất thống Thương Khê rồi." 
 
 Đang khi nói chuyện, Vương Lục xoay người lại, trên mặt mang nụ cười giễu cợt: "Không nhìn lầm, ngươi nên cũng luyện qua Nhiên Huyết Công, hiệu quả làm sao, chính ngươi không rõ ràng sao?"
+
+### [Next](./chuong-111.html)

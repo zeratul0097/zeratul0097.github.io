@@ -104,3 +104,5 @@ Hà Đồ nói một cách lạnh lùng: "Các ngươi giá trị cao thấp, th
 Hà Đồ đạo nhân lấy chân quân uy thế nói ra những lời ấy, ở đây rất nhiều môn phái chưởng môn chỉ cảm thấy tâm thần rung mạnh, 5 giác quan thất, khó có thể dùng lời diễn tả được cảm giác sợ hãi tự như thủy triều nhấn chìm bọn họ.
 
 Chờ khôi phục tâm thần sau, hội nghị đã chấm dứt ở đây.
+
+### [Next](./chuong-590.html)

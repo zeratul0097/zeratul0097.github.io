@@ -104,3 +104,5 @@ Trong này nguyên do hiển nhiên cũng khá không đơn giản, chỉ tiế
 Không biết qua bao lâu, Vương Lục đánh vỡ trầm mặc.
 
 "Nên cảm khái cũng cảm khái gần đủ rồi, tiếp đó, để chúng ta trước tiên đưa cái này tiên mộng cảnh giới đánh xuyên qua đi đi."
+
+### [Next](./chuong-571.html)

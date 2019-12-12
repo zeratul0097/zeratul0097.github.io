@@ -108,3 +108,5 @@ Hiển nhiên, đây chính là Chung Thắng Minh một cái khác tàn hồn, 
 Mà ngay ở Kiếm thần bên cạnh, Vương Lục nhìn thấy lâu không gặp bóng người.
 
 Đại sư tỷ, Chu Thi Dao
+
+### [Next](./chuong-254.html)

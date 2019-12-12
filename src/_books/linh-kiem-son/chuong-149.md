@@ -192,3 +192,5 @@ Lúc này, hắc nước trong vương cung, Nhiếp Chính Vương đã xong m�
 Trung thực cùng chất phác thân binh bị hỏi sững sờ rồi, suy nghĩ thật lâu: "Không biết..."
 
 Vương Lục nở nụ cười: "Không sao, sẽ biết."
+
+### [Next](./chuong-150.html)

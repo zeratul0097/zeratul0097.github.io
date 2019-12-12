@@ -138,3 +138,5 @@ Hắn là nhân viên quản lý, nhưng vẫn chưa đạt được kho báu to
 Đang khi nói chuyện, đen kịt không gian bị một đạo thiên quang thắp sáng, Vương Lục lúc trước tung xuống mưa hoa, bị này đạo ánh sáng dẫn dắt, hình thành một cái hào quang con đường nhắm thẳng vào về phía trước, không có phần cuối.
 
 "Đây chính là đi về nhân viên quản lý con đường, có can đảm liền đi tới ba"
+
+### [Next](./chuong-327.html)

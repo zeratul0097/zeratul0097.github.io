@@ -172,3 +172,5 @@ Vương Lục chỉ cảm thấy trong đầu oanh một thanh âm vang lên: "N
 "Ngươi không có phóng tới giới tử trong túi, ta xem nắp bình lại là mở ra, ngửi một cái còn có thể sử dụng hay dùng a." Nói tới chỗ này, Aya cũng có chút nhấc lên tâm đến, "Lẽ nào là không thể dùng sao?"
 
 Vương Lục hít một hơi thật sâu, bình phục tâm tình, sau đó nhoẻn miệng cười: "Không có cái gì không thể dùng, ta là muốn nói, không bằng chúng ta đồng thời đem này bàn gà quay ăn xong đi."
+
+### [Next](./chuong-365.html)

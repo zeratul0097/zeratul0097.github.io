@@ -124,3 +124,5 @@ Từng ngày chân quân hiển nhiên đối với này không phản đối, 
 Bất quá, mọi người ở đây bắt đầu suy nghĩ, tỏ thái độ thời điểm, thông Thiên Thánh Đường bên trong hốt mà vang lên chói tai cảnh báo.
 
 "Đạo thứ ba Thiên Chi Ngân, mở ra!"
+
+### [Next](./chuong-818.html)

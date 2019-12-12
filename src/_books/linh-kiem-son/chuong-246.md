@@ -146,3 +146,5 @@ Giang Lưu gầm lên giận dữ, thân hình lần thứ hai bành trướng, 
 Giang Lưu lặng lẽ cười gằn.
 
 "Đương nhiên không tin"
+
+### [Next](./chuong-247.html)

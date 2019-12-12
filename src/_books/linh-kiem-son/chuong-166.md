@@ -110,3 +110,5 @@ Dù sao Vương Lục cùng Lưu Ly Tiên thời gian tu hành chênh lệch m�
 Không lâu lắm, Vương Lục đã bị Bích Hải Triều Sinh kiếm rung ra nội thương, nhưng mà này vẻn vẹn chỉ là mới bắt đầu...
 
 "Tiên sư nó, cùng một cái hắc thúc thúc chơi được ra huyết, thực sự là quá không may mắn bén."
+
+### [Next](./chuong-167.html)

@@ -160,3 +160,5 @@ Nghĩ tới đây, tham lang khẽ mỉm cười.
 "Muốn ăn sao? Vậy thì ăn đi, cẩn thận tiêu hóa bất lương a."
 
 Sau một khắc, thế giới của hắn rơi vào tuyệt đối đen kịt.
+
+### [Next](./chuong-679.html)

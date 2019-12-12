@@ -142,3 +142,5 @@ Lưu ly tiên nói, có chút tức giận: "Ta rõ ràng, ngươi là muốn n�
 Thanh âm kia kinh hô: "Chờ đã, không cảm thấy ngươi logic có điểm lạ sao?"
 
 Lưu ly tiên nhưng một ngựa tuyệt trần, hóa quang mà đi tới.
+
+### [Next](./chuong-321.html)

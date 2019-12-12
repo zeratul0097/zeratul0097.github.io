@@ -144,3 +144,5 @@ Cái này mũ nhưng là chụp lớn hơn, Vương lão gia nơi nào chịu đ
 Chỉ lát nữa là phải cắn răng đáp lời dưới chưa, ngoài cửa bỗng nhiên vang lên một cái chánh nghĩa âm thanh.
 
 "Tất cả dừng tay cho ta!"
+
+### [Next](./chuong-80.html)

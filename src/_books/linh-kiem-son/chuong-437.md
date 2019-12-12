@@ -130,3 +130,5 @@ Vô diện giả hờ hững đáp lại: "Ta hết thảy đều là vì thánh
 Vương Vũ rốt cục không lời nào để nói, thống khoái mà lại ẩm một chén rượu sau, đem màu xanh biếc chén rượu hướng về viên cầu trên một chụp, cười to rời đi trúc thất, bay đi Phiêu Miểu phong tố kim điện.
 
 Bên kia, Vương Lục Kim Đan đã đến thời điểm cuối cùng.
+
+### [Next](./chuong-438.html)

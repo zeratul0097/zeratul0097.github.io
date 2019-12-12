@@ -112,3 +112,5 @@ Vương Lục có chút kinh ngạc nhìn bóng người kia, đứng dậy nói
 "... Vương Lục sư đệ, mấy năm không gặp ngươi lẽ nào cũng không nhận ra ta?"
 
 Chém nửa đêm bi phẫn không tên.
+
+### [Next](./chuong-403.html)

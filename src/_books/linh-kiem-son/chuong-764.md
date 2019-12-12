@@ -136,3 +136,5 @@ Này nắm chặt sau khi, bắc địa vĩnh viễn ít đi mấy tòa băng s�
 Nói, dưới chân hắn hơi động, nhất thời Đại Địa như cuộn sóng bình thường lăn lộn tuôn trào lên. Chu vi trăm dặm tất cả đều là ong ong nổ vang. Không biết bao lâu sau khi, nam tử này gật gật đầu, Đại Địa chấn động mới miễn cưỡng đình chỉ.
 
 Lúc này, chu vi trăm dặm mặt đất so với trước kia miễn cưỡng ải một trượng.
+
+### [Next](./chuong-765.html)

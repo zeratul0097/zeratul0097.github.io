@@ -130,3 +130,5 @@ Huyền mặc ngắt lời nói: "Đó là bởi vì có chút giới long trong
 Vương Lục cười cợt: "Không, ta là muốn hỏi, này mấy triệu người, có bao nhiêu có thể đi vào loại thứ nhất giới long trong cơ thể Càn Khôn?"
 
 Dừng một chút, Vương Lục lại nói: "Không có đoán sai, các ngươi chân chính di sản, chính là đặt ở loại thứ nhất giới long trong cơ thể chứ?"
+
+### [Next](./chuong-705.html)

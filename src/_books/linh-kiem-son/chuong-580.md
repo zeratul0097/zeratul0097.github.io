@@ -128,3 +128,5 @@ Sau một khắc, một đạo máu mũi suối phun phóng lên trời, Vương
 Trước khi hôn mê, hắn mơ hồ nhìn thấy bên gối một áng đỏ lấp loé.
 
 Ha ha, quả nhiên là xong rồi...
+
+### [Next](./chuong-581.html)

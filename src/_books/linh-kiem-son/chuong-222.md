@@ -110,3 +110,5 @@ Tỷ như hiện tại câu này, thay cái góc độ đến xem, nếu là lư
 Mà vừa vặn vào lúc này, một cái không lớn tin tức không nhỏ, truyền vào Vương Lục trong tai.
 
 Xa phó Thiên Nam Châu rèn luyện linh kiếm phái đệ nhất chân truyền Chu Thi Dao trở về núi rồi.
+
+### [Next](./chuong-223.html)

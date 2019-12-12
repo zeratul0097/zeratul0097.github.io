@@ -134,3 +134,5 @@ Bên trong thung lũng, thú biển tiêu tan, Ngũ Nhạc trở về vị trí 
 Màu bạc tàu cao tốc cả người bốc lên nhiệt khí, từ đó truyền ra Vương Lục âm thanh.
 
 "Sướng hay không sướng?"
+
+### [Next](./chuong-194.html)

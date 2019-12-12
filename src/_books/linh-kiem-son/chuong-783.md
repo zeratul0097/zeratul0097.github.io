@@ -114,3 +114,5 @@ Thật sự muốn đem như thế đẹp trai cung điện đóng gói đưa ch
 Nghĩ tới đây, Vương Lục đứng thẳng người lên.
 
 "Người đến, chúng ta chuẩn bị di chuyển"
+
+### [Next](./chuong-784.html)

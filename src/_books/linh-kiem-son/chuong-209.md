@@ -110,3 +110,5 @@ Lời còn chưa dứt, liền nghe tiểu Thất lo lắng buồn bực địa 
 Nói xong, Vương Lục thu hồi nắm đấm, lấy ra Khôn Sơn Kiếm, ánh mắt chuyển lạnh, vững vàng khóa chặt a hạ.
 
 "Nhàn lời nói xong, là thời điểm tiễn ngươi lên đường."
+
+### [Next](./chuong-210.html)

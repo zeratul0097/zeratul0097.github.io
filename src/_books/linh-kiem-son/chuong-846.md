@@ -126,3 +126,5 @@ Phong vân Tiên tôn khó có thể tin địa nhìn lên bầu trời, cả ng
 "Bệ hạ, ngươi..." Thanh lưu Tiên tôn lắc lắc đầu, mặt mày một mảnh bi thảm.
 
 Chỉ có Tiêu Dao Tiên tôn, phảng phất trong lòng đá tảng rơi xuống đất, khe khẽ thở dài: "Trải qua thiên tân vạn khổ, thế giới này, cuối cùng cũng coi như là còn sống."
+
+### [Next](./chuong-847.html)

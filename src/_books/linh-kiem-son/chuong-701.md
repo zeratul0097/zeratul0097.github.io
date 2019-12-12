@@ -112,3 +112,5 @@ Lần này, bên cạnh hắn không có Cửu Châu đệ nhất Kim Đan làm 
 Bởi vì trong tay hắn cầm huyền mặc tín vật.
 
 Một viên giống như hoa mai tinh xảo trâm gài tóc, cây trâm đỉnh chia làm song xoa, từng người ẩn chứa âm dương tiên linh, chính là huyền mặc độc môn tiên pháp.
+
+### [Next](./chuong-702.html)

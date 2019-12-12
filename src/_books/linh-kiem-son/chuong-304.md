@@ -120,3 +120,5 @@ Nói, cái kia đông Phương Thiếu nữ đem kẹo bình đưa tới tiểu 
 "Ta..." Tiểu cô nương do dự một chút, nhìn một chút đối phương vui tươi như thánh quang bình thường nụ cười, thống hạ quyết tâm đem mẫu thân căn dặn: Đừng ăn người xa lạ đồ ăn quên hết đi, sau đó cẩn thận từng li từng tí một địa đưa tay đến đường bình bên trong ngắt một viên, phụng như chí bảo.
 
 "Ta là Alian, đại tỷ tỷ, cảm tạ ngươi"
+
+### [Next](./chuong-305.html)

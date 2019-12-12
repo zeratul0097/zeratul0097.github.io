@@ -132,3 +132,5 @@ Lấy hắn lúc này thân phận, theo lý thuyết phải làm là hiệu l�
 Cùng lúc đó, ở Trung Châu kỳ sơn, một vị tuổi còn trẻ thiếu nữ hạ xuống nâng tay lên cánh tay.
 
 "Sách, che đậy thiên toán lại trở nên như thế vất vả, trạch mười năm ta còn thực sự là lui bước thật nhiều a... Bất quá có thể xem nhiều như vậy thật thư, ta cảm thấy vẫn là đáng giá"
+
+### [Next](./chuong-783.html)

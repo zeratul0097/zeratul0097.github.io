@@ -144,3 +144,5 @@ Lưu Hiển nghe xong lời này, không khỏi cười nói: "Sư huynh ngươi
 Phong Ngâm hừ một tiếng: "Theo như vậy cái sư phụ, sợ là hạn cuối không thể đo lường đi... Bà mẹ nó, hắn lại phá tan to nhỏ Thanh Vân chi giới!?"
 
 Mà ở Phong Ngâm thật người ngạc nhiên thời gian, Vương Lục ba người còn tại vào sơn lộ trên chậm rãi tiến lên.
+
+### [Next](./chuong-58.html)

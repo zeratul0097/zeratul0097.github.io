@@ -146,3 +146,5 @@ Theo Vương Lục chỉ dẫn, Chu Mộc Mộc các loại (chờ) người t
 Lực Vương Giang Lưu hít vào một ngụm khí lạnh: "... Không thể nào?"
 
 Vương Lục cười gằn: "Sợ cái gì, chỉ là vạn trượng cấp cặn bã"
+
+### [Next](./chuong-233.html)

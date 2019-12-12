@@ -106,3 +106,5 @@ Chém nửa đêm sắc mặt cực kỳ chăm chú: "Đúng"
 "Vấn đề thứ ba, liên quan với Vân Phàm ngươi nghi ngờ, ta trả lời là không sao, cái nào sợ thất bại cũng không sao, ngược lại, bảo vệ tốt chính mình so với bất cứ chuyện gì đều trọng yếu. Cửu Châu chi lớn, khắp nơi tiên duyên, huống chi là cải thiên hoán địa trước, các ngươi có chính là thất bại tiền vốn hơn nữa trải qua một thất bại hai lần đối với các ngươi tới nói trái lại là chuyện tốt, nửa đêm không phải là bởi vậy mới tu thành vạn pháp bất động tiên tâm? Ta biết Tiên môn bên trong có không ít người cảm thấy ta nghĩ pháp quá bảo thủ, thậm chí quá nhu nhược, xác thực, làm Vạn Pháp Tiên Môn chưởng môn, ta cũng không có vạn pháp nhân nên có nhuệ khí, so với Tiên môn bên trong ánh sáng vạn trượng các thiên tài, ta trước sau chỉ là cái thư viện nhân viên quản lý xuất thân văn nhân, thế nhưng, ngàn năm trôi qua, ánh sáng vạn trượng người đã chết, ta nhưng còn sống."
 
 Nói tới chỗ này, Thiên Luân Chân Quân thoáng đình bút nở nụ cười: "Đương nhiên, là muốn phát sáng toả nhiệt, vẫn là sống lâu trăm tuổi, quyền lựa chọn ở các ngươi trên tay."
+
+### [Next](./chuong-228.html)

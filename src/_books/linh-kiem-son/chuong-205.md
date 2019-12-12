@@ -228,3 +228,5 @@ Hổ vương chỉ cảm thấy thời gian dường như dừng lại, mỗi m
 "Hổ vương a, này Vân Đài Sơn gió đêm âm hàn, ngươi nguyên anh trần truồng mà chạy, sợ là cũng không chịu được, xin mời ngoan ngoãn an nghỉ đi."
 
 Đang khi nói chuyện, ngàn vạn viên quang điểm hội tụ một chỗ, màu đỏ tím nguyên anh lập tức bị này làn sóng nhấn chìm, cũng lại thấu không ra nửa điểm ánh sáng.
+
+### [Next](./chuong-206.html)

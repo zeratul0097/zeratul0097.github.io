@@ -122,3 +122,5 @@ Vương Lục gật gù: "Đúng đấy, lần này rốt cục có chút dáng 
 Công nhân viên hưng phấn hỏi: "Đúng rồi, nếu đám này khung máy móc đã có thể tập trung vào thực chiến, như vậy xin hỏi chân nhân, có hay không vì đám này khung máy móc muốn tên rất hay?
 
 "Tên?" Vương Lục nhíu nhíu mày, "Những này thí nghiệm cơ là ta từ Cự Thần binh trên phân ra mồi lửa, kết hợp đàn tiên mộ cùng Vạn Tiên Minh tài nguyên hàng nhái thiết kế mà thành lượng sản hình. Tính có thể so với nguyên bản sẽ có liệt hóa, nhưng cũng có thể lấy số lượng bù đắp... Nếu như vậy, liền gọi Zaku được rồi."
+
+### [Next](./chuong-775.html)

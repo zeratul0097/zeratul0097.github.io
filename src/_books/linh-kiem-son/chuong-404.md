@@ -126,3 +126,5 @@ Vừa mới từ Diệp Thủy Hà biên cảnh cửa ải chạy về Chu Mộ
 Nghe đến đó, Chu Mộc Mộc quả thực dở khóc dở cười, chỉ là buồn cười sau khi, thiếu nữ trên mặt nhưng chưa từng nổi lên cười
 
 Nàng đưa mắt nhìn sang phía sau, nhàn nhạt mở miệng: "Đi ra đi, đừng cất giấu. Chúng ta nắm chặt một điểm, ta còn muốn mau đi trở về ăn cơm đây."
+
+### [Next](./chuong-405.html)

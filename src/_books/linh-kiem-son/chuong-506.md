@@ -112,3 +112,5 @@ Vương Lục cùng Âu Dương Thương hai mặt nhìn nhau, chỉ cảm thấ
 Chính là vừa mới chết đi cái kia. Vương Lục cúi đầu nhìn lại, người kia thi thể còn ở lại trên đất đây.
 
 "Ha ha, có phải rất ngạc nhiên hay không ta còn sống sót? Rất đơn giản, bởi vì nơi này là ma linh chi mộng một cái Ma tộc vĩnh sinh địa phương"
+
+### [Next](./chuong-507.html)

@@ -142,3 +142,5 @@ Phong Linh tàn bạo mà trừng Vương Lục một chút, sau đó bồi ti�
 Vương Lục thẫn thờ mà nhìn hai người này dần hành Tiệm Viễn, tâm nói đây chính là cái gọi là thiên giáng chốn Tu La a...
 
 Phía sau, sư phụ săn sóc địa vỗ vỗ bờ vai của hắn, hỏi: "Cần ta dạy cho ngươi Linh Tê một chỉ để giải quyết nguy cơ sao?"
+
+### [Next](./chuong-563.html)

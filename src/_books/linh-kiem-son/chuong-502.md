@@ -174,3 +174,5 @@ Mà Vương Lục nghe cái kia đại ác ma càng mơ hồ như là tát khở
 "... Nơi nào có ý tứ?"
 
 "Thử liền biết rồi."
+
+### [Next](./chuong-503.html)

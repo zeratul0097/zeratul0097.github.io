@@ -138,3 +138,5 @@ Có người còn tưởng rằng là tẩu hỏa nhập ma, vội vã đi tìm 
 Được rồi, Truyền Công trường lão đều nói như vậy, vậy thì mặc kệ... Bất quá, nhìn trẻ tuổi đỏ trắng đệ tử một mặt si ngốc liền vọt vào Phiêu Miểu phong căng tin, còn thật là khiến người ta có chút không đành lòng.
 
 Vài tên linh kiếm đệ tử, trên mặt mang theo thương hại nhìn một chút Vương Lục, lại nhìn một chút Phiêu Miểu phong căng tin cửa chính treo lên chiêu mới bài: Tình thân tặng lại, thành ý bán hạ giá, hoàn toàn mới món ăn, kính thỉnh thưởng thức! Không khỏi để lại đồng tình nước mắt.
+
+### [Next](./chuong-74.html)

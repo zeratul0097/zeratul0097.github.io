@@ -140,3 +140,5 @@ Vương Lục nghe vậy cau mày, phía trước ba cái đều là người qu
 "... Có thể so với hồn thiên vấn sách? Không hổ là Địa tiên cấp số, nhưng lúc trước có thể biết điều đến mức rất a."
 
 Đế lưu tôn nói rằng: "Vì lẽ đó ta cũng hoài nghi đến hắn, thế nhưng so ra, hắn độ khả thi thấp nhất, hiện nay đến xem, ta hoài nghi sâu nhất người vẫn là hắc"
+
+### [Next](./chuong-726.html)

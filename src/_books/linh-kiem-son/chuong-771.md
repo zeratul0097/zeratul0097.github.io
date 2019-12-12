@@ -110,3 +110,5 @@ Mấy vị chân quân hai mặt nhìn nhau, một lát sau, từng ngày thở 
 (xin lỗi làm muộn như vậy mới chương mới...
 
 Thuận tiện đề cử một quyển (võ Hồn Vương toà), địa chỉ: uttn∶ntdhau. 459150, hoan nghênh có hứng thú độc giả đi vào quan sát)
+
+### [Next](./chuong-772.html)

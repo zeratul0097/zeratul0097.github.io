@@ -90,3 +90,5 @@ Liền Vương Lục cười cợt, chuẩn bị ra trận... Nhưng đúng vào
 Vương Lục liếc nhìn người nọ, cười lắc lắc đầu: "Tiểu Hải nói thật hay, đại gia trước dùng bữa đi."
 
 Cùng Tiểu Hải nhiều năm không gặp, nếu hắn mở miệng, tựu bán hắn cái mặt mũi được rồi, ngược lại loại này lẫn nhau thả miệng pháo hành vi chỉ là trước món ăn, món chính còn ở phía sau chờ đây.
+
+### [Next](./chuong-144.html)

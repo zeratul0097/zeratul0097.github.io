@@ -314,3 +314,5 @@ Nhưng cuối cùng hắn nhưng một câu nói đều không nói ra được.
 Hồi lâu sau, Vương Lục bất đắc dĩ nở nụ cười.
 
 "Một đoạn mỹ lệ cơ tình liền như vậy biến thành từ tuốt, ta cũng là say rồi."
+
+### [Next](./chuong-537.html)

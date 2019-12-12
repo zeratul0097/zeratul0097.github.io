@@ -132,3 +132,5 @@ Chẳng lẽ hắn lúc không có chuyện gì làm, vẫn trong bóng tối qu
 Nghĩ tới đây, chu minh không khỏi sau lưng phát lạnh.
 
 "Vương Lục, tiểu tử ngươi bày ra này khác phái biến trang chọn đẹp, sẽ không là xuất phát từ cá nhân ham muốn chứ? Quả nhiên là bị ngươi người sư phụ kia dằn vặt đến đối với nữ nhân mất đi hi vọng sao?"
+
+### [Next](./chuong-606.html)

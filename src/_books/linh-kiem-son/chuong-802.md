@@ -174,3 +174,5 @@ Vương Lục trầm mặc không nói.
 "Ta liền ngươi là ai đều không để ý, đương nhiên cũng không sẽ quan tâm ngươi giới tính... Xem ở ta cứu ngươi một mạng, lại vì ngươi ngoại trừ một đại hại mức, thỏa mãn ta trước khi chết nho nhỏ tâm nguyện đi."
 
 "..."
+
+### [Next](./chuong-803.html)

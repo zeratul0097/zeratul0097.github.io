@@ -132,3 +132,5 @@ Vương Lục nghe xong càng là cảm thấy bất đắc dĩ.
 Chính buồn bực thời, chợt nghe Fenrir có chút nhàm chán nói rằng: "Nói đến cái tên này cũng là kỳ quái, bị nhốt Cửu U thâm ngục sau khi, đã đầy đủ trăm năm không hề nhúc nhích qua, rồi lại không phải chết rồi, cũng như là ở thản nhiên ngủ, cũng không biết làm cái gì mộng."
 
 Chờ chút, mộng?
+
+### [Next](./chuong-505.html)

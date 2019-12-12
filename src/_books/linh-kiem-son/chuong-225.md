@@ -122,3 +122,5 @@ Khe nằm, người gian không sách được chứ
 Dù là Vương Lục thân là chuyên nghiệp người mạo hiểm trong lòng tố chất đã phi thường kiên cường, lúc này cũng có xé tin kích động, hắn cắn răng, nhấc bút lên đến như vậy trả lời chắc chắn nói.
 
 "Đương nhiên là dựa vào trí tuệ của ta và khuôn mặt đẹp"
+
+### [Next](./chuong-226.html)

@@ -88,3 +88,5 @@ Chỉ chốc lát sau.
 Rõ ràng là tin vui, nhưng Vương Lục âm thanh nghe tới nhưng không nửa phần ý mừng.
 
 "Vương Vũ a, chuẩn bị kỹ càng... Cùng Linh Kiếm Sơn nói gặp lại đi."
+
+### [Next](./chuong-846.html)

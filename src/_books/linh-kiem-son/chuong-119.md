@@ -148,3 +148,5 @@ Lí Na Na đầy hứng thú quan sát Văn Bảo quẫn bách, sau đó cười
 Nói xong, nữ tử đứng thẳng người lên: "Tiễn khách đi."
 
 Liền tự có mấy tên hạ nhân vào được nội đường, đem Văn Bảo cùng hai tên trợ thủ mời đi ra ngoài. Trước khi ra cửa, Văn Bảo quay đầu lại nhìn nữ tử yểu điệu bóng lưng, trong lòng thất vọng mất mác.
+
+### [Next](./chuong-120.html)

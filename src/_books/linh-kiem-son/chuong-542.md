@@ -108,3 +108,5 @@ Vương Lục lúc đó liền kinh ngạc: Tiểu tử này độ dày da mặt
 Nhưng là, đối phương nghĩ tới là lưu ly tiên, chính mình cũng không thể đem tiểu lưu ly bồi thường cho hắn chứ? Nghĩ tới nghĩ lui, cũng chỉ có...
 
 "Như vậy, ta chỗ này có cây tổ truyền thịt linh chi, liền đưa cho ngươi ba"
+
+### [Next](./chuong-543.html)

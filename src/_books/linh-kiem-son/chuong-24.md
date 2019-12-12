@@ -164,3 +164,5 @@ Sau đó.
 "Chu Tần." 
 
 "Vương... Trung!"
+
+### [Next](./chuong-25.html)

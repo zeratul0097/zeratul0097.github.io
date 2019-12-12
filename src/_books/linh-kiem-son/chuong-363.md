@@ -96,3 +96,5 @@ Tiếp đó, Vương Lục không có lại dính ở Aya bên người, mà là
 Nói xong, Vương Lục chỉ cảm thấy một trận cụt hứng, không khỏi thả hạ thủ bên trong lữ hành vật kỷ niệm: Aya phi thường yêu uống mật ong tửu —— trong rượu tăng thêm đặc biệt linh dược, là Vương Lục vì Aya chuẩn bị thủ đoạn cuối cùng, này ngốc cô nương nếu là chết sống không nghĩ ra, vậy thì chỉ có làm cho nàng những nơi khác thông một trận.
 
 Đáng tiếc, coi là thật là thế sự khó đoán trước, hay là Aya đúng là thuộc về tây di, bất luận làm sao cũng không thể mang về Cửu Châu?
+
+### [Next](./chuong-364.html)

@@ -156,3 +156,5 @@ Này thi trong ngọn núi không phải là chỗ ở lâu, người chết di 
 Vương Lục vài bước tiến lên, thân tay nắm lấy Ma vương bọc quan tài cái nắp, sau đó dụng lực xốc lên.
 
 Bên trong, rỗng tuếch.
+
+### [Next](./chuong-476.html)

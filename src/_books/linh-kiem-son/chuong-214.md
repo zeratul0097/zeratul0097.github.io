@@ -148,3 +148,5 @@ Xé Liệt Thiên không cùng Đại Địa nổ vang ầm ầm quét ngang, đ
 "Đồ điếc không sợ súng, dám cướp ta vô tướng phong tiên thú?"
 
 Ngũ trưởng lão bạch y xán lạn như dương, ở Vọng Nguyệt Cốc bên trong như thiên thần giáng thế.
+
+### [Next](./chuong-215.html)

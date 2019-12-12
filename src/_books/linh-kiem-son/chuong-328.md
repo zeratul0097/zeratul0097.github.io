@@ -168,3 +168,5 @@ Vương Lục thanh âm lạnh như băng, như điện thiểm Lôi Minh, oanh 
 "Ta, ta thực sự là ngu xuẩn cực độ a"
 
 Tiếng khóc bên trong, cửa đá chậm rãi mở ra, lộ ra đi về cửa ải tiếp theo cầu thang.
+
+### [Next](./chuong-329.html)

@@ -118,3 +118,5 @@ Còn chân chính thực hiện này một mục tiêu công thần, cũng chín
 "Vương Lục, ta nghĩ, là đến chúng ta lúc cáo biệt."
 
 Aya nhàn nhạt cười, tròng mắt màu xanh lục bên trong, anh khí cùng nhu ý phức tạp hỗn cùng nhau.
+
+### [Next](./chuong-360.html)

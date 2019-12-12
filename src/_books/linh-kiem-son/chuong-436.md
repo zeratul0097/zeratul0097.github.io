@@ -118,3 +118,5 @@ Bất quá, nghĩ đến thật muốn từ bỏ cái môn này tiên cấp th�
 Vương Lục nghe vậy nở nụ cười, bởi vì câu nói tiếp theo hắn đã đoán được.
 
 "Gởi thư ngưỡng thánh quang đi."
+
+### [Next](./chuong-437.html)

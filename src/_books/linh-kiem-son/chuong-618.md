@@ -154,3 +154,5 @@ Lại đầu hàng? Mắt thấy chính mình liền muốn lấy phủ quyết 
 Nhưng mà ngay ở Bạch Trạch phẫn nộ vô cùng thời điểm, một đạo sắc bén kiếm khí đột nhiên đâm tới, không kịp phản ứng, cũng đã thiết đến thủ đoạn của hắn
 
 Tiếp tục ở đuôi nhỏ nơi tuyên truyền một hồi vi tin công chúng bình đài, tìm tòi lúc trước có tòa Linh Kiếm Sơn liền có thể nhìn thấy cảm tạ mọi người chống đỡ)
+
+### [Next](./chuong-619.html)

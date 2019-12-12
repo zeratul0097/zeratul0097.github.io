@@ -130,3 +130,5 @@ Nói còn chưa dứt lời, Vương Lục liền phát hiện sư phụ vẻ m�
 Mà ở Vương Lục cương trực thời điểm, sư phụ đã gần kề lại đây ôm bờ vai của hắn, ôn nói an ủi: "Bất quá làm nữ nhân kỳ thực cũng rất tốt, làm mất đi một cây đâm xuyên chết cức chi thương xác thực là tổn thất, nhưng ta có thể truyền thụ cho ngươi Linh Tê một chỉ, luyện đến cảnh giới chí cao, mười ngón cùng xuất hiện, lấy lượng thủ thắng không hẳn không có thể thắng được chết cức chi thương, ngươi phải nghĩ thoáng một điểm a."
 
 Vương Lục đã khó có thể ức chế dùng chết cức chi thương đưa nàng đóng ở trên tường kích động.
+
+### [Next](./chuong-565.html)

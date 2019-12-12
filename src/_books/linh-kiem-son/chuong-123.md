@@ -214,3 +214,5 @@ Mà đột nhiên mất đi áp bức, Vương Lục cũng là cả kinh, lập 
 Đứng ở trên tế đàn, Vương Lục liền ngay cả thế đứng đều duy trì bất ổn, lảo đà lảo đảo giữa, trên mặt nụ cười lại như cũ là tự tin như vậy cùng thong dong.
 
 "Sư bá, đệ tử... Không thẹn với lương tâm"
+
+### [Next](./chuong-124.html)

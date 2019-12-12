@@ -112,3 +112,5 @@ Mà ở mọi người ánh mắt không có ý tốt bên trong, Vương Lục 
 "Đương nhiên, có lẽ có người muốn hỏi, cảnh giới Kim đan tu sĩ cũng có thể chém ra hóa thân sao? Vấn đề này ta nghĩ cẩn thận sau khi tự hỏi đều phải nhận được giải đáp: Đừng quên sư phụ ta là thiên hạ khó gặp song tu sĩ Kim Đan, vì lẽ đó chém ra hóa thân lại dễ dàng bất quá, không tin các ngươi cũng có thể tu đệ nhị Kim Đan, nhìn có phải là cũng có thể chém ra hóa thân đến."
 
 "Cuối cùng, đối với những kia kiên trì cho rằng tinh thần tiên nữ cùng ta có quan người, nói thí dụ như Vọng Nguyệt sư muội, ta nghĩ nói, chúc ngươi ở hủ nữ này con tràn ngập tiền đồ trên đường lớn càng chạy càng xa ba"
+
+### [Next](./chuong-273.html)

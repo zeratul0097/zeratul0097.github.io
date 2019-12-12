@@ -120,3 +120,5 @@ Vương Lục nhưng là không chút hoang mang địa thu hồi tay trái ki�
 Vương Lục hừ lạnh một tiếng, Khôn Sơn Kiếm vẽ ra kiếm bao vây rốt cục không chịu đựng nổi ba tên Kim Đan đỉnh phong phi kiếm áp lực nặng nề, ầm ầm vỡ tan. Nhưng cùng lúc đó, càng tử khuynh, ngưng mắt, yểu niết nhưng cũng từng người rơi vào cứng trực —— mới vừa cùng Vô Tướng Kiếm bao vây ngăn ngắn trong thời gian ngắn chính diện tranh tài, càng làm cho các nàng có thoát lực giống như cảm giác suy yếu
 
 Mà Vương Lục kiếm bao vây vỡ tan, nhưng vừa vặn thừa cơ thu hồi Vô Tướng Kiếm, sau một khắc, ở ba vị Côn Luân tu sĩ rơi vào suy yếu thời điểm, hỗn độn Phá Thiên Kiếm Khí toàn lực bạo phát
+
+### [Next](./chuong-446.html)

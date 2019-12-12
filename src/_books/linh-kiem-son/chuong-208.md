@@ -124,3 +124,5 @@ Sau một khắc, Vương Lục thanh âm nhàn nhạt truyền vào hắn trong
 Đòn thứ hai trọng quyền rơi ở trên mặt, a hạ dường như đặt mình trong biển lửa, bộ thân thể này vốn là cường từ ngột ngạt thương thế suýt nữa toàn bộ bộc phát ra. Mà ở trọng thương thời gian, a hạ trong đầu loé ra một đạo linh quang, một cái khó mà tin nổi ý nghĩ nhảy ra ngoài.
 
 Này, đàn hồi thương tổn, lẽ nào thương tâm cũng coi như thương tổn?
+
+### [Next](./chuong-209.html)

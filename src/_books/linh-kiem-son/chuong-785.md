@@ -104,3 +104,5 @@ Các du khách tự nhiên dồn dập cười mắng, liền Vương Lục đ�
 Phi toa thấp chỗ ngồi, một vị đầu đội mèo con phụ tùng thiếu nữ cũng đang cười, nhưng là cười gằn.
 
 "Một đám ngu xuẩn, phát huy một điểm đầu thừa đuôi thẹo công hiệu coi như làm kỳ tích, thực sự là buồn cười!"
+
+### [Next](./chuong-786.html)

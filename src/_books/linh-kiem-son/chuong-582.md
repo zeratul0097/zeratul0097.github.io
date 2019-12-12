@@ -256,3 +256,5 @@ Lúc này, nghe mấy vị thiếu nữ cường từ ngột ngạt nức nở 
 Vương Lục trong lòng chỉ có một ý nghĩ.
 
 Ta thật giống là chết chắc rồi?
+
+### [Next](./chuong-583.html)

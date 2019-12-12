@@ -182,3 +182,5 @@ Vương Lục hết cách rồi, không thể làm gì khác hơn là đem đề
 Sư phụ ngẩng đầu lên: "Ngươi trước giúp ta suy nghĩ cái kia lão ngốc · bức chỗ nào làm được mỹ nữ?"
 
 "... Ta cảm thấy được vẫn là cho ngươi khi (làm) nhục tiện khí quên đi."
+
+### [Next](./chuong-35.html)

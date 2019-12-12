@@ -142,3 +142,5 @@ Khá lắm, này mỹ thực gia đại khiêu chiến quả nhiên có chút ý
 Bất quá, càng như vậy, thi đấu mới càng là thú vị.
 
 Thực tiên liếc nhìn đối diện trên bàn Aya, trong lòng đấu chí bắt đầu thiêu đốt.
+
+### [Next](./chuong-651.html)

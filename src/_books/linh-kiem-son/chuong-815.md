@@ -164,3 +164,5 @@ Bàn tay lớn kia lập tức thu về, ngược lại hướng lên trên thá
 Mà nương theo bàn tay lớn kia động tác, âm thanh cũng không còn xuất hiện. Thế nhưng, ngắn ngủi một câu nói, đã đầy đủ ở mọi người trong lòng nhen lửa một tia hi vọng.
 
 Đó là Vương Lục âm thanh.
+
+### [Next](./chuong-816.html)

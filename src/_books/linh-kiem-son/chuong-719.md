@@ -84,3 +84,5 @@ Trong lòng nàng hiển nhiên có đáp án, nhưng không tiện tố chư ơ
 Nói, Vương Lục đứng dậy, ánh mắt đảo qua đảo biệt lập bốn phía. Có ý riêng địa nói rằng: "Các ngươi những này lưu vong giả, rõ ràng còn đang bị đế lưu tôn trục xuất truy sát, nhưng xem ra nhưng không có ôm thành đoàn, mà là từng người vì chiến a. Ta cùng ngươi hàn huyên lâu như vậy, đều đang chưa thấy người thứ ba... Được rồi, thời điểm không còn sớm, ta cũng nên về rồi. Hi vọng lần sau gặp mặt, không còn là loại này âm u nơi bí ẩn, có thể đưa thân vào dưới ánh mặt trời."
 
 Huyền mặc miễn cưỡng bỏ ra vẻ tươi cười: "Hi vọng như vậy."
+
+### [Next](./chuong-720.html)

@@ -126,3 +126,5 @@ Vương Lục tại chỗ liền kinh ngạc: "Chỗ nào chưa Thần Tiên à?
 Vương Khải Niên lắc lắc đầu: "Ta không biết ngươi nói cái gì thời đại mạt pháp, thế nhưng... Ai, cũng thật là để tiểu Hổ đứa bé kia nói trúng rồi, ngươi hai năm qua nhiều, bị người lừa gạt quá sâu ah!"
 
 Bà mẹ nó? Này lại là cái gì thần triển khai? Vương Tiểu Hổ là ai à? Bị lừa gạt lại vì sao lại nói thế? Chẳng lẽ là chỉ chính mình ở Linh Kiếm Sơn bị cái gọi Vương Vũ hình người tự đi tiết tháo rơi xuống khí Khang Đa sao? Vấn đề ngươi cái lão thôn trưởng là làm sao biết Linh Kiếm Sơn trên chuyện ah!? Ta cho nhà kí tín vẫn đúng là chưa từng nói sư phụ không phải, ta chưa bao giờ sau lưng nghị luận, đều là ngay mặt tàn nhẫn phun ah!?
+
+### [Next](./chuong-79.html)

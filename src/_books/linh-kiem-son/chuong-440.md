@@ -140,3 +140,5 @@ Chu Mộc Mộc sắc mặt nghiêm nghị, thu hồi Huyết phù thần thươ
 Chém nửa đêm, Hạng Lương đều đã đến vị, từng người mang theo từ tiên mộng cảnh giới bên trong chiếm được di sản, sắc mặt đều có chút trầm trọng. Liên quan với ngũ linh huyết quan bối cảnh cố sự, bọn họ ở kết thúc thời đều có từng người kỳ ngộ trải qua, do đó biết được. Việc quan hệ Tiên Ma, không thể kìm được bọn họ không cẩn thận, mà quá khứ một năm qua các loại tao ngộ, bách khiến cho bọn họ nhất định phải lấy một ít hành động.
 
 Trầm mặc một lúc lâu, Chu Mộc Mộc trước một bước mở miệng: "Ta nghĩ, chúng ta khả năng muốn đi một chuyến Ma giới."
+
+### [Next](./chuong-441.html)

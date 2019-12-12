@@ -146,3 +146,5 @@ Chỉ thấy cái kia Địa tiên lại lấy ra hai viên linh khí nồng n�
 Vương Lục trầm mặc gật gật đầu, sau đó ở một chiếc thẻ ngọc trên kí rồi bút danh của chính mình: Trượng hai roi sắt.
 
 (mặc dù mệt thành cẩu nhưng vẫn có canh thứ hai... Thỉnh cầu dưới phiếu phiếu)
+
+### [Next](./chuong-632.html)

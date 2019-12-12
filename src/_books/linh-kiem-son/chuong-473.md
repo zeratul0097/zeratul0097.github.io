@@ -138,3 +138,5 @@ Xoay người, Quỳnh Hoa nhìn thấy đoàn người thân ở hậu thế gi
 Quỳnh Hoa khẽ mỉm cười: "Được rồi, đón lấy chúng ta chỉ cần... Ồ, Vương Lục đây?"
 
 Định thần nhìn lại, Quỳnh Hoa Tiên Tử mới phát hiện, những người khác đều ở, chỉ có Vương Lục không gặp
+
+### [Next](./chuong-474.html)

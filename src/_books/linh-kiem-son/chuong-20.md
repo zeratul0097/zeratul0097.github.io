@@ -196,3 +196,5 @@ Lưu Hiển bị đối phương vô liêm sỉ kinh sợ, cả người run r�
 Kết quả cô gái kia không chút nào cho là nhục, trái lại dương dương đắc ý cười nói: "Không sai. Hải Vân Phàm một mình vượt ải lúc, này Voi ma mút là cấp ba cửu phẩm, bây giờ bọn họ tập hợp năm người đội ngũ, Voi ma mút thực lực tự nhiên nên thượng điều không ít, đây chính là chúng ta tục ngữ nói, nhiều người sức mạnh lớn mà!"
 
 Lưu Hiển quả thực cho quỳ: "Ngươi rất sao... Người thí luyện nhiều người, vì lẽ đó tinh quái sức mạnh lớn!?"
+
+### [Next](./chuong-21.html)

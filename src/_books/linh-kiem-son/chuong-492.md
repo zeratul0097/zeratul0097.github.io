@@ -132,3 +132,5 @@ Tiếp đó, dựa theo Âu Dương Thương cùng Vương Lục tính toán, ch
 Đáng tiếc chính là, sự tiến triển của tình hình, nhất định sẽ không thuận lợi như vậy.
 
 Dị biến, trong lúc vô tình giáng lâm.
+
+### [Next](./chuong-493.html)

@@ -120,3 +120,5 @@ Không có cái gì Kiền Nguyên Nhiên Huyết Công, đương nhiên càng k
 Cái phương án này không thể nghi ngờ càng hiện thực, bất quá chào giá trên trời mới có thể trả giá dưới đất, Chí Phong chân nhân tuyệt không muốn bị người nhìn thấu hư thực cùng điểm mấu chốt, vì lẽ đó vừa lên trận liền hùng hổ doạ người.
 
 Chính đang suy tư bước kế tiếp ứng đối lúc, đường ở ngoài vang lên một loạt tiếng bước chân, Chí Phong chân nhân quay đầu nhìn lại, phát hiện Linh Kiếm Phái số hai cùng nhân vật số ba dắt tay mà đến, trong đó Nhị trưởng lão Lưu Hiển trong tay nâng một tờ thành tâm giấy, sắc mặt nghiêm nghị.
+
+### [Next](./chuong-67.html)

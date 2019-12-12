@@ -114,3 +114,5 @@ Nói, thấy đế lưu tôn hình như có chút không ủng hộ, lại bổ 
 Người thừa kế...
 
 Nghe được ba chữ này, đế lưu tôn vẻ mặt trịnh trọng rất nhiều.
+
+### [Next](./chuong-757.html)

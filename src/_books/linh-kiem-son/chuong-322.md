@@ -152,3 +152,5 @@ Nhưng mà Thánh kỵ sĩ quan chỉ huy trong lòng sớm đối với những
 Nhưng mà sau một khắc, đã thấy tấm kia cứng nhắc dại ra khuôn mặt tươi cười trên, bỗng nhiên lập loè ra ánh mắt lợi hại. Mà hắn duỗi ra trong tay phải, càng có một thanh lợi khí chậm rãi do trong suốt mà hiện ra hình dạng. Sau một khắc, trước mắt một vệt kim quang loé ra, sau đó toàn bộ thế giới đều rơi vào đen kịt.
 
 Cũng trong lúc đó, ở đây Thánh kỵ sĩ môn, kinh hãi gần chết địa nhìn thấy chủ soái đầu lâu bay lên cao cao, trong mắt nhưng mang theo khó mà tin nổi
+
+### [Next](./chuong-323.html)

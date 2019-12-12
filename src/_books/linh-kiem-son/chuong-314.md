@@ -138,3 +138,5 @@ Cũng không phải là rời đi, mà là hoàn toàn biến mất, này một 
 Tăng mạnh bản thể thực lực, lấy tốc độ nhanh nhất áp chế bối đức Neville... Chỉ cần giết bối đức Neville, chiến tranh thắng lợi tự nhiên tới tay, cần gì cùng một cái không tên biến số dây dưa? Marina mẹ con là không sai quân cờ, nhưng cũng vẻn vẹn là quân cờ, hắn không muốn, có thể làm sao?
 
 Vương Lục thu hồi bản mệnh thần thông, nhìn trên trời không ngừng chuyển biến xấu chiến cuộc, lắc đầu cười nói: "Biến số? Ngày hôm nay hết thảy biến số bên trong, ta là tối không đáng nhắc tới."
+
+### [Next](./chuong-315.html)

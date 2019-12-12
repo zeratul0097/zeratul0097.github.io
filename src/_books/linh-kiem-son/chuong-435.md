@@ -106,3 +106,5 @@ Nhưng thành tựu Kim Đan lại nói nghe thì dễ? Đặc biệt là trong 
 Nghĩ tới đây, Vương Lục liền không khỏi lại nghĩ tới vô diện giả.
 
 ... Hay là, nên mượn sức mạnh thời điểm, cũng không thể do dự a.
+
+### [Next](./chuong-436.html)

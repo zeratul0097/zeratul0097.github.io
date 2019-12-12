@@ -118,3 +118,5 @@ Vương Lục dừng một chút, cười nói: "Cho nên nói thịnh kinh ngư
 Hạng Lương mặc dù có chút chất phác, nhưng nghe nói lời ấy nhưng cảm giác mình tựa hồ... Không quá thoải mái.
 
 "Nói chung, hiện tại trở về Nộ Diễm Cốc đối với ngươi không có bất kỳ chỗ tốt nào, ngược lại, tiếp tục lưu lại, chúng ta nhưng có cơ hội cực tốt có thể lợi dụng."
+
+### [Next](./chuong-419.html)

@@ -158,3 +158,5 @@ Vô diện giả ánh mắt ngưng lại, trái tim quả thực vì đó dừng
 Sau một khắc, một luồng tràn trề năng lượng từ cần điều khiển đỉnh bộc phát ra, lưu ly tiên cầm trong tay đoản côn, bị năng lượng kích, thân hình không tự chủ được địa bắt đầu bành trướng, đồng thời một tiếng hào phóng hò hét từ trong lồng ngực bắn ra.
 
 "ru"
+
+### [Next](./chuong-349.html)

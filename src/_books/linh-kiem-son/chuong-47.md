@@ -156,3 +156,5 @@ Bất quá, mệt mỏi về mệt mỏi, nhìn ngã xuống đất ngất đi h
 "Ah, nhanh như vậy!?"
 
 "Vô Song hình thức mà, đương nhiên phải nhanh..."
+
+### [Next](./chuong-48.html)

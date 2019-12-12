@@ -120,3 +120,5 @@ Thư tự ở trước cửa nuốt một hồi ngụm nước, liền lẫn tro
 Sau cửa, một cái thế giới mới.
 
 (canh thứ hai đưa đến, cảm tạ Đại minh chủ phiêu hồng khen thưởng thuận liền tiếp tục thỉnh cầu vi tin quan tâm, tìm tòi lúc trước có tòa Linh Kiếm Sơn hoặc là quốc vương bệ hạ cũng có thể, còn xin mọi người hỗ trợ mở rộng một hồi vi tin bình đài, cảm tạ)
+
+### [Next](./chuong-624.html)

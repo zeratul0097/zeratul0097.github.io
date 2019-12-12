@@ -138,3 +138,5 @@ Nghĩ tới đây, Vương Lục một tiếng thở dài, thả hạ thủ bên
 Tiếp đó, nên làm sao hướng về Hà Đồ đạo nhân báo cáo đây?
 
 Hà Đồ lão đại, chúc mừng ngươi, ta vừa thành công đem ngươi chào hàng ra ngoài, vì ngươi tìm cái ấu nữ làm vợ xin thoả thích hưởng dụng không cần khách khí
+
+### [Next](./chuong-709.html)

@@ -132,3 +132,5 @@ Vương Lục nói rằng: "Ai có hứng thú cùng các nàng biện luận gi
 Vương Lục vỗ vỗ bộ ngực: "Phát huy nhân cách của ta mị lực, làm cho các nàng yêu ta."
 
 "Hừ hừ, dám hủ hóa sa đọa ta đại Blai Thony á kỵ sĩ ở bộ, ta nhất định phải để bọn họ nếm thử ta lão Vương cây gậy"
+
+### [Next](./chuong-304.html)

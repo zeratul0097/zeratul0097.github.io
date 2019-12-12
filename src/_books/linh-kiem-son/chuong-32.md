@@ -134,3 +134,5 @@ Bà chủ nhưng vỗ ngực đảm bảo: "Yên tâm không có việc gì, ta 
 Vương Lục nói, vẻ mặt nghiêm túc đem một đôi đũa cắm ở bát ăn cơm trên, nạp đầu liền bái!
 
 "Bà mẹ nó! Đừng thắp hương cho ta ah!?"
+
+### [Next](./chuong-33.html)

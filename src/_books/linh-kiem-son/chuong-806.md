@@ -118,3 +118,5 @@ Nhưng mà chưa kịp động thủ, liền bị Vương Lục đè lại vai.
 "Chờ, ta cảm thấy ngược lại không ngại suy tính một chút nàng kiến nghị, nếu là sinh mệnh thời khắc cuối cùng, vậy thì cùng san bằng vượt qua đi."
 
 Nói xong, Vương Lục quay đầu, hướng về nhan lạc phóng ra chân thành mà nụ cười xán lạn.
+
+### [Next](./chuong-807.html)

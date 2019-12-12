@@ -120,3 +120,5 @@ Tháp nỗ có chút đồi tang địa nói rằng: "Ở trước ngươi, vạ
 Vương Lục than thở: "Ngươi đem hai người đàn ông nhốt tại trong mật thất, coi như qua mười vạn năm cũng không sinh được hài tử, có thể thấy được thời gian cũng không phải vạn năng. Hơn nữa ngươi cùng một đám hạng xoàng chơi cờ, dưới càng nhiều, kỳ nghệ chỉ có thể càng nát. Ngươi bản chức công tác là quân thần không phải Cờ thánh, ở đây chờ bàng môn tà đạo trên liên lụy quá nhiều tinh lực, sẽ như là chấp nhất ở ám hắc liệu lý Kỵ Sĩ vương như thế làm trò hề cho thiên hạ."
 
 Nào đó chấp nhất ở ám hắc liệu lý Kỵ Sĩ vương kinh nộ gặp nhau: "Này"
+
+### [Next](./chuong-332.html)

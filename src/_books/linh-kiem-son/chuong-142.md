@@ -270,3 +270,5 @@ Một tên đệ tử nội môn không nhịn được nói: "Nhưng là, như
 Vương Lục liếc mắt nhìn, bị nào đó Vạn Pháp Tiên Môn đệ tử ôm lấy, là cái mười tuổi mới ra mặt tiểu nha đầu, chính cười ha hả ở tu sĩ kia trong lồng ngực nhú đến nhú đi.
 
 Vương Lục nhàn nhạt nói: "Mê hoặc tử chỗ ở mà, đương nhiên muốn tìm Tiểu la lỵ rồi."
+
+### [Next](./chuong-143.html)

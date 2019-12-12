@@ -100,3 +100,5 @@ Nếu như nói, bây giờ còn có thể có biến hóa gì đó khả năng.
 Đóa hoa diễm lệ không trù, nhưng ẩn chứa đoạt mệnh sát cơ, mỗi một cánh hoa đều là lưỡi kiếm sắc bén, chạm vào tức chết. Đóa hoa tỏa ra, hơn trăm tên mục sư trong khoảnh khắc liền bị giảo thành thịt nát.
 
 Mà nhụy hoa bên trong, một tên trên người mặc rực rỡ quần dài thiếu nữ, chính chậm rãi thu hồi rải rác ở ở ngoài hơn mười thanh phi kiếm, trên mặt, cười tươi như hoa.
+
+### [Next](./chuong-317.html)

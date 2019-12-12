@@ -130,3 +130,5 @@ Bước đi này mới thật sự là chỗ khó, dựa theo Lục Ly trưởn
 Vương Lục bây giờ Nguyên Thần căn bản là hư đến rối tinh rối mù, đừng nói không có nửa điểm thực chất, thậm chí ngay cả hư thể cũng còn chưa triệt để cô đọng, đối với thiên địa linh khí ràng buộc năng lực gần như với không, thế nhưng... Muốn điều khiển linh khí, cũng chưa chắc phải đem lực lượng Nguyên Thần bên ngoài, Cửu Hư một thật Nguyên Thần có thể làm đến chuyện, Vương Lục dùng công cụ khác như thế có thể làm.
 
 Bên trong trong phủ, Hoàng cốt rung động, 206 rễ: cái ngọc trụ cùng nhau hít một hơi
+
+### [Next](./chuong-98.html)

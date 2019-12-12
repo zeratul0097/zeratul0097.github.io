@@ -110,3 +110,5 @@ Người chết mặt không hề trả lời, chỉ nói là nói: "Đón lấy
 Thư tự hiếu kỳ nói: "Không phải nói có quan hệ hắn hạng mục tất cả đều xuống ngựa sao?"
 
 Nhiên mà người chết mặt nhưng bối qua thân, chuyên chú xem ra quyển sách trong tay, cũng không tiếp tục để ý tới thư tự.
+
+### [Next](./chuong-692.html)

@@ -118,3 +118,5 @@ Nhưng mà ngay ở hắn chuẩn bị nói tán thành, triệt để xác đ�
 "Ha, bên kia chẳng có cái gì cả"
 
 Một cái nhẹ nhàng thanh âm cô gái, thổ lộ Ma tộc độc nhất ngôn ngữ, liền như thế ở năm người phía sau vang lên lên, uyển như quỷ mỵ.
+
+### [Next](./chuong-457.html)

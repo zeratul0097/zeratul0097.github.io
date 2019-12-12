@@ -132,3 +132,5 @@ Cùng lúc đó, cách xa ở Long thành quân doanh khu bên trong hậu trư
 "Vạn sự đã chuẩn bị, đông phong đã tới"
 
 Qua báo chí, liên quan với Cửu Châu dị đoan tu sĩ tập kích Thánh Quang Giáo phía Đông giáo đường tin tức, khắc ở đầu bản.
+
+### [Next](./chuong-307.html)

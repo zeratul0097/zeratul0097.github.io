@@ -140,3 +140,5 @@ Sững sờ chỉ chốc lát, Lưu Ly Tiên lại ngơ ngác nói: "Nhưng là
 Vương Lục vung tay lên liền cho nàng đã cắt đứt: "Chuyện cười ta đường đường Trí Giáo người đứng đầu, mỗi tiếng nói cử động đều đại diện cho vạn vạn người mặt mũi, ta nếu là làm cần kiệm tiết ước gì, chỉ sẽ cho người đem Trí Giáo nhìn đến nhỏ."
 
 Nói, Vương Lục tiêu sái mà một nằm: "Tiểu Lưu Ly, cố gắng học hỏi đi, cái này kêu là lãnh đạo đãi ngộ"
+
+### [Next](./chuong-174.html)

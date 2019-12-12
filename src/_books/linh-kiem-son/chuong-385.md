@@ -118,3 +118,5 @@ Vương Lục chưa kịp gật đầu, liền nghe cái thanh âm kia còn nói
 Vương Lục lúc đó liền kinh ngạc: "Mịa nó, này lại là cái gì triển khai?!"
 
 !.
+
+### [Next](./chuong-386.html)

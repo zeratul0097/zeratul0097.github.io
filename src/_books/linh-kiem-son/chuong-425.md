@@ -132,3 +132,5 @@ Mà đúng vào lúc này, Vương Lục cũng rốt cục có chủ ý, hắn 
 "Yên tâm đi, chỉ là Quỳnh Hoa, ta đã có biện pháp."
 
 Nói, hắn dùng sức nắm chặt giới tử túi.
+
+### [Next](./chuong-426.html)

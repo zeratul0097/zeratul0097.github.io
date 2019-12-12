@@ -146,3 +146,5 @@ Nói tới chỗ này, Vương Vũ trên mặt nổi lên khoái ý nụ cười
 Ngay ở Hà Đồ các loại (chờ) người nghe vậy ngạc nhiên, suy đoán Vương Vũ đến tột cùng thu hoạch cái gì thời điểm. Liền nghe Vương Lục ở bên thâm trầm địa nói rằng: "Đúng đấy, thu hoạch phong phú a"
 
 "Tiên sư nó, ngươi đến cùng thấy không?"
+
+### [Next](./chuong-645.html)

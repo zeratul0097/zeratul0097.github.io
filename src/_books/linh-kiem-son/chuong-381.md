@@ -132,3 +132,5 @@ Lấy hư đan tu sĩ tu vi, lẻn vào thế gian quân vương được dễ n
 "Phụ vương, ngài không cần khuyên ta, vạn linh huyết một chuyện ta chắc chắn sẽ không tán đồng, ta thà rằng chết đi, cũng đừng loại kia tà ác cứu mạng linh dược... Không để cho ta hận ngài."
 
 "Ta thà rằng ngươi hận ta cả đời, cũng chắc chắn sẽ không trơ mắt nhìn con gái của chính mình đi chết"
+
+### [Next](./chuong-382.html)

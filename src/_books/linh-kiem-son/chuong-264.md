@@ -126,3 +126,5 @@ Trước mắt Kiếm Ma, cũng đã vượt qua cảm giác ngột ngạt, khi�
 Cái gọi là thiên uy khó dò, hình dung chính là tình huống như vậy. Đại thừa kỳ tu sĩ nguyên thần, chính là cường đại như vậy.
 
 "Hàm ngư vươn mình?" Kiếm Ma nghe vậy lắc đầu, "Ta chỉ là lấy lại nên được đồ vật."
+
+### [Next](./chuong-265.html)

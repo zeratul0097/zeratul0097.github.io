@@ -126,3 +126,5 @@ Nói, hắn đã đưa tay trực tiếp nắm lên một tảng mỡ dày đưa
 Vương Lục khẽ mỉm cười: "Thực tiên, trước tiên đến một phần"
 
 (trước sau nằm hai ngày cuối cùng cũng coi như hồi hồn trước tiên càng một chương, cuối tuần chọn cơ lại vá đi. Tiện thể nhấc lên, có vẻ như cũng không có thiếu người không rõ ràng Linh Kiếm Sơn phồn thể bản đã xuất bản. Đài Loan các bằng hữu có thể ở mỗi cái kể chuyện điếm mua được. Không nói những cái khác chí ít bìa ngoài chất lượng rất tốt nha, mỗi một tập còn có ngoài ngạch dâng tặng phiên ngoại cố sự, xem như là lợi ích thực tế đi. Có hứng thú không ngại cổ động.)
+
+### [Next](./chuong-650.html)

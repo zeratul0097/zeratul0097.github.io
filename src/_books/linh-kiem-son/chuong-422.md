@@ -140,3 +140,5 @@ Nghĩ đến chủ nhân của chính mình càng là như vậy chăm học, ch
 Chu Mộc Mộc, đối với ngươi này bị Côn Lôn Tiên Sơn trên lão già dạy dỗ ra đệ tử mà nói, như vậy học thuật bầu không khí là ngươi không thể nào hiểu được chứ?
 
 Chém nửa đêm ở thích ý, nhưng chưa từng lưu ý đến Sarman khí tức đang nhanh chóng suy nhược xuống, đã xa vượt xa thái độ bình thường
+
+### [Next](./chuong-423.html)

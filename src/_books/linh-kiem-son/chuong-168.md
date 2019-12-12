@@ -126,3 +126,5 @@ Mọi người chờ mong đã lâu rung động rốt cục đến, trên vân 
 Một lát sau, kết quả rõ ràng, Vương Lục ho khan mấy tiếng, khóe miệng mang huyết, Lưu Ly Tiên mười hai phi kiếm, thì lại ầm ầm vỡ vụn thứ ba.
 
 Vương Lục lau miệng ba, ở vô số người trố mắt ngoác mồm bên trong cười nói: "Còn có ba lần, trở lại."
+
+### [Next](./chuong-169.html)

@@ -118,3 +118,5 @@ Chuyện này... Tựa hồ mang ý nghĩa, chưởng môn tâm tình rất tồ
 Cũng còn tốt, đáp án rất nhanh sẽ bị công bố, khi (làm) các trưởng lão gần như đến đông đủ thời điểm, không trung liền truyền đến thanh âm của chưởng môn.
 
 "Vạn Tiên Minh... Trần duyên đường người, đã tìm tới cửa.
+
+### [Next](./chuong-104.html)

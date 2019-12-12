@@ -120,3 +120,5 @@ Chu Mộc Mộc rốt cục không lời nào để nói.
 Đang khi nói chuyện, a dạ tinh thần phấn chấn, trong ánh mắt toát ra rừng rực chiến ý.
 
 "Ta muốn đi cùng Kim Ngọc Thành chủ một mình đấu hiện tại"
+
+### [Next](./chuong-422.html)

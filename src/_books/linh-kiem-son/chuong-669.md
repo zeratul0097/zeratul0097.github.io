@@ -94,3 +94,5 @@ Nhưng vào đúng lúc này, một thanh âm xen vào đi vào.
 "Nếu như Vương Lục thật sự sắp xếp ra như vậy đội hình, trận chiến này chúng ta liền chắc chắn thắng."
 
 Người nói chuyện, rõ ràng là một bộ đồ đen, lấy tội nhân tự xưng là, trên đất tiên bên trong mơ hồ làm là chân chính lãnh tụ (hắc)
+
+### [Next](./chuong-670.html)

@@ -128,3 +128,5 @@ Vương Lục dễ dàng cười, đem có thể phát sáng ánh huỳnh quang 
 Rất tốt, lưu ly còn chưa có chết, các trưởng lão ở trên người nàng dưới bảo vệ biện pháp quả nhiên là hữu hiệu, mà nếu còn sống sót, liền tất cả đều có thể.
 
 "Ồ, lừa gạt sẽ làm ngươi vui sướng như vậy sao?" Vô diện giả tò mò hỏi, sau đó đưa tay phải ra, ngay ở Vương Lục các loại (chờ) người trước mắt, lưu ly Tiên ngũ căn tinh tế thon dài, thích hợp nhất cầm kiếm ngón tay, tận gốc mà đứt.
+
+### [Next](./chuong-345.html)

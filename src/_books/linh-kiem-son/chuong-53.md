@@ -208,3 +208,5 @@ Bà chủ nghiễm nhiên một bộ bị hoảng sợ vẻ mặt: "Này, ngươ
 Do dự một hồi, mắt thấy Vương Lục lại lại muốn bái cao đường, bà chủ rốt cục không nhịn được bại lui hạ xuống: "Được rồi được rồi, ngươi đã đều có thành ý như vậy cầu ta, vậy ta liền bất đắt dĩ giúp ngươi một chút đi, có thể tuyệt đối đừng lại bái ta rồi."
 
 Vương Lục đại hỉ, đem chiếc đũa đột nhiên hướng về trên bàn cắm xuống: "Sư phụ ở trên! Được đồ nhi cúi đầu!"
+
+### [Next](./chuong-54.html)

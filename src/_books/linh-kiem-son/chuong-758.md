@@ -148,3 +148,5 @@ Chờ Lưu Hiển bất đắc dĩ rời đi, Vương Vũ cười cợt, lại c
 "Đọa tiên, chẳng mấy chốc sẽ đến rồi."
 
 Đen kịt bên trong, thanh âm lạnh như băng thản nhiên vang lên.
+
+### [Next](./chuong-759.html)

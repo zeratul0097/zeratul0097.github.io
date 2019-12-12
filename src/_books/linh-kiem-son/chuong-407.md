@@ -112,3 +112,5 @@ Kinh ngạc nhất, chính là luôn luôn đối với thiếu nữ xem thườ
 Mà thiếu nữ thì lại phi thường lý trí khí tráng địa nói.
 
 "Bởi vì ta ăn no a."
+
+### [Next](./chuong-408.html)

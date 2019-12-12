@@ -144,3 +144,5 @@ Chu Mộc Mộc vây xem toàn bộ hành trình, nhếch miệng lên: "Một �
 Thiếu nữ quay đầu, vốn định được Vương Lục phụ họa, đã thấy Vương Lục chính hai mắt thẳng tắp mà nhìn cái kia vài tên con rối tiểu nhân, dường như vào mê.
 
 "Ngươi, ngươi lại vậy...?"
+
+### [Next](./chuong-452.html)

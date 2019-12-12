@@ -130,3 +130,5 @@ Người kia xem ra ngoài ba mươi, thân hình cao lớn, mặt mày tuấn l
 Mà càng làm cho người ta kinh ngạc, nhưng là hắn cái kia thân hồng chơi đạo bào.
 
 Bởi vì đó là linh kiếm phái đệ tử chân truyền chế phục.
+
+### [Next](./chuong-729.html)

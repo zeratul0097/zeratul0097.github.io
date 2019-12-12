@@ -126,3 +126,5 @@ Nói còn chưa dứt lời, một cái kim cương quyển coi như mặt đ�
 Diệp Thủy Hà chi vương từ trên đất bò dậy, xóa đi máu mũi, xán lạn nở nụ cười: "Ta coi ngoại vật như cặn bã dáng vẻ, có phải là cũng rất tuấn tú?"
 
 "Ta, ta ngày hôm nay liền cho ngươi hủy dung"
+
+### [Next](./chuong-401.html)

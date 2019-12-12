@@ -116,3 +116,5 @@ Vương Lục cười nói: "Được, nếu sư tỷ dũng cảm, vậy ta li�
 Nói, Vương Lục từ giới tử trong túi lấy ra một viên xám xịt viên cầu, sau đó mạnh mẽ nắm nát, một luồng hôi yên bốc lên.
 
 "Tên của hắn, gọi là vô diện giả."
+
+### [Next](./chuong-427.html)

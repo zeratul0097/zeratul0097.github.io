@@ -118,3 +118,5 @@ Vương Lục trầm ngâm nói: "Nói cách khác nâng đỡ một con rối c
 "Lại không có cái gì so với này càng quan trọng..." Vương Lục khẽ gật đầu một cái, phảng phất đối với vô diện giả giác ngộ tràn đầy xúc động.
 
 "Đã như vậy, ta liền lựa chọn từ chối đi."
+
+### [Next](./chuong-352.html)

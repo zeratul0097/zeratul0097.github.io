@@ -136,3 +136,5 @@ Aya tò mò hỏi: "Ngươi dự định làm sao không có kiên trì pháp?"
 "Bất kỳ mê cung đều có một cái cộng đồng giải: Đục tường, đào đất"
 
 Đang khi nói chuyện, bản mệnh thần thông triển khai, màu máu bầu trời bao trùm chu vi trăm trượng nơi.
+
+### [Next](./chuong-330.html)

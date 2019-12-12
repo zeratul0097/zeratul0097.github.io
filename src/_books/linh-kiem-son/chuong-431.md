@@ -136,3 +136,5 @@ Lục Tiên kiếm phá giới một đòn sau, này giới ức vạn sinh linh
 Lục Tiên kiếm đại phá diệt, không riêng mất đi sinh cơ, còn loại bỏ này giới một cái to lớn mê hoặc phép thuật, khiến cho rất nhiều thứ hiện ra vốn là khuôn mặt. Trước đó, tiến vào cửa ải này vài tên thủ tịch đệ tử, sợ là chỉ có Quỳnh Hoa ngẫu nhiên từng thấy chân tướng...
 
 Vương Lục vừa muốn, một bên thở dài, công bố đáp án: "Nơi này là Ma giới, đúng không?"
+
+### [Next](./chuong-432.html)

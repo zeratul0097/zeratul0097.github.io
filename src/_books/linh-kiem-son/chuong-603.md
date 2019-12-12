@@ -118,3 +118,5 @@ Thế là hết thảy gánh nặng liền đều đặt ở Vương Lục tr�
 Vương Lục ở trước bàn múa bút thành văn mãi đến tận đêm khuya mới rốt cục ngẩng đầu lên, thoáng mệt mỏi thở dài nói.
 
 "Tiếp đó, hòa bình hữu ái tập huấn cổn liền chấm dứt ở đây, mọi người, chuẩn bị thưởng thức một xuống địa ngục tư vị đi."
+
+### [Next](./chuong-604.html)

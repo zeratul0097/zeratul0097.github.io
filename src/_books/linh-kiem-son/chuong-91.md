@@ -112,3 +112,5 @@ Lúc này, phía sau bỗng nhiên vang lên một thanh âm, để hắn hừng
 Sau não nơi, một cái mạnh mẽ đòn nghiêm trọng, không trở ngại chút nào đánh thủng hắn hộ thân cái lồng khí, làm vỡ nát hắn coi như điều thứ hai sinh mạng thượng phẩm pháp khí: Thất Bảo hộ tâm kính, một cổ phái nhiên vô địch cự lực lập tức cuồng tuôn đi qua, như + sóng to gió lớn, đánh tan hắn Thần Niệm, dao động Ngọc Phủ của hắn.....
 
 Trước mắt đen kịt một màu, ngất đi.
+
+### [Next](./chuong-92.html)

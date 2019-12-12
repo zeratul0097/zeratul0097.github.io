@@ -130,3 +130,5 @@ Nhưng rất nhanh, lại có một thanh âm chen vào.
 "Điếc không sợ súng."
 
 Bóng tối một trận rung động, tỏa ra thống khổ cùng khủng bố nhẹ nhàng gợn sóng.
+
+### [Next](./chuong-755.html)

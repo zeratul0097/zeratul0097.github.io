@@ -142,3 +142,5 @@ Cô gái mặc áo trắng bồng bềnh tiến lên, đưa tay đẩy lên mộ
 Sau một khắc, nữ tử chuyển động một cái tay khác, chăm chú vào bầu trời, trong lòng bàn tay, tượng trưng hủy diệt rít gào lôi đình lăn lộn nhảy lên.
 
 "Nguyên tố lực lượng đem hủy diệt các ngươi."
+
+### [Next](./chuong-285.html)

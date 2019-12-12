@@ -156,3 +156,5 @@ Sau đó, một bước tiến tới Âu Dương Thương trước mặt, tinh t
 Kinh ngạc, máu mũi như tuyền.
 
 "Ha ha ha, ta trước đây thật lâu đã nghĩ như thế chơi một lần đáng tiếc hắn bị chết quá sớm lại hài cốt không còn, tiên thi đều không có đến tiên cảm tạ ngươi cho ta này cơ hội hạ thủ a"
+
+### [Next](./chuong-641.html)

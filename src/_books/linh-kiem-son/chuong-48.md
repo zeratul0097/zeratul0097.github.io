@@ -118,3 +118,5 @@ Mà sử dụng Linh Bảo để hoàn thành khiêu chiến rèn luyện... T�
 Sau đó, ở trong lòng ngầm thở dài.
 
 Kim Đan đỉnh phong chân nhân quả nhiên là thô bạo lộ ra, sư phụ đại nhân, ngươi lưu trong phòng ngủ nguyên vị nội y chân tâm dùng tốt ah!
+
+### [Next](./chuong-49.html)

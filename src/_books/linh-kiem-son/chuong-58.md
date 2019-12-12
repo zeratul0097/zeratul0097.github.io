@@ -120,3 +120,5 @@ Bất quá nói đi nói lại, không biết Vô Tương kiếm cốt phía s
 Mà làm vì là kẻ cầm đầu, bà chủ nhưng phảng phất hoàn toàn không ý thức được chính mình vừa nãy làm cỡ nào kinh thế hãi tục làm ác, quay đầu lại nhìn một chút Vương Lục cùng Văn Bảo: "Các ngươi lo lắng làm gì chứ, rời đi á!"
 
 Nhìn vân đạm phong khinh bà chủ, Vương Lục nhất thời cảm giác mình vừa mới cái kia cái gọi là kim cương bất hoại thân, nhưng thật ra là cỡ nào nhỏ bé!
+
+### [Next](./chuong-59.html)

@@ -158,3 +158,5 @@ Nói xong, nàng lại là một quyền đánh nát không gian, một bước
 Phấn hồng trong lầu, mấy vị trưởng lão hai mặt nhìn nhau.
 
 "Xác thực... Chí ít, bị bọn họ liệt vào mục tiêu Tứ Tướng Chân Quân hẳn là không thành vấn đề."
+
+### [Next](./chuong-730.html)

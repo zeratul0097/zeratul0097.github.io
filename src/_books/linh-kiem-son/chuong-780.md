@@ -112,3 +112,5 @@ Dù cho Hải Vân Phàm mười năm này được Vương Lục dẫn, đã c�
 Mà bây giờ kỳ vùng núi khu tình huống báo cáo, cũng làm cho hắn cảm thấy vô cùng thiếu kiên nhẫn, kỳ sơn tông chưởng môn nhân lại như bệnh tâm thần như thế, có chút gió thổi cỏ lay liền muốn viết báo cáo, bây giờ càng là không hiểu ra sao địa nói sơn hình như có thiên địa linh khí dị biến, kiến nghị tiến một bước quan sát... Mẹ nó ngàn dặm linh sơn, thiên địa linh khí không có dị biến mới khác thường liền không thể viết điểm thứ hữu dụng sao
 
 Nghĩ tới đây, Hải Vân Phàm lắc lắc đầu, trực tiếp xách bút ở trong báo cáo viết một cái duyệt chữ, liền ra hiệu phía dưới người đem đệ đơn, không lại truyền đọc đến càng tầng lớp cao mặt.
+
+### [Next](./chuong-781.html)

@@ -98,3 +98,5 @@ Dần dần, đàn khẩu tướng thanh bắt đầu thịnh hành Quần Tiê
 Hôm nay nhóm này, vừa vặn đến phiên truyền phát tin trịnh mười sáu cố sự, cũng là gần đây tới nay nhân khí cao nhất cố sự.
 
 (chúc mọi người đêm Giáng sinh vui vẻ chờ mong năm sau ll nguyệt uống mọi người trăng tròn tửu nha)
+
+### [Next](./chuong-635.html)

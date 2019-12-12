@@ -162,3 +162,5 @@ Không sai, hiện tại ngươi phân tích địa mạch lạc rõ ràng, ph�
 Vương Lục cười nói: "Không sai, là ta ở, có thể này không phải chuyện đương nhiên mà, mọi người là đang đùa đối chiến trò chơi, không phải đánh máy rời, lẫn nhau lừa bịp mới là thái độ bình thường. Mà biết rõ lẫn nhau lập trường đối lập, còn đối với ta bịa chuyện ngôn luận cùng biểu diễn tin tưởng không nghi ngờ, cùng với trách ta, không bằng quái sự thông minh của chính mình đi. Vọng Nguyệt muội muội, ngươi như thế ngây thơ trong nhà của ngươi người biết chưa? Lớn như vậy, e sợ còn không có nói qua luyến ái chứ?"
 
 Dừng một chút, Vương Lục còn nói: "Nói chung, tuy rằng xin lỗi, thế nhưng ta muốn nói, là ta thắng."
+
+### [Next](./chuong-241.html)

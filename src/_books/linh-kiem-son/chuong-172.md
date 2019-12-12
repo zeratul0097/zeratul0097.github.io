@@ -112,3 +112,5 @@ Khi (làm) Vương Lục đem việc này hướng về Chu Minh xin chỉ thị
 "... Đa tạ sư bá khen, vậy ta liền không khách khí nhận lấy cái này cu li rồi."
 
 Từ Thông Minh phong rời đi, Vương Lục về Vô Tương Phong kêu lên Lưu Ly Tiên, khiên lên lông tạp cẩu, liền bước lên đi tới Vân Châu lữ trình.
+
+### [Next](./chuong-173.html)

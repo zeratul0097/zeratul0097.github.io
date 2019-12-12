@@ -152,3 +152,5 @@ Vô diện giả không quan tâm chút nào chính mình ác độc công kích
 Bởi vì, hắn có đủ để một đòn định Càn Khôn sát chiêu.
 
 "Các ngươi kính yêu tiền nhậm đại giáo chủ la vạn, là tuân sơn ẩn tu sẽ thành viên."
+
+### [Next](./chuong-316.html)

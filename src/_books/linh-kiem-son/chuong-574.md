@@ -112,3 +112,5 @@ Vương Vũ nghe đến đó không khỏi ngẩn ra: "Ngươi là cho rằng...
 "... Khá lắm." Trầm mặc sau một lúc lâu, Vương Vũ nhẹ giọng nói rằng, "Tiểu tử ngươi mở não động công lực không tầm thường a. Bất quá... Ta yêu thích."
 
 "Muốn chơi, liền chơi lớn một chút."
+
+### [Next](./chuong-575.html)

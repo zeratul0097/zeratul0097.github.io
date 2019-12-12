@@ -160,3 +160,5 @@ Như vậy... Lẽ nào trước mắt cái này Văn Bảo, tương lai có cơ
 "A? Tại sao?"
 
 "Bởi vì chơi hỏng rồi không đau lòng a, ha ha ha."
+
+### [Next](./chuong-12.html)

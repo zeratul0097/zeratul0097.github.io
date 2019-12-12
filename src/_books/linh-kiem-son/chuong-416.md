@@ -102,3 +102,5 @@ Quân Hoàng Sơn thủ tịch mạnh mẽ quả thực làm người tuyệt v�
 "Diệp Thủy Hà người, cũng nên đến đi."
 
 Vừa dứt lời, chỉ thấy bị máu tươi nhuộm dần suối nước bỗng nhiên tuôn ra nổi sóng, một đạo trường thương màu đỏ ngòm ẩn núp ở màu máu suối nước bên trong, lúc này đột nhiên phá tan mặt nước, nhanh đâm Hạng Lương
+
+### [Next](./chuong-417.html)

@@ -158,3 +158,5 @@ Một bên khác, cố định hồi lâu Đỗ Tiếu Tiếu bỗng nhiên đ�
 "Có thể bắt đầu chưa?"
 
 Xa xôi quay đầu trở lại: "Đến a."
+
+### [Next](./chuong-667.html)

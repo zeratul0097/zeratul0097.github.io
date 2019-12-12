@@ -110,3 +110,5 @@ Cùng lúc đó, Hạng Lương chợt phát hiện cái gì, ngạc nhiên lùi
 Sau đó, một cái nào đó đặc biệt thích ăn đòn âm thanh nhàn nhạt vang lên.
 
 "Đuôi hành lâu như vậy, rốt cục đợi được ngươi này chuyên chọn anh tuấn thiếu nam ra tay huynh quý si hán"
+
+### [Next](./chuong-418.html)

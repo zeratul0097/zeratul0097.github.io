@@ -98,3 +98,5 @@ Mà ngay ở Vương Lục trong trầm mặc, Kiếm Ma lần thứ hai tăng t
 "Làm sao, luyện là không luyện?"
 
 Vương Lục trong lòng chuyển qua trăm nghìn cái ý nghĩ, cuối cùng vẫn là cắn răng: "Luyện, tại sao không luyện?"
+
+### [Next](./chuong-255.html)

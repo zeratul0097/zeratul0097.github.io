@@ -108,3 +108,5 @@ Vương Lục khoát tay áo một cái: "Trước tiên không cần muốn nh�
 Tiếp đó, Vương Lục ở nguyên thần bên trong lầm bầm lầu bầu.
 
 "Hơn nữa, ta luôn cảm thấy, hiếu môn thắng lợi, cũng không phải ta so với người khác nhìn ra càng nhiều, mà là bởi vì thịnh kinh một phương so với chúng ta nhiều người..."
+
+### [Next](./chuong-242.html)

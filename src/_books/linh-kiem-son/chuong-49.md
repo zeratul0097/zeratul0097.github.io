@@ -158,3 +158,5 @@ Nhưng mà cuối cùng Vương Lục vẫn là chỉ có thể thở dài, tạ
 Bởi vì tính đi tính lại, chỉ bằng vào tiền bạc bây giờ trên tài nguyên, coi như liều mạng cũng không khả năng bắt được Xích Luyện quả, đã như vậy, cái kia tựu không có cái gì có thể chấp nhất, ngược lại... Bước kế tiếp kế hoạch đã làm tốt rồi!
 
 Ha ha, một vị công chức đại gia, ta này liền tới tìm ngươi!
+
+### [Next](./chuong-50.html)

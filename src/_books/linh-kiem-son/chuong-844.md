@@ -112,3 +112,5 @@ Trong này đến tột cùng phải như thế nào thao tác, hạ vũ còn nh
 Năng lượng khổng lồ dòng lũ bên trong, hạ vũ thả tiếng rống giận: "Vương Lục, giỏi tính toán!"
 
 "Ha ha, không khách khí!"
+
+### [Next](./chuong-845.html)

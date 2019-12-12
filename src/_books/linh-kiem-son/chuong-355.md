@@ -90,3 +90,5 @@ Vương Vũ hơi có chút khiếp sợ nhìn đồ đệ: "Vẫn là nói, mộ
 "Hay hoặc là là ngươi ở chỗ này gặp phải cái gì cường địch, bị trọng thương dẫn đến xuất hiện nỗi niềm khó nói? Nếu là như vậy ngươi có thể yên tâm, sư phụ bên người mang theo khẩn cấp gói thuốc, bảo quản dược đến côn trực..."
 
 Giữa lúc Vương Lục chuẩn bị nói chút gì thời điểm, bỗng nhiên chân trời dị ánh lấp loé, Thiên Nguyệt chân quân cùng Giáo Hoàng Billy rốt cục chính thức giao thủ
+
+### [Next](./chuong-356.html)

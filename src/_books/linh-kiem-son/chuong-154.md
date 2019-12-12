@@ -114,3 +114,5 @@ Văn Nhân giật mình trợn mắt lên: "Cái này đài từ rất đẹp t
 Nửa ngày trước, Nhạc Hinh Dao ứng với sư phụ yêu cầu, đi Vô Tương Phong tìm Vương Lục tới nghe khóa thời điểm, Vương Lục là như thế đáp lại.
 
 "Thiên Kiếm Đường đám kia dong nhân chiến thuật có nhục thanh nghe ah."
+
+### [Next](./chuong-155.html)

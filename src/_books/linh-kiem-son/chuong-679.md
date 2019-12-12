@@ -144,3 +144,5 @@ Nhiên Đăng nữ dù sao không phải am hiểu cãi nhau Địa tiên.
 Theo hắc y Địa tiên một câu nói, Vương Lục bóng người từ trên thính phòng đột nhiên biến mất, sau một khắc liền xuất hiện ở sân đấu võ ngay chính giữa.
 
 Mà ở nơi đó, Địa tiên Bạch Trạch đã chờ đợi đã lâu.
+
+### [Next](./chuong-680.html)

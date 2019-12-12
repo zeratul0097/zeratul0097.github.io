@@ -136,3 +136,5 @@ Vân đài a, ngươi giao phó, tạm thời xem như là không có phụ lòn
 Vì lẽ đó, liền xin ngươi yên tâm đi.
 
 Vương Lục cúi đầu, nắm chặt trong tay một khối êm dịu màu trắng cục đá, đó là đến từ thanh bên hồ trên không hề bắt mắt chút nào một viên đá cuội, nhưng là Vương Lục chuyến này rèn luyện trọng yếu vật kỷ niệm.
+
+### [Next](./chuong-220.html)

@@ -126,3 +126,5 @@ Thế là chúng Địa tiên đều trầm mặc, chỉ có toán tiên Lục
 "Được rồi, không cần thiết vì thế xoắn xuýt." Thời khắc mấu chốt, hắc y Địa tiên đứng ra nói rằng, "Không cần lưu ý Vương Lục có thủ đoạn gì, chúng ta chung quy là thực lực càng mạnh hơn một phương."
 
 "Mặt khác, nếu bọn họ đi đầu công bố danh sách, chúng ta cũng công bằng đi." Người mặc áo đen nói, đưa tay ở một đám Địa tiên điểm giữa mấy lần, "Tiểu độc tiên, huyết nhục đồ, tham lang, còn có Bạch Trạch, các ngươi bốn người lên sân khấu đi."
+
+### [Next](./chuong-671.html)

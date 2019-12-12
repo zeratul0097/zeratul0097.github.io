@@ -168,3 +168,5 @@ Vương Lục cười nói: "Vì sao các ngươi không chịu đi làm ngườ
 "Này, chúng ta được không?"
 
 "Không nỗ lực không tu đi, liền vĩnh viễn không được, bất luận cái nào thế giới thăng hoa con đường, đều là ngàn tỉ phàm nhân từng bước từng bước đi ra. Người quý báu nhất đồ vật là sinh mệnh, sinh mệnh đối với người mà nói chỉ có một lần, bởi vậy, người cả đời phải làm như vậy vượt qua: Khi (làm) một người nhìn lại chuyện cũ lúc, không bởi vì sống uổng niên hoa mà hối hận, cũng không bởi vì tầm thường vô vi mà xấu hổ; như vậy, ở hắn lúc sắp chết, có thể nói, ta đem toàn bộ sinh mệnh cùng toàn bộ tinh lực đều hiến tặng cho nhân sinh quý báu nhất sự nghiệp —— vì là thế giới thăng hoa mà phấn đấu."
+
+### [Next](./chuong-101.html)

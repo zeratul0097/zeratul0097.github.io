@@ -124,3 +124,5 @@ Nhưng mà chờ mọi người thực tiễn lên, lại phát hiện so với 
 Bất quá, làm núi cao vạn trượng ở luân mạch dưới sự kích thích khẽ run, dẫn tới đất rung núi chuyển thời, liền cũng lại không ai lo lắng vì bạch thơ tuyền mạnh mẽ mà thán phục.
 
 Giang Lưu giận dữ hét: "Thủ Hộ giả đã phục sinh, tất cả mọi người chuẩn bị chiến đấu"
+
+### [Next](./chuong-234.html)

@@ -132,3 +132,5 @@ Hắn rất muốn nhìn một chút, làm Vĩnh Hằng Thụ vụt lên từ m�
 Chém nửa đêm lòng tràn đầy ngạc nhiên, không kịp đáp lời, Sarman bóng người liền biến mất không còn thấy bóng dáng tăm hơi.
 
 Phảng phất, xưa nay không từng tồn tại như thế.
+
+### [Next](./chuong-424.html)

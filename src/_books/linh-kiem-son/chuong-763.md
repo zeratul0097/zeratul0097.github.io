@@ -110,3 +110,5 @@ Vương Lục bật cười: "Ngươi cùng cái vật chết trí cái gì khí
 "Không phải vậy đây? Đem Cửu Châu Đại Lục cũng đồng thời phá hủy đi sao?" Vương Lục nói, trên mặt tràn ra nụ cười xán lạn.
 
 Hắn cùng Cự Thần binh đồng hóa, nụ cười kéo dài tới Cự Thần binh trên người, chỉ thấy người khổng lồ miệng rộng mở ra, hiện ra nhưng là khủng bố cùng dữ tợn.
+
+### [Next](./chuong-764.html)

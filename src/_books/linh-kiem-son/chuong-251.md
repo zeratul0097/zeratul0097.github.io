@@ -108,3 +108,5 @@ Thanh âm khàn khàn vang lên theo.
 Vương Lục lúc đó chính là cả kinh, làm lời dạo đầu, này có thể hơi bị quá mức đặc lập độc hành điểm, suy nghĩ một chút, hắn thử nghiệm đáp lại.
 
 "Nếu như lớn lên đẹp trai xem như là một loại bệnh..."
+
+### [Next](./chuong-252.html)

@@ -112,3 +112,5 @@ Nhưng mà ngay ở tiên thuật sắp sửa có hiệu lực thời điểm, b
 "Ai?"
 
 "Ồ? Vừa vẫn cùng người ta làm được kịch liệt như vậy, nhanh như vậy liền để người ta đã quên, thật là khiến người ta thật là khổ sở a"
+
+### [Next](./chuong-768.html)

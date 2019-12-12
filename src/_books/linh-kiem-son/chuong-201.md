@@ -144,3 +144,5 @@ Vương Lục suy nghĩ một chút: "Bởi vì còn không hóa hình thành ng
 Vương Lục lại suy nghĩ một chút, từ nhẫn giới tử bên trong lấy ra một cái đầu lâu: "Đến đây đi."
 
 Nguyệt Linh đứng lên, đạp sóng mà tới.
+
+### [Next](./chuong-202.html)

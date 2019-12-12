@@ -132,3 +132,5 @@ Hải Vân Phàm nói: "Bất quá vẫn là muốn cẩn thận một chút m�
 Triệu Khương Nguyên gật đầu nói: "Không sai, tuy rằng không dám nói đến tinh túy, nhưng xác thực mò tới một điểm bí quyết, đầu tiên là..."
 
 ... Ở mọi người tích cực tiếng thảo luận trong, chuẩn bị chiến tranh nhịp điệu, càng ngày càng căng thẳng.
+
+### [Next](./chuong-161.html)

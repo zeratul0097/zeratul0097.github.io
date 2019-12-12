@@ -164,3 +164,5 @@ Thành thật mà nói, từ môn phái thủ tịch đi tới hôm nay bước 
 Thế nhưng, sâu trong nội tâm dù sao cũng là đối với này cực kỳ mâu thuẫn. Hơn nữa, nếu là huyền mặc loại kia dịu dàng Erya hình ngược lại cũng thôi, đế lưu tôn chân thân hắn nhưng là từng trải qua... Vương Lục đối với ấu nữ có thể không có cảm giác gì.
 
 Ngay ở Vương Lục xoắn xuýt thời điểm, đế lưu tôn nở nụ cười một tiếng: "Trước đây không lâu, các ngươi bên này có người hướng về ta cầu hôn." Dừng một chút, nàng còn nói, "Ta rất thưởng thức dũng khí của nàng cùng ngay thẳng, quyết định cưới nàng vì ta ái phi."
+
+### [Next](./chuong-708.html)

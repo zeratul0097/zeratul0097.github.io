@@ -126,3 +126,5 @@ Một lát sau, ánh sáng tản đi, mà trước kia quân trong trận thanh 
 "Rất tốt."
 
 Hạng Lương hài lòng nhìn lại không phản đối âm thanh quân đội, tiện tay tản đi vừa mới tụ lại đến mấy ngàn viên hồn phách.
+
+### [Next](./chuong-412.html)

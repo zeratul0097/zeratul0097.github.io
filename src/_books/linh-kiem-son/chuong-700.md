@@ -114,3 +114,5 @@ Nhưng nếu như cái này đế lưu tôn có thể thống hợp thật Đị
 "Chờ xem đi. Đế lưu tôn mặt hàng này chính là song nhận kiếm, ở thương tới chúng ta trước, chỉ sợ bọn họ chính mình cũng không hẳn chịu đựng được... Nói đến, ta vẫn cảm thấy kỳ lạ." Vương Lục sờ sờ cằm, nói rằng, "Trước kia vẫn cho là số một kẻ địch là cái kia hắc, hiện tại lại đột nhiên thêm ra một cái không hiểu ra sao đế lưu tôn, cái này phát triển cũng quá kỳ quái."
 
 "Thượng cổ Địa tiên thức tỉnh vốn là không hiểu ra sao." Vương Vũ than buông tay, "Nói cẩn thận đem di sản để cho hậu nhân, hiện tại tỉnh lại nhưng đổi ý không công nhận. Người như thế làm ra cái gì đến đều không kỳ quái."
+
+### [Next](./chuong-701.html)

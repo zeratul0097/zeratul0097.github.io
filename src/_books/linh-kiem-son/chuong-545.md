@@ -170,3 +170,5 @@ Cuối cùng, nhân viên cũng chỉ có thể cảm khái, Cửu Châu chi l�
 Cùng lúc đó, đàn tiên mộ chỗ cửa lớn, mấy tên nữ tử kết bạn mà đến, một người trong đó cả người mùi rượu, tràn đầy phấn khởi, thao thao bất tuyệt.
 
 "Tiểu linh nhi, ngươi xem ta mới vừa nói biện pháp thế nào? Để Vương Lục tiểu tử kia vận dụng quyền hạn cho ngươi ở chỗ này gian khách sạn, lấy nơi đây lượng người đi, chuyện làm ăn tất sẽ thịnh vượng, hơn nữa nếu là gặp phải dê béo... Ta là nói không biết điều tà tu, liền ở giòn đem hắn mê hôn mê kéo vào bếp sau, tiền tài bảo vật cướp đoạt hết sạch, thân thể nguyên thần luyện thành pháp bảo. Lại là một phen phát tài ha ha ha"
+
+### [Next](./chuong-546.html)

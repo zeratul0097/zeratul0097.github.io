@@ -122,3 +122,5 @@ Cửa thứ tư mây mù ở khắp mọi nơi, dù cho ở trong pháo đài c�
 Vương Lục dọc theo lưu ly ngón tay phương hướng nhìn lại, ánh mắt lập tức đọng lại.
 
 "Lưu ly, ngươi lập công lớn."
+
+### [Next](./chuong-339.html)

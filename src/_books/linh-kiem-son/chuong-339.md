@@ -112,3 +112,5 @@ Vô diện giả nói rằng: "Chỉ cần chúng ta động tác rất nhanh, b
 Ferdinand ngạc nhiên nói: "Này trong mây ngăn cách tất cả nhận biết, ngươi muốn làm sao khóa chặt?"
 
 Vô diện giả lạnh lùng nở nụ cười: "Bởi vì thánh quang sẽ chỉ dẫn ta đi tới phương hướng."
+
+### [Next](./chuong-340.html)

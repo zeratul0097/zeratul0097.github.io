@@ -122,3 +122,5 @@ Bất quá này cũng khó trách, Minh Ngọc hỏa thiêu đốt lúc, Tử Li
 Định thần nhìn lại, Vương Lục lại là cả kinh, càng là đầu màu lông hỗn tạp Tiểu Thổ cẩu thật thấy quỷ rồi, này hoang man nơi lại có cẩu
 
 Việc có khác thường vì cái gì, Vương Lục không chậm trễ chút nào, lập tức thả xuống trường kiếm, từ nhẫn giới tử bên trong lấy ra một cái nhỏ nồi sắt, một con bát sứ, cái muôi chiếc đũa, đồ gia vị như với... Đem nồi gác ở Minh Ngọc trên lửa, sau đó nâng lên bát sứ cười như điên nói: "Tiểu tử sắp tới ta trong bát đến"
+
+### [Next](./chuong-134.html)

@@ -150,3 +150,5 @@ Hắn rất vững tin chính mình ở làm linh kiếm học bá cái kia mấ
 Mà khi đêm đến, Vương Lục tiếp thu tam trưởng lão, bốn trưởng lão cùng sáu trưởng lão thực chiến dạy học thời, phần này lĩnh hội thì càng sâu hơn mấy phần.
 
 Bởi vì hắn thình lình ở sáu trường lão trong tay nhìn thấy Ma tộc phép thuật
+
+### [Next](./chuong-449.html)

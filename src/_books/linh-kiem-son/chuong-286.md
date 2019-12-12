@@ -120,3 +120,5 @@ Mà khi Vương Lục đồng ý theo thâm thổ bọn kỵ sĩ trở về thà
 "Xin các hạ cần phải bỏ qua cho hắn thái độ, hắn cũng là có nỗi khổ tâm trong lòng. Quãng thời gian trước bởi vì Cửu Châu tu sĩ liên tiếp bị chặn giết, trong các ngươi một vị cường giả dời nộ bình dân, tàn sát Bạo Phong thành mấy vạn quân dân, mà đội trưởng người nhà vừa vặn ngay ở Bạo Phong thành bên trong, vì lẽ đó hắn đối với các ngươi Cửu Châu người liền khó tránh khỏi..."
 
 Vương Lục nghe được sợ hãi hoảng sợ, tàn sát bình dân?
+
+### [Next](./chuong-287.html)

@@ -96,3 +96,5 @@ Biến mất cũng không phải là đào bảo vật thành toàn bộ, mà l�
 Bởi vì ngay ở đào bảo vật thành biến mất chỉ chốc lát sau, trên trời thánh quang chi hải liền tan vỡ —— triệu hoán loại này vĩ đại tồn tại, trên bản chất là đi ngược lên trời, đối với truyền kỳ cường giả mà nói cũng là gánh nặng cực lớn, Giáo Hoàng là dựa lưng đào bảo vật Thánh thành, mượn dùng mạn thời gian dài tích lũy mới có thể cố gắng hết sức, mà một khi sau lưng của hắn dựa dẫm biến mất...
 
 Giữa không trung, vị kia trên người mặc màu đỏ vàng áo choàng, cầm trong tay quyền trượng lão nhân, cùng thánh quang chi hải một đạo, biến mất không còn thấy bóng dáng tăm hơi.
+
+### [Next](./chuong-358.html)

@@ -134,3 +134,5 @@ Thiên hộ cười cợt: "Cám ơn ngươi phối hợp, theo ta được bi�
 Tên Béo dùng hết khí lực toàn thân, ở khóe miệng cố nặn ra vẻ tươi cười, trong lòng thì lại chỉ còn dư lại một thanh âm.
 
 Sư huynh, cứu ta
+
+### [Next](./chuong-116.html)

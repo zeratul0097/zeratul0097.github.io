@@ -134,3 +134,5 @@ Cô gái âm thanh để hắn như bị sét đánh, trong đầu cũng không 
 Ván cửa bình thường cự kiếm, múa ra trước nay chưa có cuồng mãnh kiếm khí, như bài sơn đảo hải, đem Chu Tần nuốt hết hầu như không còn.
 
 Mọi người trố mắt ngoác mồm giữa, Vương Lục quay đầu nở nụ cười: "Xem, nhục dục... Không đúng, sức mạnh của ái tình."
+
+### [Next](./chuong-154.html)

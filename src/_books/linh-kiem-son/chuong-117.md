@@ -154,3 +154,5 @@ Văn Bảo hỏi: "Nếu như nàng đã hỏi tới ta không hiểu vấn đ�
 "Ta X.." 
 
 "Được rồi, đứa ngốc giáo trình chấm dứt ở đây, ngươi đi quyết định Na Thiên hộ, ta cùng nhạc sư muội cùng đi quyết định Chu Tần, thời gian cấp bách, này tựu xuất phát ba"
+
+### [Next](./chuong-118.html)

@@ -122,3 +122,5 @@ Hà Đồ vui mừng địa gật gù: "Được, vậy ta liền phê chuẩn, 
 Nói, tượng trưng Vạn Tiên Minh chí cao quyền uy ấn vàng, liền như thế khắc ở Vương Lục thư cảo trên.
 
 Một tuần bắt đầu rồi, thứ hai canh thứ nhất thỉnh cầu dưới vi tin quan tâm: Tìm tòi lúc trước có tòa Linh Kiếm Sơn liền có thể, thuận tiện lại thỉnh cầu vài tờ phiếu đề cử cùng vé tháng.)
+
+### [Next](./chuong-623.html)

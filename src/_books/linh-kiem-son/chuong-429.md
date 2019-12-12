@@ -106,3 +106,5 @@ Tiên lộ tinh khiết không một hạt bụi, cần gì trạc tẩy?
 Nhưng mà ở thanh tuyền chảy xuôi, trên thân kiếm cổ điển tiên lộ hai chữ lại bị một chút cọ rửa đến mơ hồ. Sau đó, hai cái thế bút ác liệt chữ viết nổi lên.
 
 Lục tiên
+
+### [Next](./chuong-430.html)

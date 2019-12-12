@@ -156,3 +156,5 @@ Sau đó, Vương Lục ung dung không vội địa đưa tay từ giới tử 
 "Sách, mới mới ra Mendo cửu, liền bắt đầu kêu gọi tràng ngoại viện trợ rồi, tiểu Lục ngươi có được hay không a?"
 
 Giữa không trung âm thanh, mấy phần thân thiết mấy phần trêu tức, không phải Vương Vũ vẫn là ai?
+
+### [Next](./chuong-283.html)

@@ -162,3 +162,5 @@ Vui sướng bên dưới, Phá Hư Tiên Tôn phá thiên hoang địa nổi l�
 "Ngu ngốc, ngươi uống say rồi chứ?"
 
 (thêm chương đến! Thỉnh cầu pv giải thi đấu bỏ phiếu! Đằng Tấn hoạt hình đệ nhị giới pv giải thi đấu, xin đầu Linh Kiếm Sơn một phiếu! Trường thiên động họa hóa sau đó là có thể nhìn thấy tiểu lưu ly ngồi trên đến mình động nha! Tuyệt đối không nên bỏ qua cơ hội! Một cái qq hào một ngày có thể đầu 3 phiếu, phiền phức mọi người mấy ngày nay không ngại cực khổ! Cảm tạ! Bỏ phiếu địa chỉ: http://ac. qq. com/event/pv2015. html)
+
+### [Next](./chuong-791.html)

@@ -134,3 +134,5 @@ Hai người bước chân kết thúc một khắc đó, khắp núi hồng tr�
 Mà cửa lớn mở rộng đồng thời, một luồng làm người ngũ tạng lục phủ đều chấn động không ngớt quỷ dị mùi, cũng từ phòng lớn bốn phía trong phòng bếp truyền ra.
 
 (an lợi một hồi Linh Kiếm Sơn phồn thể thực thể thư đi. Đã ở Đài Loan bên kia xuất bản rất lâu. Cảm thấy hứng thú bằng hữu không ngại nhìn, mỗi một tập 15 chữ, có chuyên môn phiên ngoại tiểu cố sự, bình thường sẽ giới thiệu một chút mỗi cái nhân vật chủ yếu hậu trường hào quang sự tích. Đồng thời tiểu thuyết bìa ngoài chế tác đến tương đương tinh mỹ nha, đặc biệt là đệ thất tập bìa ngoài nhân vật sẽ là tinh thần tiên nữ, phi thường đáng để mong chờ nha)
+
+### [Next](./chuong-655.html)

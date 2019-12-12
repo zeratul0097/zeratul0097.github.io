@@ -122,3 +122,5 @@ Nhưng mà La Tiêu đương nhiên cũng rõ ràng điểm này, vì lẽ đó
 "Thư tự, trên."
 
 Sau một khắc, thư tự trong đầu vù một thanh âm vang lên, đã thân bất do kỷ, hướng về Tứ Tướng Chân Quân nhào tới
+
+### [Next](./chuong-746.html)

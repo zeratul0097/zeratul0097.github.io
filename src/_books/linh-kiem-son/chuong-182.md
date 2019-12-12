@@ -136,3 +136,5 @@ Sau đó tiểu Thất có chút mất hứng mà đem giấy viết thư bỏ q
 Vương Lục trầm mặc một hồi nói rằng: "Tương lai ngươi đi Linh Kiếm Sơn ngay mặt đòi nợ lúc, cần dưới mê dược, đánh lén ta có thể to lớn chống đỡ, đắc thủ sau liên hệ thanh lâu cũng tốt, bọn buôn người cũng tốt, ta cũng có thể làm giúp
 
 "Ha ha, thật không hổ là hai thầy trò." Tiểu Thất khá là khen ngợi mà nhìn về phía Vương Lục, "Nói đến, ta chỗ này vừa vặn có chuyện muốn nhờ ngươi."
+
+### [Next](./chuong-183.html)

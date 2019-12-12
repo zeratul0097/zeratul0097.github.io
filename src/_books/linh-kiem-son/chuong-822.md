@@ -160,3 +160,5 @@ Sau một khắc, nụ cười đọng lại, tiếp theo chính là vui mừng
 Bởi vì ngay ở hắn vừa liên tưởng đến gia đình thời điểm, trong đầu phảng phất tỏa ra cái gì, Cự Thần binh đồng bộ suất đột nhiên tăng cao một đoạn! Tiếp cận tám phần mười!
 
 Thì ra là như vậy, Tôn Bất Bình này suốt đời... Vẫn luôn đang bí ẩn chờ mong gia đình sao?
+
+### [Next](./chuong-823.html)

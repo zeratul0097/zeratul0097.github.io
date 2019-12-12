@@ -188,3 +188,5 @@ Vương Lục không nói thêm nữa, đem hành lý thả xuống ngồi trên
 Vương Lục há to mồm, nhìn bốn phía đột nhiên biến hóa.
 
 "... Này, đây là xuyên qua rồi sao?"
+
+### [Next](./chuong-7.html)

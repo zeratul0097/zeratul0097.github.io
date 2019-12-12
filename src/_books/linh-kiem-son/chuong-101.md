@@ -140,3 +140,5 @@ Lão dâm côn trong lòng tự nhủ ta nếu là có ngài hào vận, làm sa
 "A, nói chung, hiện tại tiền có, lòng người cũng có, bước kế tiếp..." 
 
 Giáo chủ Vương Lục nụ cười chuyển sang lạnh lẽo, "Đại khái một ít người cũng nên đã tìm tới cửa."
+
+### [Next](./chuong-102.html)

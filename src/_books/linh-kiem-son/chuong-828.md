@@ -130,3 +130,5 @@ Tiêu dao nói, nhấc lên nhan lạc còn sót lại thi thể, dọc theo hà
 Sau một khắc, đến từ Linh Kiếm Sơn âm thanh lại vang lên.
 
 "Vương Lục, ngươi lúc nào có thể trở về!? Chúng ta sắp không chống đỡ nổi!"
+
+### [Next](./chuong-829.html)

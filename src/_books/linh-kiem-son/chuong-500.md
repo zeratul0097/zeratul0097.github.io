@@ -118,3 +118,5 @@ Nhưng sau một khắc, căng thẳng thần kinh ầm một tiếng gãy vỡ
 "Yêu, là hai cái chưa từng thấy tiểu tử ni"
 
 Bên tai bỗng nhiên vang lên âm thanh, khiến cho hai vị nhìn quen sóng gió Kim Đan chân nhân đồng thời cảm thấy tâm thần rung mạnh.
+
+### [Next](./chuong-501.html)

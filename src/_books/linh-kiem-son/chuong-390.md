@@ -98,3 +98,5 @@ Có một số việc, hay là chung quy vô pháp viên mãn giải quyết.
 Thế nhưng
 
 Vương Lục mở hai mắt ra, tay phải đã mò vào trong lòng, ở nơi đó, có một bình huyết dịch sôi trào.
+
+### [Next](./chuong-391.html)

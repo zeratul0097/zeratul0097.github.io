@@ -218,3 +218,5 @@ Bà chủ xì cười một tiếng: "Hiện tại trên trấn này giá hàng,
 Bà chủ chợt nhớ tới cái gì: "Ồ đúng rồi, cẩn thận tính ra, ngươi cho ta tiền xác thực có còn lại, vậy thì tìm cho ngươi."
 
 Chỉ chốc lát sau, bà chủ cáo từ rời đi, mà nhìn trên bàn lưu lại một viên cũ nát miếng đồng, Vương Lục không khỏi lâm vào trầm tư.
+
+### [Next](./chuong-5.html)

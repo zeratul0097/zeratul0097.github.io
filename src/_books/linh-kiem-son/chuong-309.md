@@ -154,3 +154,5 @@ Trước mắt không gian ầm ầm vỡ vụn, màu đỏ vàng thánh bào Th
 "Khe nằm, Thánh Giả ngài tuyệt đối đừng hiểu lầm, ta cũng là vạn muôn vàn không nghĩ tới a"
 
 Đang khi nói chuyện, vị kia vương chi bảo khố nhân viên quản lý quả thực muốn điên rồi.
+
+### [Next](./chuong-310.html)

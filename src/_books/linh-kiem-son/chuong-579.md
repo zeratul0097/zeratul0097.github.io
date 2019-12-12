@@ -126,3 +126,5 @@ Hầu gái kinh ngạc nói rằng: "Bây giờ hậu cung mới lập, phiên b
 Vương Lục lắc lắc đầu, đưa tay đến trong cái mâm, nhấc lên một tấm mộc bài.
 
 Hầu gái nhìn cái kia tấm bảng, khẽ mỉm cười: "Ta vậy thì đi gọi Vũ nương nương."
+
+### [Next](./chuong-580.html)

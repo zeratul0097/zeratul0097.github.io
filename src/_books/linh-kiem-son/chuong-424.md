@@ -122,3 +122,5 @@ Vương Lục vừa dứt lời, hốc cây ở ngoài, hai cái non nớt nhưn
 "Không sai chúng ta là Diệp Thủy Hà chi vương dòng dõi, tuyệt không làm loại nhát gan"
 
 Nghe được này hai thanh âm, Vương Lục rốt cục hài lòng nở nụ cười, mà ở trước mặt hắn, chém tử đêm đã khí không ra.
+
+### [Next](./chuong-425.html)

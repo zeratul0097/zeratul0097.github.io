@@ -144,3 +144,5 @@ Mà cùng chỉ một thoáng cao trào thay nhau nổi lên nữ tu không gi�
 Tứ Tướng Chân Quân cả giận nói: "Ta lại không phải Âm Dương tông đám kia chuyện như vậy còn có ngay ở trước mặt người mặt làm? Ngươi nếu như không có chuyện gì ở, mau cút đi cho ta lăn thời điểm giác cổng cho ta mang tới"
 
 Vương Vũ trầm mặc một lúc lâu, dùng sức đối với Tứ Tướng Chân Quân giơ ngón tay giữa lên, phẩy tay áo bỏ đi
+
+### [Next](./chuong-734.html)

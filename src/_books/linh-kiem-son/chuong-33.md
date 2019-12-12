@@ -164,3 +164,5 @@ Bị Vương Lục nhân lúc còn nóng đánh thiết, Ngũ trưởng lão tĩ
 Bất quá, chung quy là cái chưa từng thấy cái gì quen mặt tiểu thí hài tử, điểm ấy một chút thủ đoạn nơi nào trên đến mặt bàn? Hắc, lại luyện cái gì thế gian võ học, không biết chính mình chính tiếp thu linh kiếm núi vĩ đại nhất giáo dục!
 
 Như vậy cũng tốt so với, rõ ràng có cái tuyệt thế mỹ nữ mặc ngươi ngủ, một mực một người tuốt xuất huyết! Này ngu xuẩn đồ đệ, sau chuyện này nhất định phải cẩn thận dạy dỗ rồi!
+
+### [Next](./chuong-34.html)

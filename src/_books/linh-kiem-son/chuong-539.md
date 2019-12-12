@@ -118,3 +118,5 @@ Nói tới chỗ này, Vương Lục không che giấu nữa khí tức, một l
 Vạn linh giọt máu sơ thành huyết mạc bị phá, tà tu cả người rung mạnh, kinh hãi gần chết.
 
 Vương Lục lạnh giọng đáp: "Tiên nhân."
+
+### [Next](./chuong-540.html)

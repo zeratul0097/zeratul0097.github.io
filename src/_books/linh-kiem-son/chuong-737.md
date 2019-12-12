@@ -160,3 +160,5 @@ Cùng lúc đó, trên thính phòng mấy trăm ngàn người yên lặng như
 Qua rất lâu, bỗng nhiên có người đưa ra một vấn đề.
 
 "Chẳng lẽ nói... Chúng ta thắng?"
+
+### [Next](./chuong-738.html)

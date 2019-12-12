@@ -140,3 +140,5 @@ Nói, một luồng không thể nghi ngờ dòng nước ấm tràn vào ngực
 "Bất quá, cũng đầy đủ."
 
 "Đón lấy ta muốn làm một chuyện, nhưng trước đó, ta cần các ngươi phải đáp ứng trước ta một chuyện."
+
+### [Next](./chuong-536.html)

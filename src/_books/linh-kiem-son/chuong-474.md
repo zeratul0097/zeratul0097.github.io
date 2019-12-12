@@ -170,3 +170,5 @@ Nhưng tiếng gào to lớn hơn nữa, chẳng lẽ còn có thể làm cho ng
 Giữa lúc Vương Lục lắc đầu thời, nhưng chợt thấy phía trước trên thi sơn, có cái nhô ra nơi khẽ run lên.
 
 Nào đó cụ ngủ say 2000 năm thi thể, càng bỗng nhiên đứng lên
+
+### [Next](./chuong-475.html)

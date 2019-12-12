@@ -124,3 +124,5 @@ Lời còn chưa dứt, bỗng nhiên phòng luyện công bên trong một tr�
 "Ngũ sư thúc? Các ngươi mới vừa nói ai khó sinh a?"
 
 Lưu ly tiên đứng ở cửa, khí chất trong suốt thoát tục, môi anh đào khẽ mở, kim đan cấp sóng pháp lực, đã hiển lộ hết không thể nghi ngờ
+
+### [Next](./chuong-561.html)

@@ -146,3 +146,5 @@ Mà cuối cùng tiến vào, nhưng là mở ra này đạo vượt qua cánh c
 "A diệu ngươi (viết như có thần) lại tinh tiến 诶 chờ một lúc nhanh giúp ta viết vài đồng tiền chữ"
 
 Thư sinh thở dài: "Ta rất muốn cho ngươi viết một loạt sỉ chữ"
+
+### [Next](./chuong-665.html)

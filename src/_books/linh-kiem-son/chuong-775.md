@@ -108,3 +108,5 @@ Thương Lan vẫn như cũ trầm mặc không nói.
 "Sách, vừa hỏi ba không biết, hữu dụng nói nhiều một câu không chịu nói, muốn hết bằng ta chủ quan suy đoán, đã như vậy, vốn định đưa ngươi từ này kỷ niệm quán bên trong giải thả ra, xem ra cũng là không có cần thiết. Ngươi liền ở ngay đây tiếp tục trầm tư cung người viết chữ đi. Chúng ta vạn năm sau gặp lại."
 
 "Chờ đã"
+
+### [Next](./chuong-776.html)

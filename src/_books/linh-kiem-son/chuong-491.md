@@ -132,3 +132,5 @@ Khách Lala... Một trận lanh lảnh xương cốt tiếng va chạm vang. Ch
 Người kia trái phải hoạt động một chút cái cổ, từ trong lỗ mũi sặc ra tụ huyết, sau đó thật dài chậm rãi xoay người.
 
 "Hô, bị người dùng trứng làm mất mặt, tư vị này thật mẹ nhà hắn thoải mái"
+
+### [Next](./chuong-492.html)

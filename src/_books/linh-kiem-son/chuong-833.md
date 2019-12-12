@@ -158,3 +158,5 @@ Rực rỡ nói rằng: "Sư huynh, xin ngươi đừng tự ti, ở đại sư
 Nhưng mà ngay ở hắn xoay người trong nháy mắt, bỗng nhiên nhìn thấy trúc bên ngoài, có thêm một đạo bóng người quen thuộc.
 
 Sau một khắc, rực rỡ trợn mắt lên, há to mồm, trong lòng một luồng không cách nào truyền lời địa dâng trào cảm tình lấp kín trái tim.
+
+### [Next](./chuong-834.html)

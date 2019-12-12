@@ -130,3 +130,5 @@ Nửa nén hương công phu, nữ đệ tử lại bay trở về: "Báo cáo s
 "Ngươi..." Chu Minh ngoác mồm lè lưỡi, cuối cùng lắc đầu bất đắc dĩ, "Được rồi, ngồi xuống đi." 
 
 "Phải!"
+
+### [Next](./chuong-24.html)

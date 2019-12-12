@@ -106,3 +106,5 @@ Thế giới này cực kỳ nhỏ hẹp, không gian cũng chỉ có cách viê
 Mà Vương Lục, thì lại ở thế giới trung tâm, mở ra bàn tay, hướng về hai vị khách không mời mà đến hơi khom người lấy nghênh.
 
 "Hoan nghênh đi tới thế giới của ta."
+
+### [Next](./chuong-259.html)

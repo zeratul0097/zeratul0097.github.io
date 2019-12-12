@@ -116,3 +116,5 @@ Bất luận từ phương diện nào xem, lúc này tu vi còn hoàn toàn kh�
 Thế nhưng, làm Âu Dương Thương nghiêm túc nói ra: "Ta không yên lòng nàng không ở bên cạnh ta." Thời, Vương Lục căn bản không tìm được bất kỳ lý do để phản đối.
 
 "Được rồi... Ai bảo chúng ta chưa kịp bắt giữ Long cung mỹ nhân ngư đây, dùng cái tên này tàm tạm một hồi cũng được chưa?"
+
+### [Next](./chuong-496.html)

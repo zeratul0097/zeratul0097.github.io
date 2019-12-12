@@ -124,3 +124,5 @@ Vương Lục nghe được lời ấy, rốt cục không nhịn được cư�
 Nửa đêm sư huynh, thật không phải với, ban đầu ta ngôn từ tướng bức, vì không phải bức tử cái kia hai tiểu hài tử
 
 Mà là bức tử ngươi a, kết quả ngươi quả nhiên sẽ chết A ha ha ha
+
+### [Next](./chuong-429.html)

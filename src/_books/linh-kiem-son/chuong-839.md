@@ -124,3 +124,5 @@ Nhưng mà, hạ vũ nụ cười nhưng dần dần thu lại đọng lại lê
 Hắn vừa mới đã chém giết Cửu Châu Đại Lục hết thảy Vương Lục, vững tin Vương Lục từ lâu chết không có chỗ chôn, như vậy tại sao... Cửu Châu nhiên huyết đại trận còn ở vận chuyển?!
 
 Đáng tiếc, không còn kịp suy tư nữa càng nhiều, một đạo trước nay chưa từng có cực quang, từ Thương Khê Châu hoang rất nơi bộc phát ra.
+
+### [Next](./chuong-840.html)

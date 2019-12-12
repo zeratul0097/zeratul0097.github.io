@@ -140,3 +140,5 @@ Diệp Thủy Hà lấy bắc, hoang vu đất khô cằn bên trên, có một 
 "Đúng"
 
 Dung nham bên cạnh ao, một vị màu đen tóc ngắn thiếu niên biểu hiện nghiêm túc, dáng người thẳng tắp địa đáp lại, ở hắn gò má trái trên, có một đạo thập tự vết đao, vì nhưng hiện ra non nớt khuôn mặt thêm trên mấy phần tang thương. Mà cặp kia chỉ có chiến sĩ mới có thể nắm giữ con mắt, thì lại lập loè làm người ta sợ hãi ánh sáng.
+
+### [Next](./chuong-411.html)

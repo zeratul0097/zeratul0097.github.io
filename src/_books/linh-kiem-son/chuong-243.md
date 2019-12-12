@@ -134,3 +134,5 @@ Cứ việc lúc này trong quảng trường đội ngũ còn rõ ràng không 
 Bên cạnh, bạch thơ tuyền do dự một chút, nhẹ giọng hỏi: "Sư huynh, ngươi xem ra thật giống... Có chút hài lòng
 
 Vương Lục đáp: "Đúng đấy, bởi vì ta rốt cuộc tìm được trò chơi này chính xác chơi pháp."
+
+### [Next](./chuong-244.html)

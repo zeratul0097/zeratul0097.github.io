@@ -148,3 +148,5 @@ Vương Lục phi thường lý trí địa lựa chọn tạm thời tránh mũ
 Phân liệt hai người rất nhanh sẽ đạt thành nhất trí, vấn đề là...
 
 "Các ngươi liền không có cân nhắc qua trưng cầu một hồi ta ý kiến sao?"
+
+### [Next](./chuong-578.html)

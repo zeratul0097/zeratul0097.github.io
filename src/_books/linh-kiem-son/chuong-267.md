@@ -138,3 +138,5 @@ Mà nhưng vào lúc này, Kiếm Ma nói rằng: "Không cần ủ rũ, này m�
 Vương Lục hơi kinh ngạc, có chút không rõ, thượng tầng ý chí?
 
 Kiếm Ma hừ lạnh một tiếng: "Ngươi sẽ không tới hiện tại còn chưa phát hiện đi, ngươi cùng ta, đều chỉ là kiếm này trủng bên trong bé nhỏ không đáng kể quân cờ."
+
+### [Next](./chuong-268.html)

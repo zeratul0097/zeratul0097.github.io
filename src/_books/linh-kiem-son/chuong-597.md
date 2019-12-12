@@ -126,3 +126,5 @@ Vương Lục tinh thần không khỏi vì đó rung một cái, mà đợi th�
 Cùng lúc đó, bên ngoài diễn võ trường cũng là vô số người trợn mắt ngoác mồm.
 
 Chu Thi Dao? Nàng làm sao đến rồi?
+
+### [Next](./chuong-598.html)

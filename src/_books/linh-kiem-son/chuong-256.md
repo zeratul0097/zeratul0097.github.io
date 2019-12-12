@@ -98,3 +98,5 @@ Thấy Vương Lục trầm ngâm bất định, Kiếm Ma còn nói: "Chú tr�
 Vương Lục không nói gì, mà là yên lặng đưa tay ra, xuyên ra ánh sáng bao vây, lấy xuống một đóa khói đen.
 
 Trong khoảnh khắc, vô biên vô hạn biển máu cuồng triều tràn vào Ngọc Phủ, đem hắn triệt để nuốt hết.
+
+### [Next](./chuong-257.html)

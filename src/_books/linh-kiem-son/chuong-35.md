@@ -154,3 +154,5 @@ Vương Lục không nhịn được hỏi: "Mười tầng tám tầng? Ngươ
 Bà mẹ nó này trả lại không mức cao nhất ah thân!? Ngài này Vô Tương công rốt cuộc là có quá vô lý ah!?
 
 Không trải qua tặc giường cũng không được tuyển, Vương Lục cũng chỉ có thể theo luyện, ba ngày luyện xong tầng thứ nhất, một tháng sau không phải mười tầng đoán thể đại thành, thoát ly khổ hải đến sao!
+
+### [Next](./chuong-36.html)

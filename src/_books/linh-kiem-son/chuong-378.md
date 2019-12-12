@@ -102,3 +102,5 @@ Thiên đạo lan kinh ngạc nói: "Ngươi, ngươi ở đùa gì thế a, âm
 Vương Lục ngắt lời nói: "Ta biết, là Âm Dương tông bảo vật trấn sơn, bí mật bất truyền, có vô cùng diệu dụng. Nhưng ngươi không cảm thấy dùng ở chỗ này kỳ thực vừa đúng sao? Đem những cô gái này trong cơ thể âm khí chuyển hóa một tia vì dương khí, liền có âm dương điều hòa, nữ nữ sinh tử, sinh sôi sinh lợi khả năng. Còn cụ thể thao tác phương pháp, các ngươi Âm Dương tông cũng là đạo này Tông Sư, cái kia trong truyền thuyết mài kính công không phải là các ngươi phát minh sao, lúc trước mấy người các ngươi bồi sư phụ ta cũng là chơi đến thật vui vẻ chứ? Hơn nữa, nhớ không lầm các ngươi Âm Dương tông bên trong vẫn bí mật tiến hành như vậy thao tác, rất nhiều năm khinh nữ đệ tử kỳ thực đều là tiền bối nữ tu sĩ môn lẫn nhau kết hợp kết tinh —— các ngươi Âm Dương tông không trả có cái biệt hiệu chính là hoa bách hợp tông sao."
 
 Tai nghe đến môn phái rất nhiều bí ẩn bị Vương Lục êm tai nói, thiên đạo lan chỉ cảm thấy trợn mắt ngoác mồm, không lời nào để nói
+
+### [Next](./chuong-379.html)

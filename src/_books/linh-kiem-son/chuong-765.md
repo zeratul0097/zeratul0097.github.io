@@ -132,3 +132,5 @@ Trước người, Vương Vũ cười gằn, dùng sức đem trước ngực t
 "Ta chờ đợi 160 năm, rốt cục đợi được cơ hội này, có thể chính tay đâm đọa tiên, vì các sư huynh đệ báo thù rửa hận"
 
 (cảm tạ uJIukt liên tục phiêu hồng, quá hoa lệ, cuối tuần xem ta vá càng đao càng)
+
+### [Next](./chuong-766.html)

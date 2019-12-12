@@ -108,3 +108,5 @@ Vương Lục nhưng không nhìn hắn nữa, đem sự chú ý quay lại vân
 Vừa tiêu hóa sôi Huyết Đan hiệu lực, vân Nguyệt công chúa trở nên càng thêm suy yếu, nhưng nàng vẫn như cũ kiên cường, nỗ lực hướng về Vương Lục phóng ra nụ cười.
 
 Vương Lục trong ánh mắt nhất thời nổi lên một tia thương tiếc, lạnh nhạt nói: "Ta là cứu mạng người."
+
+### [Next](./chuong-392.html)

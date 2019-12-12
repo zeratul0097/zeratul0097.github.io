@@ -184,3 +184,5 @@ Kết quả Vương Lục quả nhiên mở miệng: "Vương Trung a..."
 Thư đồng liền vội vàng gật đầu: "Thiếu gia ngài nói."
 
 "Phàm nhân tu tiên, xác thực chỉ có một con đường, nhưng ta lúc nào đã nói ta là phàm nhân?"
+
+### [Next](./chuong-3.html)

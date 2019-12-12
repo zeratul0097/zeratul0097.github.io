@@ -124,3 +124,5 @@ Nghe nói như thế, Vương Lục còn thật là có chút động lòng, đ�
 Trong khoảnh khắc, băng sương thiếu nữ tuyết đọng tan rã, một tia mỉm cười như lúc ban đầu nha sơ trường, không thể ức chế địa treo ở mặt
 
 "Ta là lam, Đoàn Thương Sơn chi chủ, ta nhất định sẽ cùng ngươi một đạo thắng được vương miện, nhất định sẽ"
+
+### [Next](./chuong-398.html)

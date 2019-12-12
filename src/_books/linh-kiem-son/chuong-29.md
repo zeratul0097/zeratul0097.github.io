@@ -184,3 +184,5 @@ Vương Lục thấy sư phụ lòng đầy căm phẫn sắc mặt, phi thườ
 Vương Lục xác thực rất tán thành sư phụ thuyết pháp, đặc biệt là cân nhắc đến người này tính tình cùng hành vi, không luyện thật bảo mệnh bản lãnh xác thực là không được.
 
 "Được, không hổ là ta nhìn trúng đồ đệ, nhanh như vậy liền lĩnh ngộ Tu Tiên giới đệ nhất chân lý. Ngày hôm nay ngươi liền đi nghỉ trước, ngày mai bắt đầu, ta chính thức dạy ngươi tu tiên."
+
+### [Next](./chuong-30.html)

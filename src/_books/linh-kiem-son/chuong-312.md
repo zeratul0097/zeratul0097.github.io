@@ -114,3 +114,5 @@ Vô biên vô hạn hoảng sợ từ trên trời giáng xuống, bao phủ đ�
 Vô diện giả phất phất tay, chỉ một thoáng, Peter chỉ cảm thấy trên đầu nóng lên, phảng phất nghe được cách cách một tiếng lanh lảnh nổ vang, liền cái gì cũng không biết.
 
 Cũng trong lúc đó, trên quảng trường, hơn trăm đóa tỏa ra ở đầu người bên trên máu tươi chi hoa nở rộ.
+
+### [Next](./chuong-313.html)

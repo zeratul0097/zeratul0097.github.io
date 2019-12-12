@@ -142,3 +142,5 @@ Giang Lưu sững sờ, lập tức ý thức được: "Sư tỷ ngươi là n�
 "Quân Hoàng Sơn binh pháp từ trước đến giờ thế khó liệu, này chống lại Kim Ngọc Thành cảnh nội tàn phá kì binh liền có thể làm chứng, dưới sự chỉ huy của hắn, Nộ Diễm Cốc làm ra bất kỳ cái gì sự đều không ngạc nhiên a." Quỳnh Hoa nói, ngẩng đầu lên, ánh mắt lẳng lặng mà nhìn kỹ Giang Lưu.
 
 "Phía dưới vấn đề duy nhất là, Giang Lưu sư đệ, những năm này các trưởng lão muốn ngươi tu dưỡng lòng dạ, không thể dễ dàng nổi giận. Không biết... Ngươi vẫn là phủ phát đến ra hỏa đến?"
+
+### [Next](./chuong-414.html)

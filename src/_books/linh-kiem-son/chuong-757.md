@@ -152,3 +152,5 @@ Một đoàn "nhuyễn ngọc ôn hương" nhẹ nhàng tập trung vào Vương
 "Nhớ kỹ tất cả những thứ này, sau đó quên mất nó, hiểu chưa?"
 
 Vương Lục trầm mặc một lúc lâu, khẽ gật đầu một cái.
+
+### [Next](./chuong-758.html)

@@ -108,3 +108,5 @@ Viên Triêu Niên sắc mặt âm trầm, lên cơn giận dữ, cũng không p
 "Ai nha, ngươi không tin?" Vương Lục cười nói, "Vậy cũng đơn giản, chúng ta đến thử một lần chứ. Game cùng thực tế khác nhau, ta này chuyên nghiệp người mạo hiểm tự mình biểu diễn cho ngươi xem, không cần điện giật, thử một lần liền linh"
 
 Đối mặt Vương Lục cái kia nóng lòng muốn thử nụ cười, đối với chúng sinh cánh cửa vốn là tràn ngập tự tin Viên Triêu Niên, dĩ nhiên cảm thấy trong lòng run lên, linh cảm không lành như mây đen giăng kín trong lòng.
+
+### [Next](./chuong-148.html)

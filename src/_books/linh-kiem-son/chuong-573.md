@@ -124,3 +124,5 @@ Phương xa, một đạo màu tím cột lửa phóng lên trời, xé rách Đ
 Trên đài cao, cả ngày cả người run rẩy, khó mà tin nổi địa rù rì nói.
 
 "Hỗn độn xâm lấn?"
+
+### [Next](./chuong-574.html)

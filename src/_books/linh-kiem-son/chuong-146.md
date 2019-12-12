@@ -114,3 +114,5 @@ Nhất thời, một mảnh no đủ tuyết chán phóng ra.
 Sau một khắc, bàn ăn đối diện, một trận máu mũi, liên đới Triệu Khương Nguyên khẩu trong bụng chồng chất đồ ăn phóng lên trời
 
 Thắng bại đã phân
+
+### [Next](./chuong-147.html)

@@ -112,3 +112,5 @@ Mọi người tại đây, chỉ có Giang Lưu thái độ trọng yếu nhấ
 Đương nhiên, nghĩa bóng nhưng là, nếu là chứng cứ chứng minh ngươi hôm nay tất cả chỉ là vô nghĩa, cái kia hai phái trong lúc đó liền không chỉ là một điểm tiểu ma sát.
 
 Nhưng mà sau một khắc, Giang Lưu câu chuyện nhất định: "Thế nhưng, ngươi làm cho tất cả mọi người từ bỏ thử thách, ngươi bản thân thì lại làm sao đây? Ngươi muốn đồng thời từ bỏ thử thách, sau đó và những người khác cùng rời đi mộ kiếm sao?"
+
+### [Next](./chuong-250.html)

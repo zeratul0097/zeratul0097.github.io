@@ -154,3 +154,5 @@ Vương Lục nói, lại than thở: "Tấm kia bính cuối cùng thật giố
 Lưu ly tiên kháng nghị: "Mới không có chỉ là sư phụ nói nhất thời nửa khắc không thể lại phân mà thôi"
 
 "Ha ha."
+
+### [Next](./chuong-240.html)

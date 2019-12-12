@@ -124,3 +124,5 @@ Bây giờ Ngọc Phủ Kim Đan này nhảy một cái, nhìn như nhỏ bé, n
 Ầm ầm Long cung đỉnh chóp, sức mạnh khổng lồ đột nhiên tích tụ bế tắc, sau đó ầm ầm bạo phát, vạn cân nước sông tùy theo tuôn ra quán mà vào.
 
 Linh Kiếm tu sĩ môn lại để ngừa thân đại trận, trong nháy mắt bị phá
+
+### [Next](./chuong-524.html)

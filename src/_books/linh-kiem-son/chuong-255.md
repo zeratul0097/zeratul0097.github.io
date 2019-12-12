@@ -124,3 +124,5 @@ Kiếm thần nhìn nhưng một mặt mờ mịt Chu Thi Dao, bùi ngùi thở 
 Sau một lát, Chu Thi Dao thả tay xuống, thở dài.
 
 "Thật đáng ghét a, đến thời điểm kính mắt nát..."
+
+### [Next](./chuong-256.html)

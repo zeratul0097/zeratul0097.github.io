@@ -108,3 +108,5 @@ Mà nàng nắm giữ trọng kiếm, tuy rằng chiếm đầy huyết ô, n
 Trong truyền thuyết Blai Thony á vùng đất này vương quyền chi chứng, người nắm giữ tức là Blai Thony á chi vương.
 
 Thạch trung kiếm
+
+### [Next](./chuong-319.html)

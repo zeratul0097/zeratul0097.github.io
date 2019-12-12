@@ -212,3 +212,5 @@ Bởi vì Vương Lục cười nói: "Nếu Thất Tinh môn không dựa dẫm
 Vương Lục đưa tay chỉ chính mình: "Chuyên nghiệp người mạo hiểm ở đây." 
 
 "Giời ạ... Không thể nào!?
+
+### [Next](./chuong-93.html)

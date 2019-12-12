@@ -96,3 +96,5 @@ Thiên thời địa lợi nhân hoà đều ở, bản này báo cáo muốn kh
 Đối với Vương Vũ vấn đề, Phong Ngâm sớm có đáp án.
 
 "Bản văn chương này không thể lấy Vương Lục danh nghĩa của mình phát, ảnh hưởng của hắn không đủ, hơn nữa văn tự cũng cần sửa chữa. Hai ngày nay ta sẽ chăm chú sửa chữa một lần, thêm vào của ta kí tên gửi cho Vạn Tiên Minh học thuật nghiên cứu ủy viên hội, như vậy báo cáo đủ để cung cấp hơn một nghìn cái học thuật điểm và mấy vạn học thuật điểm, chẳng những có thể hoàn thành ủy viên hội theo lệ số lượng, đem Linh Kiếm Phái học thuật cấp bậc tăng đến cấp chín cũng nên được rồi."
+
+### [Next](./chuong-131.html)

@@ -138,3 +138,5 @@ Vương Lục rất nhanh sẽ ở trong đầu đem sự tình thu xếp một 
 Ngũ trưởng lão sững sờ, không ngờ tới đồ đệ sẽ cho mình như thế cái đánh giá: "Này, này cùng hành hiệp trượng nghĩa có cọng lông quan hệ? Sớm nói cho ngươi, ta chỉ là cười nhạo bọn họ ngu ngốc mà thôi, căn bản không tâm tư đi quản Bạch Nguyệt Quốc ngu dân sống hay chết." 
 
 Nói xong, thấy Vương Lục trên mặt tựa như cười mà không phải cười, Ngũ trưởng lão hừ một tiếng, chân đạp kiếm trúc bay vút mà đi, không lại tốn nhiều miệng lưỡi.
+
+### [Next](./chuong-66.html)

@@ -150,3 +150,5 @@ Nghĩ tới đây, Kiếm Ma chợt cảm giác thấy hơi mất hết cả h�
 Mà nhưng vào lúc này, một đạo dị dạng ánh sáng, từ hắc vân nằm dày đặc thế giới ở giữa thắp sáng.
 
 Đó là Vương Lục Ngọc Phủ.
+
+### [Next](./chuong-267.html)

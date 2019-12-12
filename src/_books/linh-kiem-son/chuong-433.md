@@ -104,3 +104,5 @@ Vương Lục có chút bất đắc dĩ nhún nhún vai: "Vị đại hiệp n�
 Đang khi nói chuyện, Vương Lục trên người vô số trong lỗ chân lông, tuôn ra bao quanh màu đen nhạt sương mù dày, tụ lại đến màu tím hỏa đoàn bên cạnh, nhưng như thiêu thân lao đầu vào lửa, chạm được hỏa diễm liền biến mất hầu như không còn.
 
 "Ngươi tâm ma, ta giúp ngươi ngoại trừ, tiếp đó, là không phải có thể chăm chú theo ta tâm sự?"
+
+### [Next](./chuong-434.html)

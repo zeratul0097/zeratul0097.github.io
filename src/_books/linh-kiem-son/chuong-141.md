@@ -110,3 +110,5 @@ Mấy ngày sau, ở Linh Kiếm Phái mỏi mắt chờ mong trong chờ mong, 
 Sáng sớm ngày hôm đó, một đóa màu vàng đám mây tự đông mà đến, cái kia đám mây dựa lưng ánh mặt trời, cũng tại ánh mặt trời trong vòng vây, kiêu ngạo thả ra thuộc về mình loá mắt hào quang
 
 Vạn Pháp Tiên Môn, Vân Ba Chu.
+
+### [Next](./chuong-142.html)

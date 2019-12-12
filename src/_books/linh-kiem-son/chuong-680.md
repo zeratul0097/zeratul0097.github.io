@@ -118,3 +118,5 @@ Bởi vì đệ thất viên ấn vàng, đã sớm ở trong tay hắn xin đ
 Chuyên phá thiên dưới kiếm khí ấn vàng, đủ để lệnh bất kỳ kiếm khí tan thành mây khói.
 
 Vương Lục tạp kỹ quả thật làm người bất ngờ, thế nhưng, loại này quyết chiến sinh tử, lại há có thể lấy tạp kỹ đến quyết thắng bại?
+
+### [Next](./chuong-681.html)

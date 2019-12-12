@@ -134,3 +134,5 @@ Vừa mới đỡ hỗn độn Phá Thiên Kiếm Khí cũng không phải là t
 "Hiểu được trận pháp, có thể không chỉ là ngươi."
 
 Ma vương mang theo làm người tức giận nụ cười nói rằng: "Xác thực ta này khách đến từ vực ngoại chỉ còn dư lại một tia tàn hồn, thậm chí không chịu nổi ngươi tiện tay một chiêu kiếm. Vì lẽ đó có bản lĩnh liền vượt qua ta trung thành thủ vệ đến giết ta đi, chỉ muốn các ngươi thật có thể làm được đến."
+
+### [Next](./chuong-532.html)

@@ -126,3 +126,5 @@ Nhưng mà đối với này, vô diện giả chỉ là liếc Ferdinand một 
 "Muốn động thủ xin cứ tự nhiên, chém ta này cụ phân thân, sau đó dùng ngươi cái kia bần cùng đầu óc đi suy nghĩ chiến thuật chặn lại Cửu Châu người đi, thành công công lao tất cả đều là ngươi, thánh quang chi hải nhất định sẽ ưu ái ngươi, chúc ngươi nhiều may mắn.
 
 Vô diện giả ngữ khí trào phúng, căn bản không có đem Ferdinand để ở trong mắt
+
+### [Next](./chuong-335.html)

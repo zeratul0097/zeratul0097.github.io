@@ -138,3 +138,5 @@ Khuyển đánh cờ ở kim đan cấp đừng bên trong, tựa hồ cũng kh�
 Nhưng sau một khắc, tham lang nhưng cảm thấy quyền trên đau đớn một hồi, vội vàng thu hồi lại thời, đã thấy một ngọn núi chỉ còn dư lại nửa toà sơn.
 
 Khuyển đánh cờ răng nanh nhỏ vẫn cứ sắc nhọn, đầu răng trên nhưng nhiễm phải một chút hồng hào.
+
+### [Next](./chuong-678.html)

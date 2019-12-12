@@ -198,3 +198,5 @@ Ngay ở Clift mục tí tận nứt, quả thực cũng bị Vương Lục d�
 Đang khi nói chuyện, cái kia hoàng kim vệ sĩ biến thành cát mịn lại dần dần ngưng tụ, biến thành một khối to lớn gạch vàng —— qua cửa khen thưởng, cùng với một viên vàng chói lọi chìa khoá. Đồng thời cuối lối đi cũng xuất hiện một cánh cửa.
 
 Dẫn tới kho báu tầng thứ ba môn.
+
+### [Next](./chuong-290.html)

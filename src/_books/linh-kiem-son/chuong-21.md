@@ -128,3 +128,5 @@ Tất cả những thứ này, giống như thời đại mạt pháp, thiên đ
 Cũng không biết trải qua bao lâu, chờ bão táp dẹp loạn, đầu kia mười cao năm trượng cự thú từ lâu không thấy tăm hơi, đồng thời biến mất, còn có Vương Lục trước người trăm trượng sông băng, Thiên Lý Tuyết nguyên.
 
 Kiếm Phong Sở Chỉ, càng là một mảnh non xanh nước biếc, mây mù mù mịt, mặc dù không biết là phương nào vị trí, nhưng nói chung không phải là Băng Phong cốc.
+
+### [Next](./chuong-22.html)

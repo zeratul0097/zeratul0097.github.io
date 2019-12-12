@@ -108,3 +108,5 @@ Tôn Bất Bình trầm mặc một hồi: "Như ngươi nhìn thấy, ta là T�
 "Thua chính là thua, không có cần thiết làm bộ làm tịch. Thế nhưng, ta chưa từng có buông tha đối với thắng lợi theo đuổi, dù cho là chôn thây ở đàn tiên mộ bên trong."
 
 Vương Lục nghe xong không khỏi nhíu mày. Đàn tiên mộ thành lập, là Địa tiên môn đi ngang qua dài lâu chống lại sau, rốt cục từ bỏ hi vọng, đem tất cả ký thác cho hậu nhân tiêu chí. Nhưng mà Tôn Bất Bình, nhưng hiển nhiên cùng sự thực có chút sai lệch.
+
+### [Next](./chuong-751.html)

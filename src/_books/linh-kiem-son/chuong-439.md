@@ -82,3 +82,5 @@ Mở ra tin hàm, Chu Mộc Mộc lời ít mà ý nhiều.
 "Tư quyết định tháng sau giữa tháng ở bản môn tổ chức thơ ngũ tuyệt thủ tịch lâm thời hội nghị, Quỳnh Hoa, Hạng Lương, nào đó ngu ngốc đều hứa hẹn dự họp, cho tới ngươi, yêu có tới hay không ai thỉnh cầu ngươi?"
 
 Mấy chữ cuối cùng nét chữ cứng cáp, một luồng nôn nóng nộ từ nét mực bên trong phả vào mặt
+
+### [Next](./chuong-440.html)

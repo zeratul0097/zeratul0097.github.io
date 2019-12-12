@@ -122,3 +122,5 @@ Vương Lục nghe được quả thực muốn lã chã rơi lệ: Nguyên lai 
 "Được rồi ta đều biết, khoảng thời gian này ngươi liền ở ngay đây an tâm địa ăn đi, muốn ăn bao nhiêu ăn bao nhiêu..."
 
 Bởi vì lại hai ngày nữa, ngươi liền trải qua so với Quân Hoàng Sơn tập huấn cổn tàn khốc hơn đồ vật...
+
+### [Next](./chuong-654.html)

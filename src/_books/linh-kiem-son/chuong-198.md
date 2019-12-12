@@ -152,3 +152,5 @@ Hắn từ trong bụi cỏ đứng lên, nhẹ nhàng tằng hắng một cái,
 Nói, Vương Lục dừng một chút, quan sát phản ứng của đối phương, thấy trong hồ tiên tử mỉm cười gật đầu, liền thử thăm dò hỏi.
 
 "Xét thấy ta vừa nãy trả lời thành thật, xin hỏi hiện tại có thể đem ngươi bên chân linh khuyển tặng cho ta sao?"
+
+### [Next](./chuong-199.html)

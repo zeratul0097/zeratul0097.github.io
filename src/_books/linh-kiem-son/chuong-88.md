@@ -180,3 +180,5 @@ Nhưng rất nhanh hắn liền phản ứng lại, lớn tiếng khen.
 Vương Lục tinh thần chấn động, liền vội vàng nói: "Kế hoạch ta thực đã đã làm xong, trang phục gì gì đó không cần quá tốn tâm tư, Linh tỷ mỹ lệ của ngươi là thanh thủy xuất phù dung thiên nhiên đi điêu khắc! Tố Nhan vừa vặn, Tố Nhan liền chính xác!
 
 "Hừm, kỳ thực ta cũng cảm thấy như vậy..."
+
+### [Next](./chuong-89.html)

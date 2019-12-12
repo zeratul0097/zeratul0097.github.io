@@ -102,3 +102,5 @@ Thế là Vương Lục trực tiếp cầm lấy tiên mộng mảnh vỡ, �
 Nhưng mà Vương Lục mới mới vừa tiến vào dưới một khâu tiên mộng cảnh giới, còn đến không kịp quan sát bốn phía, liền cảm thấy phía trước gió kiếm gào thét, một thanh đen kịt trọng kiếm phủ đầu bổ tới
 
 Mịa nó, đây là mở vụ trảo tiết tấu sao?
+
+### [Next](./chuong-381.html)

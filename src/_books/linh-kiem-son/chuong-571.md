@@ -110,3 +110,5 @@ Cùng lúc đó, Vương Lục đúng lúc buông tay ra, lùi lại một bư�
 Khà khà, phá bầu trời làm thượng cổ tiên kiếm, vô cùng sắc bén sau khi nhưng cũng có rất lớn tác dụng phụ.
 
 Này não tàn vầng sáng tư vị cảm giác khỏe a?
+
+### [Next](./chuong-572.html)

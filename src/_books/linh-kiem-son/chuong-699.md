@@ -118,3 +118,5 @@ Vào lúc này, Vạn Tiên Minh tổ chức đàn tiên thi đấu, trái lạ
 Mãi đến tận Vương Lục bắt đầu lãnh đạo đột kích ngược, đem cục diện xoay chuyển, mâu thuẫn liền lần thứ hai bạo phát.
 
 Mà lần này bạo phát kết quả, chính là cái kia tràng hóa thần đoàn chiến.
+
+### [Next](./chuong-700.html)

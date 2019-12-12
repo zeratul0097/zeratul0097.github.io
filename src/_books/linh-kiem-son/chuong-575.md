@@ -134,3 +134,5 @@ Vương Lục mắng: "Có lòng thanh thản bán phế manh, không bằng nă
 Hỗn độn hạ giới Đại Địa bị vô số vết nứt phân cách, mà này vô số vết nứt nhìn theo góc độ khác, liền dường như một tấm nằm dày đặc mạng lưới, bốn phương thông suốt.
 
 Đương nhiên, cũng sẽ dẫn tới thế giới ở giữa đại vòng xoáy.
+
+### [Next](./chuong-576.html)

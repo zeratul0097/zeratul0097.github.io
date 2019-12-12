@@ -120,3 +120,5 @@ Vương Lục lại không phải Cửu Châu Đại Lục bản thổ trụ dâ
 Cùng lúc đó, làm người trong cuộc Vương Lục nhưng chỉ là nhún vai một cái.
 
 "Ta đến từ tinh tinh... Như thế nào, có yêu ta sao?"
+
+### [Next](./chuong-787.html)

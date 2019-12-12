@@ -158,3 +158,5 @@ Bóng đen ngạc nhiên: "Làm sao?"
 Bóng đen kia sửng sốt một chút, phát sinh ý nghĩa không rõ lẩm bẩm thanh âm, sau một khắc, vô thanh vô tức, một nắm đấm đánh tới.
 
 "Chết đi thê tử cái đầu ah!"
+
+### [Next](./chuong-18.html)

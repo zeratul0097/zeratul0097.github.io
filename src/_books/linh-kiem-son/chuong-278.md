@@ -112,3 +112,5 @@ Vương Lục hừ một tiếng: "Nghe xong như vậy cố sự, ta còn khả
 Cửu Châu lịch 56 năm trời thu, Vương Lục ở vô tướng phong yên lặng rơi xuống một cái thề nguyện, quyết tâm chấp hành một cái vĩ đại kế hoạch.
 
 Cứu vớt bếp trưởng Aya
+
+### [Next](./chuong-279.html)

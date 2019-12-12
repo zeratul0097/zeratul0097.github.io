@@ -124,3 +124,5 @@ Trong cái mâm bày đặt mấy khối mộc bài, mặt trên viết lưu ly 
 Sau đó, Vương Lục nghe được làm hắn sởn cả tóc gáy một câu nói.
 
 "Hoàng thượng, xin hỏi tối hôm nay muốn phiên ai nhãn hiệu?"
+
+### [Next](./chuong-579.html)

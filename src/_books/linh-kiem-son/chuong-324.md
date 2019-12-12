@@ -124,3 +124,5 @@ Lại là chỉ chốc lát sau, ngân thạch cứ điểm thủ lĩnh ngói th
 Cùng một ngày buổi tối, tình cảnh tương tự còn phát sinh rất nhiều. Vương Lục không chối từ gian lao, cùng ngoài thành vượt qua năm mươi phe thế lực nói chuyện trắng đêm, lấy dày rộng điều kiện lôi kéo một nhóm lớn độc lập thế lực gia nhập liên minh. Làm sau năm ngày, cuồng Huyết Thánh đoàn kỵ sĩ thoả thuê mãn nguyện địa xuất hiện ở Long thành ở ngoài thời, hồn nhiên không biết quy thuận chó hoang, đã đã biến thành tiềm tàng nanh vuốt sói đói.
 
 Mà chính bọn hắn, cũng đem chôn thây trong bụng sói.
+
+### [Next](./chuong-325.html)

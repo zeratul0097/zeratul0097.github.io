@@ -126,3 +126,5 @@ Hải Vân Phàm hiếm thấy duy trì không được bình tĩnh, đập trá
 "Ha ha, nói chung nếu như có thể đem nguồn sức mạnh này đầy đủ vận dụng lên, đàn tiên thi đấu trên sàn thi đấu chúng ta liền có thể nhiều mấy phần phần thắng." Vương Lục nói, đem chính mình bước đầu khởi thảo văn chương giao cho Hải Vân Phàm.
 
 "Dựa theo cái này đại cương trau chuốt một hồi văn tự, sau đó liền phân phát chọn mỹ tổ bên kia đi, hai ngày sau Kim Đan tổ tái chiến hóa thần tổ, sau đó do cái kia thịnh hành Cửu Châu độ hot thần tượng Mộ Dung Băng Ly · dạ mị hoàng · nhan diên · múa nhi tổ chức đội cổ động viên cho Kim Đan môn cố lên, xem xem rốt cục có hữu hiệu hay không"
+
+### [Next](./chuong-609.html)

@@ -96,3 +96,5 @@ Aya cũng cau mày: "Lại có việc này? Hơn trăm năm trước, đào b�
 Haddock trả lời: "Tám mươi năm trước, đương nhiệm Giáo Hoàng lĩnh dưới Thần dụ, nói đào bảo vật thành là Thánh Quang Giáo thánh địa, sau đó liền điều động thánh quang đoàn kỵ sĩ đem đào bảo vật thành công chiếm hạ xuống."
 
 "..."
+
+### [Next](./chuong-288.html)

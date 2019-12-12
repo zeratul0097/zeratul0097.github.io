@@ -116,3 +116,5 @@ Sau đó liền bồng bềnh rời đi, chỉ để lại một cái tiêu sá
 Thân là thành chủ cố vấn, đương nhiên chuyện dễ dàng vụ bận rộn không rảnh phân thân, nhưng Quỳnh Hoa hỏi thanh chân tướng cơ hội cũng là như thế tùy theo trốn...
 
 Làm quen một chút buộc cái kia ngươi khảm đặc? Bọn họ năm nhân loại tu sĩ, thực sự không có hứng thú quen thuộc Ma tộc thành thị. So với thăm dò thành phố này, bọn họ càng mong đợi có thể sớm ngày trở lại Cửu Châu Đại Lục, đem Ma giới hành trình tất cả hồi bẩm sơn môn.
+
+### [Next](./chuong-466.html)

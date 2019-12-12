@@ -106,3 +106,5 @@ Xa xa, dưới trời chiều phúc tuyền chính lập loè vạn điểm kim 
 Âu Dương Thương dĩ nhiên là muốn cùng Vương Lục tổ đội, sớm đi tới phúc tuyền
 
 "Ta xem như là rõ ràng hoàng kim một đời đều là chết như thế nào."
+
+### [Next](./chuong-482.html)

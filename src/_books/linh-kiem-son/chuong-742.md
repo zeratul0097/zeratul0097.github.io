@@ -152,3 +152,5 @@ Hoa vân lập tức mân mê miệng: "Thiết, đám kia tiện nhân, không 
 "Người chết mặt, ngươi đến cùng đang suy nghĩ gì?"
 
 Quần Tiên Thành, một cái nào đó bí mật góc, thiếu niên phát sinh phẫn nộ gào thét.
+
+### [Next](./chuong-743.html)

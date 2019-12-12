@@ -140,3 +140,5 @@ Sau một khắc, lưu ly tiên khà khà cười ngây ngô, đem phá bầu t
 "Cẩn thận sau lưng của các ngươi nha."
 
 Một chiêu kiếm quét ra, cũng không còn cái gì trước ngực sau lưng.
+
+### [Next](./chuong-291.html)

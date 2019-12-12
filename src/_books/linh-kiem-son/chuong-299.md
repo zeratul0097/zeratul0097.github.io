@@ -140,3 +140,5 @@ Long tộc huyết duệ, xác thực là cho phép mang tới người thân �
 "Bất quá, ngươi lại xem như là ai người nhà?" Bối đức Neville cười gằn, "Một mình ngươi Cửu Châu người, chẳng lẽ muốn nói ngươi cùng Long tộc huyết duệ có liên hệ máu mủ? Huống hồ liền coi như các ngươi thật có quan hệ gì, vì thỉnh cầu công bằng, ta cũng sẽ không vì nàng ngoại lệ. Lần này Long thành vệ sĩ mộ binh, bất luận người nào cũng không thể mang người nhà đi tới Long thành"
 
 Vương Lục nhíu nhíu mày: "Người nhà cũng không được?" Nhưng một lát sau trong đầu linh quang lóe lên, liền nở nụ cười: "Cái kia cũng không sao, bởi vì ta cũng không phải nàng người nhà, mà là... Nàng trai lơ"
+
+### [Next](./chuong-300.html)

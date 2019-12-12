@@ -102,3 +102,5 @@ Hai ngày đã qua, thế nhưng bất luận nhìn thế nào, huyền mặc cu
 Huyền mặc khe khẽ thở dài: "Đương nhiên sẽ không quên... Xác thực, đến nhất định phải lấy biện pháp thời điểm."
 
 Bốc ra tham gia hôn lễ, cuối tuần không cách nào thêm chương xin thứ lỗi, tiếp theo sau đó an lợi vi tin công chúng bình đài, hoan nghênh quan tâm: Tìm tòi quốc vương bệ hạ liền có thể, cám ơn đã ủng hộ)
+
+### [Next](./chuong-630.html)

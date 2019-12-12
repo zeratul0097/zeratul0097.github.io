@@ -130,3 +130,5 @@ Ngay ở Vương Lục trước mắt, một nắm cát vàng bỗng nhiên bay 
 Nói, Ma tộc lão nhân mở ra chính mình có chút dày nặng găng tay, lộ ra một đôi cực kỳ tinh tế thủ đoạn.
 
 "Chúng ta, đã mất đi năng lực chiến đấu."
+
+### [Next](./chuong-497.html)

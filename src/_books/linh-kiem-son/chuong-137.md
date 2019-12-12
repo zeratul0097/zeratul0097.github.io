@@ -128,3 +128,5 @@ Bất luận người sử dụng thân ở nơi nào, cho dù là Ma giới tro
 "Sư phụ ah, của ta tu hành làm xong, tới đón người đi."
 
 Một lát sau, thanh âm của sư phụ vang lên: "Hiện tại không rảnh ah, bọn ngươi hai ngày đi."
+
+### [Next](./chuong-138.html)

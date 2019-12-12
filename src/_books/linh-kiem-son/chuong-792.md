@@ -148,3 +148,5 @@ Phá hư biết Hạ Tiểu Hà đối với đáp án này còn không hài lò
 "Ta nhìn trúng một khoản vật sưu tập, mấy ngày nay mất ăn mất ngủ, thật giống là ma."
 
 (cảm tạ Đại minh chủ cùng tiểu hào gián điệp 007 phiêu hồng khen thưởng! Minh chủ thêm chương chính đang khẩn cấp ấp ủ bên trong, kính xin chờ mong!)
+
+### [Next](./chuong-793.html)

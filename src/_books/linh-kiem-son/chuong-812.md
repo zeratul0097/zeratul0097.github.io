@@ -150,3 +150,5 @@ Chẳng biết lúc nào, hắn lại bị vô số sơn bao quanh quay chung qu
 Mà Thiên Luân Chân Quân chính cầm trong tay hãm tiên kiếm, ở trên tầng mây bễ nghễ hắn.
 
 "Vạn pháp thiên luân, huề Cửu Châu đại trận dời núi lấp biển, lĩnh giáo tiên nhân thần uy!"
+
+### [Next](./chuong-813.html)

@@ -166,3 +166,5 @@ Vương Lục nhất thời nghẹn lời.
 "Sau ba tháng... Có chuyện gì sao?"
 
 "Ta lại không biết cái gì ngôi sao Đại Diễn thuật, sao khả năng biết sau ba tháng sẽ phát sinh cái gì, vì lẽ đó ngươi hoàn toàn có thể không tin ta nói mỗi một câu nói nha ~"
+
+### [Next](./chuong-73.html)

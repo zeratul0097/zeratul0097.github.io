@@ -88,3 +88,5 @@ Tâm lý này trên tương phản là mãnh liệt như thế, cho tới Vươn
 Quỳnh Hoa Tiên Tử cất bước ở đoàn đội phía trước nhất, nhìn thấy Vương Lục, khẽ mỉm cười.
 
 "Đã lâu không gặp."
+
+### [Next](./chuong-396.html)

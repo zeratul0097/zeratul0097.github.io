@@ -154,3 +154,5 @@ Sau khi trầm mặc, mặt trời lặn vương hít một hơi thật sâu.
 Dứt tiếng, Vương Lục đi đầu nhô lên chưởng, chỉ là tiếng vỗ tay có chút thưa thớt, quay đầu lại, Vương Vũ cùng không nguyệt lấy ánh mắt khó mà tin nổi nhìn hắn.
 
 Vương Vũ lấy nguyên thần truyền âm nói: "... Sư huynh, coi như ngươi a."
+
+### [Next](./chuong-573.html)

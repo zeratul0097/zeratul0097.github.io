@@ -92,3 +92,5 @@ Vương Lục nói rằng: "Dòng suy nghĩ là không sai dòng suy nghĩ, th�
 Quỳnh Hoa đối với này chỉ là mỉm cười.
 
 Nụ cười kia, nhưng làm người không rét mà run.
+
+### [Next](./chuong-473.html)

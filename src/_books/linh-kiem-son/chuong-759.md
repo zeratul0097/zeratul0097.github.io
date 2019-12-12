@@ -132,3 +132,5 @@ Cực bắc lạnh lẽo nơi, một đạo bóng tối lặng yên giáng lâm.
 "Phế vật vô dụng, càng muốn ta tự mình ra tay."
 
 (cảm tạ ujIukI phiêu hồng khen thưởng ngũ một tướng đến, sớm chúc mọi người ngày lễ vui vẻ)
+
+### [Next](./chuong-760.html)

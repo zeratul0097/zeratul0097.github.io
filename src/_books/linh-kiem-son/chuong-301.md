@@ -108,3 +108,5 @@ Vương Lục nói rằng: "Ngươi hoài nghi Long thành ở hết sức áp c
 Aya nói rằng: "Hiện nay ta còn muốn không ra lý do của hắn, bất quá, ta có thể thử để tình huống sản sinh một điểm biến hóa, nhìn phản ứng của hắn."
 
 Vương Lục sửng sốt một lúc: "Ngươi muốn trần truồng mà chạy sao?"
+
+### [Next](./chuong-302.html)

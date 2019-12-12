@@ -110,3 +110,5 @@ Mà ngay ở ba phái trưởng lão làm kiếm trủng khai phá tích cực b
 Lần này mộ kiếm lữ trình, to lớn nhất chỗ khó ngay ở Chân Tiên lưu lại tầng tầng cơ quan thử thách bên trên, mà Linh Kiếm Sơn bên trong, nhưng là có một vị bất luận cỡ nào phức tạp cơ quan đều có thể phá giải cao nhân tồn tại...
 
 "Bà chủ, ta muốn một phần thức ăn ngoài"
+
+### [Next](./chuong-230.html)

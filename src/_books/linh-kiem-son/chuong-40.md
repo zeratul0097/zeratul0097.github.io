@@ -182,3 +182,5 @@ Làm sao bây giờ!?
 Bàng hoàng bên trong, chợt nghe người nào đó mở miệng.
 
 "Ồ? Lại là Vọng Nguyệt series? Thú vị, thả nơi này ta đến, ta muốn cùng nó một mình đấu!"
+
+### [Next](./chuong-41.html)

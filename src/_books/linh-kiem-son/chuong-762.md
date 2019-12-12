@@ -124,3 +124,5 @@ Dừng một chút, thiếu nữ trầm giọng nói rằng: "Chỉ sợ ngươi
 "... Giáng lâm? Vậy thì đi kiếm chết hắn được rồi."
 
 Nói xong, to lớn kim loại con rối lóe lên một cái rồi biến mất.
+
+### [Next](./chuong-763.html)

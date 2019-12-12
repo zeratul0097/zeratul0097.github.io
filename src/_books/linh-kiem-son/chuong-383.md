@@ -116,3 +116,5 @@ Cường điệu chiến đấu sao... Thông qua tình huống vừa rồi đ�
 Nói tới chỗ này, Vương Lục ánh mắt hơi phiến diện, nhìn thấy trên giường bệnh hôn mê vân Nguyệt công chúa, không khỏi bật cười
 
 "Lần này ta nhưng là có ngoại tinh đội hữu trợ giúp đây."
+
+### [Next](./chuong-384.html)

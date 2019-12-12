@@ -120,3 +120,5 @@ Sau đó trùng lão dâm côn liếc mắt ra hiệu, người sau lúc này hi
 Xa xa mắt thấy cảnh nầy vô tri thôn dân, nhất thời dồn dập quỳ gối.
 
 Ẩn hình bên trong Vương Lục cười lạnh một tiếng: Bái đi, bái mười một liền sáu chấn động đại thần, các ngươi đã lạy không lỗ! Các ngươi thông minh có hạn, cố gắng hấp hấp nhân phẩm, hay là còn có được cứu trợ!
+
+### [Next](./chuong-100.html)

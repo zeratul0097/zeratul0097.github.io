@@ -112,3 +112,5 @@ Ferdinand lông mày nhưng càng tỏa càng chặt, hắn trong ngày thườn
 "Thịt heo đôn miến? Nơi này tại sao có thể có thịt heo mùi vị?"
 
 Nhưng mà không kịp suy nghĩ nhiều, vô diện giả bỗng nhiên cảm thấy tinh thần chiếm cứ thân thể lại có chút không nghe sai khiến, một cái ý chí mãnh liệt ở trong cơ thể sôi trào, bị hắn lúc trước trọng thương cánh tay phải không tự chủ được, không thể chống cự địa mang tới lên, năm ngón tay đứt hết bàn tay nơi lòng bàn tay, một cây kiếm khí uy nghiêm đáng sợ, như muốn đâm thủng bầu trời cổ điển phi kiếm đâm thẳng mà ra, nói thì chậm nhưng xảy ra rất nhanh, phi kiếm từ Ferdinand ngực xuyên vào, áo lót xuyên ra, một cái trong suốt lỗ thủng rộng rãi sáng sủa
+
+### [Next](./chuong-348.html)

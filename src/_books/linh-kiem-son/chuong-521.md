@@ -124,3 +124,5 @@ Làm ngày thứ tư ánh bình minh ánh sáng từ đường chân trời bay
 Chờ chút, ba ngày đã qua?
 
 Vương Lục bỗng nhiên nghĩ đến một cái to lớn điểm mù, sau lưng thoáng chốc ra một tầng mồ hôi lạnh.
+
+### [Next](./chuong-522.html)

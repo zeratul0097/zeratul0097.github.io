@@ -96,3 +96,5 @@ Vương Lục đồng dạng cười gằn: "Đúng đấy, là ngươi sai khi�
 Vương Lục nhỏ giọng, từng chữ từng chữ địa nói rằng: "Ngươi những năm này tiềm tàng ở vương lăng nơi sâu xa, còn không từng thấy tận mắt vân Nguyệt công chúa chứ? Đứa bé kia, nhưng là thiên linh căn tư chất a."
 
 "Cái gì?"
+
+### [Next](./chuong-387.html)

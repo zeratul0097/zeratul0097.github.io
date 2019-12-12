@@ -172,3 +172,5 @@ Tráng hán mất hứng địa đứng dậy, đem thi thể đá một cái ba
 "Tiếp đó, liền để ta vì ngươi thu thập tàn cục đi thôi, hừ, cũng không biết cái kia tiên thú hoá hình hay chưa?"
 
 Đang tráng hán bóng người rời đi mật thất sau khi, cuộn thành một đoàn thi thể trên mặt, nhưng phảng phất treo lên vẻ mỉm cười.
+
+### [Next](./chuong-207.html)

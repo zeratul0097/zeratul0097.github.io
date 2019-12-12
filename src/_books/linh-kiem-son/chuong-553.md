@@ -94,3 +94,5 @@ Nhưng mà sau một khắc, Vương Lục lại là một quyền ngay mặt đ
 "Ha"
 
 Vương Lục chậm rãi thu hồi nắm đấm, đồng thời thở phào nhẹ nhõm, trong lòng chi vui sướng khó có thể dùng lời diễn tả được.
+
+### [Next](./chuong-554.html)

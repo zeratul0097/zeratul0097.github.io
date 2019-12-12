@@ -164,3 +164,5 @@ Linh Kiếm Phái các trưởng lão, tán thưởng chỉ là Chí Phong chân
 Chí Phong chân nhân vô thượng đạo tâm cũng không tính yếu, thế nhưng... Đối thủ của hắn, dù cho chỉ có tu vi Kim Đan, dù cho tu tâm công pháp hoàn toàn tự nghĩ ra, chung quy là...
 
 Vô Tương Tiên tâm ah.
+
+### [Next](./chuong-70.html)

@@ -118,3 +118,5 @@ Tư duy vừa mới chuyển tới đây, trước mắt dị biến đột ng�
 Bị ngọc lộ thẩm thấu toàn thân Vương Lục, lộ ra một cái nụ cười quái dị.
 
 Sau một khắc, hắn ngũ quan ầm một tiếng biến mất không còn tăm tích, lộ ra một tấm trắng bệch mà bằng phẳng mặt
+
+### [Next](./chuong-428.html)

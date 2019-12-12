@@ -136,3 +136,5 @@ Vương Lục nói rằng: "Đương nhiên sẽ không, hắn dựa vào cái g
 Một lát sau, trên trời truyền đến một trận sung sướng tiếng cười.
 
 "Ha ha ha ha, rất biết cách nói chuyện mà, con hoang."
+
+### [Next](./chuong-294.html)

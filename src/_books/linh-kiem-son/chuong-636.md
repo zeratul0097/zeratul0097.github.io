@@ -158,3 +158,5 @@ Này biến nặng thành nhẹ nhàng một tay, đưa tới hai phe không h�
 Hà Đồ chân nhân thật sâu nhìn một chút cái kia đồng thời ẩn chứa Địa tiên tiên linh cùng với Vạn Tiên Minh trưởng lão nguyên thần Cửu Châu đồ, trong lòng chỉ có không nói hết cảm khái.
 
 (giáng sinh vui sướng chúc mọi người vé tháng đầu hài lòng, phiếu đề cử đầu thoải mái)
+
+### [Next](./chuong-637.html)

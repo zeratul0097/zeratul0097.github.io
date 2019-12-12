@@ -136,3 +136,5 @@ Hắn là Vương Lục, ngươi không phải... Vị này luôn luôn lấy nh
 (xin lỗi mấy ngày nay chương mới cực kỳ không góp sức, bất quá sau khi mấy ngày sẽ cố gắng bù đắp, xin nhân dân quần chúng yên tâm...
 
 Khác, cảm tạ Đại minh chủ mở năm phiêu hồng, chúc Đại minh chủ cùng quảng đại độc giả tân niên vui sướng, vạn sự như ý)
+
+### [Next](./chuong-690.html)

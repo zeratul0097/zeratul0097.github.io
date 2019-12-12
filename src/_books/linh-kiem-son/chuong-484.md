@@ -126,3 +126,5 @@ Thế là hắn bỏ qua Âu Dương Thương, lần thứ hai đi tới Vươ
 Ngày sau cái kia vóc người cao gầy, hầu như không thua kém gì sư phụ của hắn đại nhân, lúc này còn chỉ là tướng mạo mang theo tính trẻ con thiếu nữ, so với Vương Lục ải hơn nửa đầu. Làm Vương Lục đi vào đi vào, càng là toàn bộ đều bị che đậy ở trong bóng ma
 
 Sau đó, Vương Lục cúi đầu, chăm chú hỏi: "Ước sao?"
+
+### [Next](./chuong-485.html)

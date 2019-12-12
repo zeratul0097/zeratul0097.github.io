@@ -148,3 +148,5 @@ Hắn ở trong lòng lên giọng gào thét.
 Ngoài phòng tiếng bước chân một trận.
 
 Lập tức, người chết mặt chậm rãi bước mà tới.
+
+### [Next](./chuong-727.html)

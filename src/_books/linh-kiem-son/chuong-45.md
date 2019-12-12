@@ -128,3 +128,5 @@ Mà Văn Bảo nhưng chưa hết thòm thèm, đầy cõi lòng chờ mong hỏ
 Vương Lục nhíu mày lại, chăm chú suy tư một phen, trong đầu linh quang lóe lên.
 
 "Đúng rồi, chúng ta hẳn là đi rèn luyện."
+
+### [Next](./chuong-46.html)

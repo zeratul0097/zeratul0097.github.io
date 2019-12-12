@@ -144,3 +144,5 @@ Xa xôi thả xuống hòn đá, một tiếng thở dài, thân hình cấp t�
 Nhưng ở nàng ngã xuống đất trước, một con tinh tế cánh tay đã đem nàng đỡ lấy.
 
 Vương Vũ một tay ôm xa xôi, một tay xách theo bầu rượu, bồng bềnh ra trận.
+
+### [Next](./chuong-668.html)

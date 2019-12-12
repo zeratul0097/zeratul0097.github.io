@@ -124,3 +124,5 @@ Bên ngoài hội trường, hai vị tham dự trưởng lão lấy nguyên th�
 "Không sai, ha ha, nguyên anh tổ bên trong, có một nửa là đến từ bọn họ linh kiếm phái quái vật a."
 
 "Ha ha ha, ta vừa nãy liền đang nghĩ, không biết Vương Lục cái tên này thật sự đối đầu bản môn trưởng lão thời điểm, có phải là cũng có thể tràn đầy tự tin địa nói hắn muốn thắng"
+
+### [Next](./chuong-605.html)

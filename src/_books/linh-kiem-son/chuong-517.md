@@ -154,3 +154,5 @@ Sương máu bắn ra trước nay chưa từng có kêu lên thê lương thả
 Vương Lục lạnh nhạt nói: "Hiện tại mọi người chết rồi, còn quan tâm hắn khi còn sống thích gì? Các ngươi đầu óc nước vào sao? Đây chính là cho trầm vừa nghe báo thù trực tiếp nhất manh mối để này con linh sủng chết có ý nghĩa, chẳng lẽ không được chứ?"
 
 Nói xong, hắn cũng không để ý tới ánh mắt của những người khác, trực tiếp đem sưu hồn thuật đoạt được, đánh vào một mặt do Âu Dương Thương trước đó bị tốt mâm tròn trên.
+
+### [Next](./chuong-518.html)

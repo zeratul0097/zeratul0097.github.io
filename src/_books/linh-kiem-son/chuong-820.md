@@ -112,3 +112,5 @@ Trương thắng hơi sững sờ: "Vương Lục? Vậy là ai a?"
 Quay đầu trở lại, trương thắng còn nói: "Nói chung... Tác thành chúng ta vợ chồng hai người, là ngũ sư tỷ a."
 
 "Làm sao có khả năng!?"
+
+### [Next](./chuong-821.html)

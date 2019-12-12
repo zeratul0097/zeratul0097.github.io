@@ -138,3 +138,5 @@ Mà nghe phong chân quân ở câu nói này sau khi, ở giòn vò đã mẻ 
 Aya hai gò má đỏ chót, tàn bạo mà phất tay thu lại đầy trời ánh kiếm, sau đó xoay người rời đi, dường như đánh tơi bời, chạy trối chết tàn binh bại tướng.
 
 (xin lỗi này canh một đến quá trễ... Chủ yếu là điện thoại di động hỏng rồi, tu điện thoại di động tu đến thật muộn.)
+
+### [Next](./chuong-648.html)

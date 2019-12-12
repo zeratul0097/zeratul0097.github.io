@@ -178,3 +178,5 @@ Phá Hư Tiên Tôn cười cợt: "Ta biết ngươi là cái người hiền 
 "Thế nhưng ngươi có suy nghĩ hay không qua, ngươi... Thật sự cũng chỉ là đơn giản một cái lọ chứa sao?"
 
 (trước tiên còn một cái minh càng, còn kém một cái, mau chóng cản cảo bên trong...)
+
+### [Next](./chuong-796.html)

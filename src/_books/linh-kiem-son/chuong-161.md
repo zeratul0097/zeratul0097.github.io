@@ -154,3 +154,5 @@ Khôn Sơn kiếm, không nhanh không chậm, nhưng vừa đúng điểm vào 
 Đỏ Ngọc San Hô bên trong pháp lực giương cung mà không bắn, nhưng là lúc nào cũng có thể bạo phát trạng thái, bị Khôn Sơn kiếm một kích, thêm vào Diệp Phỉ Phỉ lúc này pháp lực mất khống chế, nhất thời Thiên Hỏa tiết địa, phần thiên chử hải.
 
 Mà Vương Lục nhận Giáp, cũng lặng lẽ mở ra.
+
+### [Next](./chuong-162.html)

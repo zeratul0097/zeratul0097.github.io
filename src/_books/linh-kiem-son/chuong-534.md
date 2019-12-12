@@ -150,3 +150,5 @@ Linh kiếm trưởng lão môn trả lời, nhưng là một trận trí sinh t
 "Vậy ta đại linh kiếm phái liền vĩnh thùy Bất Hủ, ha ha ha ha"
 
 Vương Lục nhìn thấy cuối cùng một màn, là khai thiên tích địa bình thường đại dương ánh sáng bao phủ hoàn toàn Thiên Chi Ngân, ánh sáng tan hết thời, đỉnh đầu bầu trời trong trẻo, mà Ma vương sắc mặt trắng bệch, cả người run rẩy.
+
+### [Next](./chuong-535.html)

@@ -124,3 +124,5 @@ Vương Lục nói rằng: "Hẳn là tâm tình tiêu cực đi... Cái này ma
 Vương Lục cười cợt.
 
 "Đúng dịp, cũng thật là có."
+
+### [Next](./chuong-508.html)

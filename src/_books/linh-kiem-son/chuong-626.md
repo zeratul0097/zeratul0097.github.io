@@ -104,3 +104,5 @@ Vương Lục nói xong, hướng về khán giả sâu sắc tụ một cung, c
 "Nhất định phải, tàn nhẫn mà nại dưới tính tình nha."
 
 (thỉnh cầu quan tâm vi tin công chúng bình đài tuy rằng một ngày chỉ có thể gửi đi một cái tin tức, nhưng tin tức trọng yếu sẽ đầu tiên tuyên bố nha, tìm tòi quốc vương bệ hạ liền có thể cũng có thể quan tâm mới lãng blog, ở blog trên chơi tương đối nhiều)
+
+### [Next](./chuong-627.html)

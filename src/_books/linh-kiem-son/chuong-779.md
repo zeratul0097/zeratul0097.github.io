@@ -102,3 +102,5 @@ Hạ Tiểu Hà ở giòn xoay qua chỗ khác không nhìn Bạch Trạch, mà
 Qua đã lâu, huyền mặc nhẹ giọng hỏi: "Như vậy, ngươi đến cùng dự định làm sao cứu chúng ta?"
 
 Hạ Tiểu Hà cười nói: "Rất đơn giản a, các ngươi Cửu Châu Đại Lục toàn thể hướng về ta đầu hàng, làm thần dân của ta, được ta che chở là tốt rồi a."
+
+### [Next](./chuong-780.html)

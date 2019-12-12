@@ -98,3 +98,5 @@ Trước mắt con rối này cao hơn ngàn trượng, bước đầu có nh�
 Mà cái này hình dạng kết cấu, để Vương Lục thực sự không có cách nào không đi liên tưởng đến ở đa nguyên thế giới phiêu bạt thời thấy được một cái đồ vật.
 
 "... Tôn Bất Bình tiền bối, ngươi lại lấy trở mình thần binh, nguyên lai chính là cao tới sao?"
+
+### [Next](./chuong-752.html)

@@ -174,3 +174,5 @@ Sau một khắc, cái kia màu bạc tàu cao tốc tựa như tia chớp, va 
 Lần này phá diệt phi thường triệt để, A Hạ chỉ cảm thấy chấn động trong lòng, vạn thú trong trận, Huyền Quy bóng người lại vĩnh viễn biến mất rồi
 
 Vương Lục cười lành lạnh: "Thân thể máu thịt có thể nào chống đối chiến xa? A Hạ, với ngươi âu yếm các sủng vật nói gặp lại ba"
+
+### [Next](./chuong-192.html)

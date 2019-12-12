@@ -110,3 +110,5 @@ Vương Lục đạp bước, xuất kiếm, Khôn Sơn kiếm hàn quang trong 
 Một lát sau, cốt tiên mặt ngoài phóng ra tỉ mỉ vết rạn nứt, đòn nghiêm trọng bị ngăn cản, cốt tiên bản thân cũng bị thương không nhẹ, huyền độc Thi tướng kêu thảm thu hồi cốt tiên, hung lệ ánh mắt chuyển đến Vương Lục trên người, vừa vặn nghênh đến đối phương chân thành nụ cười.
 
 Rõ ràng ở mấy mét có hơn, nhưng có thể một chiêu kiếm bức lui Thi tướng cấp đòn nghiêm trọng, lần đầu sử dụng, liền một lần kiến công, này Tiên Thiên Vô Tướng kiếm khí, quả nhiên là lợi hại ah...
+
+### [Next](./chuong-137.html)

@@ -124,3 +124,5 @@ Vương Vũ nghe vậy thở dài, trong ánh mắt ẩn hàm một tia phức t
 Nhưng vào đúng lúc này, đã thấy Vương Vũ nhẹ nhàng nở nụ cười: "Hơn nữa công danh lợi lộc một điểm địa nói, tiên nhân tay diệu dụng vô cùng, ném rất đáng tiếc a. Này hơn trăm năm đến, ngón này chỗ tốt, ta nhưng là được lợi bất tận."
 
 "Chờ đã, cái tên nhà ngươi dùng ta tay đều làm món đồ gì?"
+
+### [Next](./chuong-588.html)

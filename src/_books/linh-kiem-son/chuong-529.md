@@ -134,3 +134,5 @@ Quản lý huấn luyện cổn kế sinh nhai hoa, có thể không chính là 
 Hai năm trước cái kia tràng trải qua, bây giờ nghĩ đến đã tựa như ảo mộng, nhưng nếu là mộng ảo, liền luôn có tỉnh lại một ngày.
 
 Trương thắng nhẹ nhàng xoa xoa trong tay chiếc kia mới tinh phi kiếm, trong lòng đã có lập kế hoạch.
+
+### [Next](./chuong-530.html)

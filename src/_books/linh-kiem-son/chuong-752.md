@@ -120,3 +120,5 @@ Tôn Bất Bình nói rằng: "Nói đến ta còn thực sự không có cân 
 "Phúc âm chiến sĩ."
 
 "Được rồi, hiện tại liền cho ta cải danh"
+
+### [Next](./chuong-753.html)

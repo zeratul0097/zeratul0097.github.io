@@ -132,3 +132,5 @@ Nguyên thần chi hỏa bị ngăn cản ở bên ngoài, cái kia ác độc �
 Đứng ở tuyến đầu tiên Giang Lưu, cùng với bất cứ lúc nào giám sát trạng thái, thôi diễn số liệu chém nửa đêm không hẹn mà cùng địa rít gào lên.
 
 Sau một khắc, băng hồ trên ánh sáng đột nhiên mãnh liệt mấy lần, tất cả mọi người không tiếc tất cả, nắm lấy này hiếm thấy kẽ hở, thôi thúc 10 vạn linh phù triển khai trước nay chưa từng có mãnh liệt thế tiến công
+
+### [Next](./chuong-235.html)

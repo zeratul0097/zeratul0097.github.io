@@ -96,3 +96,5 @@ Vốn là huyền diệu mỹ cảnh, nhưng Vương Lục thấy màn nước n
 Hạng Lương ánh mắt nhạy cảm, ở Vương Lục nát tan trước nhìn thấy màn nước trên văn tự, mặc dù có chút không rõ vì sao, nhưng viết chữ người ối chao khí thế bức người đã phả vào mặt.
 
 "Ta cùng chém nửa đêm cái kia thứ hỗn trướng không có cách nào cùng tồn tại, Vương sư đệ ngươi nếu như đầy nghĩa khí, sẽ trở lại giúp ta diệt cái kia thứ vô nhân tính chỉ cần ngươi hỗ trợ, ngũ linh huyết quan ta tặng cho ngươi"
+
+### [Next](./chuong-420.html)

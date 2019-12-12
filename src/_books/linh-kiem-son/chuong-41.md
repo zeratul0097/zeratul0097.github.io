@@ -176,3 +176,5 @@ Nhạc Vân cùng Hoắc Dĩnh hai mặt nhìn nhau, trong lòng đều không q
 Cuối cùng vẫn là Nhạc Vân cắn răng: "Lần này nhờ có Vương Lục sư huynh, ta cái mạng này mới bảo vệ, nếu sư huynh ngươi đã mở miệng, ta còn có lời gì nói?"
 
 Liền đưa tay ở linh phù trên cải biến vài chữ, lại lấy pháp lực truyền vào kích phát, nhất thời một vệt kim quang phóng lên trời, hướng về phương xa bay đi.
+
+### [Next](./chuong-42.html)

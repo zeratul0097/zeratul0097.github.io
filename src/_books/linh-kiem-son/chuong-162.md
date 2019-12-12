@@ -180,3 +180,5 @@ Mấy người nghị luận sôi nổi, cười vui vẻ giữa ngược lại 
 Mà nhưng vào lúc này, một người mặc đỏ trắng trường bào đệ tử, hời hợt đi tới, trong tay nâng vài tờ Tiên Linh chi khí nồng nặc trang giấy, bỏ vào đăng ký trên đài.
 
 "Ta áp Lưu Ly Tiên, 50 triệu linh thạch."
+
+### [Next](./chuong-163.html)

@@ -98,3 +98,5 @@ Thanh lưu Tiên tôn tựa như cười mà không phải cười: "Há, để 
 Nói, hắn bỗng nhiên ngẩng đầu lên, nhìn về phía vô tận nơi xa xôi.
 
 Vương Lục a, nên làm tất cả ta cũng đã làm tốt, tiếp đó, liền xem ngươi có thể hiểu hay không tất cả những thứ này, làm ra chính xác ứng đối.
+
+### [Next](./chuong-830.html)

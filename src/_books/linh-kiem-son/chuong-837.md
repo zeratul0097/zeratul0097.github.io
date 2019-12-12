@@ -164,3 +164,5 @@ May mà, hắn hiện tại cũng không phải một người.
 "Ha ha, đến rồi đến rồi!"
 
 Trong thời gian ngắn, ở Tiên vương bàn tay rơi xuống đất trước, một cái áo trắng như tuyết nữ tử, đột nhiên xuất hiện ở giữa không trung, trong tay một nhánh xanh biếc thẳng tắp kiếm trúc nhắm thẳng vào bầu trời, cùng cự chưởng chính diện va chạm!
+
+### [Next](./chuong-838.html)

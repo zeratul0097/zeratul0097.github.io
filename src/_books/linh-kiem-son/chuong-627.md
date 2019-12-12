@@ -138,3 +138,5 @@ Bởi vì Vương Lục ở báo mạc sau khi, liền tự mình kéo lên tay 
 Hóa ra là chính ngươi viết a
 
 (thỉnh cầu quan tâm vi tin công chúng bình đài tìm tòi quốc vương bệ hạ liền có thể. Ngày hôm nay trên lý thuyết lẽ ra có thể song càng, xin mỏi mắt mong chờ)
+
+### [Next](./chuong-628.html)

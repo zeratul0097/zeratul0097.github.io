@@ -136,3 +136,5 @@ Hải Vân Phàm nghe đến đó, bỗng nhiên đưa ra một vấn đề.
 Vương Lục nghe vậy cũng là sững sờ, lập tức chăm chú nhíu mày.
 
 "Đúng đấy, tại sao không thể có hiệu?"
+
+### [Next](./chuong-693.html)

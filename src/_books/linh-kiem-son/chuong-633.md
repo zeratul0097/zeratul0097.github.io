@@ -152,3 +152,5 @@ Vương Lục nói rằng: "Sao là lừa gạt, lão Trương thật sự chỉ
 Huyền mặc nhất thời nghẹn lời, đặc biệt là nhìn thấy bên người cái kia mấy cái cảm tình đơn thuần Địa tiên đã rất được cảm hoá, bắt đầu theo trên sân tướng thanh các diễn viên tiếng cười mà một đạo vui cười thời, nàng liền đúng là không lời nào để nói.
 
 "Được rồi, lần này coi như ngươi thắng."
+
+### [Next](./chuong-634.html)

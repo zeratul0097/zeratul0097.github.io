@@ -108,3 +108,5 @@ Không lâu lắm, nội đường hàng trước cơ bản ngồi đầy, nhưn
 Trên thực tế, Vương Lục ở đây lên hai năm khóa, cũng chỉ gặp qua cái khác đệ tử chân truyền không đủ mười lần, hơn nữa chỉ là sơ giao, có liền tên đều không gọi ra, còn không bằng một ít trắng đen cùng xanh trắng lăn lộn thục (quen thuộc). Dù sao Linh Kiếm Phái đối với đệ tử chân truyền quy định lỏng lẻo nhất, mà đệ tử chân truyền số lượng cũng là thưa thớt nhất.
 
 Bất quá như vậy cũng tốt, Vương Lục thoải mái ở hàng thứ nhất ở giữa ngồi vào chỗ của mình, sau đó cùng chung quanh các đồng môn chào hỏi, không lâu lắm, giảng bài lão sư bồng bềnh mà tới.
+
+### [Next](./chuong-31.html)

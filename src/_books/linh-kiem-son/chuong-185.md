@@ -124,3 +124,5 @@ Vương Lục sững sờ, tiện tay từ nhẫn giới tử bên trong lấy r
 Kỳ Kỳ cũng sửng sốt, lập tức cắn một cái trụ bánh Trung thu, hàm hồ nói rằng: "Đại khái đi."
 
 Một lát sau, lông tạp cẩu một phi, đem bánh Trung thu nhổ ra: "Bánh nhân thịt bánh Trung thu"
+
+### [Next](./chuong-186.html)

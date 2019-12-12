@@ -138,3 +138,5 @@ Nói xong, cả người sau lưng sinh ra màu đen cánh, phiến lên cuồng
 Vương Lục ở tại chỗ nhìn ra trố mắt ngoác mồm, này giời ạ còn chưa khai chiến trước hết thắng một hồi? Này nằm thắng được cũng quá ung dung điểm chứ?
 
 Bất quá, ngươi này tháo hán nếu như thật xuyên so với Cơ Ni đến, chúng ta xác thực vẫn có chút sợ...
+
+### [Next](./chuong-611.html)

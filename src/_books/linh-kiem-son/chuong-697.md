@@ -108,3 +108,5 @@ Nhưng bọn họ chính là như thế chết rồi. Khai chiến sau không t�
 Lúc đó Phụng Thiên tướng quân phát hiện huyết nhục đồ lại thật sự chết thành hai đoạn, đồng thời không cách nào phục khi còn sống, còn phi thường kinh ngạc dùng chiếm đầy huyết ô tay sờ sờ đầu: "Này con rùa sao như thế không khỏi đánh?"
 
 Huyết nhục đồ chết rồi, Phong Ngâm Chân Nhân bào chế y theo chỉ dẫn, vừa nặng sáng tạo ra thiên huyễn đồng tử, vị này huyễn thuật hoàn mỹ không một tì vết Địa tiên, chẳng biết vì sao càng ở hộ thân huyễn thuật trên đại trận lộ ra kẽ hở, tương tự là bị đinh trụ nguyên thần, sau đó Phụng Thiên tướng quân một cái khai thiên phủ thu công, cuối cùng quay về hai đoạn thi thể không hiểu chút nào: "Bọn họ là cố ý sao?"
+
+### [Next](./chuong-698.html)

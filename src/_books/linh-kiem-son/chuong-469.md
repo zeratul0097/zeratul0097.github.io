@@ -144,3 +144,5 @@ Aba gật gù: "Không sai, quả cầu sét, buộc cái kia ngươi khảm đ
 "... Ma vương cũng sẽ đích thân tới hiện trường? Thú vị." Vương Lục nhẹ giọng nói, sau đó tiếp nhận Aba vé vào cửa.
 
 "Đa tạ, chúng ta nhất định sẽ đi tới quan sát."
+
+### [Next](./chuong-470.html)

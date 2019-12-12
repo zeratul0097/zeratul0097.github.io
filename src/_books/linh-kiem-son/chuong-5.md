@@ -146,3 +146,5 @@ Thư đồng ai thán một tiếng, yên lặng đuổi tới thiếu gia bư�
 Lúc này, hắn nhưng hoàn toàn không nghĩ tới, bước lên Kim Kiều, liền mang ý nghĩa bước lên thăng tiên con đường, con đường này chỉ nhận Tiên duyên, nhưng không phân cái gì thiếu gia, thư đồng.
 
 Con đường tu tiên, bắt nguồn từ dưới chân.
+
+### [Next](./chuong-6.html)

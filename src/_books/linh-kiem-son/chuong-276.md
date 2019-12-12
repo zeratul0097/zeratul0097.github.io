@@ -120,3 +120,5 @@ Sau đó tám trưởng lão liền gật đầu nói: "Đúng đấy, ta nếu 
 Phong Ngâm nghe vậy, chỉ cảm thấy trong lòng rộng rãi sáng sủa.
 
 Mẹ nhà hắn, quả nhiên là tư duy hẹp hòi, chỉ cho rằng Cửu Châu Đại Lục bảo bối chỉ ở Cửu Châu tìm, nhưng không nghĩ, một vạn năm quá khứ, chuyện gì không thể phát sinh? Huống chi này mấy ngàn năm qua đồ vật đại lục giao du nhiều lần... Trên núi bất chính có cái tây di đến đầu bếp nổi danh sao?
+
+### [Next](./chuong-277.html)

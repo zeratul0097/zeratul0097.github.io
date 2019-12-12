@@ -144,3 +144,5 @@ Vương Vũ chột dạ nhìn bốn phía, cũng còn tốt không thấy ngư�
 "Khe nằm tào tào tào!!"
 
 (tiếp tục hằng ngày thỉnh cầu pv giải thi đấu phiếu đề cử rồi ~http://ac. qq. com/event/pv2015. html, một cái qq một ngày 3 phiếu, còn xin mọi người kiên trì đến ngày mùng 3 tháng 6. Thành công động họa hóa sau đó trong tiểu thuyết sẽ cố gắng gia nhập cảm xúc mãnh liệt nội dung, kính xin chờ mong!)
+
+### [Next](./chuong-792.html)

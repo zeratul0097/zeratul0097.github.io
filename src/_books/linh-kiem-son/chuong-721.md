@@ -192,3 +192,5 @@ Thư tự nhất thời như là bị nghẹn ở.
 Thư tự trầm mặc rất lâu.
 
 "Tuy rằng không biết ngươi đến tột cùng muốn làm cái gì, nhưng nếu là yêu cầu của ngươi, bất luận thế nào ta đều sẽ làm."
+
+### [Next](./chuong-722.html)

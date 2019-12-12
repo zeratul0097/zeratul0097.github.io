@@ -176,3 +176,5 @@ Phá hư thất khiếu chảy máu, cười lớn đưa tay chỉ về Hạ Ti
 "Phá · tiên · vương!"
 
 Tiên thuật không hề có một tiếng động vô hình, nhưng mà Hạ Tiểu Hà trên ngực nhưng thêm ra một cái vĩnh còn lâu mới có thể khép lại chỗ trống, trái tim của nàng, nàng Ngọc Phủ, tất cả đều ở đòn đánh này phá Tiên vương oanh kích dưới hóa thành hư không.
+
+### [Next](./chuong-802.html)

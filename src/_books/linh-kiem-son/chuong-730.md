@@ -122,3 +122,5 @@ Quả nhiên, chỉ qua thời gian một nén nhang, Tứ Tướng Chân Quân
 Chân quân trên mặt mang theo rõ ràng tức giận vẻ mặt, mà chân quân cơn giận lại há lại là bình thường? Gác cổng mấy vị tu sĩ Kim Đan, dù cho chỉ là nhìn bóng lưng của hắn, đều cảm thấy hô hấp gian nan.
 
 "Có việc?"
+
+### [Next](./chuong-731.html)

@@ -100,3 +100,5 @@ Vương Lục bĩu môi ba: "Cũng không có thấy các ngươi quét sạch
 Cùng lúc đó, Thương Khê Châu, đã từng đại chiến di chỉ bầu trời, một đạo sao chổi ánh sáng đột nhiên thắp sáng.
 
 (vẫn như cũ là đề ở ngoài thoại, Đằng Tấn hoạt hình đệ nhị giới pv giải thi đấu vẫn như cũ hừng hực tiến hành bên trong, có thể không trường thiên động họa hóa, liền xem lần này giải thi đấu thứ tự, muốn nhìn sẽ động ** lưu ly, xin mời đem Linh Kiếm Sơn số phiếu chồng đến ba vị trí đầu đi! 1 cái qq hào 1 ngày có thể đầu 3 phiếu, 1000 người chính là một ngày 3000 phiếu! Mọi người cố lên a! Bỏ phiếu địa chỉ vì: http://comic. qq. com/syhd/, cũng có thể baidu tìm tòi Đằng Tấn hoạt hình đệ nhị giới pv giải thi đấu, cảm tạ!)
+
+### [Next](./chuong-789.html)

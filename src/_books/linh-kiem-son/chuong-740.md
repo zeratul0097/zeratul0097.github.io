@@ -150,3 +150,5 @@ Cầm đầu trung niên tu sĩ cố nén đáp lại nói: "... Chúng ta là T
 Canh giữ ở bạch ngọc quan trước trưởng lão thấy hồng bào lão tổ lên tiếng, gật gù cho đi, để bọn họ đem năm thanh bạch ngọc quan đặt ở Chu Thi Dao các loại (chờ) nhân thân bên. Lúc này một chút nhìn lại, tám cụ bạch ngọc quan, đã hơi có quy mô.
 
 Tiếp đó, còn có thể có bao nhiêu?
+
+### [Next](./chuong-741.html)

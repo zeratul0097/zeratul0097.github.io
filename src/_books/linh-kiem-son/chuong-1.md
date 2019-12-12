@@ -322,3 +322,5 @@ Trong đại sảnh ánh mắt hơn người Thái Tử đảng khối người 
 "Bày đặt thịnh kinh Tiên môn không đi, đến Linh Kiếm phái bái sư? Thịnh kinh Tiên môn tuy rằng cửu không ra Thăng Tiên đại hội, nhưng thịnh kinh Vương gia hậu nhân muốn gia nhập sơn môn có thể không như vậy khó."
 
 "Ai, các ngươi thảo luận mong muốn đơn phương, còn không biết nhân gia dùng có phải là thật hay không tên."
+
+### [Next](./chuong-2.html)

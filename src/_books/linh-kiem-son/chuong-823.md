@@ -118,3 +118,5 @@ Aya nói rằng: "Cũng không phải tự sát, cái này nhiệm vụ không c
 Aya nghiêng người sang, lộ ra một cái đối với Hoàng Kim vương mà nói cực kỳ bóng người xa lạ.
 
 "Linh kiếm phái đệ tử chân truyền doãn huyền, gặp Hoàng Kim vương."
+
+### [Next](./chuong-824.html)

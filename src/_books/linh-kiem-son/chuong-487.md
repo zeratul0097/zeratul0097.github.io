@@ -132,3 +132,5 @@ Mãi đến tận trước khi rời đi, cái kia tự xưng người "xuyên v
 Làm nhị chuyển long giao phát điên thời, hắn phải như thế nào mới có thể lấy sức một người ngăn cơn sóng dữ?
 
 Âu Dương Thương thực sự là vô cùng hiếu kỳ.
+
+### [Next](./chuong-488.html)

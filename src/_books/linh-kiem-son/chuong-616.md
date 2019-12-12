@@ -106,3 +106,5 @@ Hà Đồ lặng lẽ không nói, chỉ là cơ thể hơi nghiêng về phí
 Vương Lục nói, ánh mắt chuyển hướng sân đấu võ bên trong.
 
 "Huyền Mặc tiền bối, lần này liền do ta đến chơi với ngươi chơi đi."
+
+### [Next](./chuong-617.html)

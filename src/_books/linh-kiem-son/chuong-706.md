@@ -140,3 +140,5 @@ Cũng trong lúc đó, đàn tiên mộ Ngân hà vòng xoáy phía trước, m
 "Xin hỏi đế lưu tôn ở sao?"
 
 Dừng một chút, nữ tử nói rằng: "Ta là tới cầu hôn."
+
+### [Next](./chuong-707.html)

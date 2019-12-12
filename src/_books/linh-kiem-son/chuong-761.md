@@ -136,3 +136,5 @@ Tiểu Thất nhất thời nghẹn lời, một lát sau mới nói nói: "... 
 "Bởi vì... Ngươi nghe qua câu kia châm ngôn chứ? Một hắc nhị hoàng Tam Hoa bốn bạch, hai người kia một cái là bạch, một cái là hoa, đều thuộc về hạ đẳng mặt hàng, ta không có hứng thú gì a."
 
 "..."
+
+### [Next](./chuong-762.html)

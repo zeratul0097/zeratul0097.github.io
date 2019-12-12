@@ -178,3 +178,5 @@ Lưu Hiển cũng buồn bực: "Sư đệ ngươi là hiểu rõ ta, ta có th
 Phương Hạc liếc mắt nhìn bàn mạc chược bên cạnh ngược lại, không nói gì. Sư huynh tuy rằng tiểu tiết có sai lầm, nhưng xác thực không phải người tự tiện chủ trương, nói cách khác...
 
 "Ngũ sư muội, ngươi rốt cuộc muốn nháo loại nào a?"
+
+### [Next](./chuong-9.html)

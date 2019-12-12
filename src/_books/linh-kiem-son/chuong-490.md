@@ -126,3 +126,5 @@ Bất quá, như vậy cũng tốt.
 Âu Dương Thương ngẩng đầu lên đến, ánh mắt dần dần tìm đến phía xa xôi bầu trời.
 
 Như vậy cũng được, nếu như là nàng sống sót... Cũng rất tốt.
+
+### [Next](./chuong-491.html)

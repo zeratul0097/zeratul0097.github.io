@@ -130,3 +130,5 @@ Cùng lúc đó, một cái hùng vĩ đoan trang như hoàng chung đại lữ
 "Huyền mặc, ngươi thực sự là để ta rất thất vọng."
 
 Huyền mặc ngơ ngác biến sắc, đứng dậy cả kinh nói: "Đế lưu tôn?"
+
+### [Next](./chuong-703.html)

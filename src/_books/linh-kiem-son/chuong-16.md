@@ -192,3 +192,5 @@ Vương Lục ngửa mặt lên ôm ngực, xem ánh mắt mấy người giốn
 Mà đang ở các thiếu gia nắm đấm vung ra sau sau một khắc, một vệt bóng đen từ trên trời giáng xuống.
 
 "Ah đánh đánh đánh đánh một chút!"
+
+### [Next](./chuong-17.html)

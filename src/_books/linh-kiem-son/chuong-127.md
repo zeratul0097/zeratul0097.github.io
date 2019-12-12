@@ -136,3 +136,5 @@ Vương Lục gật gù: "Nói cách khác, nắm giữ thượng phẩm pháp k
 Vương Lục cử bút, ở tiểu Minh tư liệu lan trên Trúc Cơ cửu phẩm mặt sau, bỏ thêm vài nét bút, biến thành: Trúc Cơ cửu phẩm fl.
 
 Viết xong, Vương Lục để bút xuống, cười cợt: "Nguyên lý chính là cái này nguyên lý, còn lại không cần ta nhiều lời chứ?"
+
+### [Next](./chuong-128.html)

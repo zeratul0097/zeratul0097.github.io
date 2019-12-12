@@ -154,3 +154,5 @@ Vương Lục nói, lại nghĩ tới trước đây không lâu từng tìm Pho
 Đang muốn, cửa viện lại mở, một người cao lớn khôi ngô giáp vàng lực sĩ mang theo cứng ngắc ngữ khí thông báo nói: "Khai mạc thức thời gian đã đến."
 
 (đầy đặn chương tiết thỉnh cầu dưới phiếu đề cử, thỉnh cầu quan tâm vi tin công chúng bình đài, tìm tòi quốc vương bệ hạ liền có thể. Liên quan với nguyên đán thủy hữu tái tình huống đem ở vi tin nơi thực thời chương mới)
+
+### [Next](./chuong-626.html)

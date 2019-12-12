@@ -148,3 +148,5 @@ Một cái làm hắn hít vào một ngụm khí lạnh đáp án.
 Ngay ở hắc triều phía trước nhất, Vương Lục chân đạp phi kiếm, lên giọng cười lớn.
 
 "Ta là... Xe lửa vương"
+
+### [Next](./chuong-489.html)

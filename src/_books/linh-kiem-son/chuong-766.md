@@ -92,3 +92,5 @@ Có thể rất nhanh, Vương Vũ lại một lần nữa cải tử hồi sinh
 Nữ tử thần thái kiều mị, phảng phất đang sử dụng mê hoặc công phu... Nhưng Thương Lan Tiên tôn nhưng hoàn toàn không cảm thấy động lòng, trái lại chân thiết cảm nhận được hoảng sợ tư vị. Nhìn trước mặt cái kia cả người đẫm máu, áo bào trắng nhuộm đỏ nữ tử, hắn bắt đầu theo bản năng mà muốn lùi bước.
 
 Cái tên này, đến cùng là lai lịch gì?
+
+### [Next](./chuong-767.html)

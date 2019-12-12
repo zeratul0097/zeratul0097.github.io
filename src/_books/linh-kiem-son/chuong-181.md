@@ -128,3 +128,5 @@ Thịt chó thiền sư, ngươi cẩu tạp chủng này
 Tức giận mới vừa lên, xích hầu đã một ngụm máu phun ra ngoài.
 
 Răng trắng, đã tử trận.
+
+### [Next](./chuong-182.html)

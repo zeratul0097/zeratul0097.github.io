@@ -156,3 +156,5 @@ Nhưng vào lúc này, bỗng nhiên Thánh đường bên ngoài truyền đế
 Một tiếng thống khổ kêu rên đánh gãy người đến lời dạo đầu. Sau một khắc, cái kia mảnh kim quang bên cạnh, một vị tóc vàng mắt xanh, anh khí bừng bừng tây di thiếu nữ thu hồi đòn nghiêm trọng đối phương bên eo bộ khuỷu tay, sau đó vững bước đi lên phía trước.
 
 "Chư vị, ta đã xem tây di viện binh mời đến."
+
+### [Next](./chuong-817.html)

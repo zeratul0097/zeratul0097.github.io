@@ -144,3 +144,5 @@ Thư tự nhìn La Tiêu trong tay một con màu xanh bình nhỏ, hiếu kỳ 
 La Tiêu tiêu sái mà đem bình nhỏ ném tới: "Thất tâm tán căn nguyên, sa đọa chi qua."
 
 "A?" Thư tự sợ hết hồn, luống cuống tay chân, suýt nữa đem bình nhỏ ném lên mặt đất.
+
+### [Next](./chuong-750.html)

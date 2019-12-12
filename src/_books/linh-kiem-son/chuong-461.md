@@ -164,3 +164,5 @@ Chu Mộc Mộc nói rằng: "Ma giới sự tình ai biết được?"
 Chu Mộc Mộc nhất thời á khẩu không trả lời được.
 
 "Hơn nữa..." Vương Lục nói, quay đầu nhìn một chút hai vị quỳ trên mặt đất thiếu nữ, "Vừa mới nàng nói, trên mặt đất hết thảy thần trí tỉnh táo Ma tộc đều sẽ nghe ta hiệu lệnh... Nói cách khác, Ma giới hiện tại đại đa số sinh linh thần trí cũng không tỉnh táo, đúng không?"
+
+### [Next](./chuong-462.html)

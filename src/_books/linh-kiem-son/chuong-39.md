@@ -156,3 +156,5 @@ Cũng trong lúc đó, Nhạc Vân cùng tiểu hỏa bạn nhóm đều sợ ng
 Văn Nhân run rẩy từ trong ống tay áo lấy ra một quyển Cửu Châu tinh quái chí.
 
 "Vọng Nguyệt hồ, cấp một tứ phẩm, linh hoạt cơ động, thân thiết khả quan, không tính chất công kích, hài lòng tình hình đặc biệt lúc ấy con ngươi chuyển xích, cũng lộ ra răng nanh, chủ yếu công dụng: Sủng vật..."
+
+### [Next](./chuong-40.html)

@@ -136,3 +136,5 @@ Nói xong, Aya nhặt lên chìa khoá, một bước bước vào đi về tầ
 "Mịa nó, ta còn chưa nói hết ni thay cái góc độ muốn, người ta đối với tầng thứ năm tin tưởng như vậy, đó là nói rõ không sợ ngươi trâu bò a thực sự là" Vương Lục bất đắc dĩ lắc đầu, "Liền này đầu óc, trả lại hắn mẹ làm Kỵ Sĩ vương?"
 
 Đang khi nói chuyện, tương tự cất bước mà vào, tiến vào tầng thứ năm kho báu không gian.
+
+### [Next](./chuong-293.html)

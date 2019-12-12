@@ -216,3 +216,5 @@ Bị bà chủ lạnh lẽo như sắt thép giống như ánh mắt trừng m�
 Đáng tiếc mặc dù đánh sụp Văn Bảo, bà chủ cũng chút nào không thể dao động Vương Lục ý nghĩ, gia hoả này chỉ có ở tâm tình tốt thời điểm mới sẽ đặc biệt dễ nói chuyện, một khi nổi giận lên liền dị thường ngoan cố... Bất quá cũng khó trách hắn sẽ nổi giận, nghe hắn giảng giải chuyện đã xảy ra, liền ngay cả mình đều ổ đầy bụng tức giận, tên lừa đảo cùng ngu dân tổ hợp, phát sinh ở người khác bên người là chuyện cười, phát sinh ở bên cạnh mình chính là thảm kịch.
 
 Vì lẽ đó, hiện nay trước tiên cứ đi được tới đâu hay tới đó đi, như hắn thật sự làm ra thái quá chuyện đến, chẳng qua một quyền đánh ngất hắn, trực tiếp đóng gói khiêng về Linh Kiếm Sơn.
+
+### [Next](./chuong-87.html)

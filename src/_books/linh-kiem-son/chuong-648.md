@@ -130,3 +130,5 @@ Vương Vũ hỏi: "Có cần hay không ta kết cục?"
 "Không cần thiết, ngươi nhưng là trong tay ta tối ổn một lá vương bài, hiện tại hay dùng ra ngoài quá lãng phí. Thậm chí liền ngay cả ta loại này tiểu vương bài cũng không thể dễ dàng kết cục..." Vương Lục vừa nói, một bên rơi vào trầm tư, "Không, hiện tại đúng là nên do ta đứng ra một lần, hậu trường hồi lâu, là thời điểm đi lên trước đài. Nhưng thời cơ nhưng phải nắm thỏa đáng, ta bây giờ vị trí, ý nghĩa tượng trưng không phải bình thường, không chỉ muốn thắng, còn muốn lớn hơn thắng, không chỉ phải lớn hơn thắng, hơn nữa tốt nhất là ở tích lũy liên tiếp tiểu Thắng sau khi, trở thành đủ để một lần xoay chuyển xu hướng suy tàn đại thắng. Không mắc này liền cần trước tiên thắng được mấy cuộc tranh tài làm làm nền, mà hiện tại có ai có thể chắc thắng đến hạ xuống đây?"
 
 Vương Lục một bên suy nghĩ, ánh mắt một bên theo bản năng bốn phía dao động, mà nhìn trước mặt chén bàn tàn tạ, bỗng nhiên linh quang lóe lên.
+
+### [Next](./chuong-649.html)

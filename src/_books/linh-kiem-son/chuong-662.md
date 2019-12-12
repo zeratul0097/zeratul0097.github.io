@@ -88,3 +88,5 @@ Mãi đến tận một cái vi huân tiếng cười truyền tới.
 Nói, một vị đầy người rượu thịt khí tức nữ tử lung lay bình rượu từ trên lầu cầu thang chậm rãi đi xuống. Nàng nhìn qua hai mươi ba, hai mươi bốn, một thân mộc mạc có chút đơn sơ tố y, ngũ quan thanh tú, khí chất tự nhiên hào phóng, tiêu sái mà gần như lôi thôi.
 
 Nữ tử tu vi khoảng chừng ở nguyên anh trên dưới, tay phải nắm bình rượu, trên cổ tay trái nhưng mang theo một chuỗi niệm châu, hiện ra thiền tông tu sĩ thân phận. Hải Vân Phàm sửng sốt một chút: "Thịt chó thiền sư?"
+
+### [Next](./chuong-663.html)

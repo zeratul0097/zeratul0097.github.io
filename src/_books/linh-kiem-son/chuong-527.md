@@ -108,3 +108,5 @@ Nghe đến đó, Âu Dương Thương thả xuống bút, trầm ngâm một l�
 Vào lúc ấy, hơn bảy mươi tên tu sĩ Kim Đan sẽ thật sự nghịch chuyển lịch sử tuyến. Chính mình này xuyên qua lữ trình cũng đem nghênh đón cuối cùng một màn
 
 Chỉ cần hai năm...
+
+### [Next](./chuong-528.html)

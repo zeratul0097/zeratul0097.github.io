@@ -142,3 +142,5 @@ Trước đây các đệ tử chỉ cho là linh kiếm bảy đại khó mà t
 Cùng lúc đó, ở trên đài, một đòn không có hiệu quả Chí Phong chân nhân sắc mặt nghiêm nghị, Khôn Sơn Kiếm vẫn như cũ nắm ở trong tay, sau lưng bão cát thì lại càng ngày càng mãnh liệt, nổi lên cường đại hơn sát chiêu.
 
 Vương Vũ có chút nhàm chán đung đưa kiếm trúc: "Lớn tuổi nam nhân quả nhiên là cứng chắc không thể ah, này tốt mã dẻ cùi trụ đá hoàn toàn không đủ lực ah Chí Phong lão huynh, thiêu đốt một điểm cảm xúc mãnh liệt đi ra đi ~ ta chờ ngươi."
+
+### [Next](./chuong-69.html)

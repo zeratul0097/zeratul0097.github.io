@@ -118,3 +118,5 @@ Thất Tinh chưởng môn đã trầm mặc rất lâu.
 "Cho ta một ngày." 
 
 "Được a, ngày hôm qua cho ngươi, hiện tại có thể cho ta trả lời chắc chắn sao."
+
+### [Next](./chuong-112.html)

@@ -132,3 +132,5 @@ Vương Lục trầm ngâm nói: "Vị kia Ma vương lưu lại những này h�
 "Phản đạo hạnh chi? Làm thế nào?"
 
 Vương Lục đưa tay chỉ hướng thiên không, cười không nói.
+
+### [Next](./chuong-515.html)

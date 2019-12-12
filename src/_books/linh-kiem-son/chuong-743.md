@@ -138,3 +138,5 @@ Thư tự chỉ nghe hãi hùng khiếp vía, không khỏi mà nuốt ngụm n�
 "Bất quá, đọa tiên môn muốn hoàn chỉnh giáng lâm Cửu Châu cũng không dễ như vậy, hiện ở tại bọn hắn nhiều nhất chỉ là thân một cái tay lại đây. Cho nên mới cần giúp đỡ... Hoặc là được trung cẩu." La Tiêu cười chỉ chỉ chính mình, sau đó lại đưa tay chỉ về thư tự.
 
 "Thư tự, có hứng thú hay không cùng ta đồng thời, làm đọa tiên cẩu?"
+
+### [Next](./chuong-744.html)

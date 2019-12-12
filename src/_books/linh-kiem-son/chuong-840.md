@@ -118,3 +118,5 @@ Vương Lục cười thảm: "Điếc không sợ súng? Ngươi nghĩ ta cùng
 "Rất tốt, vậy ngươi sẽ chết đi."
 
 Sau một khắc, hạ vũ đầu đầy chỉ bạc, không chút khách khí địa nắm chặt tay của chính mình.
+
+### [Next](./chuong-841.html)

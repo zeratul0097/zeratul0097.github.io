@@ -94,3 +94,5 @@ Mà Vương Lục vừa mới chống đối một cái xúc tu đều có mấy
 Điều động thi thú người âm âm địa cười nói: "Trừng trị ngươi loại này tiểu tử không biết trời cao đất rộng cần gì cảnh giới Nguyên Anh? Kim Đan đỉnh phong đã đầy đủ."
 
 "Không sai, thiên hạ chi đại năng người xuất hiện lớp lớp, có thể dễ như ăn cháo ép chết ta Kim Đan xác thực không ít, đáng tiếc không có một cái như ngươi như thế phế"
+
+### [Next](./chuong-385.html)

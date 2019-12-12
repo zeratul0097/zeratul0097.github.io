@@ -208,3 +208,5 @@ Tiểu tử, ta chờ nhìn ngươi làm sao khóc!
 Mà một bên khác, xoay người rời đi Vương Lục cũng đang cười lạnh.
 
 Ngu xuẩn! Lão Tử hai năm trước ở Đào Nguyên thôn xoạt phân xoạt đến số liệu tràn ra thời điểm, ngươi vẫn là đống thỉ đây!
+
+### [Next](./chuong-47.html)

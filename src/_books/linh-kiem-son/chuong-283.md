@@ -114,3 +114,5 @@ Vương Lục nghe vậy sững sờ, lập tức nhíu mày lại: "Đó là mu
 Mua xe ngựa là để cho tiện lữ hành. Ở tây di đại lục, rất nhiều Cửu Châu luyện chế pháp bảo pháp khí khó có thể sử dụng, mà vì không như vậy làm người khác chú ý, tốt nhất là phẫn thành địa phương lữ nhân.
 
 Từ cửa hàng đi ra sau đó, đoàn người leo lên rời thành đi về phía tây. Dựa theo dự định kế hoạch, bọn họ đem ở tòa tiếp theo thành thị hơi sự lưu lại, sau đó thẳng đến đào bảo vật.
+
+### [Next](./chuong-284.html)

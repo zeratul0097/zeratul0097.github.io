@@ -126,3 +126,5 @@ Vương Vũ suy nghĩ một chút, tuy rằng không có đưa ra kết quả cu
 Nhưng mà ngay ở nàng tiến lên một bước thời, trong lòng bỗng nhiên truyền đến rất lớn báo động
 
 Sau một khắc, Tứ Tướng Chân Quân khuôn mặt đột nhiên trở nên mơ hồ, mà một bộ mũ che màu đen hướng về Vương Vũ trên đầu trùm tới, trong phút chốc liền che đậy bầu trời, đưa nàng bao phủ trong đó
+
+### [Next](./chuong-735.html)

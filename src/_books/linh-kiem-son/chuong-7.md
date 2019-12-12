@@ -230,3 +230,5 @@ Trắng đen tu sĩ gật gật đầu chính muốn rời khỏi...
 "Ha ha, nhớ tới kêu lên Chu Minh sư thúc các ngươi, lần trước bọn hắn Thông Minh Phong thắng chúng ta hơn mười món pháp bảo, lần này xem sư phụ giúp các ngươi thắng trở lại."
 
 "... Sư phụ?"
+
+### [Next](./chuong-8.html)

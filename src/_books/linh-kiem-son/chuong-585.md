@@ -120,3 +120,5 @@ Nhưng bọn họ cần đối mặt kẻ địch, lại làm cho bọn họ kh�
 Ở vừa mở ra đàn tiên mộ thời, Vương Lục đã từng suy đoán là Ma tộc, nhưng bây giờ tận mắt chứng kiến qua Ma giới thảm trạng, Vương Lục đã sớm phủ định khả năng này. Mà thôi bây giờ tầm mắt, nghĩ tới nghĩ lui, tựa hồ cũng chỉ có một khả năng.
 
 "Là đọa tiên sao?"
+
+### [Next](./chuong-586.html)

@@ -168,3 +168,5 @@ Theo Vương Lục một tiếng bắt chuyện, ba phái tu sĩ lập tức the
 Hiển nhiên trước kia rơi vào khó có thể mở ra cương cục, liền như thế bị bạo lực phá giải, trong lòng mọi người tư vị không giống nhau, trong đó đặc biệt Vương Lục cảm xúc sâu nhất.
 
 "Quả nhiên là, thiên ngôn vạn ngữ không bằng động thân đâm thẳng a..."
+
+### [Next](./chuong-232.html)

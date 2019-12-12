@@ -144,3 +144,5 @@ Không có bất kỳ che chắn cùng ẩn giấu, ngay ở trước mặt Vọ
 "Được rồi, ta viết xong, đến phiên ngươi."
 
 Vương Lục để bút xuống, ánh mắt lạnh nhạt nhìn kỹ Vọng Nguyệt loan vũ.
+
+### [Next](./chuong-243.html)

@@ -156,3 +156,5 @@ Vương Lục thở dài, phát động Cự Thần binh cái kia cường đạ
 "Đúng, chính là hắn!"
 
 (chúc các vị tham gia thi đại học bằng hữu tất cả thuận lợi! PS: Nếu như cuối cùng thi xong cảm giác cũng không tệ lắm, có thể cân nhắc khen thưởng một điểm, để ta biết các ngươi tình hình cũng khỏe!)
+
+### [Next](./chuong-800.html)

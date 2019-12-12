@@ -126,3 +126,5 @@ Vừa dứt lời, tiểu Thất chỉ cảm thấy dưới chân đại địa 
 Ngũ Nhạc đoạn mạch thuật, lần thứ hai gặp mặt.
 
 Vương Lục thậm chí chẳng muốn đi xem đứng ở trên đỉnh núi A Hạ, chỉ là nói với tiểu Thất: "Hiện tại, có thể ⊥ cái kia ba tính mèo nhà tử ở mặt trước rồi."
+
+### [Next](./chuong-190.html)

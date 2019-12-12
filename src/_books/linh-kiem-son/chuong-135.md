@@ -178,3 +178,5 @@ Chỉ chốc lát sau, hắn liền đã được kiến thức cái kia mùi c�
 Cường mà mạnh mẽ? Không kỳ quái...
 
 Ngay phía trước, vượt quá mười con núi nhỏ như thế cự thú, chính đang đen kịt bên trong trừng mắt nhìn ánh mắt dữ tợn.
+
+### [Next](./chuong-136.html)

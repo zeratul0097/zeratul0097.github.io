@@ -114,3 +114,5 @@ Mọi người nói chuyện, bỗng nhiên ở núi cao biến mất trên vùn
 Mỗi một đạo trên cửa đá, đều chạm trổ một cái cổ điển văn tự, tuy rằng trải qua vạn năm, văn tự có không ít biến hóa, nhưng ở tràng không thiếu uyên bác chi sĩ, một chút liền đưa chúng nó nhận ra được.
 
 Hiếu, kính, trung, tin, lễ, nghĩa, liêm, sỉ
+
+### [Next](./chuong-236.html)

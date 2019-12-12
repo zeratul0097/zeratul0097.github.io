@@ -94,3 +94,5 @@ Mua được lời bạt, Vương Lục rất mau đem thư lật xem một lầ
 (thiên ngửi) bên trong nói, sớm nhất thời điểm, thế giới nằm ở một mảnh mông muội hỗn độn, vào lúc ấy đồng dạng có thiên địa núi sông, chim bay cá nhảy, nhưng sinh linh sinh tồn điều kiện dị thường ác liệt, ở thống khổ cùng dằn vặt bên trong trằn trọc giãy dụa. Sau đó, trời xanh thương xót chúng sinh, liền đem Đại Địa Tinh Hoa tập trung một chỗ, sau đó đem nơi này từ hỗn độn trầm luân bên trong trôi nổi lên, bộc lộ tài năng, hình thành hiện tại thế giới này.
 
 Lúc đó bị trời xanh tuyển chọn tiến vào tập trung nơi, chính là thế giới này tổ tiên, đều không ngoại lệ đều là nữ tử, những cô gái này bất luận vóc người tướng mạo, tư chất ngộ tính, hoàn toàn là ở hỗn độn niên đại vạn người chọn một hàng đầu trình độ, cùng người phàm so với không khác tiên nhân, bởi vậy các nàng được gọi là người bên trong tiên, mà cái này bị trời xanh nổi bồng bềnh giữa không trung thế giới, thì lại được gọi là thiên thượng nhân gian.
+
+### [Next](./chuong-547.html)

@@ -172,3 +172,5 @@ Xác thực không khó lý giải, cổ vũ đệ tử trẻ tuổi nhóm dũng
 Sư phụ suy nghĩ một chút: "Kỳ thực cũng không có cái gì, coi như không có tráng cốt đan, đổi thấp hơn một bậc đan dược cũng có thể được thông qua, nhưng tu hành tốc độ chí ít chậm cái gấp mười lần, chính ngươi cân nhắc đi." 
 
 Cái kia còn có cái gì tốt nói? Hiện tại thiếu chính là thời gian ah! Đi, lên núi đi!
+
+### [Next](./chuong-37.html)

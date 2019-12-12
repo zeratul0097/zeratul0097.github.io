@@ -108,3 +108,5 @@ Vương Lục đứng dậy mặc quần áo tử tế, đến trong thính đư
 Vương Vũ cười lạnh: "Không, đây là ngươi trứng."
 
 "..." Vương Vũ nụ cười ngưng trệ, chỉ cảm thấy tựa hồ nơi nào đó lạnh cả người.
+
+### [Next](./chuong-370.html)

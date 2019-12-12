@@ -158,3 +158,5 @@ Hắn luôn luôn yêu thích náo động náo nhiệt, miệng đều là khô
 Nói xong, bàn tay hắn nắm chặt, thúy diệp vỡ tan.
 
 "Nộ Diễm Cốc, ta đến tắt ngươi hỏa diễm."
+
+### [Next](./chuong-415.html)

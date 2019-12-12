@@ -168,3 +168,5 @@ Vương Lục nở nụ cười: "Chuyên nghiệp cấp thảo dược học, A
 Nhạc Vân tại chỗ liền văng, cmn [cấp Expert-chuyên gia] A+!? Hơn nữa là nhập môn mới hai năm chuyên nghiệp cấp thảo dược học? Ngươi là Thần Nông tái thế ah!?
 
 Vương Lục phi thường khiêm tốn: "Nơi nào, ta chỉ là một con học phách mà thôi."
+
+### [Next](./chuong-39.html)

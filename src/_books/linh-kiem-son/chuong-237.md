@@ -142,3 +142,5 @@ Nói, Vương Lục hơi cười gằn: "Lại như Thịnh Kinh Tiên Môn lậ
 Hải Vân Phàm than thở: "Không nghĩ tới này hiếu môn sau khi thử thách, dĩ nhiên sẽ diễn biến thành như thế cái cục diện, vị này mộ kiếm chủ nhân đến cùng là sinh sống ở một cái gì dạng đại băng diệt thời đại a"
 
 "Đúng đấy, cha mẹ bài trực tiếp bị nốc ao, tử nữ bài mới có thể qua ải, tên là tận hiếu, thật là Khang Đa a"
+
+### [Next](./chuong-238.html)

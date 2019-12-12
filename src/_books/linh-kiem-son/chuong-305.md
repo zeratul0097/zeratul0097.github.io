@@ -148,3 +148,5 @@ Thời khắc này, Marina chỉ cảm giác mình khoảng thời gian này kh�
 Đem hai vị thiếu nữ đưa đi sau, Marina khe khẽ thở dài.
 
 Nhìn phương xa chìm vào giữa trời chiều Long thành pháo đài, âm u pháo đài cùng bị tà dương nhuộm thành màu vàng Long thành thoáng như âm dương hai cách, Marina ở trong lòng hướng về thánh quang tuyên thề: "Ta nhất định sẽ tự tay tiêu trừ này đạo xa lạ, nhất định sẽ làm cho hắn một lần nữa tập trung vào quang minh ôm ấp, nhất định"
+
+### [Next](./chuong-306.html)

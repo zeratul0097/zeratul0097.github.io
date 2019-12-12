@@ -102,3 +102,5 @@ Sau một khắc, Vương Lục trước mắt đột nhiên nhiều hơn một 
 "Lấy ngươi cấp bậc có thể nội đan thành công, thậm chí bên ngoài đan khí, đúng là không dễ... Có thể ngươi vừa mới suýt nữa tổn thương bằng hữu ta!"
 
 Thiếu nữ nụ cười đột nhiên trở nên dữ tợn, sau một khắc, con kia tay ngọc nhỏ dài đột nhiên nắm chặt!
+
+### [Next](./chuong-60.html)

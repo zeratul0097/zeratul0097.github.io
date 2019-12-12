@@ -130,3 +130,5 @@ Nhưng mà vừa dứt lời, Vương Lục liền nhìn thấy hai giới trong
 "Muốn để Vương Lục trở về, e sợ không có như vậy dễ dàng."
 
 Tiêu Dao Tiên tôn âm thanh, cực kỳ đột ngột xen vào đi vào!
+
+### [Next](./chuong-828.html)

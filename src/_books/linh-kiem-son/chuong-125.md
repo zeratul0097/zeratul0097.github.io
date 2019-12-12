@@ -150,3 +150,5 @@ Nghe xong cái vấn đề này, Vương Lục cười đến càng sáng lạn 
 "Sư bá ah, ta là chuyên nghiệp người mạo hiểm, cơ bản nhất tố chất một trong chính là chăm chú, ta một tay sáng lập Trí Giáo căn bản mục đích ở đâu, chưa bao giờ từng quên mất, vì lẽ đó ngài cái vấn đề này, căn bản không có hỏi cần phải ah."
 
 Bốn tháng sau, Vương Lục trở về Linh Kiếm Sơn.
+
+### [Next](./chuong-126.html)

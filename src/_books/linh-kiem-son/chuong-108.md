@@ -134,3 +134,5 @@ Nguyên Thần đảo qua, bốn phía tất cả đều là một mảnh kêu r
 Ở bốn phía một mảnh thảm đạm trong không khí, chỉ có một người bóng người đặc biệt làm người khác chú ý, người kia vừa mới ngay khi kiếm diệt trong phạm vi, lúc này lại hoàn toàn không có tổn thương mỏi mệt thái độ...
 
 "Chúc mừng ngươi, rốt cục bò đến trước mặt của ta rồi
+
+### [Next](./chuong-109.html)

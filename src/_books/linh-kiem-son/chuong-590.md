@@ -104,3 +104,5 @@ Vương Lục gật gù: "Ngươi là chỉ xin đem không bằng kích tướn
 Vương Lục cười nói: "Này đã bị ta xếp vào đến phương án tất chọn hạng bên trong. Lần này cùng Địa tiên giao đấu, chính là một hồi thử thách cùng khá là hai đời tu sĩ toàn phương vị tố chất đại chiến, ta sẽ không bỏ qua bất luận cái nào chi tiết nhỏ. Đừng nói là chửi đổng như vậy kỹ năng, đang chuẩn bị thực thi phương án bên trong, còn muốn so với mạt chược, so với sáng tác, so với hát, thậm chí công phu trên giường đều muốn xếp vào giao đấu hạng trong mắt... Theo một ý nghĩa nào đó giảng, vậy cũng là là phát huy Vạn Tiên Minh nhân số ưu thế đi."
 
 "Được, vậy ta liền chờ mong giao đấu chính thức bắt đầu tháng ngày đi."
+
+### [Next](./chuong-591.html)

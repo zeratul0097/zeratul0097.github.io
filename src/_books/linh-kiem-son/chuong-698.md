@@ -112,3 +112,5 @@ Hải Vân Phàm nghe Vương Lục nói đến chỗ này, chen lời nói: "Nh
 Vương Lục nói rằng: "Cho nên mới muốn tìm huyền Mặc Vấn cái đến tột cùng a, chuyện này liên quan đến đàn tiên thi đấu toàn thể tiết tấu, phải có thận. Vì lẽ đó người nào đó a, ngươi ở phía ta bên này lấy làm công công làm tên nghĩa mỗi ngày bên trong mò cá hoa thủy, còn dẫn kếch xù trợ cấp... Tình cờ cũng nên ở điểm chính sự chứ?"
 
 Vương Vũ một tiếng thở dài: "Được rồi được rồi, ai bảo ta chính là khổ cực mệnh đây? Ngươi nói thời gian, ta cùng ngươi đi xông vào này đầm rồng hang hổ là được rồi."
+
+### [Next](./chuong-699.html)

@@ -124,3 +124,5 @@ Vương Vũ đem toàn bộ giải đáp ghi nhớ sau đó, hướng về Âu D
 Nhưng toàn bộ hành trình vây xem Vương Lục lại phát hiện một cái khủng bố sự thực.
 
 Quay đầu đi Vương Vũ, trên mặt tựa hồ... Hơi hơi đỏ như vậy không ít
+
+### [Next](./chuong-487.html)

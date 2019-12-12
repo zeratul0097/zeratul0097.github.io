@@ -126,3 +126,5 @@ Vương Lục chắp tay: "Quá khen."
 "Nói đến ta cũng có mười mấy năm không có mở rộng nguyệt đều hậu cung, hôm nay liền vì hai người các ngươi mở ví dụ đi."
 
 "Chờ đã..."
+
+### [Next](./chuong-553.html)

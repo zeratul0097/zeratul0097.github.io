@@ -128,3 +128,5 @@ Vương Lục trả lời quả nhiên không có ra ngoài sở liệu, bất q
 "Cái kia thuần Thú Sư, là tên rác rưởi."
 
 "Mà ta, chưa bao giờ tiếp thu rác rưởi đề án."
+
+### [Next](./chuong-191.html)

@@ -118,3 +118,5 @@ Mà Vương Lục theo a dạ ngón tay phương hướng nhìn lại, chỉ th�
 Bất quá, chân chính lệnh Vương Lục cảm thấy hoảng sợ, là cái kia trên người cô gái mênh mông như biển mộc hành linh khí. Nữ tử nhìn như mảnh mai, có thể thực lực mà nói e sợ không thể so a dạ thua kém mấy phần, mà ở đây giới bên trong, có bực này tu vi
 
 "Khà khà, đẹp đẽ chứ?" A dạ khoe khoang địa nói rằng, "Vĩnh Hằng Thụ thủ lĩnh, (thánh diệp) Sarman, chính là lão bà ta"
+
+### [Next](./chuong-402.html)

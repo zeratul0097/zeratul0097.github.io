@@ -138,3 +138,5 @@ Aya nói rằng: "Đúng, khách quan tồn tại lòng người xa không hoàn
 Aya cười gằn lên: "Ngươi đây là quỷ biện"
 
 "Không sai, ta đây là quỷ biện, nhưng đạo lý là không sai đạo lý, trong trần thế có tam đại ảo giác: Ta có thể giết ngược lại, nàng đối với ta thú vị, cùng với ta có thể thay đổi lòng người mà ngươi, phạm chính là người thứ ba sai lầm"
+
+### [Next](./chuong-362.html)

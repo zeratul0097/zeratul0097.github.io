@@ -142,3 +142,5 @@ Trước kia bản đã xuất hiện mô hình ngưng ngọc đàn, bị dị v
 Vương Lục mím chặt môi, giữ vững được chốc lát, trong lòng làm ra quyết đoán, tàn nhẫn tiếng nói.
 
 Cút mẹ mày đi, Lão Tử mặc kệ
+
+### [Next](./chuong-99.html)

@@ -126,3 +126,5 @@ Nhan lạc đột nhiên biến hóa lúc này trái lại có vẻ hơi bị đ
 Một cái dày nặng cổ kiếm trôi nổi ở trước mặt nàng, thân kiếm một mặt có khắc tinh thần nhật nguyệt, một mặt có khắc núi sông cây cỏ, chính là Tiên giới chí bảo Hiên Viên kiếm.
 
 "Hạ vũ, chờ ngươi đã lâu!"
+
+### [Next](./chuong-808.html)

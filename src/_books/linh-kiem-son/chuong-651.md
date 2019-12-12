@@ -128,3 +128,5 @@ Thực tiên liếc mắt nhìn, tinh xảo trên mâm, xác thực là viết m
 Vương Lục cười cợt: "Ngài chú ý xem hàng thứ hai chữ thứ ba... Đó là một lỗi chính tả."
 
 Đao vừa giữa trưa ban thực sự là thảm thảm thảm...: Thỉnh cầu dưới vi tin công chúng hào quan tâm, tìm tòi quốc vương bệ hạ liền có sẽ thỉnh thoảng tổ chức mới hoạt động nha tiểu thuyết phồn thể bản ở Đài Loan đã xuất bản, hoan nghênh bỉ ngạn bạn bè môn cổ động đại lục bên này có thể tìm đào bảo vật đại mua, chất lượng vẫn tính đáng tin.)
+
+### [Next](./chuong-652.html)

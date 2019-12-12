@@ -130,3 +130,5 @@ Kết quả mới mới vừa nghĩ tới đây, liền nghe đến một cái
 Vương Lục thở dài, không để ý thương thế chưa lành, mạnh mẽ chuyển động chân nguyên, phóng thích một cái phép thuật.
 
 "Mịa nó tên nghịch đồ nhà ngươi, lại dám thả sét đánh ta?"
+
+### [Next](./chuong-684.html)

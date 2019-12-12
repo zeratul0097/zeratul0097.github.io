@@ -138,3 +138,5 @@ Nhưng mà đế lưu tôn tham quan Thịnh Kinh Tiên Môn thời, lại có 
 "Nơi này đã xem được rồi, mang ta đi Quân Hoàng Sơn đi."
 
 Vương Lục nghỉ chân nói: "Ngài đây là muốn Vạn Tiên Minh thơ ngũ tuyệt một ngày du?"
+
+### [Next](./chuong-713.html)

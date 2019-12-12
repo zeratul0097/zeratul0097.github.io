@@ -152,3 +152,5 @@ Nói xong, hắn có quay đầu nhìn về phía chém nửa đêm.
 "Được rồi, đưa chúng ta trở về đi thôi"
 
 Chém nửa đêm ngạc nhiên hồi lâu, vẫy vẫy tay: "Không biết."
+
+### [Next](./chuong-463.html)

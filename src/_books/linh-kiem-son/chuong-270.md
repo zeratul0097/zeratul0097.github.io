@@ -144,3 +144,5 @@ Mà giữa lúc Vương Lục cảm giác mình phảng phất bị ngũ lôi đ
 Đang khi nói chuyện, một đạo thanh lệ bóng trắng từ trên trời giáng xuống.
 
 Nhìn uyển như hóa đá Vương Lục, lại nhìn một chút vẫn chìm đắm ở hồng thủy trong ác mộng, giãy dụa không ngớt Chu Thi Dao, nữ tử hừ lạnh một tiếng, khuôn mặt nghiêm nghị, lời lẽ đanh thép địa nói: "Mang ta một cái?"
+
+### [Next](./chuong-271.html)

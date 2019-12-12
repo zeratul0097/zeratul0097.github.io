@@ -78,3 +78,5 @@ Phong Ngâm lắc lắc đầu: "Này cửu chuyển bất tử công, hơn phâ
 Nghe chưởng môn chậm rãi mà nói, Vương Lục trong lòng hơi kinh ngạc, căn cứ hắn ước định, có thể viết ra này bản cửu chuyển bất tử công tu sĩ, tu vi e sợ chí ít cũng ở hóa thần trên dưới, có thể chưởng môn nhân liếc mắt liền thấy mặc vào (đâm qua) điển tịch toàn bộ hư thực... Quả nhiên lão này không thể lấy hóa thần cấp tới đối xử.
 
 "Bất quá môn công pháp này xác thực có thể làm cho người ta cung cấp không ít mới mẻ dòng suy nghĩ... Lưu Hiển, hoa vân, hai người các ngươi tìm chút thời giờ thâm nhập nghiên cứu một chút, hoàn thiện đến chúng ta linh kiếm phái công pháp bên trong đi thôi. Sau đó, Vương Lục, liên quan với lời ngươi nói thời gian hồi tưởng, ta còn có chút chi tiết nhỏ cần xác nhận một hồi."
+
+### [Next](./chuong-395.html)

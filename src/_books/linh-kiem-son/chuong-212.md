@@ -138,3 +138,5 @@ Bất quá vừa lúc đó, một cái bị người lơ là hồi lâu sinh li
 "Nơi đây vạn sự nguyên nhân bắt nguồn từ ta, liền do ta đến phần kết đi."
 
 Ở Vương Lục, tiểu Thất kinh ngạc, cách đó không xa tiên thú quang kén toả ra ánh sáng chói lọi
+
+### [Next](./chuong-213.html)

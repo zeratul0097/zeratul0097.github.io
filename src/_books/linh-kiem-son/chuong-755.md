@@ -96,3 +96,5 @@ Hai người ở định ra ước định thời, liền có lòng ma ràng bu
 La Tiêu nói, cười lớn không thôi.
 
 "Hắc, vẫn là câu nói kia, ta có thể cho ngươi chỉ một con đường sáng, Đấu Chiến Thần huyết có truyền thừa biện pháp, chỉ cần ta đem huyết thống phân một điểm cho ngươi, ngươi cũng có thể tạm thời thoát khỏi đọa tiên khống chế, bất quá chuyện đương nhiên, ngươi liền phải tiếp thu ta khống chế. Nhưng ta cảm thấy cuộc trao đổi này làm quá khứ, chí ít ta là cái đầu trọc thiện tu, lòng dạ từ bi, ha ha ha ha"
+
+### [Next](./chuong-756.html)

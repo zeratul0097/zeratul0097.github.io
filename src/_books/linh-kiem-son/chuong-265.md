@@ -136,3 +136,5 @@ Vương Lục trầm mặc một hồi lâu: "Ngươi không phải nói, hợp 
 Kiếm Ma đang khi nói chuyện, cả người ma khí phân tán mà ra, sát ý lại không thu lại
 
 Kiếm Ma Chung Thắng Minh, vốn là muốn làm gì thì làm người, xem hợp mắt liền cướp, thấy ngứa mắt liền giết
+
+### [Next](./chuong-266.html)

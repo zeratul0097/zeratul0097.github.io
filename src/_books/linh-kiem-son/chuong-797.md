@@ -162,3 +162,5 @@ Hạ Tiểu Hà xem thường cái miệng nhỏ, một bộ chân thành mà th
 Vương Lục nở nụ cười: "Vậy thì như thế nào? Chỉ cần giết ngươi, điểm ấy tổn thất không đáng kể chút nào."
 
 (canh thứ hai đưa đến ~ cảm tạ sự ủng hộ của mọi người, pv giải thi đấu bụi bậm lắng xuống, đồng thời chậm đợi động họa được xuất bản đi.)
+
+### [Next](./chuong-798.html)

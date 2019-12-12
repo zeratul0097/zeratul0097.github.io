@@ -108,3 +108,5 @@ Thấy này kỳ cảnh, Vương Lục ở cửa sửng sốt một chút, sau �
 "Chờ đã, không cần đi" phía sau truyền đến Sarman kinh hoàng âm thanh.
 
 "Không cần đi? Lưu lại đồng thời sung sướng sao?" Vương Lục cười lạnh nói: "Ta mới không điểu ngươi"
+
+### [Next](./chuong-410.html)

@@ -100,3 +100,5 @@ Cái thứ hai là để tu hành cơ hội hóa thành thật thật tại tạ
 Trong đó bí quyết nói đến kỳ thực cũng đơn giản.
 
 Kiền Nguyên Nhiên Huyết Công.
+
+### [Next](./chuong-105.html)

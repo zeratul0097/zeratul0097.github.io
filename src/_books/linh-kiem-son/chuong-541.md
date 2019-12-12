@@ -134,3 +134,5 @@ Nói tới cái này mức, đã cùng trở mặt không khác, nhưng Trì Huy
 Kết quả vẫn là chưa nói xong liền bị cắt đứt, chỉ thấy Vương Lục đưa tay ở lưu ly tiên trên đầu một màn.
 
 "Tẩy tẩy ngủ đi lăng tiêu cung thủ tịch, cây này cải trắng sớm đã bị ta nhận thầu."
+
+### [Next](./chuong-542.html)

@@ -132,3 +132,5 @@ Quả cầu ánh sáng bóng người hoàn toàn biến mất trong nháy mắt
 "Rất tốt, hết thảy chuẩn bị công tác đều đã sắp xếp, đón lấy... Nên cho cái kia hai cái đàm luận hưng chính nùng người một niềm vui bất ngờ."
 
 Sau một khắc, thân hình hắn lóe lên, liền xuất hiện ở cửu thiên bầu trời bên trên, cùng hạ vũ, tiêu dao hai người chính diện đối lập!
+
+### [Next](./chuong-836.html)

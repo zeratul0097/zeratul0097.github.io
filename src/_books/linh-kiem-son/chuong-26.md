@@ -152,3 +152,5 @@ Lần này, chưởng môn trái lại tĩnh táo lại, vội vã một lần n
 "Ngươi này ngốc · bức, rõ ràng biết mình là cái luyện công luyện đến trà cùng năm đều không nhận rõ mắt trợn, ra ngoài còn không mang kính mắt, hơn nữa còn dám không ra Linh Nhãn, ngươi nhất định là cố ý chứ?! Ta muốn vạch tội ngươi! Sau đó kết tội kế tiếp nhiệm chưởng môn mãi đến tận trình tự xếp tới ta là dừng!"
 
 "..."
+
+### [Next](./chuong-27.html)

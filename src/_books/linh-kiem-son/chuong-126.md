@@ -108,3 +108,5 @@ Văn Bảo lông mày giương lên: "Đừng nói, ta còn thực sự có linh
 Vương Lục hơi hơi kinh ngạc nhìn Văn Bảo một chút, trầm mặc một lát vỗ vỗ bờ vai của hắn: "Cố gắng với, đừng quá giam."
 
 "À?"
+
+### [Next](./chuong-127.html)

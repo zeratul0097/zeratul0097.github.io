@@ -128,3 +128,5 @@ Aya càng thêm mê man: "Như vậy... Những năm này ta đều là ở làm
 "Làm sao sẽ là vô dụng công? Không có ngươi, sẽ không có ngày nay Blai Thony á, nhưng ngày hôm nay Blai Thony á đã không cần ngươi." Vương Lục cười cợt, "Ta biết ngươi không hiểu, vì lẽ đó ta sẽ chăm chú vì ngươi giải thích. Kỳ thực đạo lý rất đơn giản, chỉ là trước đây nói ngươi cũng sẽ không nghe, thế nhưng hiện tại..."
 
 Aya nghiêm túc hỏi: "Xin ngươi chỉ điểm."
+
+### [Next](./chuong-363.html)

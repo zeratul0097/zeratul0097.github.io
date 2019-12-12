@@ -124,3 +124,5 @@ Thiên linh căn! ?
 Mãnh quay đầu lại, phía sau lão hán nghe được cũng một mặt kinh ngạc, sau một khắc, lão hán sâu sắc về phía trước liếc mắt một cái, vẩn đục ánh mắt lộ ra điểm điểm tinh mang, sau đó cười cười: "Tư chất xác thực là không sai, có điều... Thiên linh căn?"
 
 "Hắn cho rằng đó là rõ ràng cây cải củ a!"
+
+### [Next](./chuong-4.html)

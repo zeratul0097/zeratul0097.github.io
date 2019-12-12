@@ -158,3 +158,5 @@ Trong tiếng kêu gào thê thảm, ma lang nửa bên mặt đều bị đốt
 Đồng thời, màu bạc tàu cao tốc bên trong vang lên Vương Lục âm thanh.
 
 "Chúng ta cho kẻ địch mạnh mẽ một đòn"
+
+### [Next](./chuong-193.html)

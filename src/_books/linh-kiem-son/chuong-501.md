@@ -120,3 +120,5 @@ Nói âm chưa rơi, Vương Lục liền nhìn thấy bên cạnh Âu Dương T
 Nhưng Vương Lục vẫn là nhẹ như mây gió mà đem lời kế tiếp nói ra.
 
 "Mà ta, đồng ý hiệp trợ ngài hoàn thành này một vĩ đại giải trí"
+
+### [Next](./chuong-502.html)

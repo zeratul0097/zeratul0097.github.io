@@ -122,3 +122,5 @@ Nói xong, Chu Thi Dao có vẻ phi thường uể oải, gật gù sau liền b
 Vương Lục ở trên diễn võ trường, nhìn tràng dưới vô số trương kinh hãi gần chết mặt, chỉ cảm thấy trước mắt đen kịt một màu.
 
 Đại sư tỷ, ngươi sau đó vẫn là đừng mở miệng nói chuyện
+
+### [Next](./chuong-599.html)

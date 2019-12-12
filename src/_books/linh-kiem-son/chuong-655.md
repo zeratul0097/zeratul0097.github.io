@@ -124,3 +124,5 @@ Nói xong, hắn duỗi ra to dài cánh tay, bưng lên Vương Lục trước 
 "Ha ha, thật là tốt mùi vị."
 
 Thực tiên vẻ mặt lãnh khốc, âm thanh lạnh giá như Cửu U chi băng, nhưng mà cùng lúc đó, chỉ thấy một luồng khói xanh từ hắn cổ họng bên trong bốc lên...
+
+### [Next](./chuong-656.html)

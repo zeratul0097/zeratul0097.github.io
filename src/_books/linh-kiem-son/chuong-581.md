@@ -134,3 +134,5 @@ Thay đổi là những người khác, chỉ sợ cũng không có dễ dàng 
 Dựa theo lúc trước vị thị nữ kia từng nói, hoàng đế phiên bài không thể một lần phiên đi nhiều tấm bảng, vì lẽ đó hắn cũng chỉ có thể làm từng bước địa từng cái từng cái giải quyết vấn đề. Tốt nhất trình tự là từ dễ đến khó, giản lược đan bắt đầu hướng dẫn, cuối cùng thực sự không có cách nào trả giá chân tâm làm cho nàng hạnh phúc, liền lấy ra cái kia ba viên thông dụng hình ru-bi đem hạnh phúc xoạt mãn. Vì lẽ đó dưới một ứng viên mà...
 
 "Người đến, đem lưu ly tiên gọi tới cho ta"
+
+### [Next](./chuong-582.html)

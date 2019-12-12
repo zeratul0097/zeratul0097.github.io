@@ -102,3 +102,5 @@ Sau đó, nàng liền bước nhanh đi tới, ở mặt trước dẫn đư�
 Không lâu lắm, bạch y hầu gái đem Vương Lục mang tới trước cửa phòng ngủ, cửa hai vị hắc y hầu gái mở ra phương diện, thế là Vương Lục rốt cục nhìn thấy nghe tên đã lâu hàm thiên không Nguyệt đại nhân.
 
 Một cái nửa người đã thành bạch cốt xác chết di động.
+
+### [Next](./chuong-552.html)

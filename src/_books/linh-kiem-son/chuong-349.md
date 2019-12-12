@@ -128,3 +128,5 @@ Vương Lục cười ha ha: "Bắt được một cái bất ngờ tù binh, t
 "Vô diện giả bị ngươi tù binh? Ở nơi nào?"
 
 Vương Lục chỉ chỉ đầu của chính mình: "Nơi này."
+
+### [Next](./chuong-350.html)

@@ -116,3 +116,5 @@ Cảm nhận được pháp lực biến hóa, cùng với Vương Lục cái ki
 Hầu như cũng trong lúc đó, Vương Lục đóng linh kiếm thiên phù, nụ cười trên mặt lại như là vừa mới cái gì cũng chưa từng xảy ra.
 
 "Có gì chỉ giáo? Kiếm Ma đại nhân?"
+
+### [Next](./chuong-253.html)

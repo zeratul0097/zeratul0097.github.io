@@ -128,3 +128,5 @@ Như vậy khủng bố tuyệt diệt thần lôi dưới, Lưu Ly Tiên là nh
 Nói xong, Vương Lục đứng thẳng người lên, trực tiếp rời khỏi khu nghỉ ngơi.
 
 Sắc mặt, ngưng trọng dị thường.
+
+### [Next](./chuong-165.html)

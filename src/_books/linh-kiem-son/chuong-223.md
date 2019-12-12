@@ -126,3 +126,5 @@ Một lát sau, nữ tử nhẹ giọng mở miệng, âm thanh nhưng không gi
 Sau một khắc, trong lời nói mới lạ tâm ý hết mức thu lại.
 
 "Vì lẽ đó, ta liền dùng kiếm để biểu thị đi."
+
+### [Next](./chuong-224.html)

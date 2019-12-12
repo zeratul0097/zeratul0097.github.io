@@ -126,3 +126,5 @@ Cái gọi là xa xa là thật sự rất xa xôi, lấy Vương Lục nhĩ l�
 "Đại sư huynh, chúng ta còn muốn thâm nhập sao? Bằng không trước tiên ở đây nghỉ ngơi một chút chứ?"
 
 "Rực rỡ a, môn phái tổ chức rèn luyện, không phải là để chúng ta đến hoang rất nơi đạp thanh hưởng phúc, không thâm nhập hiểm cảnh, thì lại làm sao tiến bộ? Môn phái có thể không ở trong trăm năm đoàn diêu thẳng tới, hy vọng duy nhất chính là chúng ta thân là hoàng kim một đời thành viên, ngươi có thể đừng đi đội nha."
+
+### [Next](./chuong-479.html)

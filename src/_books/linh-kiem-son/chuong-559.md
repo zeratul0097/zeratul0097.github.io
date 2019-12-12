@@ -124,3 +124,5 @@ Hắn xoay người, trên mặt tràn trề cười, trực tiếp đánh về 
 "Vũ tỷ tỷ, ta nghĩ chết ngươi a"
 
 Sau đó, ở Vũ tỷ tỷ kinh ngạc trong nháy mắt, Vương Lục nhấc chân liền đạp, nỗ lực dựa vào lực phản chấn mà chạy. Này một cước ra ngoài, liền hỗn độn Phá Thiên Kiếm Khí đều ẩn chứa ở trong đó, đừng nói muốn chết ngươi, cũng như là nhớ ngươi chết.
+
+### [Next](./chuong-560.html)

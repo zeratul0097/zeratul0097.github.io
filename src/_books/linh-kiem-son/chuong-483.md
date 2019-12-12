@@ -144,3 +144,5 @@ Hắn đưa tay chỉ Vương Lục, người sau chính tựa như quen cùng h
 Âu Dương Thương nhếch miệng lên: "Chưởng môn lão già kia hưởng thụ sinh hoạt sản phẩm phụ."
 
 "Yêu a" dương bay có chút khó có thể tin, nhưng rất nhanh sẽ thuyết phục chính mình, "Chẳng trách xem ra cùng ngươi có mấy phần rất giống."
+
+### [Next](./chuong-484.html)

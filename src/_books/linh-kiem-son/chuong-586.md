@@ -110,3 +110,5 @@ Vương Lục nghe vậy chỉ là bất đắc dĩ nhún nhún vai: "Đáng ti�
 Huyền mặc nói xong, nhưng lại lộ ra vẻ tươi cười: "Bất quá, ở nhìn thấy hai người các ngươi sau khi, ta rồi lại đối với Cửu Châu Đại Lục dấy lên mấy phần hi vọng, hay là hôm nay Cửu Châu Đại Lục cũng không phải là như vậy hết thuốc chữa."
 
 "Chỉ tiếc, đây chỉ là một mình ta ý nghĩ. Lần này thức tỉnh đồng bạn bên trong, nắm dị nghị người chiếm tuyệt đại đa số."
+
+### [Next](./chuong-587.html)

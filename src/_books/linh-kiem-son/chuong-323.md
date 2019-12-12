@@ -116,3 +116,5 @@ Nhưng vào đúng lúc này, phía sau hai người bỗng nhiên truyền tớ
 Hai người đồng thời xoay người, cũng kích phát rồi các loại hộ thân thủ đoạn, bất quá xoay người, nhìn thấy nhưng là một tấm không hề địch ý ôn hòa khuôn mặt tươi cười.
 
 "Hai vị, tìm hiểu một chút Long thành chứ?"
+
+### [Next](./chuong-324.html)

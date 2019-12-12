@@ -134,3 +134,5 @@ Nếu như nói, phía trên thế giới này có tình cảnh gì là hoàn m�
 Mà ngay ở Vương Lục vì tình cảnh này rung động thật sâu thời điểm, cô gái mặc áo trắng yêu kiều cười khẽ, từ bên cửa sổ đứng lên, đối với Vương Lục phía sau, tương tự khiếp sợ vạn phần diệu Nhan chân nhân vươn tay ra.
 
 "Xin chào, ta là Mộ Dung Băng Ly · dạ mị hoàng · nhan diên · múa. Giấc mộng của ta là trở thành Cửu Châu Đại Lục đệ nhất thần tượng. Hi vọng sau đó chúng ta có thể đồng thời nỗ lực"
+
+### [Next](./chuong-600.html)

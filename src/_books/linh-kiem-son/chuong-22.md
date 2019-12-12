@@ -160,3 +160,5 @@ Sau đó chưởng môn chân nhân liền thở dài, một bên đem ấn vàn
 "A, sư muội nếu là thật hữu tâm vì môn phái ta mở rộng tài nguyên, sư huynh chịu không nổi vui mừng. Nếu là cần, cho ngươi lái cái tự ý chiếm đoạt cho phép công văn cũng được." 
 
 "Cmn sư huynh ngươi tiết tháo cũng vứt đi!?"
+
+### [Next](./chuong-23.html)

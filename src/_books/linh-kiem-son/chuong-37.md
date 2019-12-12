@@ -108,3 +108,5 @@ Nhạc Vân tại chỗ liền văng, được rồi, ngược lại đây là n
 Liền đoàn người sắp xếp đi đội, Nhạc Vân cùng Vương Lục xông lên trước, Chu Tần cùng Văn Bảo thứ yếu, hai tên đệ tử ngoại môn đi ở Hoắc Dĩnh trước đó, bảy người mơ hồ đi thành bắc đẩu trận, lẫn nhau hấp dẫn lẫn nhau.
 
 Sau đó, đội ngũ từ Đằng Vân đường xuất phát, đi qua súc địa chi trận, đi thẳng tới Thanh Vân Phong.
+
+### [Next](./chuong-38.html)

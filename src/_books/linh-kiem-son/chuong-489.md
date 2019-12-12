@@ -128,3 +128,5 @@ Làm hoang rất nơi hiếm thấy trí tuệ hình tinh quái, long giao xác 
 "Bọn họ trực tiếp ở trong nước đầu thỉ a"
 
 "... Mẹ, ta ngày hôm nay liền sát quang bọn họ chúng tiểu nhân cho ta toàn quân xuất kích xuất kích"
+
+### [Next](./chuong-490.html)

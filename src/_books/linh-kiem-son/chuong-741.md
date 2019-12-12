@@ -140,3 +140,5 @@ Nếu không lời nào để nói, vậy thì không nói. Nhưng vào đúng l
 Son lệ trên, một đoàn sương mù màu đen từ mũi kiếm nơi bốc lên, dọc theo chuôi kiếm đột nhiên bắt được Vương Lục thủ đoạn
 
 (tình bạn làm cái quảng cáo: Mỹ nữ của ta cáo nhỏ tiên, hơn 1 triệu chữ đã phì, có hứng thú bằng hữu có thể đi xem)
+
+### [Next](./chuong-742.html)

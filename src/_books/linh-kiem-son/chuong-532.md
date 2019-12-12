@@ -136,3 +136,5 @@ Cũng không phải là bản thân của hắn vấn đề, mà là bảy mươ
 "Thời gian?" Trương thắng bừng tỉnh, nguyên lai... Thời gian lập tức liền muốn đến.
 
 Tổ hợp kiếm trận kéo dài thời gian chỉ có nửa canh giờ, lúc trước Tam Tài kiếm trận luân phiên phát uy, liên tục đột tiến mấy trăm dặm, trên đường về nhà vượt qua quá bán, sau đó lại cùng khởi tử hoàn sinh Ma tộc luân phiên đại chiến... Thời gian rốt cục đi đến cuối con đường.
+
+### [Next](./chuong-533.html)

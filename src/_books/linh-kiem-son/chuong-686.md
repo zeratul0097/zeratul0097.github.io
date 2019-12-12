@@ -126,3 +126,5 @@ Vương Lục nghe được nhíu chặt lông mày, tuy rằng bị người nh
 Tứ Tướng Chân Quân nghe được vấn đề này, nhưng tự so với Vương Lục kỳ quái hơn nữa: "Ngươi vừa nãy không phải là mình đều nói sao? Ngươi khí đại hoạt tốt."
 
 (chúc mọi người lễ tình nhân vui sướng)
+
+### [Next](./chuong-687.html)

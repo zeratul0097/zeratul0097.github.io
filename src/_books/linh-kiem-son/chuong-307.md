@@ -184,3 +184,5 @@ Bạch thơ tuyền thở dài, lắc đầu nói: "Quả nhiên để sư huynh
 "Sư huynh nói, nếu là ngươi có thể kiên trì đến Tài Phán Sở nhà giam mới oán giận, liền thưởng ngươi một cái đùi gà. Phiền phức ngươi nhịn thêm đi."
 
 "Há, vậy thì không thành vấn đề"
+
+### [Next](./chuong-308.html)

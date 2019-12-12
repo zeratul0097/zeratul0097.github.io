@@ -122,3 +122,5 @@ Sau một khắc, Vương Lục nhẹ nhàng mở miệng, trong kim đan chân 
 Cùng lúc đó, tố kim điện cửa lớn rộng mở mở rộng.
 
 "Ngũ sư muội, tiếp thu môn quy trừng phạt ba"
+
+### [Next](./chuong-439.html)

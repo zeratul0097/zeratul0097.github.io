@@ -112,3 +112,5 @@ Vương Lục lắc lắc đầu, một bộ thằng nhãi ranh không thể cù
 Đang khi nói chuyện, Vương Lục đi tới bạch thơ tuyền bên cạnh, đối với một mặt mờ mịt thiếu nữ ôn hòa địa nở nụ cười, sau đó đưa tay đưa nàng ôm vào lòng, tiếp theo cao giọng nói rằng.
 
 "Ta cùng bạch thơ tuyền chân tâm yêu nhau, từ lâu tư định chung thân"
+
+### [Next](./chuong-218.html)

@@ -82,3 +82,5 @@ Trước ở xuyên qua chi mộng cuối cùng quyết chiến thời, hắn t
 Nhưng ngược lại bây giờ liên quan với làm sao đối mặt linh kiếm trưởng lão môn sự tình cũng còn không nghĩ ra cái chương trình, Vương Lục liền dự định ở giòn trước tiên chuyên tâm tu hành, những chuyện khác thả thả lại nói
 
 Đáng tiếc ngay ở hai ngày sau, kế hoạch bị vô tình bỏ dở.
+
+### [Next](./chuong-539.html)

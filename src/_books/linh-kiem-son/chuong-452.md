@@ -136,3 +136,5 @@ Chu Mộc Mộc tự nhiên lý giải không thể, vì lẽ đó đưa tay đe
 "Ngươi đến với hắn giao lưu."
 
 Vương Lục cũng không khách khí, khẽ mỉm cười: "Nửa đêm sư huynh, ngươi Vĩnh Hằng Thụ hạt giống nẩy mầm chứ?"
+
+### [Next](./chuong-453.html)

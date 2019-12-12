@@ -146,3 +146,5 @@ Hải Vân Phàm cười lạnh một tiếng: "Vừa đi quản bản thân mu�
 Trên đài dưới đài lại là một trận tĩnh mịch, một lát sau, cái kia mịt mờ âm thanh mang theo buồn nản mà vang lên.
 
 "Lưu Ly Tiên cái kia ngu ngốc, phá hỏng đại sự của ta"
+
+### [Next](./chuong-156.html)

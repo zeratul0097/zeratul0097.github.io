@@ -140,3 +140,5 @@ Nghe được đáp án này, La Tiêu sắc mặt hơi âm trầm không ít.
 "La Tiêu, ta hỏi ngươi một vấn đề: Ngươi ở giết đồ nhi ta, đoạt linh hồn phách sau khi... Có cố gắng xử lý cơ thể hắn sao? Có nghĩ tới, thân thể này, hiện tại đang làm những gì sao?"
 
 La Tiêu biến sắc: "Ngươi?"
+
+### [Next](./chuong-728.html)

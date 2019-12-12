@@ -132,3 +132,5 @@ So với chân thực lịch sử tuyến trên cái kia linh kiếm phái tiế
 "Hừ, nếu cái kia ma đầu không thể ngay đầu tiên đem phòng tuyến của ta tha đổ... Đón lấy ba năm nay, liền để hắn thật thật mở mang kiến thức một chút hoàng kim một đời tiềm lực đi."
 
 "Trong vòng ba năm, ta muốn này trong long cung, toàn bộ Kim Đan"
+
+### [Next](./chuong-525.html)

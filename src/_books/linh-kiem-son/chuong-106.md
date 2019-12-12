@@ -120,3 +120,5 @@ Lần đó huyết chiến ba ngày, Ngọc Khê môn liền như vậy từ Tu 
 Sau đó sao... Chưởng môn khóe miệng hơi nhất câu, nhưng còn không đợi hắn chuyển động trận đồ, sau đầu truyền tới âm thanh liền để hắn Nguyên Thần rung động, Ngọc phủ dao động.
 
 "Sách, phiền phức chết rồi, các ngươi thật đúng là nét mực ah."
+
+### [Next](./chuong-107.html)

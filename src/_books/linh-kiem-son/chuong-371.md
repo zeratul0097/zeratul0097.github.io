@@ -76,3 +76,5 @@ Vô tướng phong chủ lời nói mau lẹ, thần sắc nghiêm nghị, đầ
 Bất quá bị huấn cổn xích một phương cũng là không chút khách khí địa ngược quấy rầy nói: "Đánh gãy ta chân ngươi lấy cái gì? Ngươi này quỷ nghèo mua được cây cải củ sao?"
 
 "Ngươi nếu như hôm nay chạng vạng trước không thể luyện thành Vô Tướng Kiếm thứ bốn mươi lăm trùng trở lên, ta hay dùng ngươi hoa cúc, có nghe không"
+
+### [Next](./chuong-372.html)

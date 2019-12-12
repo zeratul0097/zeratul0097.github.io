@@ -124,3 +124,5 @@ Sau đó hắn liền hối hận rồi.
 Điển lễ trên cũng không có 500 đao phủ thủ, càng không có suất chén làm hiệu... Trên thực tế, Vương Lục không có thể hiện ra mảy may địch ý, chỉ là vẻ mặt nghiêm túc nghiêm túc ngồi ở trên đài chủ tịch, đọc chậm báo cáo trong tay.
 
 Báo cáo tên gọi là, liên quan với học tập La Tiêu chân nhân tiên tiến sự tích tình huống báo cáo.
+
+### [Next](./chuong-689.html)

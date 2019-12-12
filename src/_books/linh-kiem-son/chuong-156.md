@@ -126,3 +126,5 @@ Một thanh xanh lam trong suốt nhẹ nhàng trường kiếm, như Thiên Ngo
 Thân là Vạn Pháp Tiên Môn đệ tử bác học, để hắn nhận ra đây là tầng mười sáu cảnh giới Nhược Thủy kiếm... Cũng là hắn linh phù không thể chống đỡ chi kiếm.
 
 Mẹ nó, tại sao không ai đã nói, này Lưu Ly Tiên là dùng song kiếm...?
+
+### [Next](./chuong-157.html)

@@ -154,3 +154,5 @@ Sư phụ nói, mang tới một phong thư.
 Vương Lục tò mò kết quả lá thư đó.
 
 Kí tín người: Hải Vân Phàm.
+
+### [Next](./chuong-139.html)

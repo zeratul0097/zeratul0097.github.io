@@ -142,3 +142,5 @@ Chỉ có điều, ác chiến sau khi, nên dưỡng thương, tóm lại phả
 Thật ở trong phòng vừa vặn có một vị toàn Cửu Châu Đại Lục đứng đầu nhất giải độc chuyên gia một trong.
 
 Hồng hoang Vu Y, a vu.
+
+### [Next](./chuong-683.html)

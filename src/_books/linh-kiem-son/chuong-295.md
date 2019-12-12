@@ -110,3 +110,5 @@ Mà ngay tại lúc này, trong không gian lại truyền tới cái kia tu sĩ
 "Các ngươi toàn đều phải chết"
 
 Cùng lúc đó, ở kho báu nơi càng sâu, một đạo kim sắc bóng đen cũng không kiềm chế nổi xùy xùy nói: "Này quái đản con hoang, lưu lại cái gì vô liêm sỉ huyễn thuật? Dám làm bẩn trẫm kho báu, bọn họ chết vạn lần mạc thục"
+
+### [Next](./chuong-296.html)

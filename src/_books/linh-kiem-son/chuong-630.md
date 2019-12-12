@@ -140,3 +140,5 @@ Sau đó, nàng liền nghe đến làm nàng hoàn toàn không có cách nào
 "Nói chung trước tiên đem phiếu đề cử cùng vé tháng đầu đi."
 
 (sự thanh minh trước, bắt đầu từ con số không ở trong sách này chỉ là hóa dùng làm ác, chớ tra cứu giả thiết...)
+
+### [Next](./chuong-631.html)

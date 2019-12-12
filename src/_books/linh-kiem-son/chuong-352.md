@@ -114,3 +114,5 @@ Hoàng Kim vương gật gù, trong ánh mắt toát ra càng thêm khen ngợi:
 "Đây chính là trẫm đưa cho ngươi ban thưởng."
 
 Vương Lục có chút kinh hồn bạt vía địa nhìn chằm chằm khối này trạng vật, tâm nói ta đột phá phàm nhân cùng thần linh giới hạn khen thưởng, chẳng lẽ là Hoàng Kim vương tự tay ban tặng xà phòng sao...
+
+### [Next](./chuong-353.html)

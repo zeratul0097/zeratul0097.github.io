@@ -120,3 +120,5 @@ Hổ vương ngắt lời nói: "Không sao ta không để ý ngươi vì tư l
 A Hạ U u thở dài: "Sét đánh a, ngươi đối với ta, là thật không có nói."
 
 "Ha ha ha ta sét đánh làm người luôn luôn như vậy" hổ vương cười lớn, đột nhiên đem a hạ kéo đi lại đây, "Tiếp đó, chúng ta chậm rãi chờ bọn hắn hiện thân đi. Dám đả thương ngươi, không muốn cho bọn họ trả giá bằng máu không thể.
+
+### [Next](./chuong-203.html)

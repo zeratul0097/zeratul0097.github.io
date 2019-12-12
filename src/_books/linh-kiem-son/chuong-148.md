@@ -116,3 +116,5 @@ Vạn Pháp Tiên Môn mọi người tự nhiên không biết, Vương Lục �
 Viên Triêu Niên lắc lắc đầu, nghĩ thầm: "Tiếp đó, hắn chỉ cần chờ chờ thế cuộc chậm rãi thôi diễn, nắm đại thế, liền tự nhiên hướng đi thắng lợi đi, ma giáo coi như lần thứ hai đưa lên cổ độc, đối đầu như vậy thủ đoạn cao minh thành chủ cũng không thể cứu vãn... Ván này, ta Vạn Pháp Tiên Môn sợ là không chiếm được tiện nghi gì rồi."
 
 Nhưng vào đúng lúc này, trong ảo cảnh, Vương Lục bắt đầu thần triển khai.
+
+### [Next](./chuong-149.html)

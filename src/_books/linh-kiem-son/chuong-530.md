@@ -118,3 +118,5 @@ Nhưng này một trì vây rồi Linh Kiếm tu sĩ môn ba năm lâu dài k�
 Trên một khắc, bọn họ còn ở đáy nước Long cung, trận lên tiếng nhưng quanh quẩn bên tai.
 
 Sau một khắc, chiều sâu vượt qua mấy dặm thuỷ vực bị ầm ầm xuyên qua, đoàn người đã xuất hiện ở phúc tuyền bầu trời, con đường phía trước rộng rãi sáng sủa
+
+### [Next](./chuong-531.html)

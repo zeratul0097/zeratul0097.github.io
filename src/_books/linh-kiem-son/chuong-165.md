@@ -162,3 +162,5 @@ Cuối cùng trận chung kết, chỉ có bằng bản lãnh thật sự thủ 
 "Vì lẽ đó, chuẩn bị kỹ càng Địa ngục đặc huấn đến sao, học trò cưng của ta?"
 
 Vô Tương Phong trên, một tên cô gái mặc áo trắng mặt lộ vẻ cười gằn, ở bên cạnh nàng, thân hình cao lớn Thất trưởng lão Ngạo Quan Hải Trùng Vương lục gật đầu ra hiệu.
+
+### [Next](./chuong-166.html)

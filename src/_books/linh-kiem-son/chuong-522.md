@@ -96,3 +96,5 @@ Vương Lục nói rằng: "Trúc Mộng Thuật xác thực là vượt qua th�
 Vương Lục cười cợt: "Hiếm thấy ngươi ta có nhỏ bé phân kỳ ý kiến, bất quá lần này ta nghe lời ngươi... Nói chung, dựa theo vừa nãy suy lý, chúng ta có thể suy đoán Ma vương đã lấy cực kỳ đánh đổi nặng nề từ Cửu U thâm ngục thoát vây mà ra. Nhưng còn có một vấn đề không có giải quyết: Hắn thật vất vả thoát được tự do, cần gì phải muốn chấp nhất cho chúng ta những này hàng tiểu bối? Đàng hoàng ở hoang rất nơi nghỉ ngơi lấy sức, trăm nghìn năm sau quay đầu trở lại chẳng phải là càng tốt hơn? Hắn 2000 năm cũng chờ, liền không thể đợi thêm cái mấy trăm năm sao?"
 
 Âu Dương Thương ánh mắt có chút lấp loé: "Ta đoán... Hắn đại khái là thật sự không thể chờ đi."
+
+### [Next](./chuong-523.html)

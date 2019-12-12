@@ -122,3 +122,5 @@ Bất quá, như thế nào đi nữa kinh người, cũng chính là kim đan c
 Bạch Trạch nghĩ như vậy, cười lạnh một tiếng, đi đầu bước vào sân đấu.
 
 Mà Vương Lục đứng ở tràng ở ngoài, lắc đầu cười cợt, nói với Vương Vũ: "Ngàn vạn phú hào có thể đừng quên ta trích phần trăm, giới thiệu cho ngươi này một đan chuyện làm ăn cũng không dễ dàng."
+
+### [Next](./chuong-592.html)

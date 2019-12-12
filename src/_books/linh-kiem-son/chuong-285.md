@@ -98,3 +98,5 @@ Mục sư cho hắn thánh thuẫn, càng dường như vô tồn
 Cảm nhận được sinh mệnh nhanh chóng trôi qua, Ma Pháp sư đem hết toàn lực xoay người lại, nhìn thấy một tấm thiên chân vô tà khuôn mặt tươi cười. Một vị thanh lệ tuyệt luân thiếu nữ chẳng biết lúc nào đứng ở phía sau mình, tay phải chính cầm một cái Cửu Châu cổ kiếm chậm rãi thu hồi, kiếm trên càng không dính nửa điểm huyết ô.
 
 "Cẩn thận sau lưng của ngươi nha"
+
+### [Next](./chuong-286.html)

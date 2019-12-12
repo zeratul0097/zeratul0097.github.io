@@ -134,3 +134,5 @@ Tây sơn hắc triều, lông tạp chó đất.
 "... Fenrir? Ngươi là tây di ma lang Fenrir?"
 
 "Ồ, ngươi lại nhận ra ta?"
+
+### [Next](./chuong-504.html)

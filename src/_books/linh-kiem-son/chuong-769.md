@@ -156,3 +156,5 @@ Thương Lan trước mắt, xuất hiện một cái đen tuyền hình ngư�
 Sau một khắc, nứt toác núi đá bỗng bắt đầu tụ lại lên, đem chỗ trống lòng núi triệt để vùi lấp lên, không để lại mảy may khe hở.
 
 Mà Thương Lan thế giới, cũng triệt để rơi vào hắc ám.
+
+### [Next](./chuong-770.html)

@@ -162,3 +162,5 @@ Nói, ánh mắt như kiếm, chỉ về vết rách nơi sâu xa.
 "Các ngươi, dự định đến thử xem sao?"
 
 (Đằng Tấn hoạt hình pv giải thi đấu còn đang trong quá trình tiến hành nha, tiếp tục khẩn xin mọi người bỏ phiếu ủng hộ. Bỏ phiếu địa chỉ là: http://comic. qq. com/syhd/, hoặc là baidu tìm tòi Đằng Tấn hoạt hình đệ nhị giới pv giải thi đấu, cảm tạ!)
+
+### [Next](./chuong-790.html)

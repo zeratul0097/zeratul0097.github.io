@@ -136,3 +136,5 @@ Vương Lục nói rằng: "Vừa vặn ngược lại, trăm nghìn năm sau, m
 Nói xong, Vương Lục đứng dậy, hoạt động một chút thủ đoạn, dễ dàng cười nói: "Yên tâm đi, tuy rằng tình thế xác thực không thể lạc quan, nhưng đã có ta ở, thắng lợi liền nhất định sẽ chúc cho chúng ta."
 
 Hải Vân Phàm nhìn Vương Lục nụ cười, chỉ cảm thấy óng ánh như ánh mặt trời, đặc biệt chói mắt.
+
+### [Next](./chuong-662.html)

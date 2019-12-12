@@ -96,3 +96,5 @@ Mà vô diện giả vị trí, cũng không phải hoang vu đáy biển thế
 "Đây là... Trong truyền thuyết thất lạc đô thị á Lantis?" Vô diện giả đánh giá bốn phía một cái, kinh ngạc phát hiện cổ thành phế tích kiến trúc trên có quen thuộc đánh dấu. "Trong biển mây bộ dĩ nhiên có thể đường nối vô tận chi hải? Hẳn là sẽ không như vậy xảo chứ? Không đúng, á Lantis thất lạc mấy chục ngàn năm đều không ai có thể tìm tới, nói không chắc là vô tận chi hải đã bị... Bất quá, hiện tại nhiệm vụ chủ yếu là tinh chế dị đoan, đáng tiếc vừa nãy thời gian quá ngắn, không kịp đối với tinh thần hắn chiếm cứ... Hiếm thấy đã lộ ra kẽ hở. Bất quá, đem chiến trường chọn ở á Lantis, hắn coi chính mình sẽ có cơ hội sao?"
 
 Vô diện giả hời hợt địa nói, bởi vì vẻ mặt cứng ngắc càng không nhìn ra nội tâm việc động, nhưng mà, liền ngay cả bản thân của hắn đều không có phát hiện, bị trước hắn cố ý đứt rời tay phải năm ngón tay, vết thương chính đang nhanh chóng khép lại bên trong.
+
+### [Next](./chuong-347.html)

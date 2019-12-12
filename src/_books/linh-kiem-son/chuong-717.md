@@ -126,3 +126,5 @@ Vương Lục nghiêm mặt nói: "Kỳ thực từ ta bản thân mà nói, cu�
 Mồi lửa chân quân nói rằng: "Này không chính là ta nói đạo lý sao? Hơn nữa giả như nàng thật sự chính là như vậy toàn năng, ngươi định làm như thế nào?"
 
 Vương Lục cười nói: "Đương nhiên là tìm ra nàng toàn trí toàn năng bí mật, sau đó thử nghiệm mô phỏng theo rồi. Như ngài từng nói, đế lưu tôn tuy mạnh, nhưng từ xưa tới nay so với nàng tu sĩ mạnh mẽ cũng không tính thiếu. Vì lẽ đó, nàng có thể làm được sự, hay là chúng ta cũng có thể làm được đến?"
+
+### [Next](./chuong-718.html)

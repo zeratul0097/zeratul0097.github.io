@@ -184,3 +184,5 @@ Vương Lục gật gù: "Phần mềm hack tục phí xong xuôi... Bất cứ 
 "Như vậy, trận đấu bắt đầu"
 
 Vừa dứt lời, Vương Lục dưới chân hơi động, thân hình Như Phong, trong tay Khôn Sơn kiếm ra, nhắm thẳng vào Lưu Ly Tiên, càng là tiên phát chế nhân
+
+### [Next](./chuong-168.html)

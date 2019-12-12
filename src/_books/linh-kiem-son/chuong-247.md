@@ -104,3 +104,5 @@ Bạch thơ tuyền liền đứng sau lưng Vương Lục, một đạo tay nh
 Ngay ở Giang Lưu kinh ngạc ngăn ngắn một hai tức trong thời gian, Vương Lục loạng choà loạng choạng lại đứng thẳng người lên, Khôn Sơn Kiếm ở trong tay lung lay hai lắc liền khôi phục ổn định, cái kia gần như gần chết trọng thương phảng phất là không cánh mà bay
 
 Đối mặt Giang Lưu vẻ mặt khó mà tin được, Vương Lục cười nhạt, trong nụ cười có mấy phần châm chọc cũng có mấy phần tự hào: "Nhìn cái gì? Chưa từng nghe nói câu kia châm ngôn sao, mỗi một cái uy mãnh không trù khiên thịt sau lưng, đều có một cái nãi hắn nãi đến ói trị liệu, ta thân là một tên quang vinh khiên thịt, có cái chuyên trách vú em đáng giá kinh ngạc sao?"
+
+### [Next](./chuong-248.html)

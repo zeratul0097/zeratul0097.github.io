@@ -142,3 +142,5 @@ Tuy nhiên tại hạ sơn trước liền biết Vương Lục đứa nhỏ nà
 Vương Lục cười một tiếng: "Có phải là mất lý trí nói bốc nói phét, kỳ thực sư bá thử một lần liền biết đệ tử cả gan, xin mời sư bá ban thưởng ta một chiêu kiếm"
 
 Một lời ra, cả phòng phải sợ hãi
+
+### [Next](./chuong-122.html)

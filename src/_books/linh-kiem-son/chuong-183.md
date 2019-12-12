@@ -122,3 +122,5 @@ Vương Lục tức giận đè lại đầu của nàng: "Ngươi câm miệng.
 Nhưng vào đúng lúc này, đột nhiên xảy ra dị biến. Bình hòa thiên địa linh khí đột nhiên kích động, bốn phía quần sơn đột nhiên cất cao, hình thành một cái thiên nhiên lao tù, đem mấy người nhốt ở bên trong, bốn phía núi đá bình phong che chắn ánh mặt trời, bỏ ra nặng nề bóng tối. Một cái sắc bén, có chút non nớt cũng không thiếu lệ khí giọng nữ ở trong lồng giam vang vọng.
 
 "Chờ các ngươi đã lâu, các ngươi quả nhiên là đến rồi"
+
+### [Next](./chuong-184.html)

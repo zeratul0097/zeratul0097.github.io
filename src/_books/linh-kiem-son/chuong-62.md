@@ -192,3 +192,5 @@ Vị này người da đen trưởng lão là cái phúc hậu người, phúc h
 Mà đối với Vương Lục không hiểu, Ngạo Quan Hải cũng không để ý lắm: "Cuối cùng sẽ có một ngày ngươi sẽ rõ." 
 
 Đúng vậy a, đại khái chỉ có ngày quá mới có thể hiểu đi...
+
+### [Next](./chuong-63.html)

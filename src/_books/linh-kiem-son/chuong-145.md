@@ -140,3 +140,5 @@ Trảm Tử Dạ giật nảy cả mình, này, này chủ bếp đến tột c�
 Sau đó quay đầu, nhìn những tuy rằng đó sắc mặt không nhanh (không vui), lại như cũ duy trì đều đặn nhanh chóng ăn uống linh kiếm đệ tử, trong ánh mắt càng nhiều một phần bội phục
 
 Bọn này man tử... Đúng là kiên rất mạnh
+
+### [Next](./chuong-146.html)

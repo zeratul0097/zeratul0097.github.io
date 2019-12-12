@@ -168,3 +168,5 @@ Vương Vũ nhẹ nhàng nhắm mắt lại, không lại nhìn Âu Dương Thư
 "Đại sư huynh, cảm tạ ngươi."
 
 (chúc mọi người tân niên vui sướng)
+
+### [Next](./chuong-643.html)

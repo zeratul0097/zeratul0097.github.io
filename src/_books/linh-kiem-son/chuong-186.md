@@ -128,3 +128,5 @@ Nói chung, là cái cùng mình khoảng cách xa xôi người —— dù sao,
 A Hạ cười cợt, tấm kia tông hắc sắc trên mặt, mang theo một tia khiến xích hầu vì đó sợ hãi âm lãnh.
 
 "Có chuyện muốn ngươi hỗ trợ, vừa vặn Đại trưởng lão mới vừa rồi không có cho ngươi bố trí nhiệm vụ, ta nghĩ thừa dịp ngươi rãnh rỗi thời điểm... Không ngại đi Thiên Thủy Hồ đi một chuyến."
+
+### [Next](./chuong-187.html)

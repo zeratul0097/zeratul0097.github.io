@@ -168,3 +168,5 @@ Chấn động Ngân hà tiếng nổ lớn bên trong, vàng mười toàn bộ
 Mà ở huyết nhục phá ở giữa, một cái cô gái mặc áo trắng cầm trong tay thúy trúc trường kiếm, cười lớn không thôi.
 
 "Ha ha, muốn nhốt lại ta, nằm mơ đi thôi"
+
+### [Next](./chuong-737.html)

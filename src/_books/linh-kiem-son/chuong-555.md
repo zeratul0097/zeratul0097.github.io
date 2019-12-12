@@ -114,3 +114,5 @@ Xuống đài thời điểm, hắn dùng sức cầm quyền, xem như là mộ
 Mà như vậy thành quả, cũng chỉ có ở sinh tử chớ luận trong thực chiến mới có thể cấp tốc ngưng kết thành hình, chỉ dựa vào bế quan tiềm tu, nguyên thần thôi diễn, không biết muốn tìm bao lâu mới có thể đem này một chiêu chân chính hoàn thiện đi ra.
 
 Vương Lục ngẩng đầu nhìn những kia đang tuyển thủ chỗ ngồi quan chiến hậu cung tần phi môn, nhìn thấy nhưng là một đoàn lại một đoàn màu mỡ to lớn EXP.
+
+### [Next](./chuong-556.html)

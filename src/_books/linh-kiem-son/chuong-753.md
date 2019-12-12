@@ -130,3 +130,5 @@ Sau một khắc, óng ánh Đoạt Mục, so với lúc trước càng chói m�
 Rất quen thuộc ánh sáng, ngay ở trước đây không lâu, hắn phái ra dụ địch phân thân liền ở đạo hào quang này dưới tan xương nát thịt.
 
 Một chiêu kiếm nát tinh thần
+
+### [Next](./chuong-754.html)

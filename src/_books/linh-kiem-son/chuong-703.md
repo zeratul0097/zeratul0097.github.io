@@ -124,3 +124,5 @@ Theo màu tím đầu trọc lại một lần đâm ra phong mang, mà này đ�
 Một lát sau, bốn trảo Băng long cuộn mình lên, bàn thành một đoàn, tiếp theo tan thành mây khói.
 
 Huyền Sương giới nhưng là hoàn toàn tĩnh mịch, Địa tiên môn sắc mặt tái nhợt mà nhìn tất cả những thứ này phát sinh, lòng như tro nguội.
+
+### [Next](./chuong-704.html)

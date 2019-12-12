@@ -132,3 +132,5 @@ Nhưng vào lúc này, trên đài Triệu Khương Nguyên sắc mặt phát kh
 "Đây là cái gì kiếm?" Triệu Khương Nguyên âm thanh khàn khàn, mở miệng lúc một mảnh mùi máu tanh, nhưng khó ép trong lòng không rõ.
 
 Vương Lục cũng là khá là gian nan cười cười: "Nhận Giáp."
+
+### [Next](./chuong-159.html)

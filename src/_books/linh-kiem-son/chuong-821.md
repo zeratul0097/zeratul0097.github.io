@@ -146,3 +146,5 @@ Nhưng mà sau một khắc, từ vô tận xa xôi bầu trời nơi, một
 Sau đó, thanh âm quen thuộc lại xa lạ, khuấy động ở mỗi người bên tai.
 
 "Ngươi này ngu xuẩn, giở trò quỷ gì?"
+
+### [Next](./chuong-822.html)

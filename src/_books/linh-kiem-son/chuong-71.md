@@ -190,3 +190,5 @@ Lưu Hiển cười khổ vài tiếng, hiển nhiên vẫn còn có chút do d�
 "Sau khi, liền nhờ ngươi đầu mối, để Thiên Sách đường ra một phần rèn luyện phương án cho ta, tháng sau trước hoàn thành đi." 
 
 "Được."
+
+### [Next](./chuong-72.html)

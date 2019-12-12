@@ -182,3 +182,5 @@ Nhưng là, gia hoả này nhập môn hai năm rưỡi, có từng bị vấn 
 Tiểu Linh nhi nhíu mày, đầy đủ điều dùng nàng hơn ba mươi năm nhân sinh kinh nghiệm...
 
 "Tiểu Vương lục, chẳng lẽ ngươi là... Thất tình?"
+
+### [Next](./chuong-85.html)

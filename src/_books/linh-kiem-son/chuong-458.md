@@ -144,3 +144,5 @@ Vương Lục sửng sốt rất lâu, sau đó ở Quỳnh Hoa các loại (ch
 Nói, hắn một bước tiến lên, đi tới trên đỉnh núi, chăm chú đánh giá hai vị trần trụi Ma tộc thiếu nữ.
 
 Sau đó Vương Lục quay đầu, hỏi những người khác nói: "Chúng ta có muốn hay không đối với các nàng làm chút gì?"
+
+### [Next](./chuong-459.html)

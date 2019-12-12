@@ -150,3 +150,5 @@ Thiếu nữ còn định nói thêm, đã thấy bên cạnh bóng đen lóe l�
 Địa tiên một phương, chân chính người phụ trách đi tới.
 
 "Được rồi, này một ván chúng ta chịu thua."
+
+### [Next](./chuong-644.html)

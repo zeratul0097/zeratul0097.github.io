@@ -112,3 +112,5 @@ Mà nhưng vào lúc này, phía sau tiếng bước chân lên, bãi ở một 
 Vương Lục nói, đưa tay gảy gảy giấy viết thư: "Đỏ đậm da dẻ, khẩu sinh răng nanh... Này trong thư miêu tả, thấy thế nào lên nhìn quen mắt như vậy chứ?"
 
 Đang khi nói chuyện, nụ cười trên mặt đã dần dần lạnh lẽo.
+
+### [Next](./chuong-494.html)

@@ -122,3 +122,5 @@ Trên thực tế cái này cũng là tất nhiên cử chỉ, đàn tiên thi 
 "Nếu như dựa theo Vương Vũ cùng Bạch Trạch trận chiến đó đến xem, Cửu Châu cùng Địa tiên chênh lệch vẫn là..."
 
 Nghĩ đến một tháng sau chính tái, Vương Lục đầu lại bắt đầu mơ hồ làm đau.
+
+### [Next](./chuong-614.html)

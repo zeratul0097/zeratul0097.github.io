@@ -100,3 +100,5 @@ Thật nhiều thiệt thòi chém nửa đêm đúng lúc chen chân, lúc này
 Nhìn phía sau vẫn còn đang quấn đấu hai người, Vương Lục nụ cười càng tăng lên.
 
 Hai người các ngươi, liền vĩnh viễn cùng nhau đi.
+
+### [Next](./chuong-455.html)

@@ -122,3 +122,5 @@ Nhưng mà Vương Lục ngưng thần nhìn kỹ, nhưng không khỏi trong l�
 Dãy núi kia... Càng là do thiên thiên vạn vạn Ma tộc thi thể chồng chất mà thành
 
 "Đây chính là mới Ma giới căn cơ." Ma vương từ tốn nói, "Ức vạn sinh linh vĩnh cửu ngủ say ở đây, duy trì mới Ma giới mộng cảnh tồn tại."
+
+### [Next](./chuong-472.html)

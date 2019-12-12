@@ -124,3 +124,5 @@ Thu được phong thư này thời điểm, Âu Dương Thương hai tay cầm 
 Cuối cùng, lấy Âu Dương Thương tâm tính tu vi cũng không kìm nén được lửa giận trong lòng.
 
 "Cút mẹ mày đi Ma tộc vá gian"
+
+### [Next](./chuong-495.html)

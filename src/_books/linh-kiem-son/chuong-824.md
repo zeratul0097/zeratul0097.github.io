@@ -136,3 +136,5 @@ Mà Phong Ngâm chân quân, thì lại đối với Nam cực tiên ông thật
 "Thế nhưng chuyến này nguy hiểm..."
 
 "Sợ nguy hiểm còn làm cái gì nghiên cứu! Được rồi đừng nói nhảm, chúng ta muốn chuẩn bị khảo sát dụng cụ, ngươi phải ở chỗ này ăn cơm trưa sao? Không cần liền không tiễn."
+
+### [Next](./chuong-825.html)

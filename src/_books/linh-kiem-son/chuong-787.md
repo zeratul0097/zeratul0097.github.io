@@ -126,3 +126,5 @@ Sau một khắc, hai vị Địa tiên không tự chủ được địa bắt 
 Vương Lục cười ha ha: "Đến hay lắm, hôm nay liền đem hai người các ngươi kẻ phản bội cùng nhau liệu lý!"
 
 (các đồng chí, lời nói đề ở ngoài thoại, Linh Kiếm Sơn pv giải thi đấu đã tiến vào trận chung kết giai đoạn, tiểu thuyết có thể không động họa hóa cũng đến then chốt thời kì. Phiền xin mọi người bát nhũng đi Đằng Tấn hoạt hình trang đầu click liên tiếp, làm gốc thư đầu trên quý giá phiếu đề cử. Một cái QQ hào một ngày có thể đầu 3 phiếu, chỉ cần có 1000 người, liền có thể mỗi ngày thêm ra 3k phiếu. Nếu như có thể có 10000 người, liền có thể thêm ra 3w phiếu! Muốn xem đến sẽ động sẽ nói Vương Lục, liền xin mọi người đi bỏ phiếu đi, ở đây bái tạ!)
+
+### [Next](./chuong-788.html)

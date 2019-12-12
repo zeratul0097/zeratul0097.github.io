@@ -114,3 +114,5 @@ Bất quá, đạp chân thời, huyền mặc nhưng hoảng sợ phát hiện
 Sau một khắc, một cái thanh âm êm ái, ở sau lưng nàng truyền đến.
 
 "Ồ, các ngươi không phải chuyên môn tới tìm ta sao, ở mà muốn như thế vội vã đi đây?"
+
+### [Next](./chuong-779.html)

@@ -140,3 +140,5 @@ Hoảng sợ bên trong, hắn nghe được một người tuổi còn trẻ â
 "Ngươi... Là cái tên này luyến đồng sao?"
 
 (thỉnh cầu quan tâm vi tin công chúng bình đài a sau đó nếu như làm ta thủy hữu tái cái gì đều sẽ ở trên bình đài tuyên bố tin tức. Tìm tòi quốc vương bệ hạ hoặc là lúc trước có tòa Linh Kiếm Sơn cũng có thể, cám ơn đã ủng hộ)
+
+### [Next](./chuong-625.html)

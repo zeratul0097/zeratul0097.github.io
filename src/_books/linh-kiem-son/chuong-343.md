@@ -128,3 +128,5 @@ Tuy rằng như thế thắng khó tránh khỏi có chút thắng mà không v�
 "Thật nha ta thích nhất tiệc khánh công rồi" lưu ly tiên vui vẻ nói, nụ cười chiếu sáng bên trong chiến xa hiệp tiểu không gian, nhưng vào đúng lúc này, thiếu nữ trên mặt nụ cười xán lạn bỗng nhiên đọng lại.
 
 Sau một khắc, một luồng suối máu từ nàng khẩu trong mũi dâng trào ra, thiếu nữ nhẹ thân thể lại như lông chim như thế chậm rãi ngã xuống.
+
+### [Next](./chuong-344.html)

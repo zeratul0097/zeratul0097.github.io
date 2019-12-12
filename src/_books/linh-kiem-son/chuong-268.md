@@ -134,3 +134,5 @@ Một tấm quy mô lớn lao mà đồ sộ võng, hầu như là che ngợp b�
 Mà cùng mộ kiếm tương tự tiết điểm, quả thực nhiều như đầy sao, đếm không xuể.
 
 "Những này, chính là ngươi kế thừa di sản." Kiếm Ma lạnh nhạt nói, đồng thời rất hứng thú đánh giá Vương Lục phản ứng, "Đương nhiên, tiền đề là, ngươi có thể tìm được mở cửa chìa khoá."
+
+### [Next](./chuong-269.html)

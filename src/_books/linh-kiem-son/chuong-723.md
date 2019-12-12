@@ -140,3 +140,5 @@ Tiếp theo, ở đế lưu tôn càng ngày càng nghiêm túc trong ánh mắt
 "Một trong số đó, ngươi đối với huyền mặc cùng Lục Biệt Trần mang trong lòng hoài nghi, vì lẽ đó trong trận đấu trắng trợn địa dùng ra hai người này thần thông, không tiếc bại lộ hai người thân phận. Thứ hai, việc này là ngươi cố ý làm làm cho người ta xem, nhưng mà người kia dù thế nào cũng sẽ không phải ta, bởi vì biểu diễn cho ta xem không có chút ý nghĩa nào. Nói cách khác, ngươi cho rằng Quần Tiên Thành bên trong đồng dạng xuất hiện người phản bội."
 
 Nghe đến đó, đế lưu tôn rốt cục triệt để biến sắc.
+
+### [Next](./chuong-724.html)

@@ -152,3 +152,5 @@ Tâm tình một loạn, muốn ăn cũng thuận theo biến mất, thực tiê
 Thực tiên từ trên đôn đá đứng dậy, tái nhợt sắc mặt, phẩy tay áo bỏ đi.
 
 Tái trường ở ngoài, hoan hô rung trời
+
+### [Next](./chuong-653.html)

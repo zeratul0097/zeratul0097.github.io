@@ -150,3 +150,5 @@ Nhưng mà chưởng môn phép khích tướng, hời hợt đã bị người 
 "Tốt, chỉ cần ngươi có thể bò đến trước mặt của ta, liền cho ngươi một lần cơ hội khiêu chiến ta." 
 
 Bà mẹ nó, ngươi muốn mặt không muốn?
+
+### [Next](./chuong-108.html)

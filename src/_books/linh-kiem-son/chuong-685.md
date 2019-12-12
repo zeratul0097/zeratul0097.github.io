@@ -138,3 +138,5 @@ Một cái để Vương Lục bất luận làm sao cũng không nghĩ tới 
 Bàng làm.
 
 Chén trà liền như vậy rơi vào trên bàn.
+
+### [Next](./chuong-686.html)

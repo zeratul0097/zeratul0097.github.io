@@ -136,3 +136,5 @@ Bất quá, cũng thực sự là không lo được nhiều như vậy...
 Vào lúc này, Vương Vũ bỗng nhiên hơi có chút xuất thần, bởi vì nàng nghĩ đến, nếu là Vương Lục tên kia ở đây, hay là thật có thể có cái gì vẹn toàn đôi bên biện pháp, vừa có thể ngăn cản La Tiêu xuống tay với Tứ Tướng Chân Quân, có thể đem tất cả những thứ này bố trí địa thuận lý thành chương, để La Tiêu cũng nói không ra bất kỳ kẽ hở cùng điểm đáng ngờ. Vương Lục tên kia ý đồ xấu thực sự quá hơn nhiều.
 
 Cho nên nói... Tiện nhân, nên ngươi ra trận thời điểm, ngươi mẹ nó ở nơi nào mò cá a?
+
+### [Next](./chuong-732.html)

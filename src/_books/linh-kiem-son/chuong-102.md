@@ -134,3 +134,5 @@ Bất quá, sẽ trì ý Cẩu Nhĩ núi Vương gia thôn nơi như thế này
 Ngay khi Tạ Trì khởi động suy nghĩ, nỗ lực tìm kiếm đầu mối thời điểm, người trẻ tuổi kia đã đem một đôi trong suốt con mắt chuyển động lại đây.
 
 "Xin chào, ta là Cửu Châu trí cục thuế cục trưởng, trí dạy dỗ chủ, hoan nghênh ngươi đi vào chúng ta cái này mới thành lập không lâu đại gia đình, tiếp đó, liền để cho chúng ta đồng thời vì là gom góp thật quản lý tốt Cửu Châu trí thuế mà nỗ lực công tác đi!"
+
+### [Next](./chuong-103.html)

@@ -108,3 +108,5 @@ Quay đầu, vị kia nhưng đứng ở quý khách tịch nơi một vị khá
 Nhân sinh tứ đại hỉ bên trong có một cái vì tha hương ngộ cố tri, nhưng lúc này thân ở tha hương nơi đất khách quê người, xác thực là nhìn thấy ngày xưa bạn cố tri, Vương Lục các loại (chờ) người làm thế nào cũng hài lòng không đứng lên.
 
 Hai người bọn họ vì sao lại xuất hiện ở đây?
+
+### [Next](./chuong-471.html)

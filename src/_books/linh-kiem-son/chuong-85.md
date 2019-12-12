@@ -180,3 +180,5 @@ Vì lẽ đó hắn phi thường may mắn không nghe thấy trong khách s�
 "Sư phụ ở trên, xin mời trợ đồ nhi một chút sức lực!"
 
 "Ngươi... Được rồi được rồi, ta đáp ứng là được rồi! Được rồi, đừng thắp hương cho ta rồi!"
+
+### [Next](./chuong-86.html)

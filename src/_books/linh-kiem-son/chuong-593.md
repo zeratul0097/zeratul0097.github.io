@@ -146,3 +146,5 @@ Vương Vũ cười cợt, thu hồi Huyền Sương kiếm, cao cao vung lên �
 Lấy chỉ là cảnh giới Kim đan đánh bại ủng có tiên thuật Địa tiên, xác thực là đáng giá kiêu ngạo chiến tích, nhiên còn chân chính làm cho nàng đắc ý hiển nhiên là một chuyện khác.
 
 "Vương Lục, nói cẩn thận 1000 vạn nha"
+
+### [Next](./chuong-594.html)

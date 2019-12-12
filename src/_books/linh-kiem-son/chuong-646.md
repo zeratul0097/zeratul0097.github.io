@@ -130,3 +130,5 @@ Thân là thiên thư lâu chủ, hắn học thức uyên bác, rất nhanh s�
 "Không được, ta nhất định phải ngăn trở chiêu kiếm này, quyết không thể để sự tình đi tới xấu nhất mức độ, tuyệt đối không thể"
 
 Nhưng mà, nghe phong chân quân chống lại ý thức vừa mới mới vừa nhắc tới: nhấc lên, một trận khó có thể dùng lời diễn tả được đau nhức liền nuốt chửng hắn, khiến cho hắn rơi vào đen kịt một màu.
+
+### [Next](./chuong-647.html)

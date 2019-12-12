@@ -136,3 +136,5 @@ Lưu ly tiên ừ một tiếng, uốn một cái vòng eo, nhảy nhảy nhót 
 Mà ở lưu ly tiên đi rồi, Vương Lục rốt cục ngồi xuống lại, chỉ là mới vừa mới ngồi xuống, thân thể liền không khỏi chao một cái, trên mặt nổi lên một trận màu xanh lục, thất khiếu đồng thời thấm ra máu.
 
 "Địa tiên chi độc, ta lĩnh giáo."
+
+### [Next](./chuong-675.html)

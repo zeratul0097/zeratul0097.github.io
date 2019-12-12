@@ -148,3 +148,5 @@ Vương Lục cũng cười: "Xác thực sảng khoái! Bất quá chúng ta c�
 Mộc Hiểu hồn hồn ngạc ngạc nhặt lên chiếc đũa, ở trước bàn tấm kia chở đầy đầu cá tinh nhân nguyền rủa cùng oán niệm đích tinh không bánh nướng trên gắp một khối, theo bản năng bỏ vào trong miệng.
 
 Sau đó liền nhào ngã, cũng không còn cách nào lên.
+
+### [Next](./chuong-53.html)

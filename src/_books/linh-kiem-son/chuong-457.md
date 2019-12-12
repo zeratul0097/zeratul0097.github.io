@@ -138,3 +138,5 @@ Chu Mộc Mộc càng là trực tiếp buông ra Vương Lục ống tay áo, 
 "Khe nằm, ngươi nói bậy cái gì đây?" Vương Lục quả thực ngạc nhiên không tên, nhưng rất nhanh hắn cũng thổi lên phản kích kèn lệnh.
 
 Vương Lục một tiếng cười gằn: "Họ Chu, vào lúc này muốn cùng ta phân rõ giới hạn cũng không kịp, ngươi lôi ta tay, cũng đã mang thai ta loại, ngoan ngoãn chờ trở lại sinh con đi"
+
+### [Next](./chuong-458.html)

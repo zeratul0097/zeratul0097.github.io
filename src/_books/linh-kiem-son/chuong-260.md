@@ -142,3 +142,5 @@ Chỉ có một đoàn che kín bầu trời hồng vụ.
 Cùng lúc đó, khói đen chi hải bến bờ, ở chữa thương bên trong Vương Lục, trong lúc rảnh rỗi, liền hỏi Kiếm Ma một vấn đề.
 
 "Ngươi nói ngươi cùng kiếm Thần đô là ngày xưa Chung Thắng Minh ngàn vạn tàn hồn biến thành, bây giờ tuy rằng phát triển lớn mạnh, bản chất vẫn là tàn hồn, cũng chính là, không có thân thể lạc?"
+
+### [Next](./chuong-261.html)

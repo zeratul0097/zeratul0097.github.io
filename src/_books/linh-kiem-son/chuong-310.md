@@ -164,3 +164,5 @@ Tùng tùng tùng.
 Một trận đột nhiên xuất hiện tiếng gõ cửa, quấy rầy tất cả mọi người tiết tấu.
 
 "Chào ngài, ta là thủy đứng phái tới đưa nước, xin hỏi có ai không?"
+
+### [Next](./chuong-311.html)

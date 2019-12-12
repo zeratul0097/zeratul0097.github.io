@@ -164,3 +164,5 @@ Vương Lục nụ cười càng thêm xán lạn: "Một lời đã định"
 Sau đó quay đầu đối với Nhạc Hinh Dao nói rằng: "Kết thúc công việc rời đi"
 
 ... Nhìn Vương Lục cùng Nhạc Hinh Dao đi xa bóng lưng, đứng ở Hoàng cửa thành, Chu Tần chỉ cảm thấy sau lưng thổi tới phong cách ở ngoài thê lương.
+
+### [Next](./chuong-119.html)

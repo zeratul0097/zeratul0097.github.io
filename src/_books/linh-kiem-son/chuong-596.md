@@ -124,3 +124,5 @@ Vương Lục gật gù: "Yên tâm, lần thứ nhất sẽ ôn nhu."
 Vừa dứt lời, trong tay hắn màu phấn hồng đoản kiếm liền lóng lánh nổi lên huyết bình thường màu đỏ sẫm trạch, Hỗn Độn kiếm khí lấy quyết chí tiến lên khí thế trực bổ tới
 
 Vừa ra tay, chính là muốn đòi mạng sát chiêu
+
+### [Next](./chuong-597.html)

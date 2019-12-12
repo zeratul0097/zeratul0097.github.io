@@ -118,3 +118,5 @@ Bây giờ Quỳnh Hoa bị Kim Ngọc Thành chủ giam cầm sự ở cao tầ
 Vì lẽ đó, thịnh kinh người đến rất đúng lúc.
 
 Đến rồi, cũng đừng muốn đi, trận chiến này sau khi, những người này chỗ nào cũng đi không được
+
+### [Next](./chuong-416.html)

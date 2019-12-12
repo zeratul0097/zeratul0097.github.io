@@ -104,3 +104,5 @@ Hay là, nàng đúng là thiên linh căn, một cái chưa bao giờ bị ng
 Vương Lục nhẹ giọng tự nói, nhắm hai mắt lại, quá khứ từng hình ảnh nổi lên trong lòng.
 
 "Đã lâu không gặp, vân đài tiên tử."
+
+### [Next](./chuong-393.html)

@@ -104,3 +104,5 @@ Mà nhìn La Tiêu —— chủ yếu là hắn bên chân cái kia chó mực �
 "Không được, không thể liền như thế quên đi, ta suốt đời, quyết không thể ở tiếc nuối bên trong kết thúc ta nhất định phải ngoạm miếng thịt lớn ăn được miệng đầy nước mỡ thời lại đi chết"
 
 "Vị này không biết tên nuôi chó người, đúng là cực kỳ có lỗi với, thế nhưng ngươi con chó này, ta muốn định"
+
+### [Next](./chuong-761.html)

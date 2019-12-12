@@ -106,3 +106,5 @@ Nhưng mà cùng lúc đó, ngoài điện nhưng truyền tới một xa lạ m
 "Trai cò tranh nhau, ngư ông đắc lợi? Như vậy không tốt sao?"
 
 Cửa đại điện, một cái cao gầy bóng người, gánh vác một con khổng lồ trường thương chậm rãi đi tới, bước tiến tuy rằng mềm mại, nhưng âm u sát khí nhưng giống như thật, đem điện bên trong cây đuốc từng cái tắt.
+
+### [Next](./chuong-399.html)

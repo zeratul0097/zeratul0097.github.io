@@ -114,3 +114,5 @@ Liều mạng.
 Chỉ có liều mạng đi, mới có thể bảo mệnh, đối thủ chiêu kiếm này mạnh hơn, cũng là do người đến thôi thúc, nếu có thể sớm một bước đem người giết, mạnh hơn kiếm thế cũng phải tan thành mây khói.
 
 Vì lẽ đó luôn luôn sợ chết huyết nhục đồ, thời khắc này trái lại không lại sợ chết, cố nén mũi kiếm vào thể đau nhức cùng khủng bố, đem sự chú ý đều phóng tới tay phải, trong lòng bàn tay đang có khẩu thiết thịt đao.
+
+### [Next](./chuong-677.html)

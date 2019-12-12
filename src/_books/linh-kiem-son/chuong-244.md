@@ -152,3 +152,5 @@ Phía trước bốn người, lấy các loại hình thức làm ra tiếng mi
 Với môn phái cống hiến cho rất khó, đối với Tiên đạo cống hiến cho... Đồng dạng càng gần gũi ở một loại lý tưởng, mà khó có thể chuyển hóa hiện thực.
 
 Ngược lại, nghi vấn người khác đúng là rất dễ dàng, Vương Lục còn chưa bắt đầu thanh minh đây, đã phun lui bốn cái... Như vậy dưới một vấn đề: Cửa ải này rốt cuộc muốn làm sao mà qua nổi?
+
+### [Next](./chuong-245.html)

@@ -124,3 +124,5 @@ Vương Lục tận tình khuyên nhủ: "Ngươi lúc trước đáp ứng cùn
 Đế lưu tôn liếc mắt nhìn hắn: "Đã như vậy, đem thông gia đối tượng đổi thành ngươi cũng có thể."
 
 Vương Lục lập tức đổi giọng: "Linh kiếm phái tọa lạc ở Thương Khê Châu Linh Kiếm Sơn trên, cảnh sắc xinh đẹp tuyệt trần hoa thơm chim hót, ta vậy thì mang ngươi đi gặp một phen..."
+
+### [Next](./chuong-711.html)

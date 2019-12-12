@@ -140,3 +140,5 @@ Nhưng mà ngay ở đế lưu tôn yên lặng súc lực thời điểm, bỗn
 Sau một khắc, hai người thân hình lóe lên, lộ ra phía sau một tấm ngơ ngác cái miệng lớn như chậu máu. Cái kia chiếm giữ ở Phong đô trên thi sơn bán hư bán thực quái vật khổng lồ, từ trong miệng đột nhiên phun ra trí mạng nguyền rủa.
 
 "... Nguy rồi, trúng kế."
+
+### [Next](./chuong-811.html)

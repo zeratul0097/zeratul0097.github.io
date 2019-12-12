@@ -180,3 +180,5 @@ Hải Vân Phàm không phải người tu hành, không có cách nào chuẩn 
 Thăng tiên lộ trên sinh tử chớ luận, cùng loại này tên to xác là địch, có một trăm cái mạng cũng không đủ ném. Thế nhưng...
 
 Thế nhưng Hải Vân Phàm vẫn là rút ra gia truyền bảo kiếm, dũng cảm chỉ hướng đối thủ.
+
+### [Next](./chuong-20.html)

@@ -162,3 +162,5 @@ Liền ở trong chớp mắt, Tứ Tướng Chân Quân đã đem một điể
 "Ha ha, Phong Ngâm Chân Nhân, đây là ta tặng ngươi lễ vật, hi vọng ngươi sẽ thích"
 
 Lời còn chưa dứt, Tứ Tướng Chân Quân đã hóa thành một đoàn thanh ảnh, ở Phong Ngâm phẫn nộ lôi đình kiếm chém bên dưới vụn vặt.
+
+### [Next](./chuong-739.html)

@@ -46,3 +46,5 @@ Chờ Vương Lục lấy tối âm u góc độ phỏng đoán xong Thương Th
 Bất quá nghĩ lại vừa nghĩ, nguy cơ sau lưng cũng ẩn giấu đi kỳ ngộ: Bây giờ thiên thượng nhân gian chỉ có hắn một người đàn ông, dựa theo vật lấy hi vì quý quy luật tới nói, hắn nhưng là so với chân quân cấp cường giả còn muốn hiếm có đây rõ ràng là được trời cao chăm sóc ưu thế a.
 
 "... Ồ, chẳng lẽ nói đây mới là cái này tiên mộng cảnh giới chân chính tồn tại ý nghĩa sao? Cái gì hai giới chiến tranh, Thương Thiên Thần Miếu... Đều chỉ là danh nghĩa, cửa ải này ẩn núp nội dung vở kịch mới là trọng điểm: Dùng ta siêu cấp binh khí để những này từ chưa từng thấy nam nhân, chỉ có thể mỗi ngày mài đậu hũ các nữ nhân thưởng thức đến chân chính thịt vị, từ nay về sau trở thành ta chuyên môn thịt nô lệ không, như vậy cũng quá thấp kém, nên thay cái góc độ đến trình bày, cửa ải này trọng điểm là dùng ta nhiệt tình đến chính xác dẫn dắt những nữ nhân kia giá trị quan, thúc đẩy này thiên thượng nhân gian khôi phục âm dương hòa hài sách, như vậy liền khiến cho mệnh cảm mười phần"
+
+### [Next](./chuong-548.html)

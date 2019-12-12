@@ -146,3 +146,5 @@ Thay đổi những người khác, đại khái sẽ đem Vương Lục uy hi�
 "... Ta rõ ràng, liên quan với đen sự, ta liền nói đơn giản một chút đi."
 
 Lại làm cho huyền mặc có chút khó khăn.
+
+### [Next](./chuong-695.html)

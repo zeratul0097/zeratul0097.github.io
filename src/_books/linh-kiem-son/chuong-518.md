@@ -134,3 +134,5 @@ Lý hi hé mắt, thuộc về chủ nhân cũ hàm hậu ánh mắt, lúc này 
 Đang khi nói chuyện, Vương Lục một đạo hỗn độn Phá Thiên Kiếm Khí trực tiếp đánh nổ lý hi đầu.
 
 Cùng lúc đó, một cái dị thường thê thảm kêu thảm tiếng ở phương xa vang lên.
+
+### [Next](./chuong-519.html)

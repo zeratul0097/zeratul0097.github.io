@@ -134,3 +134,5 @@ Vương Lục trở lại nội phủ, sự chú ý bỏ vào cái kia 206 rễ
 Sư phụ đem Vô Tương kiếm cốt thiết kế thành dáng dấp như vậy, dụng ý kỳ thực rõ rành rành: Muốn dắt tay Bạch Phú Mỹ, vậy thì...
 
 Bá Vương ngạnh thượng cung ba
+
+### [Next](./chuong-56.html)

@@ -120,3 +120,5 @@ Nhưng mà... Bán ngày sau, trận này bị người mang nhiều kỳ vọng
 "Hừm, ta chịu thua." Vu Y thiếu nữ vạn phần tiếc nuối nhìn trên tay cái kia một đống màu đen bột phấn —— trước đây không lâu, vậy còn là một viên ẩn chứa vô hạn vu thuật sức mạnh tổ tiên xương sọ, nhưng lúc này lại là mất đi phần lớn thần thông cốt phấn.
 
 Coi như đem ra cho rằng dưỡng sâu độc nguyên liệu nấu ăn, chất lượng đều hiềm không đủ... Một cái thượng cổ vu bảo, ở cuộc tranh tài này bên trong bị đế lưu tôn miễn cưỡng phá vỡ, phá huỷ thần thông
+
+### [Next](./chuong-717.html)

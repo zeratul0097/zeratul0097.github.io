@@ -92,3 +92,5 @@ Cùng lúc đó, ở xa xôi Kim Ngọc Thành bên trong, một cái u tĩnh m
 Bỗng nhiên, thiếu nữ như là nhận ra được cái gì, mở mắt ra, lấy xa xưa âm thanh nhẹ giọng tự nói.
 
 "Quả nhiên không ngoài dự đoán, là xua hổ nuốt sói kế sách."
+
+### [Next](./chuong-404.html)

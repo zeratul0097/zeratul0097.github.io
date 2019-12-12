@@ -106,3 +106,5 @@ Hắc nghe vậy thở dài: "Xem ra ngươi từ vừa mới bắt đầu liề
 Vương Lục cũng cười: "Đúng đấy, khổ nhục kế."
 
 Tiếng nói phủ rơi, điện tử dương pháo hỏa lực toàn diện bạo phát, một đạo thô to cột sáng trực tiếp xuyên qua u minh sơn.
+
+### [Next](./chuong-771.html)

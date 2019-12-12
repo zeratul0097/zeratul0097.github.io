@@ -138,3 +138,5 @@ Lưu Ly Tiên trên người chịu Kiếm Tâm Thông Minh thần công, thể 
 Liền, Lôi Đình chiến thể tầng thứ tám Chưởng Tâm lôi ngay mặt đánh tới
 
 Lưu Ly Tiên nhẹ nhàng thân pháp không lại, chỉ được giơ kiếm đón lấy, đánh ra một đoàn Lôi Hỏa ánh sáng, thân hình hơi rung nhẹ giữa, đã bị nội thương
+
+### [Next](./chuong-164.html)

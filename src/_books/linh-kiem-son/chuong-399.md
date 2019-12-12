@@ -140,3 +140,5 @@ Vương Lục nói, đưa tay chỉ hướng thiên không.
 "Chúng ta muốn làm sao ở Kim Ngọc Thành toàn hỏa lực bao trùm dưới sinh tồn được đây?"
 
 Đại điện ở ngoài, giữa bầu trời, Đoàn Thương Sơn cao vút trong mây trên đỉnh núi, ngàn vạn đạo kim quang liên miên lóng lánh, hệt như một đoàn bao phủ sơn mạch kim vân.
+
+### [Next](./chuong-400.html)

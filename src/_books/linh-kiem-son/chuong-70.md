@@ -118,3 +118,5 @@ Ngũ trưởng lão một bộ chim yến tước An Tri chí lớn cô quạnh 
 Mắt thấy đề tài đã kéo tới không biên giới, Vương Lục xem xét mắt nhưng đắm chìm tại chỉ điểm giang sơn trong khoái cảm sư phụ, không khỏi thở dài.
 
 Ngươi này não tàn trưởng lão thật không hổ là Linh Kiếm Sơn đệ nhất Khang Đa hàng...
+
+### [Next](./chuong-71.html)

@@ -166,3 +166,5 @@ Ma Pháp sư cười cợt: "Được rồi, ngày hôm nay có thể cùng ân 
 Nói xong, hắn xoay người rời đi, không quấy rầy nữa lưu ly tiên, bóng người rất nhanh biến mất trong biển người mênh mông.
 
 Triệt triệt để để biến mất, phảng phất từ đến không từng tồn tại.
+
+### [Next](./chuong-326.html)

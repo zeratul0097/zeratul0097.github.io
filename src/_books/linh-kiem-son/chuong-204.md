@@ -138,3 +138,5 @@ Này cự lang đến đó là chỗ nào đến? Chẳng lẽ là tiên thú bi
 Kinh ngạc, Vương Lục âm thanh lại từ phía sau thăm thẳm vang lên.
 
 "Các ngươi vẫn lấy làm kiêu ngạo linh bảo ngự thú quyển xác thực là chuyên khắc khuyển loại linh thú. Nhưng là đây, tuy rằng ta vẫn đần cẩu đần cẩu gọi nó, nhưng nó cũng không phải cẩu a."
+
+### [Next](./chuong-205.html)

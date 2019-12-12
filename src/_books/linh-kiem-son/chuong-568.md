@@ -208,3 +208,5 @@ Quyết đoán dưới ở lãi ròng tác, nhưng nhưng vào lúc này, trên
 "Bảo đảm đại vẫn là bảo đảm tiểu... Không nghĩ tới thiên hạ thật có nam nhân sẽ chọn bảo đảm đại nhân. Hay là, thiên hạ nam nhân, cũng không phải hoàn toàn không có chỗ thích hợp đi."
 
 Đang khi nói chuyện, bầu trời tầng mây triệt để tiêu tan, ánh mặt trời chiếu khắp. Đại Địa sức sống tràn trề, đất khô cằn bên trên hoa cỏ bộc phát, trong chốc lát liền đã là sinh mệnh hải dương
+
+### [Next](./chuong-569.html)

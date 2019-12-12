@@ -112,3 +112,5 @@ Mà tổ này bốn tên Ma tộc, chính là một cái tiêu chuẩn chính 
 Sau đó, cầm đầu Mặc tộc mở miệng hỏi thoại, hắn sử dụng tuy là Ma tộc ngôn ngữ, nhưng vài tên thủ tịch đều nghe hiểu được.
 
 "Các ngươi... Là từ hủy diệt nơi đi tới nơi này sao?"
+
+### [Next](./chuong-465.html)

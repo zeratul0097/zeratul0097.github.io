@@ -120,3 +120,5 @@ Hắc, vừa còn cảm khái Vân Đài Sơn rèn luyện sau khi không còn 
 Ngươi chờ, sớm muộn cũng có một ngày ta muốn cùng tiên thú ký kết khế ước, trở thành linh kiếm phái Đại sư tỷ
 
 Ồ, chờ một chút thật giống có chút không đúng...?
+
+### [Next](./chuong-225.html)

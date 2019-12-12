@@ -126,3 +126,5 @@ Vương Lục vừa nhấc lông mày: Có thể a, mấy tháng không gặp c�
 Vương Lục bất đắc dĩ cười nhạo lên.
 
 Dù sao lưu ly tiên a.
+
+### [Next](./chuong-541.html)

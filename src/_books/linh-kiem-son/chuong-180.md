@@ -116,3 +116,5 @@ Vương Lục nhưng ở trong lòng cười lạnh, khi ta là ngu ngốc sao? 
 Vì lẽ đó bây giờ ta trước tiên đoạn ngươi một tay, đón lấy...
 
 Ngươi liền cô độc chơi đùa chim đi thôi ngu ngốc
+
+### [Next](./chuong-181.html)

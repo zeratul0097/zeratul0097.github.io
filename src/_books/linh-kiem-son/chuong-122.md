@@ -164,3 +164,5 @@ Vương Lục trầm mặc một hồi, mở mắt ra, chậm rãi há mồm.
 Mà ở tiếng nói phun ra trước đây, quần sơn rít gào, phong vân biến sắc, vạn lí tinh không trong thời gian ngắn đen như mực, ngày đêm nghịch chuyển, một đạo màu tím bầm ánh chớp từ trên trời giáng xuống giống như thiên kiếp giáng lâm
 
 Vương Lục dĩ nhiên tiên hạ thủ vi cường
+
+### [Next](./chuong-123.html)

@@ -174,3 +174,5 @@ Hừ hừ, nữ nhân mà, có mấy cái không thích hắc thúc thúc? Đặ
 Đang suy nghĩ, Thất sư thúc vừa cười cười: "Đúng rồi, đến bây giờ cũng còn không tự giới thiệu mình đây. thân phận của hắn cũng không nhắc lại, tên của ta là Ngạo Quan Hải, hi vọng sau đó chúng ta có thể ở chung vui vẻ." 
 
 Ngạo, Ngạo Quan Hải...!?
+
+### [Next](./chuong-62.html)

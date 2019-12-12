@@ -98,3 +98,5 @@ Liền Aya cái kia tay nghề, nhà ai trưởng lão đầu óc giật ở Phi
 Ai, chẳng trách Aya tức giận, bất quá nói cho cùng, đây thực sự là một cái thoát ly cấp thấp thú vị đầu bếp.
 
 Bất quá, càng là như vậy, ta trái lại càng vừa ý ngươi, chà chà, là một người hợp lệ đầu bếp, cứu vớt thế giới trọng trách có thể nào thiếu được rồi ngươi?
+
+### [Next](./chuong-278.html)

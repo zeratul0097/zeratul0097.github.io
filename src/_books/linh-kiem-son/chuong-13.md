@@ -142,3 +142,5 @@ Mà Vương Lục cũng không có giấu giếm ý tứ: "Rất đơn giản ah
 "..." 
 
 "Ngươi này trĩ sang phát tác vẻ mặt là có ý gì à? Phương án của ta có gì vấn đề? Ba người từng cái đều thiếu một cái kẻ thù, nhiều hơn một cái pháo hữu, càng thả xuống mấy chục năm thù cũ, thừa dịp tinh lực vẫn còn, đủ có thể hưởng cuối cùng mấy năm tịch dương hồng, giải quyết tốt đẹp tất cả mâu thuẫn nha."
+
+### [Next](./chuong-14.html)

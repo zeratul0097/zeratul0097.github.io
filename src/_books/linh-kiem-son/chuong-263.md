@@ -128,3 +128,5 @@ Này vô biên vô hạn trống trải hắc ám, kỳ thực là Chu Thi Dao t
 Vương Lục lấy cực kỳ ánh mắt khiếp sợ nhìn phía xa nhưng bừng tỉnh vô tri Đại sư tỷ.
 
 Đại sư tỷ, ngươi thực sự là... Hữu dung nãi đại a
+
+### [Next](./chuong-264.html)

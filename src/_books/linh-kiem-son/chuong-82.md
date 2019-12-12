@@ -164,3 +164,5 @@ Nói xong, cười ước lượng một thoáng Khôn Sơn kiếm: "Lương Thu
 Lương Thu chỉ giữ trầm mặc, một lúc lâu, thân kiếm run lên.
 
 "Kích động người, có thể giết."
+
+### [Next](./chuong-83.html)

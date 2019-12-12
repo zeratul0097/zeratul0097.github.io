@@ -124,3 +124,5 @@ Sau đó Âu Dương Thương liền nhìn thấy, tình huống giống nhau cu
 Vương Lục nói rằng: "Nói chung, bắt đầu từ bây giờ, mỗi một vị anh dũng chết trận Ma tộc dũng sĩ, đều sẽ hưởng thụ đến này một đãi ngộ, hưởng dụng bất tận mỹ vị món ngon cùng với bảy mươi hai tên xử nữ đồng nam mặc cho hái trải qua tình cảnh này Ma tộc, đối với sợ hãi tử vong chắc chắn cực lớn cắt giảm, thậm chí thay vào đó chính là vô tận chờ mong chỉ cần chết một lần liền có thể thoải mái một hồi, thoải mái xong còn có thể phục sinh tiếp tục thoải mái, tin tưởng ta, từ nay về sau, những ma tộc này sẽ từ căn nguyên trên trở nên thấy chết không sờn, cái gọi là tâm tình tiêu cực, đã sớm tan thành mây khói"
 
 "Xem, bọn họ đã có người bắt đầu hô lớn Alla hồ Acker ba."
+
+### [Next](./chuong-509.html)

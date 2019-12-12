@@ -152,3 +152,5 @@ Chính âm thầm than thở vị này linh kiếm thủ tịch hùng hồn hà
 Vương Lục lẽ thẳng khí hùng: "Lẽ nào các ngươi còn dự định để ta mời khách sao? 300 vạn linh thạch gánh vác đến các ngươi sáu trên thân thể người, mỗi người chỉ cần 50 vạn 诶, mọi người đều là xuất thân danh môn đại phái, không đến nỗi khuyết như thế ít tiền chứ?"
 
 Thu hồi lời mở đầu, Linh Kiếm Sơn vô tướng phong trên quả nhiên không có người tốt
+
+### [Next](./chuong-596.html)

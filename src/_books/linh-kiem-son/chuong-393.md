@@ -120,3 +120,5 @@ Bên bờ, Vương Lục thả ra Vô Tướng kiếm khí, đào ra rất nhi�
 Bên trong có các loại quý giá tác phẩm nghệ thuật, châu báu đồ trang sức, giá trị sẽ bất cứ lúc nào chuyển dời không ngừng tăng gấp bội, cùng với trưởng thành chu kỳ đến ngàn năm kế quý giá linh thực hạt giống.
 
 "Ta văn vật cùng linh thực môn, chúng ta cũng mấy ngàn năm sau gặp lại đi."
+
+### [Next](./chuong-394.html)

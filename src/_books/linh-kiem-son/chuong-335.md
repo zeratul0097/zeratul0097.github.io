@@ -132,3 +132,5 @@ Vương Lục nói rằng: "Hai vấn đề, số một, ta dặn qua nàng, ng
 Aya bật cười nói: "Đồ uống đương nhiên phải từ từ thưởng thức a, lại không phải nốc ừng ực."
 
 Vương Lục nói một cách lạnh lùng: "Ngươi cho rằng lưu ly tiên là người nào? Ngươi lại không phải chưa từng thấy nàng ăn đồ ăn
+
+### [Next](./chuong-336.html)

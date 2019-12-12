@@ -114,3 +114,5 @@ Nhưng mà thịnh kinh đoàn đội một hồi tập kích, để hắn bỏ 
 Từ chiến công đến xem, a dạ trả thù là tương đương thành công, ngoại trừ suy yếu Kim Ngọc Thành cùng thịnh kinh đoàn đội bên ngoài, hắn nhiều lần thành công ám sát, tiến thêm một bước phóng to hai nhà kẽ hở, làm cho đón lấy một quãng thời gian thịnh kinh người hoàn mỹ lại nhằm vào Diệp Thủy Hà cùng Vĩnh Hằng Thụ khai triển hành động.
 
 Nhưng từ một góc độ khác đến xem, a dạ ở bên ngoài xuất chinh thời chiến, hậu viện nhưng có không ổn định dấu hiệu.
+
+### [Next](./chuong-409.html)

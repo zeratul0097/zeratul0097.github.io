@@ -144,3 +144,5 @@ Khâu này là không thể tồn tại cái gì kéo dài thời gian, nói cá
 Chính hí, rốt cục muốn bắt đầu diễn.
 
 (cảm tạ Đại minh chủ ở đêm Giáng sinh vì cô độc ta đưa tới ấm áp, do dó thêm chương... Thuận tiện cũng chúc mọi người đêm Giáng sinh thu hoạch khá dồi dào, năm sau ll nguyệt trăng tròn uống rượu vui vẻ)
+
+### [Next](./chuong-636.html)

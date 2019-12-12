@@ -136,3 +136,5 @@ Aya trong lòng có chút buồn cười, cũng có chút ấm áp: "Không nên
 Vương Lục nhún nhún vai: "Vấn đề ta căn bản cũng không có nhân tính cung hắn chơi a."
 
 "Ta là thú tính khởi động."
+
+### [Next](./chuong-312.html)

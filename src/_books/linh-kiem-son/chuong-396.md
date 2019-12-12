@@ -110,3 +110,5 @@ Trong chốc lát, ngọc đĩa trên ánh sáng liên tiếp tắt, cuối cùn
 Mà ở ánh sáng bên trong, một vị vẻ mặt kiên nghị thiếu nữ, chính bản thân tư thẳng tắp địa đứng ở hắn trước người, nhẹ giọng mở miệng hỏi: "Ta hỏi ngươi, ngươi là ta người theo sao?"
 
 "Cái gì?"
+
+### [Next](./chuong-397.html)

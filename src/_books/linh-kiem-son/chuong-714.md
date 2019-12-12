@@ -100,3 +100,5 @@ Tỷ như ở Quần Tiên Thành bên trong gần đây quật khởi giới ki
 Lại tỷ như, một cái nào đó lấy Vương Lục vì đạt đến mục tiêu, chờ mong ở đàn tiên thi đấu bên trong thoải mái tay chân đầu trọc tu sĩ, thì lại bắt đầu nôn nóng bất an, dự cảm thấy mình đã dần dần mất đi toàn bộ hi vọng.
 
 Lại sau đó, một nhóm lớn còn ở Quân Hoàng Sơn đặc huấn! Kim Đan cùng nguyên anh môn, trực giác chính mình nhóm người này bên trong, e sợ phần lớn người nửa năm qua khổ cực e sợ muốn phó chư nước chảy
+
+### [Next](./chuong-715.html)

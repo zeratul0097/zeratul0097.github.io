@@ -126,3 +126,5 @@ Mà theo Vương Lục truỵ xuống tốc độ càng lúc càng nhanh, toàn 
 Mà ở Vọng Nguyệt loan vũ khiếp sợ tiếng rên rỉ bên trong, Vương Lục khẽ cười nói.
 
 "Vọng Nguyệt tiểu muội muội, bởi vì ngươi không hiểu vật lý a."
+
+### [Next](./chuong-406.html)

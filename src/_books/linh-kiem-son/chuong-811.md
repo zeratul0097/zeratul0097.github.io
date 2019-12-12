@@ -158,3 +158,5 @@ Một đạo sáng tự sơn thanh tuyền, sắc bén như Cửu Thiên cương
 "Lưu ly tiên!?"
 
 Cái kia duy nhất không có chịu đến Vương Lục thụ quyền ra lệnh có hạn, rất sớm rời đi hồ ly bên người lưu ly tiên!
+
+### [Next](./chuong-812.html)

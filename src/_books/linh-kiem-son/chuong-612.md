@@ -154,3 +154,5 @@ Cuối cùng, vạn thú chi vương dùng mang theo miêu trảo thủ bộ hai
 "Đi ngươi ma túy, cho lão tử lăn"
 
 Ba sông thư sinh hai mắt đỏ đậm, trực tiếp liền đem trong tay sử thi quyển sách xé thành hai nửa
+
+### [Next](./chuong-613.html)

@@ -110,3 +110,5 @@ Cùng với, đứng ở thánh quang phía trên đại dương, ở vào càng
 Bên tai, càng phảng phất nghe được cổ đại vương giả tiếng cười.
 
 "Con hoang môn a, muốn trẫm bảo vật sao? Vậy thì đi lấy đi, ta đem hết thảy đều đặt ở vương chi trong bảo khố"
+
+### [Next](./chuong-289.html)

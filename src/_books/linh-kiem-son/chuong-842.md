@@ -86,3 +86,5 @@ Nghe được câu này, Tiêu Dao Tiên tôn sửng sốt hồi lâu, sau đó 
 Cứ việc hiện tại Cửu Châu vẫn như cũ ở thế yếu, thế nhưng, nắm giữ một cái như vậy giác ngộ thủ hộ thần, Cửu Châu Đại Lục có lý do gì thua đây?
 
 Mà Tiên vương hạ vũ sắc mặt, trước nay chưa từng có âm trầm.
+
+### [Next](./chuong-843.html)

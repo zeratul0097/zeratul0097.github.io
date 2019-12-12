@@ -120,3 +120,5 @@ Không nguyệt nhẹ giọng tự nói. Nàng âm thanh đang run rẩy, thân
 "Trong vòng ba ngày, ta tất lấy hai người các ngươi tính mạng"
 
 Hóa thần chân nhân quyết ý, hóa thành một đạo trời quang phích lịch từ bầu trời mà rơi.
+
+### [Next](./chuong-558.html)

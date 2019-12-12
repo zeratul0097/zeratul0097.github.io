@@ -134,3 +134,5 @@ Bởi vì chỉ cần không phải ngu ngốc, đều không khó nghĩ rõ r
 Chỉ bằng vào Thiên Luân Chân Quân, bất kể là tính toán vẫn là tính toán, đều khó mà vượt qua toán tiên Lục Biệt Trần. Nhưng hắn cuối cùng nhưng thắng, như vậy thắng cái kia bộ phận đến từ nơi nào?
 
 Đương nhiên là Vương Lục.
+
+### [Next](./chuong-661.html)

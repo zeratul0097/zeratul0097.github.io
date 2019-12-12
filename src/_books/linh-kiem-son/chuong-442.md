@@ -116,3 +116,5 @@ Hắn xoay người, trực tiếp đi tới tảng đá trước mặt, đưa t
 Chu Mộc Mộc âm thanh phảng phất lập tức trở nên mờ mịt xa xôi, bởi vì Vương Lục trong đầu bỗng nhiên có thêm một hàng chữ
 
 "Tầng thứ hai đệ 44 liệt 3 hành thư giá, hay là có thứ mà ngươi cần."
+
+### [Next](./chuong-443.html)

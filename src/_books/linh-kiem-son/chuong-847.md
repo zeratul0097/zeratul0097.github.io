@@ -130,3 +130,5 @@ Nữ tử nhẹ giọng nói hết, sau đó bưng rượu lên hồ lô, hét m
 Nói còn chưa dứt lời, đỉnh đầu trời xanh mây trắng liền đột nhiên tối sầm lại, một đạo thô to phích lịch từ trên trời giáng xuống.
 
 "Tiện nhân, ta ở Thiên Nam Châu giám công, ngươi lười biếng không xuất lực cũng là thôi, còn ở chỗ này họa quyển quyển nguyền rủa ta!?"
+
+### [Next](./chuong-848.html)

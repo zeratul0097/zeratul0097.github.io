@@ -100,3 +100,5 @@ Vương Lục lúc đó đã nghĩ, ta Vô Tương kiếm pháp phòng ngự s�
 Kết quả sư phụ trầm mặc nhìn chăm chú hắn đã lâu, chỉ nói một câu, liền để Vương Lục bỏ đi đối với Kiếm Tâm Thông Minh lòng mơ ước.
 
 "Vật kia luyện có thêm chụp thông minh."
+
+### [Next](./chuong-132.html)

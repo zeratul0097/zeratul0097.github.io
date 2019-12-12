@@ -130,3 +130,5 @@ Nghe Vương Lục báo vật liệu biểu, Aya đầu tiên là hiếu kỳ, l
 "Ngươi, ngươi lẽ nào là nghĩ...?"
 
 Vương Lục hừ lạnh một tiếng: "Ngoài ra còn có biện pháp khác sao? Làm cái kia khổ bức muốn ta tìm kiếm một cái mất tích hơn vạn năm văn vật thời, ta liền biết, là thời điểm bày ra chân chính sơn trại tài nghệ"
+
+### [Next](./chuong-328.html)

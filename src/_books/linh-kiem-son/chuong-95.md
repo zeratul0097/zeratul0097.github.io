@@ -172,3 +172,5 @@ Thánh Nữ đại nhân còn có thể thấy thế nào, diễn xong của mì
 Lão dâm côn nhất thời ngạc nhiên: Thánh Nữ đại nhân ngươi làm sao không theo lẽ thường xuất bài ah!? Trong kịch bản lời kịch không phải như thế viết ah, ngươi nên càng nhiệt tình, càng kích động một điểm ah!?
 
 Bất quá, lão dâm côn không hổ là trước chuyên nghiệp lừa dối đội cao tầng, trường thi phản ứng cực nhanh: "Có Thánh Nữ đại nhân cho phép, nói vậy có thể làm ít mà hiệu quả nhiều... Ta cùng tơ bông liền đi trước chuẩn bị vật liệu, quá hai ngày liền tới nơi này thiết lập pháp đàn!
+
+### [Next](./chuong-96.html)

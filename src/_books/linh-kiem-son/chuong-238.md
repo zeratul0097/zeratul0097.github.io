@@ -156,3 +156,5 @@ Vương Lục động viên dưới sư muội, nhưng trong lòng là hơi đ�
 Phép phản chứng? Này ngược lại là cái không sai biện pháp, giải quyết trước mắt cương cục là thích hợp.
 
 "Ta nói, các ngươi đã làm sao tranh đều tranh không ra kết quả, không bằng thay cái đơn giản biện pháp: Tuyển ra bảy đối với cha mẹ tử nữ cộng mười bốn tấm bài, do thịnh kinh hoặc chúng ta ba phái đến thanh tẩy, một phe khác tới chọn trong đó trương, còn lại trương thì lại để cho thanh tẩy người, như vậy làm sao?"
+
+### [Next](./chuong-239.html)

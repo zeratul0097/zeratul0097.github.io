@@ -156,3 +156,5 @@ Nhưng Vương Lục vẫn chưa thể không trọng thị, Phong Ngâm ngườ
 Vấn đề là, nên làm sao coi trọng đây?
 
 Nắm trong tay thành tâm chỉ, Vương Lục là càng ngày càng nghi hoặc.
+
+### [Next](./chuong-697.html)

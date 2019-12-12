@@ -108,3 +108,5 @@ Làm công thần lớn nhất thiếu nữ, tỏ rõ vẻ thân thiết hỏi.
 Vương Lục hắng giọng một cái: "Đa tạ ái khanh trợ trẫm bình định, trẫm liền phong ngươi cái thế tập võng thế Thiết Mạo Tử Vương đi."
 
 "Lăn."
+
+### [Next](./chuong-55.html)

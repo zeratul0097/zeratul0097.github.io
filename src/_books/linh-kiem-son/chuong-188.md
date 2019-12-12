@@ -154,3 +154,5 @@ Mà một vị Miêu Nhĩ thiếu nữ, thì bị lưu lại.
 Cơ hồ là cùng đối phó xích hầu lúc giống nhau như đúc chiến thuật, chỉ là lần đó lưu lại là một viên chỉ có kỷ niệm giá trị xương sọ, lần này nhưng lưu lại một cái Kim Đan đỉnh phong... Sủng vật?
 
 Nhìn vẻ mặt co rúm lại tâm ý Linh Yên, bất kể là ai cũng rất khó đưa nàng cùng mấy ngày trước khí thế kia khinh người trưởng lão liên hệ cùng nhau.
+
+### [Next](./chuong-189.html)

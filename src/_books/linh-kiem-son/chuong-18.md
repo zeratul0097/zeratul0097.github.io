@@ -220,3 +220,5 @@ Bóng đen cũng cười: "Ta chỉ là kỳ quái, ngươi từ vừa mới b�
 Bóng đen kia hỏi: "Ồ? Ngươi đã trước đó cũng không phát hiện này cái hộp đựng thức ăn ảo diệu, tại sao phải mang theo nó đi xa như vậy?"
 
 "Bởi vì từng cái hợp lệ chuyên nghiệp người mạo hiểm đều là sóc đảng."
+
+### [Next](./chuong-19.html)

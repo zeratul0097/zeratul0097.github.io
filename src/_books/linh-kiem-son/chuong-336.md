@@ -166,3 +166,5 @@ Vô thượng giai giai trạch đặc một từ mệnh danh.
 "Những người khiêu chiến a, đi theo vương bước chân, đi leo lên giai giai trạch đặc sơn, hái Thần mặt trời thạch đi. Đương nhiên, tất cả những thứ này, trước hết ở sự khiêu chiến của các ngươi giả làm được."
 
 Nói xong, bích hoạ hình ảnh liền hoàn toàn biến mất, cửa đá cũng thuận theo trở nên trầm mặc.
+
+### [Next](./chuong-337.html)

@@ -96,3 +96,5 @@ Vương Lục trầm mặc một hồi: "Quần Tiên Thành tình huống bên 
 "Đương nhiên có thể." Đế lưu tôn nói rằng, "Nếu như ngươi đối với tình huống bên kia cảm thấy hứng thú, ta có thể nói cho ngươi, Quần Tiên Thành bên trong, đọa tiên đã bắt đầu hành động. Ta có thể rõ ràng hỏi bọn họ mùi thối, thế nhưng..."
 
 Vương Lục thở dài: "Nhưng vẫn không thể chuẩn xác định vị? Ta hiện tại cũng hoài nghi ngươi loại này khứu giác có thể hay không là bị người ta cho lợi dụng..."
+
+### [Next](./chuong-733.html)

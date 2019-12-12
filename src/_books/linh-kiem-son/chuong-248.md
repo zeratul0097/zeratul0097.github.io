@@ -134,3 +134,5 @@ Nói còn chưa dứt lời, liền bị Vương Lục lạnh lùng đánh gãy:
 Sau đó, ở Giang Lưu càng ngày càng tối sắc mặt dưới, Vương Lục hỏi xảy ra vấn đề.
 
 "Ta hỏi ngươi, ngươi có nghĩ tới hay không, cho tới nay đến ở bốn vị trí đầu quan đều có xuất hiện cái kia thanh âm lạnh như băng, đến cùng hắn mẹ là ai vậy?"
+
+### [Next](./chuong-249.html)

@@ -158,3 +158,5 @@ Nói, hắn chỉ tay một cái mở ra ở trên mặt bàn phương án th�
 Khai mạc thức.
 
 (thỉnh cầu quan tâm vi tin công chúng bình đài rồi tìm tòi lúc trước có tòa Linh Kiếm Sơn chính là. Thuận tiện gần nhất muốn bắt đầu gia tăng tốc độ sáng tác, sẽ không đúng giờ thêm chương, kính xin chờ mong)
+
+### [Next](./chuong-621.html)

@@ -112,3 +112,5 @@ Mà nhưng vào lúc này, thanh âm quen thuộc ở sau gáy truyền đến.
 "Sách, các ngươi thật đúng là nét mực ah, còn không đánh xong." 
 
 Theo một cái đòn nghiêm trọng, Thất Tinh chưởng môn mắt tối sầm lại, cái gì cũng không biết.
+
+### [Next](./chuong-110.html)

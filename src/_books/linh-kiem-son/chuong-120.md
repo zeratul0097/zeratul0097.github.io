@@ -86,3 +86,5 @@ Bất quá chưa kịp đi ra khách sạn cửa lớn, Văn Bảo trong lòng l
 Sau một khắc, một cái âm thanh uy nghiêm ở hắn Nguyên Thần bên trong vang lên: "Văn Bảo."
 
 Cái thanh âm này thực sự quá quen thuộc, bao nhiêu lần trong ác mộng, thanh âm này đều là làm chủ giác lên sàn, Văn Bảo lúc này cảm giác ngực khó chịu: "Tam sư thúc...?"
+
+### [Next](./chuong-121.html)

@@ -104,3 +104,5 @@ Vương Lục vừa dứt lời, liền nghe sáu trưởng lão rực rỡ hi�
 Vương Lục tự lẩm bẩm, ngón tay chạm được giới tử trong túi, rất sớm dùng để đề phòng sư phụ lá bài tẩy.
 
 Hơn mười năm trước, hắn từng dùng lá bài tẩy kia ngang dọc Lịch Luyện Chi địa Tiểu Thanh Vân Phong, bây giờ sao...
+
+### [Next](./chuong-374.html)

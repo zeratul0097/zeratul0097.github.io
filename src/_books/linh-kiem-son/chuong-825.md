@@ -140,3 +140,5 @@ Vương Vũ chú ý tới, hắn tay càng ở khinh hơi run rẩy.
 "Làm sao lại đột nhiên chết rất nhiều người!?"
 
 (rốt cục... Sắp trọn bộ rồi, không có gì bất ngờ xảy ra tháng 7 bên trong Linh Kiếm Sơn liền đem nghênh đón kết cục. Vì lẽ đó, ở đây mặt dày thỉnh cầu một hồi vé tháng đi, cuối cùng một tháng, hy vọng có thể thuận lợi.)
+
+### [Next](./chuong-826.html)

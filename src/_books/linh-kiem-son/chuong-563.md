@@ -126,3 +126,5 @@ Nói còn chưa dứt lời, liền nghe cái kia khổ hạnh tăng lữ phát 
 Vương Lục suy nghĩ một chút, thừa dịp trong không khí cái kia cỗ mùi vẫn không có trở nên nồng nặc trước, đối với lưu ly tiên giải thích: "Bởi vì ngươi ngũ sư thúc dùng chính là thất truyền đã lâu bàng quang một chỉ... Này một chiêu là đem ra dằn vặt phạm nhân, dơ bẩn cực kì, không có gì đẹp đẽ, vì lẽ đó ngươi nhanh bên ngoài chơi đi."
 
 "Ồ."
+
+### [Next](./chuong-564.html)

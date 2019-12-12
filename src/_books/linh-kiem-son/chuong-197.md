@@ -146,3 +146,5 @@ Tầm mắt dần dần bị một luồng ấm áp tâm ý mơ hồ, nhưng mà
 "A, làm xong? Vậy chúng ta liền đến nói chuyện báo thù vấn đề đi, theo: đè cách nói của ngươi, đón lấy ngươi liền phải cho ta sinh ngưu sinh mã rồi, đúng không?"
 
 ... Đối với ngươi muội ah
+
+### [Next](./chuong-198.html)

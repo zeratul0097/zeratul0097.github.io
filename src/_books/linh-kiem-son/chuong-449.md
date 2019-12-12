@@ -120,3 +120,5 @@ Chưởng môn trầm ngâm một lúc lâu, thở dài nói: "Rất tốt, ng
 Vương Lục vẫn đang suy nghĩ, năm đó linh kiếm phái đến để là trải qua cái gì, để Thiên Kiếm Đường trưởng lão đối với Ma tộc kiêng kỵ như vậy? Ba tháng này tập huấn cố cổn nhiên thu hoạch không ít, nhưng... Thấy thế nào cũng có vẻ quá mức hưng sư động chúng.
 
 Cũng được, lần này Ma giới hành trình, liền đem tất cả bí mật đều vạch trần đi ra đi
+
+### [Next](./chuong-450.html)

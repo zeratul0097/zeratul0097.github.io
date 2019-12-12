@@ -138,3 +138,5 @@ Sau một khắc, Ngân hà nát tan, một con toàn thân đen kịt cự long
 "Tổ Long?" Đế lưu tôn khiếp sợ vạn phần.
 
 Tổ Long, đàn tiên mộ bên trong, hàng vạn hàng nghìn giới long chi tổ.
+
+### [Next](./chuong-736.html)

@@ -112,3 +112,5 @@ Dị biến bên dưới, quân thần tháp nỗ rốt cục hơi đổi sắc 
 Mà nhìn thấy chiến trường ở trong chớp mắt yên tĩnh lại, Vương Lục cũng khinh thở hắt một hơi.
 
 "Làm ta gặp được đường đường Man tộc quân thần nhưng sử dụng Hoàng Kim vương quân đội thời, ta liền biết, là thời điểm bày ra ta chân chính sơn trại tài nghệ"
+
+### [Next](./chuong-334.html)

@@ -154,3 +154,5 @@ Chỉ thấy Vân Lộc Thiên đài một đầu khác, Vương Lục đã là
 Mà ở chân hắn một bên, có một con màu lông hỗn tạp, lại có vẻ bướng bỉnh đáng yêu tiểu Cẩu, chính thích ý hưởng thụ muôn người chú ý, vui sướng chạy tới chạy lui.
 
 "Tiên sư nó, đó là vật gì?"
+
+### [Next](./chuong-158.html)

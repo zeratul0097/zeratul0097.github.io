@@ -124,3 +124,5 @@ Sau một khắc, Vân Không Quân tiếng rống giận dữ khiếp sợ tră
 Đến một bước này, Vương Lục rốt cục triệt để bật cười.
 
 "Ta đương nhiên dám, đối phó một giới kẻ tù tội, ta có gì không dám?"
+
+### [Next](./chuong-390.html)

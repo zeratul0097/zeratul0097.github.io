@@ -114,3 +114,5 @@ Bất quá như thế nào đi nữa chậm chạp, bây giờ khoảng cách C�
 Lại sau khi phát triển thì càng không khó suy đoán, hiển nhiên Vạn Tiên Minh không cách nào thuyết phục Thánh Quang Giáo mở ra kho báu cửa lớn, mặc cho tìm kiếm chìa khoá, thêm vào Thánh Quang Giáo ở phía Đông thành bang chiến lược đem Cửu Châu người đắc tội tàn nhẫn, song phương vũ lực xung đột không thể phòng ngừa.
 
 Chỉ là ra ngoài Vương Lục dự liệu chính là, Vạn Tiên Minh cường nhân môn cũng không tránh khỏi quá nghịch thiên, ngăn ngắn mấy tháng, lại đều giết tới Thánh Quang Giáo đại bản doanh đến rồi
+
+### [Next](./chuong-354.html)

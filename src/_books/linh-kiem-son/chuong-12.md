@@ -126,3 +126,5 @@ Buổi tối hôm đó , nghe thấy bảo đích tiếng khóc làm cho ngườ
 ！ 
 
 ：！
+
+### [Next](./chuong-13.html)

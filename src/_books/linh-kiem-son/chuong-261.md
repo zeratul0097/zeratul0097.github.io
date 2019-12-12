@@ -146,3 +146,5 @@ Vương Lục nhưng chỉ là thôi thúc lên ngàn vạn tàn kiếm nổi l
 Vương Lục cũng không chậm trễ: "Là ta đuối lý, chém ngươi sau khi, ta sẽ đem kiểm tra thư thiêu đưa cho ngươi"
 
 Nói xong, hàng vạn hàng nghìn phi kiếm cùng nhau rơi xuống đất.
+
+### [Next](./chuong-262.html)

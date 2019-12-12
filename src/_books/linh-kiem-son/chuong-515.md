@@ -148,3 +148,5 @@ Nhiên mà ngay tại lúc này, Vương Lục chợt nghe dương bay ở nói 
 Linh kiếm phái quản lý huấn luyện cổn kế sinh nhai hoa nguy hiểm hệ số vốn là rất lớn, các đệ tử ở hoang rất nơi tự mình thăm dò, gặp phải nguy hiểm là chuyện thường như cơm bữa.
 
 Nhưng nghe đến tin tức này, Vương Lục cùng Âu Dương Thương nhưng không hẹn mà cùng địa cảm thấy sau lưng phát lạnh.
+
+### [Next](./chuong-516.html)

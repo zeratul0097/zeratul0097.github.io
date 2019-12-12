@@ -124,3 +124,5 @@ Phía sau người đàn ông kia khàn giọng mở miệng: "Ngươi có thể
 "Đúng vậy hắn chết rồi vì lẽ đó trừ phi Vương Lục giống như ngươi ngu, bằng không nhất định sẽ phát hiện dị thường ta vốn là là muốn chế phục hắn, nhưng không ngờ hắn động tác quá nhanh, không chút do dự liền đem mình hình thần đều diệt, chỉ vì lấy này hướng về Vương Lục phát sinh cảnh cáo... Sách, sớm biết ta liền bất nhất vừa nhìn thư một bên động thủ, động tác trì độn quá hơn nhiều."
 
 Thiếu nữ một bên oán giận chính mình sai lầm, một bên vẻ mặt nghiêm nghị nói rằng: "Chuẩn bị sẵn sàng chiến đấu đi, Vương Lục lúc nào cũng có thể giáng lâm lại đây"
+
+### [Next](./chuong-785.html)

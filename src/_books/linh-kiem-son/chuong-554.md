@@ -138,3 +138,5 @@ Vương Lục nói rằng: "Không sai, này chính là kế sách một phần.
 Thiên thượng nhân gian còn chưa bao giờ có như vậy hậu cung, nhưng không thể phủ nhận, này xác thực phi thường thú vị. Đặc biệt là để cho mình các phi tử vì hậu cung chi chủ bảo tọa lẫn nhau chém giết, tựa hồ cũng có một phen đặc biệt lạc thú.
 
 "Rất tốt." Cuối cùng, không nguyệt gật gật đầu nói rằng, "Nếu ngươi có ý nghĩ này, vậy ngươi sẽ làm cho ta xem đi."
+
+### [Next](./chuong-555.html)

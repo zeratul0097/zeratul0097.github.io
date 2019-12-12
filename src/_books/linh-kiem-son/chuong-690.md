@@ -122,3 +122,5 @@ Tứ Tướng Chân Quân liếc mắt nhìn, hời hợt đến giải thích
 "Này bồn dược thang là ta độc môn sáng chế, chuyên môn dùng để cường hóa truyền thừa cùng sinh sôi năng lực, trước thế gian nên cũng không tiền lệ, vì lẽ đó cũng không có có tên tuổi. Bất quá nếu ngươi hỏi đến rồi..." Tứ Tướng Chân Quân sờ sờ râu mép, suy nghĩ một hồi, liền đánh nhịp nói.
 
 "Liền gọi bách tiên thang đi."
+
+### [Next](./chuong-691.html)

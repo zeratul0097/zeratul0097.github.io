@@ -120,3 +120,5 @@ Rơi Tuyết tiên tử một tiếng thở dài, lại nhỏ giọng cùng mấ
 Trước mắt, đối với Địa tiên môn mà nói, cũng chỉ có đem này muộn thiệt thòi nuốt xuống. Cũng may cùng thân sâu độc điều kiện hạn chế rất lớn, trận này Kim Đan đại chiến bên trong, ngoại trừ lưu ly tiên ở ngoài, những người khác sợ rằng cũng thỏa mãn không được cùng Vương Lục cộng đồng trồng vào cổ trùng điều kiện. Đón lấy còn có ba cuộc tranh tài, nhưng có thủ thắng hi vọng.
 
 Đến đây, vẫn trầm im lặng không lên tiếng hắc cũng gật đầu nói: "Cuộc kế tiếp chuẩn bị bắt đầu đi."
+
+### [Next](./chuong-676.html)

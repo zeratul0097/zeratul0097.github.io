@@ -108,3 +108,5 @@ Nếu như lịch sử là có thể thay đổi, như vậy... Linh kiếm phá
 Nếu như thật sự có thể làm được bước đi kia, như vậy...
 
 Như vậy, còn có thể có người làm linh kiếm thủ tịch chính mình sao?
+
+### [Next](./chuong-481.html)

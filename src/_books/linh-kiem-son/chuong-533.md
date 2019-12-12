@@ -122,3 +122,5 @@ Bực này dưới tình hình, Kim Đan vỡ vụn hầu như là tình thế c
 Thời khắc cuối cùng, Vương Lục phấn khởi dư lực, đem mất khống chế hỗn độn Phá Thiên Kiếm Khí trực tiếp làm nổ.
 
 Muốn chết thì cùng chết ba
+
+### [Next](./chuong-534.html)

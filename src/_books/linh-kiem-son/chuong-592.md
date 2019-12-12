@@ -152,3 +152,5 @@ Tiên thuật, chính là ở càng cao hơn mức độ tiến hành nghiền �
 Thế nhưng, hoàn toàn không cần thiết vì Vương Vũ lo lắng.
 
 Tuy rằng hắn cũng không rõ ràng hơn 110 trùng Vô Tướng Công là có hay không có thể chống lại tiên thuật, thế nhưng Vương Lục tin chắc, trận này giá trị 1000 vạn linh thạch chiến đấu, Vương Vũ chắc chắn sẽ không thua
+
+### [Next](./chuong-593.html)

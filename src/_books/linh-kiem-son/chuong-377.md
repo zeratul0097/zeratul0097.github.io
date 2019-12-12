@@ -94,3 +94,5 @@ Trên thực tế, Âm Dương tông ở Cửu Châu Vạn Tiên Minh bên trong
 Bất quá sau một khắc thiên đạo lan liền chuyển đề tài, nghiêm túc nói rằng: "Ta xem ta này suốt đời chung quy tu tiên vô vọng, vì lẽ đó ta toàn bộ hi vọng liền đều ký thác ở đời kế tiếp, ta hi vọng hắn tư chất gân cốt có thể chân chính dán vào Tiên đạo, ngày sau ở trên tiên lộ có thể thông thuận thông hành, có thể chỉ bằng vào ta tư chất, e sợ khó có thể thỏa mãn nhu cầu... Vương Lục, ta, ta khẩn cầu ngươi có thể giúp một chút ta"
 
 Vương Lục lúc đó liền văng, có thể đem thỉnh cầu hợp thể một chuyện nói tới cao to như vậy trên, thiên đạo lan ngươi cũng chân tâm là một nhân tài a
+
+### [Next](./chuong-378.html)

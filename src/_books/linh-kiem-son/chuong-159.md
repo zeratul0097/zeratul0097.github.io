@@ -178,3 +178,5 @@ Một đạo suối máu từ trong mũi phóng lên trời, Văn Bảo lắc l�
 Vương Lục cũng sửng sốt rất lâu.
 
 "Này vô dụng xử nam..."
+
+### [Next](./chuong-160.html)

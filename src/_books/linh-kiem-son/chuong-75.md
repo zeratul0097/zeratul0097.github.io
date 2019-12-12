@@ -54,3 +54,5 @@ tag: [Tien hiep, Linh Kiem Son]
 "Bà mẹ nó" Ngọc Lục nhảy lên cao ba thước đây là Linh Kiếm Phái (tụ) tập mão hợp các đệ tử tiếng chuông, hơn nữa liên tiếp vang lên ba lần, thuộc về tương đối khẩn cấp đẳng cấp, bình thường là môn phái người đứng đầu, cũng chính là Phong Ngâm chân nhân phải ra khỏi mặt phát biểu nói chuyện điềm báo trước. Này triệu tập tiếng chuông đối với linh kiếm đệ tử hữu hiệu, Aya mặc dù là môn phái quý khách, nhưng không nghe được, thấy Ngọc Lục biểu hiện khác thường, liền hỏi: "Làm sao vậy?" Ngọc Lục vẫy vẫy vi "Không có gì, có người gõ chưởng môn chuông tang mà thôi." Suy nghĩ một chút, cảm thấy cứ như vậy bị tiếng chuông đã cắt đứt khó được nói chuyện, thực sự có chút không cam lòng, liền khẽ cắn răng.
 
 "Ta đói bụng rồi, đi trước căng tin ăn một chút gì lại đi họp đi." Aya sáng mắt lên "Tốt"
+
+### [Next](./chuong-76.html)

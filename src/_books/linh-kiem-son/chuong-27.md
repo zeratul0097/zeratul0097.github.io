@@ -144,3 +144,5 @@ Hai người thương nghị thỏa đáng, thực tế chỉ dùng thời gian 
 "Này gấu hài tử, liền giao cho ta đến hoạt động giáo đi!"
 
 Mọi người liếc mắt, hả hê lòng người.
+
+### [Next](./chuong-28.html)

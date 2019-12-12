@@ -144,3 +144,5 @@ Nhưng Vương Lục cái nào có tâm sự ngủ?
 Mà ở trước mặt bọn họ, Quỳnh Hoa Tiên Tử, Chu Mộc Mộc, Hạng Lương... Đều khó mà tin nổi mà nhìn hai người này.
 
 Sau đó, liền nghe Vương Lục tràn đầy phấn khởi địa nói rằng: "Tiếp đó, liên quan với hủy diệt chi phong lần thứ nhất thực địa khảo sát, sắp bắt đầu"
+
+### [Next](./chuong-468.html)

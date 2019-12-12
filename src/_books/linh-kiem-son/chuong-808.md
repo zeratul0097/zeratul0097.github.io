@@ -126,3 +126,5 @@ Lời còn chưa dứt, chỉ thấy hạ vũ hai mắt đột nhiên mở, như
 Vương Lục nói, nụ cười trên mặt cũng dần dần thu lại lên.
 
 "Tiếp đó, nên làm sao ra ngoài đây?"
+
+### [Next](./chuong-809.html)

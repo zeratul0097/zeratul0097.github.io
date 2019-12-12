@@ -112,3 +112,5 @@ Tiêu bách nhai rốt cục viết xong cái cuối cùng chữ, lập tứ
 Cùng lúc đó, Linh Kiếm Sơn trên, Vương Vũ vạn phần kinh ngạc nhìn trước mặt Phong Ngâm Chân Nhân.
 
 "Cái gì? Đàn tiên mộ xuất hiện mới tiên mộng cảnh giới? Giới hạn cảnh giới Kim đan trở xuống mỹ nữ tiến vào? Vì lẽ đó các ngươi muốn ta mang theo Dao Nhi, thơ tuyền, hinh dao còn có con kia ngu miêu cùng đi Phong đô? A? Liền tiểu linh nhi đều đi? Nàng không phải... Được rồi, ta không có ý kiến, chỉ muốn các ngươi dự toán phê đến hào phóng, bao nhiêu người cũng không đáng kể A ha ha ha."
+
+### [Next](./chuong-545.html)

@@ -156,3 +156,5 @@ Chỉ cần Phong Ngâm ổn được, đại trận này liền có thể duy t
 Mà ngay ở Phong Ngâm tiềm quyết tâm đến chuẩn bị tiến một bước mở rộng rút lấy phạm vi, vì Vương Vũ đưa lên càng nhiều thiên địa linh khí thời, bỗng nhiên có người đến báo.
 
 Phong Linh cầu kiến.
+
+### [Next](./chuong-797.html)

@@ -128,3 +128,5 @@ Vương Lục sờ sờ mũi, ở trong lòng cân nhắc một phen, đem sự 
 Lưu ly tiên ngẩng đầu suy nghĩ một chút: "Không biết a, bởi vì Linh Kiếm Sơn trên không có vị nào sư bá sư thúc có lão bà mà."
 
 "... Ngươi thực sự là một cách tự nhiên mà vạch trần tàn khốc chân tướng đây."
+
+### [Next](./chuong-608.html)

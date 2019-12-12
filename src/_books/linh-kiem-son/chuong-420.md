@@ -108,3 +108,5 @@ Chém nửa đêm đem hết toàn lực, nhưng không thể kiếm thoát, h�
 Mà ngay ở hắn sắp bị cắn giết thời, bỗng nhiên hốc cây mở ra, một cái cao to bóng người xuất hiện ở cửa động.
 
 A dạ kiên khiêng trường thương, tò mò hỏi: "Các ngươi đây là ở chỗ cái gì?"
+
+### [Next](./chuong-421.html)

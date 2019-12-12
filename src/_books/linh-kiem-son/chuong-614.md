@@ -122,3 +122,5 @@ Nhưng vào đúng lúc này, một cái ngoài ý muốn người chạy t�
 "Vương Lục, ngươi nếu là muốn tìm lưu ly bảy màu thạch, môn hạ ta có 3000 đệ tử ngoại môn có thể mặc ngươi sai phái, nhưng La Tiêu là Kim Đan tổ nhiều hạng mục tuyệt đối chủ lực, đem sức mạnh của hắn lãng phí đang tìm vật trên, thực tại không thích hợp."
 
 Vương Lục nhìn người đến, chậm rãi ngoáy đầu lại đến: "Tứ Tướng Chân Quân?"
+
+### [Next](./chuong-615.html)

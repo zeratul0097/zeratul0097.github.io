@@ -130,3 +130,5 @@ Lúc này hắn mới vừa từ Vĩnh Hằng Thụ khôi phục hình người,
 Tiếng nói của hắn suy yếu nhưng kiên định, nhưng mà chính nói, một trận âm phong thổi tới, chém nửa đêm thân bất do kỷ, run rẩy một hồi, hắt xì hơi một cái.
 
 Phun ra ngoài, nhưng là máu đen.
+
+### [Next](./chuong-456.html)

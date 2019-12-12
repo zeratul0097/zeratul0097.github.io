@@ -116,3 +116,5 @@ Mọi người mỏi mắt mong chờ.
 Bỗng nhiên, vài tên mắt sắc người đang xem cuộc chiến hét lên kinh ngạc: "Nhìn bầu trời trên"
 
 Giữa bầu trời, minh nguyệt khẽ run, phảng phất đá tảng dính nước, khuấy động lên quyển quyển sóng gợn, sau một khắc, minh nguyệt gấp rơi, đáp xuống
+
+### [Next](./chuong-357.html)

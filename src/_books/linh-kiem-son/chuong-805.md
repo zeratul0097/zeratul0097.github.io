@@ -110,3 +110,5 @@ Cho đến giờ phút này, tất cả mọi người mới ý thức tới, th
 Bất quá, coi như có Quỳnh Hoa chiêu kiếm này đem thế cuộc tạm thời ổn định lại, nhưng chỉ cần Vương Lục một ngày không hiện thân, đây chính là trị ngọn không trị gốc.
 
 Mà vào lúc này, Vương Lục đến tột cùng thế nào rồi?
+
+### [Next](./chuong-806.html)

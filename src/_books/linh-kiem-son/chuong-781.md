@@ -126,3 +126,5 @@ Vừa dứt lời, Vương Lục giật mình trong lòng, ngẩng đầu nhìn 
 "Vừa đạt đến đường cảnh giới, thế nhưng, đây chính là huyền mặc a, nàng xưa nay sẽ không làm chuyện như vậy, trừ phi..."
 
 "Sách..." Vương Lục nhíu mày lại, "Nàng rốt cục không chịu được một mình trông phòng nỗi khổ, tìm người bỏ trốn đi tới?"
+
+### [Next](./chuong-782.html)

@@ -160,3 +160,5 @@ Trước sau quá trình không vượt qua sau thời gian uống cạn tuần 
 Sau đó Ma vương phân thân thu hồi đã gần đến bạch sí trạng thái tay phải, nhẹ giọng nói rằng.
 
 "Chúng ta, chỉ cần nghiền nát chúng nó."
+
+### [Next](./chuong-478.html)

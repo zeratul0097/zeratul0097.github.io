@@ -132,3 +132,5 @@ Chỉ riêng lấy Vương Lục sức mạnh, ở trời xanh thần lôi trư�
 Bị nàng tu luyện đến hơn 110 trùng công pháp, cùng Vương Lục chỉ là sáu mươi, bảy mươi trùng công pháp, thực sự có khác biệt một trời một vực.
 
 Hợp thể, chính là sức mạnh.
+
+### [Next](./chuong-568.html)

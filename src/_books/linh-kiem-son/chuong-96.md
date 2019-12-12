@@ -168,3 +168,5 @@ Thánh Nữ đại nhân cũng kinh ngạc vạn phần —— Vô Tương Phon
 Đương nhiên là môn phái điểm đổi đi ra, Vương Lục làm linh kiếm phân bá, cái gì đều nghèo, chỉ có phân bất tận.
 
 "Này năm trăm linh thạch ngươi cầm cẩn thận, trong vòng hai ngày đem vật liệu chuẩn bị đầy đủ, sau đó chúng ta ngay khi Vương gia thôn thiết lập pháp đàn, hắc, dầu gì cũng là trí cục thuế tổng bộ, chúng ta kinh doanh đẹp đẽ một điểm."
+
+### [Next](./chuong-97.html)

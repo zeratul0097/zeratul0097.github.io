@@ -112,3 +112,5 @@ Nói xong, Vương Lục đã đem hết thảy trang bị đạo cụ đều ki
 "Rất tốt, chí ít truớc khí thế trên không thể thua cho đối phương..."
 
 Vương Lục vừa nói, một bên bừng tỉnh nhớ tới cái gì, đem bên cạnh bàn làm việc một phương vải trắng thu vào trong lòng.
+
+### [Next](./chuong-616.html)

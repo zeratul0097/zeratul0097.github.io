@@ -162,3 +162,5 @@ Vương Lục bật cười: "Chúng ta không ngại đến đoán một cái, 
 Huyền mặc thở dài, không đáng trí bình.
 
 (thỉnh cầu quan tâm vi tin công chúng bình đài công chúng hào tìm tòi lúc trước có tòa Linh Kiếm Sơn chính là, cảm tạ mọi người chống đỡ)
+
+### [Next](./chuong-620.html)

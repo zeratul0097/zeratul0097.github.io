@@ -122,3 +122,5 @@ Vương Lục trong lòng cả kinh, bởi vì cái này âm thanh hắn v�
 Chính là vốn nên ở bên ngoài mười dặm linh kiếm phái bản đại thủ tịch
 
 Này tao ngộ đến thực tại có chút nhanh.
+
+### [Next](./chuong-480.html)

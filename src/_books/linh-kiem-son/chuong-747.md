@@ -156,3 +156,5 @@ Nơi cửa thành, một loạt giáp vàng lực sĩ chặn lại rồi đư�
 "Người tới, người phương nào?"
 
 Nữ tu sĩ thấy tình hình này, yên nhiên xảo tiếu: "Đông Ly châu lê vân hạc, được vô tướng chân nhân ủy thác, đến đây giải Quần Tiên Thành khó khăn."
+
+### [Next](./chuong-748.html)

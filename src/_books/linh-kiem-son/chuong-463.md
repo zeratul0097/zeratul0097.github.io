@@ -152,3 +152,5 @@ Nói, hắn nỗ lực lấy ra cứu mạng Linh Đan, lại bị thiếu nữ 
 Nói xong câu nói sau cùng, hai vị Ma tộc thiếu nữ liền triệt để tan thành mây khói, theo gió rồi biến mất.
 
 Mà đến thời khắc cuối cùng, Vương Lục thậm chí cũng không biết hai người bọn họ tên... Nhưng hắn lại biết, chính mình e sợ thật sự sẽ vĩnh viễn ký ở nơi này.
+
+### [Next](./chuong-464.html)

@@ -140,3 +140,5 @@ Vương Vũ bây giờ dĩ nhiên không phải nghèo rớt mồng tơi, dòng 
 Vương Lục liền lần thứ hai trở mặt, nhào ngã quỵ ở mặt đất đi ôm sư phụ đại mão chân: "Cường hào chúng ta làm bằng hữu rất à?"
 
 "Buông tay!"
+
+### [Next](./chuong-77.html)

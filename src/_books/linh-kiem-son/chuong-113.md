@@ -120,3 +120,5 @@ Mà lúc này hai người kia cũng đến gần lại đây, tiếng nói chu
 "Nhạc sư muội, phía trước chính là Quang Minh phủ rồi." 
 
 "Hừm, đa tạ Chu Tần sư huynh vì ta liên hệ nơi này, không phải vậy ta thật không biết phải làm gì cho đúng."
+
+### [Next](./chuong-114.html)

@@ -134,3 +134,5 @@ Vô diện giả lạnh giọng nói rằng: "Nếu là thật xảy ra bất tr
 "Đừng quên là ai bảo ngươi đứng ở chỗ này, chín mươi năm trước, chỉ bằng ngươi, cũng dám hy vọng xa vời ở thí luyện trên đường đi tới cửa thứ năm?" Vô diện giả lạnh nhạt nói, "Vì lẽ đó thành thật ngồi xuống, đem miệng nhắm lại, chăm chú hãy nghe ta nói. Lần này là ngươi muốn cầu cạnh ta, nhớ kỹ điểm này."
 
 Paul trong lòng giận dữ, nhưng mà nhìn thấy tấm kia mặt tái nhợt, một luồng phát ra từ sâu trong linh hồn rung động nhưng như một chậu nước lạnh dội đến cùng trên, khiến cho hắn nhiều hơn nữa cũng không nói ra được.
+
+### [Next](./chuong-331.html)

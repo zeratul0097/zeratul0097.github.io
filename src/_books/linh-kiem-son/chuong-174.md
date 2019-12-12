@@ -82,3 +82,5 @@ Diệp Sơ Trần nói rằng: "(ván) cục toà đại nhân ngài cũng biế
 Nói tới chỗ này, Vương Lục quay đầu, nhìn một chút trên đất lông tạp cẩu, lại nhìn một chút ở bên cửa sổ xem đám mây Lưu Ly Tiên.
 
 "Tiên sư nó, các ngươi đúng là gặp phải thân nhân..."
+
+### [Next](./chuong-175.html)

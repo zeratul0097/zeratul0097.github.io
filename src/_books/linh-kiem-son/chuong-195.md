@@ -130,3 +130,5 @@ A Hạ lấy ra một con màu tím bình nhỏ, giao cho Linh Yên trong tay.
 Linh Yên run rẩy nắm chặt bình sứ, không dám chút nào để A Hạ nhìn thấy vẻ mặt của nàng.
 
 Này là lần đầu tiên, nàng ở A Hạ bên người, phát ra từ thật lòng nụ cười.
+
+### [Next](./chuong-196.html)

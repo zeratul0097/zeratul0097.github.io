@@ -160,3 +160,5 @@ Nàng ngàn dặn dò vạn dặn đem chính mình gọi tới, tổng không
 "Được."
 
 Sau một khắc, huyền mặc đột nhiên bạo phát, một bước liền đến đến Vương Lục trước người, như ánh sáng, việc nghĩa chẳng từ nan địa đánh về phía đen kịt.
+
+### [Next](./chuong-749.html)

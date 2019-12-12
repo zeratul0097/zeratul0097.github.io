@@ -136,3 +136,5 @@ Vương Lục ngẩn người một chút, có chút hơi khó nói: "Cái này 
 Lần này, đến phiên chưởng môn chân nhân rơi vào trầm mặc, sau một hồi lâu, lão nhân một tiếng cảm khái.
 
 "Nàng cả đời này ah, nhìn như tiêu sái kì thực cô quạnh, ngươi... Liền tự lo lấy đi."
+
+### [Next](./chuong-172.html)

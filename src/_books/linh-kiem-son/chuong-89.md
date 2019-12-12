@@ -208,3 +208,5 @@ Chỉ chốc lát sau, tức giận tràn ngập.
 Tiểu Linh nhi chỉ cảm thấy Thiên Lôi đánh tung, mắt tối sầm lại.
 
 Sau đó thì cái gì cũng không biết.
+
+### [Next](./chuong-90.html)

@@ -132,3 +132,5 @@ Chí Phong chân nhân Ngọc phủ nhất thời run lên, Thần Niệm đảo
 Ảo giác sao? Nhưng mà như vậy vừa sửng sốt công phu, Chí Phong thật người biết thời cơ đã qua đời, liền cắn răng: "... Được, ta liền đợi thêm ngươi một phút!"
 
 "Ha ha, Chí Phong chân nhân cần gì phải gấp gáp chớ, chờ thêm một chút cũng không sao, người đến, trở lên trà!"
+
+### [Next](./chuong-65.html)

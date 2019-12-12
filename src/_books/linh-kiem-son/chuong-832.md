@@ -112,3 +112,5 @@ Sau một khắc, Cửu Châu Đại Lục bầu trời bị xé rách.
 Một cái thân ảnh khôi ngô, ở quang cùng ảnh vặn vẹo bên trong, chậm rãi giáng lâm Cửu Châu.
 
 Tiên vương hạ vũ bản thể, rốt cục giáng lâm!!!
+
+### [Next](./chuong-833.html)

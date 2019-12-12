@@ -124,3 +124,5 @@ Vương Vũ nói rằng: "Huyền mặc a, nàng không phải quan hệ với 
 Vương Lục trầm mặc một lát: "Ngược lại cũng có lý."
 
 Hắn chợt nhớ tới Tứ Tướng Chân Quân.
+
+### [Next](./chuong-694.html)

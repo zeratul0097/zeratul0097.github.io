@@ -124,3 +124,5 @@ Vương Lục một bên đem lưu ly bó ở một chỗ đột kích vật tr�
 "Nói cách khác, không bao lâu nữa, chúng ta khả năng liền muốn nghênh đón lần thứ nhất xung kích, vì lẽ đó phiền phức sư phụ ngươi lái nhanh một chút nha."
 
 Mắt thấy Vương Lục đã cho tất cả mọi người bó được rồi dây thừng, chỉ có đem nàng cái này lái xe bỏ xuống mặc kệ, Aya hận không thể đem cần điều khiển rút ra đánh hắn, nhưng mà sau một khắc, vô hình xung kích xông tới mặt, Aya chỉ cảm thấy mắt tối sầm lại, nhất thời mất đi hết thảy ý thức.
+
+### [Next](./chuong-351.html)

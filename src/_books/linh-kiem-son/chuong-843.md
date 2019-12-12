@@ -116,3 +116,5 @@ Mà vào giờ phút này, Linh Kiếm Sơn trên, một vị áo trắng như t
 Một lát sau, nàng ngẩng đầu lên, lộ ra một cái nụ cười xinh đẹp.
 
 "Vù vù, ta đã chuẩn bị kỹ càng, cứ đến đi!"
+
+### [Next](./chuong-844.html)

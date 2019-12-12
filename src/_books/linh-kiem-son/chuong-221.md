@@ -92,3 +92,5 @@ Bà chủ hừ một tiếng: "Nếu là nàng ăn nói suông ta tự nhiên k
 "Đúng đấy, ai biết ngươi dùng thần thông nào, để tiên thú động dục."
 
 ... Nói chung, vì tiêu trừ bà chủ hiểu lầm, Vương Lục sinh hoạt trong lúc nhất thời liền trở nên muôn màu muôn vẻ lên.
+
+### [Next](./chuong-222.html)

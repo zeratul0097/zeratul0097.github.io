@@ -148,3 +148,5 @@ Một cái nhìn qua mười bốn, mười lăm tuổi thiếu nữ, một m
 Người chung quanh đối với tình cảnh này từ lâu không cảm thấy kinh ngạc. Mà Phá Hư Tiên Tôn thì lại một mặt kinh hỉ.
 
 Ha, thực sự là gặp được chẳng tốn chút công phu!
+
+### [Next](./chuong-794.html)

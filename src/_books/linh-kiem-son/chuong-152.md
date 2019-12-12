@@ -142,3 +142,5 @@ Vương Vũ nói rằng: "Sáng tạo tuy tốt, từ trong miệng ngươi nói
 "Vì lẽ đó đổi một bộ điểm hệ thống chứ, nếu ghế thủ tịch này đệ tử đa dụng đến cùng bên ngoài người đánh nhau, vậy thì thiết trí một bộ quân công điểm hệ thống, thông qua cùng ở ngoài phái đệ tử đánh nhau đến thu được điểm, điểm được rồi là có thể hối đoái một quãng thời gian thủ tịch đệ tử đặc quyền, vừa vặn lần này hai phái thi đấu, có thể thiết trí giải thưởng quý giá, tỷ như đem Linh Kiếm Phái chiến tích tốt nhất trao tặng chung thân Thủ Tịch các loại danh hiệu vinh dự. Sau đó, chỉ cần ta nghĩ biện pháp bắt được số một, là có thể thắng được chung thân Thủ Tịch tên gọi rồi."
 
 Vương Vũ trầm ngâm nói: "Như thế thao tác lời nói, đúng là có mấy phần làm đầu... Được, mấy ngày nay ngươi ta gia tăng tu hành, ta sẽ cùng chưởng môn xin việc này, một khi thông qua, ngươi liền toàn lực tranh thủ ở môn phái thi đấu lúc bắt được ưu tú chiến tích"
+
+### [Next](./chuong-153.html)

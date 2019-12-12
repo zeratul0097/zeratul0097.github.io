@@ -84,3 +84,5 @@ Ngày thứ tư, bạch viên cưỡi lộc, hóa thân bạch lộc viên kỵ 
 Ngày thứ năm, không chịu nhục nổi bạch viên nhân màn đêm sắc trộm đi thiếu nữ kính mắt.
 
 Sau ba tháng, Chu Thi Dao từ trên giường bệnh chậm rãi đứng dậy, lúc này nàng đã chữa khỏi hai chân gãy xương, tiếp hợp kết thúc nứt xương cổ tay, vết sẹo trên mặt cũng tiêu, mắt phải trùm mắt cũng lấy xuống, đồng thời, một cái ghi khắc chung thân giáo huấn cổn cũng vĩnh viễn ở lại sâu trong nội tâm của nàng.
+
+### [Next](./chuong-258.html)

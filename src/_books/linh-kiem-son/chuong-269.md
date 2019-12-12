@@ -108,3 +108,5 @@ Kiếm Ma duỗi ra ba ngón tay: "Ba cái manh mối, số một, chìa khoá c
 "Đệ tam, nếu như ở đã biết khu vực thực sự không tìm được manh mối, không ngại đưa mắt thả đến càng xa hơn chút. 16,000 năm, đầy đủ phát sinh bất kỳ biến hóa nào."
 
 Nói xong này ba cái manh mối, Kiếm Ma một bên nhìn rơi vào trầm tư Vương Lục, một bên khe khẽ thở dài: "Nên nói cũng đã nói xong, tiếp đó, liền đến phân lúc: khi khác."
+
+### [Next](./chuong-270.html)

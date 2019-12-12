@@ -156,3 +156,5 @@ Chết như thế trầm mặc.
 Trưởng lão lạnh lùng cười vài tiếng: "Các ngươi, hiểu chưa?"
 
 Trăm miệng một lời địa gào thét: "Rõ ràng bảo đảm hoàn thành số lượng"
+
+### [Next](./chuong-595.html)

@@ -174,3 +174,5 @@ Hải Vân Phàm gật gù: "Vậy thì xin nhờ ngươi , thôn này, ta thự
 "Ha ha, chúng ta là bằng hữu mà!"
 
 "Ha ha, chúng ta cả đời chính là bằng hữu ."
+
+### [Next](./chuong-10.html)

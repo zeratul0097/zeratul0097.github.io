@@ -232,3 +232,5 @@ Vương Lục cười nói: "Mộc Hiểu sư huynh, sắc trời không còn s�
 Bên cạnh Văn Bảo thực sự buồn bực: "Vương Lục sư huynh, tại sao ta cảm giác bầu không khí có chút không đúng? Ngươi và Mộc Hiểu sư huynh có cái gì không?"
 
 Vương Lục lời nói ý vị sâu xa: "Ta cùng hắn là thuần khiết."
+
+### [Next](./chuong-52.html)

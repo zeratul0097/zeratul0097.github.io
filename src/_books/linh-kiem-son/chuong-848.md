@@ -92,3 +92,5 @@ Hay là cái này cũng là tất nhiên đi, đem người sống chuyển hóa
 Nghĩ tới đây, Quỳnh Hoa có chút sầu não, nàng cùng Vương Lục quan hệ luôn luôn không tính là hòa hợp, thế nhưng, thật sự mất đi như vậy một cái đối thủ, cũng thực sự khiến người ta cô quạnh.
 
 "Vương Lục a, nếu như ngươi thật sự muốn dừng lại ở Cửu Châu địa linh bước đi này... Đến tân thế giới sau, ta nhưng là phải vượt qua ngươi nha."
+
+### [Next](./chuong-849.html)

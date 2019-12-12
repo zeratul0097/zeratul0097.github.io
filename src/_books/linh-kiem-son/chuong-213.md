@@ -112,3 +112,5 @@ Như vậy cảnh giới, ở toàn bộ Vạn Tiên Minh bên trong cũng coi n
 Nhưng người đến tự nhiên không phải Linh Kiếm Sơn trưởng lão, một lát sau mây đen tiêu tan, lộ ra một cái uy nghiêm nghiêm túc trưởng giả, người kia một bộ đồ đen, quanh thân lượn lờ lôi đình cùng hỏa diễm, hai con cánh tay tráng kiện giao ôm ở trước ngực, trên cánh tay sinh đầy đen thui vảy, lần hiện ra dữ tợn.
 
 Tiểu Thất hít vào một ngụm khí lạnh: "Ngự Thú Tông chưởng hình trưởng lão?"
+
+### [Next](./chuong-214.html)

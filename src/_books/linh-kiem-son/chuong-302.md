@@ -154,3 +154,5 @@ Bối đức Neville hỏi ngược lại: "Ngươi dưỡng qua động vật s
 "Động vật?"
 
 "Không có dưỡng qua, liền đi quân doanh hậu cần khu vực xem một chút đi." Bối đức Neville nói, hạ thấp ánh mắt, "Hiện tại đã không phải Blai đông Long tộc quân lâm thiên hạ thời đại, ngươi hiểu chưa?"
+
+### [Next](./chuong-303.html)

@@ -140,3 +140,5 @@ Tiếp theo, thân hình lóe lên, liền lướt qua cái kia Cửu Châu tu s
 Nhưng mà lấp loé lúc rơi xuống đất, lại phát hiện không gian đã thay đổi, bốn phía là màu máu bầu trời cùng Đại Địa, dày đặc như rừng tàn kiếm chi trủng.
 
 "Không người nào có thể lướt qua ta kiếm bao vây." Vương Lục nhàn nhạt nói, xoay người lại.
+
+### [Next](./chuong-314.html)

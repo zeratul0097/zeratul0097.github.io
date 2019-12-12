@@ -132,3 +132,5 @@ Vị này Cự Thần binh, ở sớm trước hắn mới vừa giáng lâm th
 Có thể làm cho tiên nhân cũng bị hao tổn, này xác thực là một loại kỳ độc.
 
 Một loại tên là thánh quang kỳ độc.
+
+### [Next](./chuong-769.html)

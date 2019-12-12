@@ -152,3 +152,5 @@ Sự tình vì sao lại biến thành như vậy đây?
 Cùng lúc đó, một cái nào đó thân mặc áo đen, lén lén lút lút hướng về tông giáo khu phương hướng tiềm hành, chuẩn bị cứu người người trẻ tuổi, trợn mắt ngoác mồm địa nhìn phía xa Tài Phán Sở phế tích.
 
 "Chuyện này... Đây là lưu ly cái kia kẻ tham ăn đói bụng điên rồi sao, liền tường gạch cũng làm cái mảnh ăn?"
+
+### [Next](./chuong-309.html)

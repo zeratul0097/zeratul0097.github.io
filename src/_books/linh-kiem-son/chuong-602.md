@@ -128,3 +128,5 @@ Không biết qua bao lâu, Vương Lục đã đem văn kiện trên bàn đề
 Bị Vương Lục lấy loại này lão khí hoành thu (như ông cụ non) khẩu khí khuyên bảo, Phong Ngâm không uấn không não, chỉ là nhẹ giọng cười cợt.
 
 "Nói cũng là, tuổi rất cao, ngược lại như là tiểu hài tử như thế làm chút không thiết thực mộng tưởng rồi. Được rồi, nếu liền ngươi cái này thủ tịch đệ tử đều nói như vậy, ta liền tiếp tục ở người chưởng môn này vị trí nhiều phấn đấu mấy năm đi. Chỉ hy vọng đến hết thảy đều lúc kết thúc, người kia... Hắn sẽ không trách cứ ta."
+
+### [Next](./chuong-603.html)

@@ -104,3 +104,5 @@ Trên thực tế, phát quản ủy tập hợp đội ngũ liền không có �
 "Tri thức chi đều xác thực là cái lựa chọn không tồi, thế nhưng quá nhiều tri thức chỉ có thể tăng cường nhận biết loại bỏ độ khó, muốn ở nơi đó tìm tới cần tin tức, e sợ muốn tìm thời gian rất lâu... Đương nhiên, nếu như chúng ta trạm thứ nhất cũng không có được kết quả mong muốn, đón lấy cũng là muốn đi tri thức chi đều."
 
 "Yên tâm đi, ta có linh cảm, sự tình sẽ không phiền phức như vậy, trạm thứ nhất nhất định liền có chúng ta muốn đồ vật, không, thậm chí so với dự đoán đến còn nhiều hơn."
+
+### [Next](./chuong-281.html)

@@ -158,3 +158,5 @@ Aya nói, ánh mắt khá là bất thiện hướng về ngoài cửa tửu lâ
 Lưu ly tiên lập tức cảnh giác: "Ta biết rồi"
 
 (đầu tiên thỉnh cầu dưới vi tin quan tâm, tăng cường bằng hữu, công chúng hào bên trong tìm tòi quốc vương bệ hạ liền có. Sau đó sẽ tiến cử lên Đằng Tấn hoạt hình lúc trước có tòa Linh Kiếm Sơn tranh châm biếm, hai vị manh em gái họa sĩ họa đến tương đương tán nha, yêu thích tranh châm biếm các bằng hữu cần phải trước đi xem xem. Đằng Tấn hoạt hình tìm tòi lúc trước có tòa Linh Kiếm Sơn là có thể)
+
+### [Next](./chuong-659.html)

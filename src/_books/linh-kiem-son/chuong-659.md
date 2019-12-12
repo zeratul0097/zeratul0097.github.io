@@ -136,3 +136,5 @@ Chân quân cùng Địa tiên trong lúc đó sai biệt, tựa hồ vừa xem 
 Nhiên mà ngay tại lúc này, cái này kịch liệt giao chiến bên trong thế giới, vang lên lạch cạch một tiếng, bàn chân rơi xuống đất tiếng.
 
 Trên người mặc hồng trường bào màu trắng người trẻ tuổi, vừa lúc đó, long trọng lên sàn.
+
+### [Next](./chuong-660.html)

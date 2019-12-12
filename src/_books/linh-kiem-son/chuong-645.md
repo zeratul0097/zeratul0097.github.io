@@ -86,3 +86,5 @@ Bất quá, đối đầu kẻ địch mạnh thời, còn muốn bên trong tr
 Mang theo như vậy nghi hoặc, mặc hương từ bên trong cung điện đi ra ngoài, chỉ là mới vừa tới cửa, đã thấy đến ngoài cửa đã đứng một người.
 
 Một cái tóc vàng mắt xanh, sáng rực rỡ không trù thiếu nữ.
+
+### [Next](./chuong-646.html)

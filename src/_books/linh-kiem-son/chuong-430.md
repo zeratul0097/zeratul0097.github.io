@@ -128,3 +128,5 @@ Nhưng vào đúng lúc này, phía sau vang lên một cái thanh âm quen thu
 Xoay người, Vương Lục nụ cười xán lạn.
 
 Mà ở hắn cái kia trong suốt trong ánh mắt, một viên tròn trịa Kim Đan chính xoay vòng vòng mà xoay tròn
+
+### [Next](./chuong-431.html)

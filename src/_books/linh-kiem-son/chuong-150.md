@@ -138,3 +138,5 @@ Lục Ly cười nói: "Há, này cũng không giống như nàng ah."
 Nói xong, Lưu Hiển quay đầu lại liếc mắt nhìn đang cùng Nhạc Vân, Nhạc Hinh Dao các đệ tử tán gẫu Vương Lục.
 
 Trong ánh mắt có khen ngợi cũng có bất đắc dĩ, nhưng chung quy vẫn là khen ngợi tình càng nhiều mấy phần.
+
+### [Next](./chuong-151.html)

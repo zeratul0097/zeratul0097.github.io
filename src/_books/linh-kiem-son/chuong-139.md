@@ -176,3 +176,5 @@ Lang cùng cẩu, này theo Vương Vũ có thể khác nhau ở chỗ nào? Nh�
 "Đó là Tây di đại lục trong truyền thuyết khủng bố ma lang, Fenrir."
 
 "... Cmn."
+
+### [Next](./chuong-140.html)

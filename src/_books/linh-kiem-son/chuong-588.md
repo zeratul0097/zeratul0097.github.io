@@ -138,3 +138,5 @@ Nói còn chưa dứt lời, Vương Lục liền cũng lại nói không đư�
 Phương xa, lưu ly tiên các loại (chờ) người thiến ảnh, đã rõ ràng có thể biện.
 
 "Tiên sư nó, này chốn Tu La lúc nào mới là cái đầu..."
+
+### [Next](./chuong-589.html)

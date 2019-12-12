@@ -106,3 +106,5 @@ Vương Lục nghe vậy, quả thực bị sưởi mù hai mắt: "Thiên nam �
 Quỳnh Hoa cười nhạt: "Ta thành Kim Đan thời, Huyền Thiên Quán biếu tặng cùng ta, kết một thiện duyên."
 
 Vương Lục cắn răng, mặt giãn ra cười nói: "Huyền Thiên Quán? Chúng ta xem như là kết thù..."
+
+### [Next](./chuong-454.html)

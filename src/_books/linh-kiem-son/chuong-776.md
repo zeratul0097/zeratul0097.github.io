@@ -132,3 +132,5 @@ Trong bóng tối đối thoại tạm dừng một trận, Vương Lục mở m
 "Đây là dùng kinh tế thủ đoạn điều tiết thị trường hành vi, yên tâm đi, cuộc sống của ngươi sẽ dễ chịu rất nhiều."
 
 "Ta..."
+
+### [Next](./chuong-777.html)

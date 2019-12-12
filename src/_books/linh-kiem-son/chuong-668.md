@@ -122,3 +122,5 @@ Trong vòng ba ngày ngũ tràng thắng liên tiếp, khiến cho Vạn Tiên M
 Nhưng vào đúng lúc này, Vương Lục tận dụng mọi thời cơ, rốt cục bỏ xuống quan trọng nhất một viên thẻ đánh bạc, đem một phong chiến thư đưa đến trên tay đối phương.
 
 "Hai ngày sau, tiên một khu, kim đan cấp một mình đấu chiến, ta đem suất đội xin đợi quý mới đại giá."
+
+### [Next](./chuong-669.html)

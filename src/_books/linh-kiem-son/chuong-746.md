@@ -146,3 +146,5 @@ Vương Lục ánh mắt ngưng lại.
 "Huyền mặc, Bạch Trạch?"
 
 (Linh Kiếm Sơn động họa nữ đã ra, hiện nay chính đang Đằng Tấn hoạt hình nữ giải thi đấu trên chờ đợi độc giả các bằng hữu đầy nhiệt tình bỏ phiếu bên trong muốn nhìn trường thiên động họa liền cố lên đầu ba cám ơn đã ủng hộ)
+
+### [Next](./chuong-747.html)

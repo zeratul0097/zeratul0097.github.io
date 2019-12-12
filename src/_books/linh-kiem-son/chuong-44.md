@@ -130,3 +130,5 @@ Sau đó Vương Lục chậm rãi mở miệng: "Chiến sĩ muốn tích lũy 
 Đang khi nói chuyện, Vương Lục ngay mặt chính là một quyền!
 
 Đánh người trước tiên đánh mặt, tức giận không cực hạn!
+
+### [Next](./chuong-45.html)

@@ -106,3 +106,5 @@ Nhìn bốn phía một phen, quả nhiên ở nào đó dưới gốc cây gặ
 Người kia một thân vải thô áo dài, quần áo đơn giản nhưng khó nén tiếu lệ dáng người khuôn mặt, một khuôn mặt tươi cười đáng yêu hoạt bát, hơi mang theo mấy phần dã tính bất kham. Vương Lục thấy, nhất thời vui vẻ ra mặt, một vệt ngụm nước, bước nhanh bước đi!
 
 Thịt kho tàu, không đúng, bà chủ, ta đến rồi!
+
+### [Next](./chuong-32.html)

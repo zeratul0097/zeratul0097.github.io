@@ -140,3 +140,5 @@ Mà binh khí như vậy có một phong cách riêng, đương nhiên sẽ khô
 Cầm kiếm Vương Vũ, không còn lúc trước lười nhác, trong tay binh khí tuy không có kiếm hình, trong hai mắt Kim Đan xoay tròn, nhưng là kiếm ý lẫm liệt
 
 MM cuối tuần ngày thứ nhất liền như thế quá khứ thật không vui a, thỉnh cầu quan tâm một hồi vi tin công chúng bình đài tìm tòi quốc vương bệ hạ liền có, cảm ơn mọi người)
+
+### [Next](./chuong-639.html)

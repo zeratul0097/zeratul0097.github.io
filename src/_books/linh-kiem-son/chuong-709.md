@@ -106,3 +106,5 @@ Rốt cục, ở dài lâu suy nghĩ sau khi, Hà Đồ đạo nhân đưa ra ch
 Vương Lục cả kinh: "Vì sao?"
 
 "Bởi vì... Ta là luyện đồng tử công."
+
+### [Next](./chuong-710.html)

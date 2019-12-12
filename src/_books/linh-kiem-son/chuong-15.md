@@ -162,3 +162,5 @@ Nếu là Vương Trung lúc này vẫn còn, nhất định sẽ doạ tiểu t
 Trên tường dán vào đầy đủ hàng trăm tấm tốt nhất tờ giấy, mỗi một trương đều ghi lại thôn bên trong một nhân vật hướng dẫn pháp, văn hay tranh đẹp, nội dung chi tỉ mỉ xác thực, so với trong thôn tổ hỗ trợ dệt lẫn nhau bù xong phiên bản càng phải cẩn thận mấy lần!
 
 Một tháng không ra khỏi cửa không giả, nhưng một tháng này cũng không hề sống uổng, làm lấy siêu phẩm thành tích đi ra Vân Ba đồ người thí luyện, Vương Lục lấy được chỗ tốt hơn xa tiểu thư đồng nhìn đến cái kia một điểm, hắn cùng với trưởng thôn quan hệ, hơn xa khách trọ cùng chủ nhà trọ đơn giản như vậy.
+
+### [Next](./chuong-16.html)

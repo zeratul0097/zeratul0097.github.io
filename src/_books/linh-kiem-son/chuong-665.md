@@ -128,3 +128,5 @@ Tự mình rót là có hứng thú vây xem một phen, nhưng nghĩ tới sau 
 Ba người sau khi đi ra, liền nghe được bên trong truyền đến một trận một người làm quan cả họ được nhờ tiếng hoan hô.
 
 Một vị phong thái tuấn dật tiếu thư sinh, đại khái là chơi xong đi...
+
+### [Next](./chuong-666.html)

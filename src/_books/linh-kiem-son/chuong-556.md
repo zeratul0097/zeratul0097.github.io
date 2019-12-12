@@ -98,3 +98,5 @@ Trên thực tế, đây mới là Kiếm Tâm Thông Minh chân chính địa p
 Có phán đoán như vậy lực, lưu ly tiên coi như chỉ là hư đan đỉnh phong cảnh giới, ở cái này hậu cung sân đấu võ trên cũng đủ để thuận buồm xuôi gió.
 
 Bất quá khảo nghiệm chân chính còn ở phía sau. Chưa từng nguyệt phản ứng đến xem, cuộc nháo kịch này tựa như hậu cung đại hội luận võ e sợ rất khó chết tử tế... Là thời điểm cân nhắc muốn khi nào bứt ra trở ra.
+
+### [Next](./chuong-557.html)

@@ -94,3 +94,5 @@ Lưu ly tiên nói rằng: "Sư phụ nói, thanh kiếm này một khi tế luy
 Không, sư phụ ngươi kỳ thực ý tứ rất đơn giản.
 
 Thanh kiếm này, trừ ngươi bên ngoài, những người khác tóm sẽ hàng thông minh...
+
+### [Next](./chuong-275.html)

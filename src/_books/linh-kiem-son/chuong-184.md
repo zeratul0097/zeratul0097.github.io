@@ -108,3 +108,5 @@ Hiếm thấy Vương Lục chủ động chuyển đề tài câu chuyện, ti�
 Vương Lục nói rằng: "Giáo là đã dạy, chỉ là thực sự không có cách nào đem ngươi này bị vùi dập giữa chợ dáng dấp cùng Nguyên Anh đỉnh phong cao thủ liên hệ cùng nhau ah."
 
 "..."
+
+### [Next](./chuong-185.html)

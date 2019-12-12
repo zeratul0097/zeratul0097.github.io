@@ -162,3 +162,5 @@ Trong phút chốc, Vương Vũ cả người chấn động, phảng phất có
 Nhưng vào đúng lúc này, trên bầu trời xuất hiện một luồng mênh mông khổng lồ khí tức, trong phút chốc liền đoạt đi hai người sự chú ý.
 
 Trời xanh giáng lâm.
+
+### [Next](./chuong-567.html)

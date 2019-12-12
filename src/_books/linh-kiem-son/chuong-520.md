@@ -108,3 +108,5 @@ Trước tới đón tiếp dương bay sớm đoán được đại sư huynh s
 "Sư phụ đã hồi âm, sau ba ngày viện quân liền đến"
 
 Trong nụ cười, ẩn chứa nắm chắc phần thắng tự tin.
+
+### [Next](./chuong-521.html)

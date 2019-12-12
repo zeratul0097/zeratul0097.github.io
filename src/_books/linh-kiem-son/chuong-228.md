@@ -96,3 +96,5 @@ Nếu là những đệ tử khác ngược lại cũng thôi, nhưng nếu là 
 Thái Cổ kiếm trủng xác thực là khắp nơi nguy cơ, nhưng so với Thiên Kiếm Đường các trưởng lão trưởng thành lịch trình, điểm ấy đau khổ lại tính là gì? Huống chi mộ kiếm bên trong còn có khắp nơi kỳ ngộ, lại huống hồ...
 
 Linh kiếm phái có Vương Lục bực này đại sát khí a.
+
+### [Next](./chuong-229.html)

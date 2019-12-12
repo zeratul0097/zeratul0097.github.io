@@ -138,3 +138,5 @@ Cho tới Aya? Nếu như là Kỵ Sĩ vương thời kì Aya, hay là còn có 
 Vì lẽ đó, Vương Lục chờ thời cơ thành thục sau, liền lập tức kéo hắn đồng thời khiêu xe, do đó để Aya cùng tiểu bạch các loại (chờ) người có thể bỏ qua bao quần áo toàn lực đột tiến.
 
 Sau đó, trò chơi từ hiện tại mới chính thức bắt đầu.
+
+### [Next](./chuong-346.html)

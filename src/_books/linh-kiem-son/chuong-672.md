@@ -146,3 +146,5 @@ Lưu ly tiên đối với này cũng không nhụt chí, chỉ là cầm trong 
 Cùng lúc đó, tiểu độc tiên duỗi ra ở khô tay, chỉ về lưu ly tiên.
 
 "Ta muốn đem ngươi làm thành túi chứa chất độc."
+
+### [Next](./chuong-673.html)

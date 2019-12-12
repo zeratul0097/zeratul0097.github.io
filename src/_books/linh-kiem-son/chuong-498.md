@@ -118,3 +118,5 @@ Nói như thế, kỳ thực Vương Vũ sớm đã có một cái làm giàu l
 Như thế suy nghĩ lung tung, Vương Lục thuận lợi kéo Vương Vũ, tuỳ tùng những người khác cùng nhau tiến vào Ma tộc ở sa mạc ốc đảo bên trong dựng lên thành thị, bắt đầu rồi mới một khâu thăm dò.
 
 Vô hình ác ma... Liền để ta mở mang ngươi chân thân ba
+
+### [Next](./chuong-499.html)

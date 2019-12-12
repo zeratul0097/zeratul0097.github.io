@@ -120,3 +120,5 @@ Vương Lục nói tới chỗ này, bỗng nhiên cảm thấy dưới chân Qu
 "Xưng huynh gọi đệ?" Vương Lục cười lắc lắc đầu, sau đó một quyền đánh vào Quỳnh Hoa trên mặt, làm cho nàng triệt để ngậm miệng.
 
 "Chỉ bằng bọn họ, cũng xứng?"
+
+### [Next](./chuong-433.html)

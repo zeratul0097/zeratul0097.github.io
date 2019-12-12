@@ -172,3 +172,5 @@ Mập mạp chết bầm này, trước đây vẫn cung cung kính kính, Chu T
 Nghĩ đến đây, Chu Tần nụ cười liền dần dần chuyển sang lạnh lẽo.
 
 Văn Bảo cũng là cười gằn: Ngu ngốc, chưa từng thấy Giác Tỉnh hình Văn Bảo ba
+
+### [Next](./chuong-115.html)

@@ -142,3 +142,5 @@ Vì lẽ đó đế lưu tôn cũng vạn vạn liêu không nghĩ tới Vươn
 Đột nhiên xuất hiện chém ra thăng hoa nguyên anh chi kiếm, ở kim đan cấp chiến đấu bên trong quả thực là nhân vật nghịch thiên. Đế lưu tôn ở trước người bố trí nhiều đạo phòng tuyến, là lấy kim đan cấp Vương Lục làm tiêu chuẩn mà thiết kế, có thể bảo đảm Vương Lục mạnh hơn gấp đôi cũng không có thể đột phá. Nhưng đế lưu tôn làm sao cũng không nghĩ ra Vương Lục có thể lâm trận đột phá, ở nguyên anh chi thân kiếm trước, những này phòng tuyến nhưng không đỡ nổi một đòn, trong khoảnh khắc liền bị xuyên thủng...
 
 "Lấy man lực cùng ngươi đối kháng, xác thực không có phần thắng, vì lẽ đó ta không thể làm gì khác hơn là động động não." Vương Lục cười nói, "Hiện tại, có nguyện ý hay không thừa nhận chính mình cũng không phải như vậy không gì không làm được?"
+
+### [Next](./chuong-725.html)

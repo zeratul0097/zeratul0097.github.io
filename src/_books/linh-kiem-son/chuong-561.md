@@ -124,3 +124,5 @@ Nghĩ tới đây, Vương Lục không khỏi không cảm khái Vương Vũ l�
 "... Nhiều người như vậy, ngươi là định dùng nhân cách của chính mình mị lực đến tiến hành cảm hoá sao?"
 
 Vương Vũ đối với này xem thường: "Mịt mờ nhân cách mị lực làm sao cùng được với Linh Tê một chỉ?"
+
+### [Next](./chuong-562.html)

@@ -120,3 +120,5 @@ Vương Lục thấy thế lặng lẽ đứng dậy, ngửa đầu nhìn trời
 "Ngươi?" Aya giật nảy cả mình, tương tự là đứng dậy, tròng mắt màu xanh lục bên trong chiếu rọi ra ánh mắt khó mà tin nổi.
 
 Vương Lục thản nhiên đối mặt, cười nói: "Vì lẽ đó, hiện tại có thể hay không theo ta đồng thời hạ sơn phục quốc?"
+
+### [Next](./chuong-280.html)

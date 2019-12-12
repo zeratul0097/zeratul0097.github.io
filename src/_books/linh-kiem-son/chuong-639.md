@@ -164,3 +164,5 @@ Chính là tên kia mỉm cười đứa bé.
 "Thật là lợi hại trực giác đây, ngươi từ vừa mới bắt đầu liền nhìn ra ta là giả sao?"
 
 Tiếp tục thỉnh cầu quan tâm vi tin công chúng bình đài: Tìm tòi quốc vương bệ hạ liền có thể cảm ơn mọi người)
+
+### [Next](./chuong-640.html)

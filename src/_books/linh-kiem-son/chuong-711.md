@@ -114,3 +114,5 @@ Mắt thấy trong điếm bầu không khí cấp tốc lúng túng, Vương L�
 Nói xong, nàng làm trước một bước đứng dậy rời đi, hướng về Linh Kiếm Sơn trên bước đi. Vương Lục hướng về bà chủ tố cáo lời xin lỗi, bất đắc dĩ đuổi tới.
 
 Chỉ là đi được chung quy có chút vội vàng, lại không chú ý tới phía sau thiếu nữ trên mặt hiện lên một tia nan giải mù mịt.
+
+### [Next](./chuong-712.html)

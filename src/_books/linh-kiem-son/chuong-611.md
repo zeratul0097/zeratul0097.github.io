@@ -122,3 +122,5 @@ Trời xanh, Đại Địa, khắp nơi đều là bọn họ chiến trường,
 Nơi bụng, một đoàn sức mạnh no đủ hỏa diễm cháy hừng hực nhiệt lượng rất nhanh sẽ tỏ khắp đến thân thể các nơi, đem ở khô thoải mái lên, héo rút triển khai lên, sức mạnh vô cùng vô tận từ bên trong thai nghén mà sinh.
 
 "Ha ha ha ha bọn nha đầu, cảm tạ các ngươi biểu diễn, tiếp đó, liền xem ta ba"
+
+### [Next](./chuong-612.html)

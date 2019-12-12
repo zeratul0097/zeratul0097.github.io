@@ -172,3 +172,5 @@ Sau đó, Vương Lục âm thanh cũng chen vào —— ở phong ấn Kiếm 
 Cười lớn, Kiếm thần cái kia bị vững vàng khóa kín nguyên thần bỗng nhiên trán ra vết rạn nứt, Vương Lục lập tức đem tấm thứ hai, tấm thứ ba phong thần ấn đánh ra ngoài, cấu trúc ra không gì phá nổi hàng rào, để phòng ngừa hắn ngọc đá cùng vỡ.
 
 Nhưng Kiếm thần nguyên thần vỡ tan sau khi, cũng không có theo dự đoán mãnh liệt bạo phát, ngược lại mảnh vỡ ở giữa nơi, xuất hiện một cái hố đen, sau đó, không thể chống cự sức hút, đem bốn phía hết thảy đều hút vào.
+
+### [Next](./chuong-263.html)

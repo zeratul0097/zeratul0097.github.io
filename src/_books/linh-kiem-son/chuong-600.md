@@ -118,3 +118,5 @@ Vương Lục vừa vỗ bàn tay một cái, nói với Hải Vân Phàm: "Ti�
 "... Mỹ thực khai phá?"
 
 "Hừm, liền nói xin nàng tận lực hiện ra cố thổ phong tình, cũng kết hợp Cửu Châu đặc sắc tiến hành đổi mới. Sau đó đem hết thảy thành phẩm đóng gói bưu ký cho độc dược tổ, sẽ có kinh hỉ."
+
+### [Next](./chuong-601.html)

@@ -100,3 +100,5 @@ Hiện tại đến phiên Vương Lục đến hướng dẫn khâu này, lại
 "Ừ, xem ra rất giống ni"
 
 Đang khi nói chuyện, Vương Lục trên bả vai bị người vỗ một cái, một vị béo mập em gái cười duyên nói: "Xin chào, ngươi chính là Linh Kiếm Sơn vô tướng phong đệ tử Vương Lục chứ?"
+
+### [Next](./chuong-375.html)

@@ -110,3 +110,5 @@ Vân dương vương cả người run lên, không dám nói ngữ.
 "Cái gì?"
 
 "Chính là kén phò mã a, tìm những kia khí đại hoạt được, thể trạng bao bọc, trí tuệ hơn người ưu tú nhân tài cùng công chúa giao hợp, sinh hạ ưu tú đời sau, coi như công chúa chết rồi, nhưng ngươi vương thất huyết thống không ngừng, không phải rất tốt sao?
+
+### [Next](./chuong-383.html)

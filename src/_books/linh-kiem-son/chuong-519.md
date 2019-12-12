@@ -142,3 +142,5 @@ Sau đó, hắn hoành lên kiếm trong tay, lưỡi kiếm nhưng nhiễm Vư�
 Hiển nhiên, vấn đề này Lưu Hiển cũng đã nghĩ rõ ràng, hắn hiện tại đã trở thành trong đội ngũ phiền toái cùng bao quần áo, vì lẽ đó hắn cũng lấy ra thân là hoàng kim một đời nên có quyết đoán, chuẩn bị sát nhân thành nhân.
 
 Nhưng sau một khắc, Vương Lục ra tay rồi, hỗn độn Phá Thiên Kiếm Khí từ đầu ngón tay đột thứ mà ra.
+
+### [Next](./chuong-520.html)

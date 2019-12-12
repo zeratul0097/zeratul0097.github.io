@@ -90,3 +90,5 @@ Hải Vân Phàm viết đến: "Thăm dò mộ kiếm bằng bản lãnh củ
 "Loại này đẳng cấp thái cổ di tích, tu Tiên giới bao nhiêu năm cũng hiếm thấy nhìn thấy một cái. Hiện nay vạn pháp cùng Côn Luân đều nghiêm ngặt bảo mật, cho tới linh kiếm phái... Chu Thi Dao nếu có thể tìm được tầng thứ ba, sự tình không gạt được các ngươi, huống hồ lấy Thái Cổ kiếm trủng thần diệu, chúng ta bất kỳ một nhà đều đơn độc ăn không vô nó, chỉ có thể là liên thủ, vì lẽ đó ta sớm viết qua tin đến, mời ngươi một đạo gia nhập đối với mộ kiếm càng sâu tầng thăm dò, ta biết quý phái các trưởng lão rất nhanh cũng sẽ làm ra quyết đoán, nhưng vô luận là có hay không tham dự, cái kia đều là các ngươi linh kiếm phái tổ chức hành vi, ở không vi phạm đại nguyên thì lại điều kiện tiên quyết, ta lấy cá nhân thân phận mời ngươi. Vương huynh, chúng ta đến liên thủ đi."
 
 Vương Lục trầm ngâm chốc lát, viết đến: "Tiểu hải, ngươi là người tốt."
+
+### [Next](./chuong-227.html)

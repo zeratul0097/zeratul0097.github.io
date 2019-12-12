@@ -120,3 +120,5 @@ Tỷ như...
 "Tiểu Phương, Tiểu Phương ngươi nghe ta giải thích, ta là thật tâm yêu ngươi! Ta không một chút nào ghét bỏ ngươi cái kia to con eo người cùng khêu gợi gốc râu cằm, ngươi phải tin tưởng ta, ta đối Tiểu Lan căn bản không có ý tứ, cái gì tay như cây cỏ mềm mại da như mỡ đông ta không một chút nào quan tâm ah Tiểu Phương ngươi tha thứ ta à!"
 
 "Ngươi cái đàn ông phụ lòng cút ngay cho tao!"
+
+### [Next](./chuong-15.html)

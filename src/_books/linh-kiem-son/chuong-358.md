@@ -132,3 +132,5 @@ Cùng lúc đó, Herrington trên mặt còn chưa kịp đổi nụ cười, li
 Một cái trường kiếm sắc bén, chống đỡ ở trên cổ của hắn.
 
 Trước mặt, Phong Ngâm nghiêng mặt đi, nhẹ giọng nói rằng: "Này một chiêu là Tinh Thần Kiếm điển bên trong... Giương đông kích tây
+
+### [Next](./chuong-359.html)

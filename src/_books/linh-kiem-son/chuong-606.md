@@ -142,3 +142,5 @@ Vương Lục bị lời này cả kinh Ngọc Phủ chân khí đều suýt n�
 "Ta là tôn sùng tự do luyến ái cái kia một phái."
 
 Nói xong, son lệ về phía trước nhắm thẳng vào, một luồng cương nhu cùng tồn tại kiếm lực không cho chống cự mà đem chu minh đẩy kết cục đi.
+
+### [Next](./chuong-607.html)

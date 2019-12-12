@@ -130,3 +130,5 @@ Mà ngay tại lúc này, một người khác mở miệng.
 "Sư huynh, ta cùng ngươi đồng thời."
 
 Vương Lục khó có thể tin mà nhìn từ phòng bệnh ở ngoài đi dạo mà vào Vương Vũ.
+
+### [Next](./chuong-517.html)

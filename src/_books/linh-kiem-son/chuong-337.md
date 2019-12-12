@@ -100,3 +100,5 @@ Vô diện giả nói rằng: "Bước vào Vân Hải bước thứ nhất liê
 "Ngươi nói cái gì?"
 
 "Ta là nói, không nữa tăng nhanh hành động, chúng ta liền không có cơ hội... Mảnh này pháp tắc biến hoá thất thường hỗn độn Vân Hải, quả thực như là vì hắn chế tạo riêng như thế." Vô diện giả tuy rằng ở trình bày một cái cấp thiết sự thực, ngữ khí nhưng không có chút rung động nào, mà nói đến một nửa, hắn bỗng nhiên quay đầu đi: "Há, nói đến, ta ở cô bé gái kia trên người chôn cái đinh, gần như cũng nên bị phát hiện chứ?"
+
+### [Next](./chuong-338.html)

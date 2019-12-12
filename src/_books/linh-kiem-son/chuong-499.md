@@ -96,3 +96,5 @@ Vương Lục cười gằn: "Vậy nếu không ngươi đi?"
 Vương Lục đương nhiên biết động tác này nguy hiểm, nhưng ngoài ra còn có thể làm sao?
 
 Nếu có thể khoanh tay đứng nhìn không đam nguy hiểm, hắn cùng Âu Dương Thương căn bản là sẽ không lưu lại. Vấn đề là cân nhắc hơn thiệt bên dưới, trực diện vô hình ác ma kỳ thực trái lại là tối lý trí lựa chọn, như vậy ở đây cơ sở trên. Chú ấn tồn tại trái lại là một cái bức bách bọn họ nhất định phải hành hiểm lợi thật nhân tố —— có như thế điều kiện tốt không trả nổi, còn chờ cái gì?
+
+### [Next](./chuong-500.html)

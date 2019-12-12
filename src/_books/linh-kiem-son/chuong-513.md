@@ -112,3 +112,5 @@ Hay là đổi thành Âu Dương Thương ở đây, sẽ có đầy đủ dũn
 Trương thắng cùng vương trần dã thực lực không yếu, nhưng lúc này đối thủ là bọn họ nhiệt tình yêu người, lấy bọn họ thiếu niên tâm tính khó tránh khỏi sẽ được ảnh hưởng, đặc biệt là trương thắng vị này tình kiếm kiếm tu, rất khó nói hắn đến tột cùng sẽ làm xảy ra chuyện gì đến, vì lẽ đó... Không bằng đem hắn đẩy ra, nhắm mắt làm ngơ, đối với tất cả mọi người đều tốt.
 
 Trương thắng yên lặng gật đầu biểu thị chính mình tiếp thu mệnh lệnh này, nhưng ánh mắt của hắn nhưng từ đầu đến cuối không có từ âu yếm nhân thân trên rời đi. Vương trần dã người yêu A Thanh đã biến thân, mà nàng bên cạnh Ma tộc thiếu nữ đồng dạng bị đen kịt bao trùm đồng tử, khoảng cách biến thân chỉ có cách xa một bước.
+
+### [Next](./chuong-514.html)

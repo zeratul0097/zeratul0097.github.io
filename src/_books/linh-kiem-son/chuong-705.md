@@ -104,3 +104,5 @@ Vương Lục thoáng thả xuống cảnh giác, bất quá rất nhanh hắn l
 Vương Lục trong lòng hơi chìm xuống: "Xin hỏi tôn giá là?"
 
 "Ta là đế lưu tôn."
+
+### [Next](./chuong-706.html)

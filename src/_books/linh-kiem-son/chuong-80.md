@@ -88,3 +88,5 @@ Thiếu niên kia trong trẻo ánh mắt, chính trực thẳng nhìn nhau chí
 Chu tiên sinh trong lòng kinh hãi gần chết, này Thấu Cốt đinh tên là ám khí, thế nhưng coi như ngay mặt kích phát, không có Luyện Khí thượng phẩm tu vi cũng tuyệt khó chống đối, càng đừng nói lấy thân thể đi đón! Thiếu niên này đến tột cùng là thần thánh phương nào!? Nhưng kế tiếp, càng thêm làm người kinh sợ biểu diễn bắt đầu rồi. Vương Lục đem cái viên này Thấu Cốt đinh vê lên, sau đó... Liền trực tiếp như vậy bỏ vào trong miệng, bắt đầu nhai nuốt cái kia cát nhảy nhảy âm thanh, phảng phất gõ vào Chu tiên sinh trong trái tim, khiến cho hắn khó có thể hô hấp, mà khi Vương Lục đem sở hữu tro cặn rầm một thoáng nuốt vào trong bụng thời gian, vị này trẻ tuổi tu sĩ ở trong mắt hắn đã biến thành Tà Ma.
 
 "Buồn cười, uy lực này vẫn còn không kịp Aya ngắm nhìn bầu trời ah."
+
+### [Next](./chuong-81.html)

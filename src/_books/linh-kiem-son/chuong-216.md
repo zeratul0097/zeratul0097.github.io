@@ -132,3 +132,5 @@ Cửu Châu đệ nhất Kim Đan, tuyệt đối không phải vọng ngôn
 Đối mặt này kinh hãi gần chết tình cảnh, thiệu bác tâm thần cụ tang, lý hàn đúng là trấn định, hơi quyền hành sau liền làm ra quyết đoán.
 
 "Ta cảm thấy, giữa chúng ta vấn đề nên hòa bình giải quyết."
+
+### [Next](./chuong-217.html)

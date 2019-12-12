@@ -106,3 +106,5 @@ Mặt với trước mắt bộ này còn sót lại cũng đường cùng lừn
 Ngân Bối ở trong tiếng kêu gào thê thảm ngã nhào xuống đất, âm thanh thê thảm cực kỳ, nhưng mà Vương Lục chỉ là một chân đạp ở nó trên đầu, dùng sức đem giẫm xuống mồ bên trong.
 
 "Trang, tiếp tục giả vờ, rõ ràng muốn tới chặn đường cướp xe súc sinh, còn trang yếu thế quần thể? Ngươi đã không muốn mặt mũi này, ta liền thay ngươi chôn đi."
+
+### [Next](./chuong-180.html)

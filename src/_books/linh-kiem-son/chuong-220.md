@@ -102,3 +102,5 @@ Hai ngày sau, thương thế khỏi hẳn Vương Lục ở giường trước 
 Bất quá, đang chờ hắn đứng thẳng người lên, phất tay nghênh tiếp mới lúc sinh sống...
 
 Nhà gỗ bị ầm đá một cái bay ra ngoài, sư phụ tức đến nổ phổi địa vọt vào: "Tiểu tử thúi, thất tình đã nghĩ tự thiêu?"
+
+### [Next](./chuong-221.html)

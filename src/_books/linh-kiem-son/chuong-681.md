@@ -152,3 +152,5 @@ Mà Bạch Trạch vừa dứt lời, Vương Lục âm thanh liền vang lên l
 Dừng một chút, hắn còn nói.
 
 "Ta dùng chính là thông minh."
+
+### [Next](./chuong-682.html)

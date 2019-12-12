@@ -96,3 +96,5 @@ Như vậy, cùng ai nói chuyện? Đương nhiên là Tạ Trì cùng Hà Quâ
 Hai ngày sau, Thất Tinh môn chưởng môn định ngày hẹn Tạ Trì, đương nhiên là trong âm thầm gặp mặt, đối với cái kia giới mấy năm trước thân thủ của hắn dưới đại khí lực đào tới trưởng lão, trong lòng vẫn là tồn có mấy phần may mắn.
 
 Nhưng mà gặp mặt sau, Tạ Trì chỉ là cười khổ: "Chưởng môn... Ta thành tâm khuyên ngươi một câu, trở về đi thôi, đây không phải ngươi có thể ứng phó có được đối thủ.
+
+### [Next](./chuong-106.html)

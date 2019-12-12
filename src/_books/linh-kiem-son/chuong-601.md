@@ -116,3 +116,5 @@ Bất quá mới vừa rơi xuống đất, Hải Vân Phàm liền hơi kinh n
 Vương Lục đồng dạng ngẩng đầu lên, sau đó cực kỳ kinh ngạc nhìn cái kia tuổi già bóng người.
 
 "Chưởng môn sư bá? Ngài làm sao đến rồi?"
+
+### [Next](./chuong-602.html)

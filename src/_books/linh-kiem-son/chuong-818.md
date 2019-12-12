@@ -110,3 +110,5 @@ Mà ba người này rất nhanh sẽ vì chính mình nhất thời chần ch�
 Bởi vì liền ở này trong chốc lát bên trong, Hoàng Kim thành đột nhiên gia tốc, kéo một đạo to lớn màu vàng huyễn ảnh, thẳng tắp xuyên vào Thiên Chi Ngân...
 
 Vô thanh vô tức, Thiên Chi Ngân ở một trận vặn vẹo sau khi liền hoàn toàn biến mất.
+
+### [Next](./chuong-819.html)

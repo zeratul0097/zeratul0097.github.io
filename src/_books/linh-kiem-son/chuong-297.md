@@ -142,3 +142,5 @@ Cũng trong lúc đó, đối với chọn lựa nghi thức đã mất đi hứ
 Vương Lục chỉ cảm thấy kỳ quái: "Nies, ngươi đi đâu vậy?"
 
 Vừa dứt lời, Vương Lục bên cạnh Aya cũng bỗng nhiên đứng dậy.
+
+### [Next](./chuong-298.html)

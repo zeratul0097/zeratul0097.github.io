@@ -154,3 +154,5 @@ Văn Bảo đại hỉ: "Không thành vấn đề không thành vấn đề! S�
 Vương Lục cười cợt.
 
 Rất tốt, thu được tân sủng vật: Văn Bảo một đầu.
+
+### [Next](./chuong-44.html)

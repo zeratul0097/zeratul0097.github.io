@@ -176,3 +176,5 @@ Nói xong, hắn quanh người lồng ánh sáng ầm ầm vỡ tan.
 "Phía dưới, ta lấy chuyên nghiệp người mạo hiểm thân phận làm ra thanh minh, từ cửa ải này bắt đầu, đón lấy ngũ môn thử thách, sẽ không lại có thêm bất luận cái nào qua cửa giả"
 
 "Bao quát ta bản thân ở bên trong"
+
+### [Next](./chuong-246.html)

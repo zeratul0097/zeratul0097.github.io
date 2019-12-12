@@ -144,3 +144,5 @@ Chỉ chốc lát sau, con vật nhỏ giẫy giụa, nhẹ nhàng nâng nổi l
 Phốc, Vương Lục đã sắp muốn cười bạo.
 
 Chó này đầu óc, quá chơi vui rồi.
+
+### [Next](./chuong-135.html)

@@ -108,3 +108,5 @@ Bị Ngự Thú tông người tìm tới cửa, Vương Lục nhíu nhíu mày,
 Điểm ấy công phu, hẳn là đầy đủ tiểu Thất mở ra cánh cửa tiện lợi bỏ chạy rồi.
 
 Nhưng mà vị kia nâu đậm tu sĩ nhưng trước một bước mở miệng nói rằng: "Chúng ta cũng không ác ý."
+
+### [Next](./chuong-188.html)

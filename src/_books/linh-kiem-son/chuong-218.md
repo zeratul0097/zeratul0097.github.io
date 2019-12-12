@@ -122,3 +122,5 @@ Vương Vũ suýt nữa đem chiếc thứ hai tửu cũng phun ra đi.
 Vương Lục mau nhanh nói: "Sư phụ quả nhiên đầy nghĩa khí, bất quá vấn đề này ngươi dự định giải quyết thế nào?"
 
 "Vậy còn không đơn giản? Phát huy ta không thể chống đối cá nhân mị lực, để bạch thơ tuyền di tình biệt luyến yêu ta, ngươi không phải giải thoát tự do?"
+
+### [Next](./chuong-219.html)

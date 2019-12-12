@@ -140,3 +140,5 @@ Nhưng mà sau một khắc, Triệu Khương Nguyên sắc mặt đột nhiên 
 Đối với cái này Vương Lục chỉ là cười lạnh một tiếng.
 
 Ngu ngốc, cuộc tranh tài này thức ăn, là Aya làm.
+
+### [Next](./chuong-145.html)

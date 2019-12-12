@@ -112,3 +112,5 @@ Cô gái kia là Thịnh Kinh Tiên Môn đệ tử, cũng là sớm định ra
 Nhưng nữ tử mặt mày hờ hững, đứng dậy thời ngoái đầu nhìn lại nở nụ cười, như gió xuân hiu hiu.
 
 "Đó là Quỳnh Hoa." Vương Vũ đúng lúc giới thiệu, "Thịnh Kinh Tiên Môn thủ tịch đệ tử."
+
+### [Next](./chuong-366.html)

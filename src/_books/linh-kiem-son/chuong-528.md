@@ -104,3 +104,5 @@ Chỉ là, ngay ở trương thắng sắp trở về Long cung thời điểm, 
 Tiếng nói ở bên trong nước lan truyền, bị trương thắng trở về Long cung, chỉ sót lại cuối cùng một vệt nguyên thần bén nhạy bắt lấy.
 
 Chỉ một thoáng, trương thắng như bị sét đánh, nguyên thần rung mạnh không thôi.
+
+### [Next](./chuong-529.html)

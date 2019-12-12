@@ -150,3 +150,5 @@ Thiếu nữ hơi nhúc nhích một chút, nàng quay đầu, hì hì nở n�
 Sau một khắc, tiên kiếm phá bầu trời hoàn toàn thức tỉnh, từ thiếu nữ trong tay tuột tay bay ra, trực chống đỡ phía chân trời.
 
 Trong khoảnh khắc, vân phá thiên mở, tiểu độc tiên bé nhỏ bóng người tự sao băng bình thường ngã xuống.
+
+### [Next](./chuong-674.html)

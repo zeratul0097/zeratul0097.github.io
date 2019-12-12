@@ -146,3 +146,5 @@ Nói đến một nửa, hắn liền nói không được nữa, bởi vì tron
 Ngoài phòng, Hải Vân Phàm hắng giọng, nỗ lực làm cuối cùng giãy dụa: "Sư huynh, ta cảm thấy này rất có thể là cái hiểu lầm."
 
 Nhưng mà ba vị sư huynh đã hoàn toàn không nghe được hắn nói cái gì rồi.
+
+### [Next](./chuong-152.html)

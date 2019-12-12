@@ -148,3 +148,5 @@ Phảng phất là một mảnh vân, bởi vì cái kia mảnh hắc ám là r�
 Sau một khắc, cái kia mảnh đen kịt đột nhiên gia tốc hạ xuống, chỉ dùng trong nháy mắt, liền hoàn toàn từ trong đường nối vọt xuống tới, bất luận người nào đều không kịp phản ứng.
 
 Hắc ám rơi xuống đất, rốt cục hiện ra hình dáng.
+
+### [Next](./chuong-814.html)

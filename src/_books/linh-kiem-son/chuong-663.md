@@ -114,3 +114,5 @@ Mọi người ngạc nhiên, bỗng nhiên thấy cái kia nữ Vu Y đi tới 
 "Thứ tốt"
 
 Mọi người lạnh cả tim.
+
+### [Next](./chuong-664.html)

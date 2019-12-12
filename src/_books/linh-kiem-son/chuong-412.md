@@ -126,3 +126,5 @@ Trong hư không, một cái thanh âm lạnh như băng, chỉ có lên tiến
 Sau đó, tương tự thanh âm lạnh như băng vang lên.
 
 "Toàn quân đột kích."
+
+### [Next](./chuong-413.html)

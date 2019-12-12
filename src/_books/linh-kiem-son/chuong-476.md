@@ -122,3 +122,5 @@ Vương Lục cũng không phải hai ngàn năm trước Ma vương, nhưng h�
 Hắn muốn ở mới Ma giới toàn cảnh bên trong phóng thích một cái phép thuật. Một cái lệnh người không thể rơi vào trạng thái ngủ say trốn tránh hiện thực phép thuật, mà thi pháp thời cơ nhưng là hủy diệt chi phong giáng lâm thời điểm.
 
 Hắn muốn cho mới Ma giới người ở trực diện hắc triều
+
+### [Next](./chuong-477.html)

@@ -116,3 +116,5 @@ Vương Lục sư phụ muốn hắn trong vòng hai năm đạt đến hư đan
 "Hừm, ngay ở đàn tiên mộ."
 
 Bà chủ tại chỗ liền kinh ngạc: "Ngươi thành tựu Kim Đan thời cơ chính là dựa vào chơi gái sao?"
+
+### [Next](./chuong-373.html)

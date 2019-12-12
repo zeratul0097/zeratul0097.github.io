@@ -84,3 +84,5 @@ Này nhân quả quan hệ... Thực sự là tiễn không ngừng lý còn r�
 Bất quá, nếu là thật có thể coi đây là thời cơ, đem ngày sau cái kia Cửu Châu đệ nhất Kim Đan sớm tỉnh lại, vậy cũng tuyệt không là chuyện xấu. Không hi vọng nàng có thể ở ngăn ngắn một hai năm liền trưởng thành đến ngày sau độ cao, nhưng trước mắt ván cờ này thế, không ai sẽ hiềm cường lực đội hữu quá nhiều.
 
 Nếu như nói ráng màu, dương bay các loại (chờ) người một năm qua chỉ là vì tu hành khổ, như vậy Vương Lục cùng Âu Dương Thương làm toàn bộ Long cung Thủ Hộ giả, đối mặt áp lực có thể nói là gấp mười gấp trăm lần. Hơn nữa theo thời gian chuyển dời, đối với tiền đồ cũng càng ngày càng không thể lạc quan.
+
+### [Next](./chuong-527.html)

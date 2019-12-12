@@ -102,3 +102,5 @@ Mà đối với đàn tiên mộ lần đầu thăm dò, có hai vị này li�
 Hai vị chưởng môn nhân liếc mắt nhìn nhau, Phong Ngâm cư thủ, thiên luân áp sau, một trước một sau đi vào trong môn phái, mà mọi người ở đây nhìn theo, chúc phúc thời khắc, một cái thản nhiên bóng người chậm rãi đạc hướng về trong môn phái, bước tiến không nói ra được lẽ thẳng khí hùng, cái kia nhẹ như mây gió tư thái, phảng phất phía trước hai người chỉ là mở đường tiên phong, hắn mới thật sự là nhân vật chính.
 
 Người kia là Vương Lục
+
+### [Next](./chuong-369.html)

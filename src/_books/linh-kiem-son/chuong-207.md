@@ -152,3 +152,5 @@ Bất quá, quản hắn là ai đây, ngược lại đều giống nhau rồi
 Sau một khắc, hắn ở ánh mắt của đối phương bên trong đọc được một tia âm mưu thực hiện được trêu tức. Ngươi rốt cục cũng bị ta lừa, Vương Lục phảng phất nghe được đối phương trào phúng.
 
 Theo bản năng, hắn quay đầu lại, nhìn thấy bên người lưu ly tiên, ngay ở lưu ly tiên phía sau, miêu nữ linh yên âm thầm địa bắt nạt gần lại đây, mang theo một nửa mờ mịt, một nửa khủng hoảng... Cầm trong tay một thanh tạo hình dị dạng chủy thủ, thật sâu đâm vào lưu ly tiên hậu tâm.
+
+### [Next](./chuong-208.html)

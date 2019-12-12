@@ -146,3 +146,5 @@ Vừa dứt lời, Vương Lục liền nghe phía sau có người hỏi.
 "Là chỉ tiếp tục hỏi cái kia ba viên Huyền Thiên tinh sẽ không có"
 
 Vương Lục quay đầu lại nhìn Vương Vũ, sắc mặt cực kỳ nghiêm túc nói.
+
+### [Next](./chuong-585.html)

@@ -140,3 +140,5 @@ Trong đầu một mảnh hỗn độn, chỉ có tấm kia người chết như
 Nhưng mà, theo bản năng hô hoán, nhưng như kỳ tích được hưởng ứng.
 
 "Ở."
+
+### [Next](./chuong-740.html)

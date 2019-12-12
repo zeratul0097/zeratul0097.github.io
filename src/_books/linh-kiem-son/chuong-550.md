@@ -126,3 +126,5 @@ Hướng Thiên cung là xa gần mấy ngàn dặm bên trong quy mô to lớn 
 Căn cứ trên bàn rượu cùng lý yên trò chuyện thời được tin tức xem, không nguyệt rất khả năng là hóa thần cấp cao thủ, đối với hiện tại vừa mới mới vừa ở Kim Đan trung phẩm ổn định lại người đến nói đẳng cấp không khỏi cao có chút thái quá.
 
 Nhưng đẳng cấp không tài cao thú vị không phải sao?
+
+### [Next](./chuong-551.html)

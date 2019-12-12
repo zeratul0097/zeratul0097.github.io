@@ -148,3 +148,5 @@ Vương Lục nghe vậy kinh ngạc, lập tức ánh mắt ở Aya trên ngư�
 Vương Lục nghe vậy sửng sốt rất lâu, đối với Aya bực này vô địch logic chân tâm bái phục, sau đó theo bản năng liền đem bàn tay đến giới tử trong túi, tìm thấy sư phụ trước khi đi giao cho hắn linh dược.
 
 Có lúc, vẫn là bỏ thuốc tương đối dễ dàng đi...
+
+### [Next](./chuong-361.html)

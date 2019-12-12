@@ -196,3 +196,5 @@ Mãi đến tận bóng người sắp biến mất với góc ngõ lúc, đạo
 Sau đó, dụng thanh âm cực thấp nói rằng: "Nhìn thấy không, tương tự là Kiền Nguyên Nhiên Huyết Công, nhân gia cao hơn ngươi muốn rõ ràng gấp trăm lần rồi."
 
 Con lừa phẫn nộ mà buồn khổ hí lên, ở yên tĩnh trong tiểu trấn đặc biệt chói tai.
+
+### [Next](./chuong-129.html)

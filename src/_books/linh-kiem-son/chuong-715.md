@@ -128,3 +128,5 @@ Tứ Tướng Chân Quân lần thứ hai rơi vào trầm mặc, mà lần nà
 Bởi vì cái này vấn đề xác thực là không có đáp án.
 
 Đấu Chiến Thần huyết sở dĩ tuyệt diệt, đại khái cũng là cực kỳ lâu trước đây, huyết thống những người thừa kế rốt cục cũng không tìm được đáp án đi.
+
+### [Next](./chuong-716.html)

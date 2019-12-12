@@ -130,3 +130,5 @@ Ai biết bước đi này vừa mới rút khỏi, chỉ thấy sư phụ nụ 
 Sau một khắc, Vương Lục chỉ cảm thấy thấy hoa mắt, phảng phất ngã vào một cái dài dòng buồn chán đường hầm, mà ở đường hầm lối vào, là tiện nhân kia nụ cười.
 
 "Chúc ngươi hoang man lữ trình vui vẻ nha"
+
+### [Next](./chuong-133.html)

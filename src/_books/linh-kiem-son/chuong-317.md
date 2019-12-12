@@ -138,3 +138,5 @@ Nhưng mà sau một khắc, bối đức Neville bỗng nhiên sững sờ, b�
 Cùng lúc đó, vô diện giả cũng phát hiện dị dạng, thân hình lóe lên liền muốn rời khỏi, nhưng chung quy chậm một bước, bị hắn xách bên phải tay Marina, động tác nhanh khó mà tin nổi, đem một thanh bỗng dưng mà ra trọng kiếm đâm vào vô diện giả lồng ngực.
 
 Vỡ tan dưới ánh mặt trời, Marina màu nâu tóc dần dần hiện ra vàng rực rỡ ánh sáng.
+
+### [Next](./chuong-318.html)

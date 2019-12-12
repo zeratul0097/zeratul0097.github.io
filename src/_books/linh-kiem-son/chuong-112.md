@@ -124,3 +124,5 @@ Bất quá, nếu đối phương đã chú ý tới chính mình, cái kia tự
 Sau đó (ván) cục toà đại nhân liền một cước đem đời mới ngoại giao sứ giả đá ra ngoài, để hắn bước lên từ từ hành trình.
 
 Bước lên từ từ hành trình Văn Bảo, chỉ cảm giác lại bị Khang Đa rồi.
+
+### [Next](./chuong-113.html)

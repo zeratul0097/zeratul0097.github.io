@@ -90,3 +90,5 @@ Vương Vũ đối với vấn đề này khịt mũi con thường: "Còn cần
 "Mịa nó, 1, 2 vạn? Ngươi đây là ở phái gà đất a? Có biết hay không ta nơi này có bao nhiêu há mồm muốn cho ăn a? Suy nghĩ kỹ càng, ngươi này thiên hạ đệ nhất nếu như không chịu được nữa tình cảnh, đến thời điểm thật gặp phải vấn đề có thể hay là muốn ta đứng ra a vì lẽ đó còn không mau nhanh cho ta hai trăm triệu linh thạch cứu cấp"
 
 "Hai trăm triệu... Con số như này, linh thạch không có, cái khác đúng là có một ít."
+
+### [Next](./chuong-774.html)

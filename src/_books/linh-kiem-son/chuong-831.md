@@ -120,3 +120,5 @@ t❊r u y e n c u a t u i N e t "Làm sao?"
 "... Hừ, ung dung đơn giản sao? Xác thực là ung dung đơn giản. Không có ngươi, trận này trò chơi liền một điểm hồi hộp cũng sẽ không có. Bất quá, đều đến trình độ này, lại còn không thể tỉnh ngộ, ngươi cũng là để ta có chút thất vọng rồi. Lái Cự Thần binh, cùng Tôn Bất Bình đồng bộ, trong này quan trọng nhất? Một điểm, chính là trơ mắt nhìn chiến hữu chết trận, nhưng không thể ra sức cảm giác tuyệt vọng... Tôn Bất Bình tuổi già mất đi hết cả niềm tin, cảm giác tuyệt vọng từ lâu thâm căn cố đế, ngươi nếu là lĩnh hội không đến một bước này, liền vĩnh viễn không thể cùng hắn chân chính đồng bộ. Mà ta, đã đem sân khấu bố trí đến tốt như vậy, ngươi... Không đến nỗi thật sự ngốc đến cái gì cũng không cảm giác được chứ?"
 
 "Báo, báo Tiên tôn! Tiên giới phát tới tin tức, nói hai giới đường nối mảnh vỡ cùng Cửu Châu Đại Lục hàng rào không gian thật giống bị người đánh xuyên qua!"
+
+### [Next](./chuong-832.html)

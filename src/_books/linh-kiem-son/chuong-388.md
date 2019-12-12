@@ -116,3 +116,5 @@ Vương Lục đương nhiên nhìn ra nàng nghi hoặc, nhưng không trả l
 Nói, Vương Lục rời đi công chúa tẩm cung, lại một lần nữa đánh thức vừa ngủ vân dương vương.
 
 "Đừng ngủ, chuẩn bị cho ta mấy món đồ, giữa trưa trước ta muốn ngươi theo ta đi một chuyến."
+
+### [Next](./chuong-389.html)

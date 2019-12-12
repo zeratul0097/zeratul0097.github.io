@@ -126,3 +126,5 @@ Nói, đế lưu tôn ánh mắt chuyển hướng tái trường ngay phía tr�
 Vương Lục sớm là ở chỗ đó chờ đợi.
 
 "Ha ha, thật không hổ là toàn trí toàn năng Địa tiên đứng đầu, bệ hạ diệu thủ vô địch, khiến cho người mở mang tầm mắt. Bất quá hôm nay tái trình căng thẳng, liền không thật lãng phí thời gian. Cuộc kế tiếp, xiếc thú biểu diễn, mời"
+
+### [Next](./chuong-719.html)

@@ -150,3 +150,5 @@ Trước đó, cuộc sống của hắn, tu hành dù sao cũng hơi ngơ ngơ 
 Thế nhưng hiện tại nhưng không như thế.
 
 "Đọa tiên a... Thực sự là thật lớn một nan đề."
+
+### [Next](./chuong-538.html)

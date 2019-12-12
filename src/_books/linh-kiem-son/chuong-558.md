@@ -102,3 +102,5 @@ Nhưng không nguyệt động tác so với hắn phải nhanh hóa thần châ
 Sau đó, nàng dùng câu nói đầu tiên để Vương Lục khiếp sợ đã quên chống lại.
 
 "Vũ tỷ tỷ, ta nghĩ chết ngươi a"
+
+### [Next](./chuong-559.html)

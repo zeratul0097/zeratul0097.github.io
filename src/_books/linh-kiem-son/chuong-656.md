@@ -132,3 +132,5 @@ Ngư mảnh liền với một cái mang huyết nước bọt rơi ở trên b�
 Mà người chủ trì Vương Lục nhưng tự chờ đợi đã lâu, một cái bước xa vượt qua đến chỉ vào trên bàn đẫm máu ngư mảnh: "Lãng phí đồ ăn, chụp một phần"
 
 "..."
+
+### [Next](./chuong-657.html)

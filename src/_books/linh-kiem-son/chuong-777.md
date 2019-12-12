@@ -114,3 +114,5 @@ Thư ký sững sờ, không hiểu chưởng môn là muốn biểu đạt cái
 "Chỉ chớp mắt đều mười năm trôi qua... Ai, đến thăm hưởng lạc, quả thực mê muội mất cả ý chí. Bây giờ thích xem nhất tiểu thuyết cũng không còn, không thể làm gì khác hơn là làm điểm chuyện đứng đắn."
 
 Thư ký tự nhiên vui mừng khôn xiết, chỉ là không biết tại sao, nhưng cảm thấy chu vi hơi hơi bị lạnh.
+
+### [Next](./chuong-778.html)

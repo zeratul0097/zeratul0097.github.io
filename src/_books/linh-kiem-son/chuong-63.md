@@ -140,3 +140,5 @@ Mà Vương Lục sau khi nghe xong, trong lòng quả thực có chút khó ch�
 Cho nên nói... Cứ việc Thất trưởng lão cùng Tây di đầu bếp lời giải thích là điển hình Tiểu chúng, nhưng chủ quan trên, chính mình thà rằng tin tưởng hai người kia lời giải thích.
 
 Sư phụ ài, xin ngươi khi (làm) người tốt đi!
+
+### [Next](./chuong-64.html)
